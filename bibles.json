@@ -1,0 +1,33 @@
+{
+  "$comment": "Manifest of the ProPresenter Bible bundles shipped in bibles/. 'uuid' is the folder name, 'abbreviation' is the code ProPresenter registers.",
+  "bibles": [
+    {
+      "uuid": "67592240-9721-49d1-b371-7fe07372c81a",
+      "abbreviation": "TDB",
+      "name": "Tedim (Chin) Bible",
+      "language": "ctd",
+      "license": "Tedim (Chin) Bible © Bible Society of Myanmar"
+    },
+    {
+      "uuid": "96b9702a-50ed-4ac3-98a8-3b0d7ff2c955",
+      "abbreviation": "TB77",
+      "name": "Chin 1977 (Tedim Bible)",
+      "language": "ctd",
+      "license": "Tedim Bible © Bible Society of Myanmar, 1977"
+    },
+    {
+      "uuid": "6fb393b4-c811-4a0f-baf6-b0de76a88714",
+      "abbreviation": "BJB",
+      "name": "Judson Bible",
+      "language": "mya",
+      "license": "© 1933 McGuire revision (public domain)"
+    },
+    {
+      "uuid": "697e913c-fe45-4f55-87b0-7c156c52e87b",
+      "abbreviation": "KJV",
+      "name": "King James Version",
+      "language": "eng",
+      "license": "Crown Copyright in UK"
+    }
+  ]
+}

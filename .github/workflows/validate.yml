@@ -1,0 +1,32 @@
+name: Validate bundles
+
+on:
+  # Pull requests cover branch pushes, so push is scoped to main to avoid
+  # running the same commit twice.
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate Bible bundles
+        run: python3 tools/validate.py
+
+      - name: Build .rvbible packages
+        run: python3 tools/build_rvbible.py
+
+      - name: Upload .rvbible packages
+        uses: actions/upload-artifact@v4
+        with:
+          name: rvbible-packages
+          path: dist/*.rvbible
+          if-no-files-found: error
