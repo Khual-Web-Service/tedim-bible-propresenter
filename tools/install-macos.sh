@@ -73,7 +73,9 @@ for bundle in "$repo_root"/bibles/*/; do
     packages+=("$package")
 done
 
-if [ ${#packages[@]} -eq 0 ]; then
+# ${#packages[@]-0} rather than ${#packages[@]}: macOS ships bash 3.2, where an
+# empty array counts as unbound under `set -u`.
+if [ ${#packages[@]-0} -eq 0 ]; then
     echo "No .rvbible packages were built." >&2
     exit 1
 fi
