@@ -60,6 +60,9 @@ mkdir -p "$repo_root/dist"
 
 shopt -s nullglob
 packages=()
+# Counted separately: macOS ships bash 3.2, where ${#array[@]} on an empty array
+# counts as unbound under `set -u` and aborts with a confusing error.
+built=0
 for bundle in "$repo_root"/bibles/*/; do
     # Each bundle folder is named for its code, which is also the package name.
     abbr="$(basename "$bundle")"
@@ -71,10 +74,12 @@ for bundle in "$repo_root"/bibles/*/; do
     (cd "$bundle" && zip -q -r -X "$package" . -x 'USX_1/*' '*.DS_Store')
     echo "  built $abbr.rvbible"
     packages+=("$package")
+    built=$((built + 1))
 done
 
-if [ ${#packages[@]} -eq 0 ]; then
+if [ "$built" -eq 0 ]; then
     echo "No .rvbible packages were built." >&2
+    echo "Is $repo_root/bibles missing or empty?" >&2
     exit 1
 fi
 
