@@ -41,7 +41,7 @@ def main() -> None:
     manifest = json.loads((ROOT / "bibles.json").read_text())["bibles"]
 
     for entry in manifest:
-        bundle_dir = ROOT / "bibles" / entry["uuid"]
+        bundle_dir = ROOT / "bibles" / entry["abbreviation"]
         target = out_dir / f"{entry['abbreviation']}.rvbible"
         build(bundle_dir, target)
         digest = hashlib.sha256(target.read_bytes()).hexdigest()

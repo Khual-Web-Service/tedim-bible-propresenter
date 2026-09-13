@@ -27,10 +27,12 @@ JAS 1PE 2PE 1JN 2JN 3JN JUD REV""".split()
 
 
 def check(bundle_dir: Path, entry: dict, errors: list, warnings: list) -> None:
-    tag = f"{entry['abbreviation']} ({bundle_dir.name})"
+    tag = f"{entry['abbreviation']}"
 
-    if not UUID_RE.match(bundle_dir.name):
-        errors.append(f"{tag}: folder name is not a lowercase UUID")
+    # The folder is named for readability, but ProPresenter installs it under
+    # the UUID, so that is what has to be well formed.
+    if not UUID_RE.match(entry["uuid"]):
+        errors.append(f"{tag}: manifest uuid {entry['uuid']!r} is not a lowercase UUID")
 
     for name in ("metadata.xml", "rvmetadata.xml"):
         path = bundle_dir / name
@@ -96,13 +98,13 @@ def main() -> int:
     warnings: list[str] = []
 
     for entry in manifest:
-        bundle_dir = ROOT / "bibles" / entry["uuid"]
+        bundle_dir = ROOT / "bibles" / entry["abbreviation"]
         if not bundle_dir.is_dir():
-            errors.append(f"{entry['abbreviation']}: bibles/{entry['uuid']} does not exist")
+            errors.append(f"{entry['abbreviation']}: bibles/{entry['abbreviation']} does not exist")
             continue
         check(bundle_dir, entry, errors, warnings)
 
-    known = {e["uuid"] for e in manifest}
+    known = {e["abbreviation"] for e in manifest}
     for path in sorted((ROOT / "bibles").iterdir()):
         if path.is_dir() and path.name not in known:
             warnings.append(f"bibles/{path.name} is not listed in bibles.json")

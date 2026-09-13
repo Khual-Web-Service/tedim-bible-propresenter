@@ -122,15 +122,21 @@ without Python), then:
 ## Repository layout
 
 ```
-bibles/<uuid>/          one folder per translation, named by UUID
+bibles/TDB/             one folder per translation, named by its code
   metadata.xml          DBL metadata (book names, language, scope)
   rvmetadata.xml        ProPresenter metadata (name, abbreviation, license)
   USX/                  one USX file per book, read by current ProPresenter
   USX_1/                same books under the legacy folder name
   SearchIndex/          prebuilt search index, where one exists
-bibles.json             manifest: UUID, code, name, language, license
+bibles/TB77/            likewise, and BJB/ and KJV/
+bibles.json             manifest: code, UUID, name, language, license
 tools/                  build, install and validation scripts
 ```
+
+ProPresenter requires each installed Bible to sit in a folder named for its
+UUID, which makes for an unreadable repository. The folders here are named for
+the translation instead, and the installers rename to the UUID on the way in —
+`bibles.json` holds the mapping.
 
 ## Development
 

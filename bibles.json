@@ -1,5 +1,5 @@
 {
-  "$comment": "Manifest of the ProPresenter Bible bundles shipped in bibles/. 'uuid' is the folder name, 'abbreviation' is the code ProPresenter registers.",
+  "$comment": "Manifest of the ProPresenter Bible bundles in bibles/. Each bundle lives in bibles/<abbreviation>/ so it is readable here; 'uuid' is the folder name ProPresenter requires once installed, and 'abbreviation' is the code it registers.",
   "bibles": [
     {
       "uuid": "67592240-9721-49d1-b371-7fe07372c81a",

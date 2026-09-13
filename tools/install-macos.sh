@@ -61,14 +61,8 @@ mkdir -p "$repo_root/dist"
 shopt -s nullglob
 packages=()
 for bundle in "$repo_root"/bibles/*/; do
-    uuid="$(basename "$bundle")"
-    # Read the abbreviation out of rvmetadata.xml to name the package.
-    abbr="$(sed -n 's:.*<abbreviation>\(.*\)</abbreviation>.*:\1:p' \
-        "$bundle/rvmetadata.xml" | head -1)"
-    if [ -z "$abbr" ]; then
-        echo "Skipping $uuid: no abbreviation in rvmetadata.xml" >&2
-        continue
-    fi
+    # Each bundle folder is named for its code, which is also the package name.
+    abbr="$(basename "$bundle")"
     package="$repo_root/dist/$abbr.rvbible"
     rm -f "$package"
     # A .rvbible is a zip of the bundle's *contents*, so zip from inside it.
