@@ -1,8 +1,10 @@
 name: Validate bundles
 
 on:
+  # Pull requests cover branch pushes, so push is scoped to main to avoid
+  # running the same commit twice.
   push:
-    branches: ['**']
+    branches: [main]
   pull_request:
   workflow_dispatch:
 
