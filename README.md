@@ -108,6 +108,11 @@ python3 tools/build_rvbible.py   # write dist/*.rvbible
 file declares the book code its filename claims, and that all 66 books are
 present.
 
+Both run in CI on every push and pull request
+(`.github/workflows/validate.yml`), which also uploads the built `.rvbible`
+packages as a workflow artifact — so you can download them from a run instead
+of building them locally.
+
 ## Credits
 
 Original package and translation data by
