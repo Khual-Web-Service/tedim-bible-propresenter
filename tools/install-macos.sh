@@ -6,6 +6,9 @@
 # script builds those packages and copies them in, so ProPresenter registers
 # them itself — there is no preference file to edit, unlike on Windows.
 #
+# It needs nothing beyond what macOS already has: no Python, no Xcode command
+# line tools.
+#
 # Quit ProPresenter first. If the destination needs administrator rights, the
 # script re-runs the copy with sudo and macOS will ask for your password.
 #
@@ -50,11 +53,32 @@ run_write() {
     fi
 }
 
+# Built with /usr/bin/zip, which every Mac has, rather than the Python script
+# in tools/ — installing Bibles should not require the Xcode command line tools.
 echo "Building .rvbible packages..."
-python3 "$repo_root/tools/build_rvbible.py"
+mkdir -p "$repo_root/dist"
 
 shopt -s nullglob
-packages=("$repo_root"/dist/*.rvbible)
+packages=()
+for bundle in "$repo_root"/bibles/*/; do
+    uuid="$(basename "$bundle")"
+    # Read the abbreviation out of rvmetadata.xml to name the package.
+    abbr="$(sed -n 's:.*<abbreviation>\(.*\)</abbreviation>.*:\1:p' \
+        "$bundle/rvmetadata.xml" | head -1)"
+    if [ -z "$abbr" ]; then
+        echo "Skipping $uuid: no abbreviation in rvmetadata.xml" >&2
+        continue
+    fi
+    package="$repo_root/dist/$abbr.rvbible"
+    rm -f "$package"
+    # A .rvbible is a zip of the bundle's *contents*, so zip from inside it.
+    # USX_1 is the legacy folder and is left out; .DS_Store would confuse nothing
+    # but bloats the package.
+    (cd "$bundle" && zip -q -r -X "$package" . -x 'USX_1/*' '*.DS_Store')
+    echo "  built $abbr.rvbible"
+    packages+=("$package")
+done
+
 if [ ${#packages[@]} -eq 0 ]; then
     echo "No .rvbible packages were built." >&2
     exit 1
