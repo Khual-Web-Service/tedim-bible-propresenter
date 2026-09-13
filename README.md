@@ -61,13 +61,19 @@ Add `-WhatIf` to see what it would change without writing anything, or
 ### macOS
 
 ```bash
-tools/install-macos.sh
+DRY_RUN=1 tools/install-macos.sh   # see what it would do, change nothing
+tools/install-macos.sh             # install
 ```
 
-This builds the `.rvbible` packages and copies them into
-`/Library/Application Support/RenewedVision/RVBibles/v2`. It uses `sudo`, so it
-will ask for your password. Pass a different folder as the first argument if
-your install lives elsewhere.
+ProPresenter stores each Bible on macOS as a `.rvbible` package — the same
+format its own Bible downloads use — so it registers them itself and there is no
+preference file to edit, unlike on Windows.
+
+The script builds the packages and copies them into
+`/Library/Application Support/RenewedVision/RVBibles/v2`, falling back to
+`~/Library/Application Support/RenewedVision/RVBibles/v2` if that is where your
+install keeps them. It only reaches for `sudo` if the destination needs it. Pass
+a different folder as the first argument to override both.
 
 Then start ProPresenter and open the Bible view. If a translation does not
 appear, restart ProPresenter once more — it indexes new Bibles on launch.
