@@ -1,1 +1,6 @@
-dist/
+# Build output is ignored, except the .rvbible packages themselves: the release
+# workflow wraps the committed ones rather than rebuilding them, because
+# building a package ProPresenter accepts needs a template that only exists on
+# a Mac with ProPresenter installed.
+dist/*
+!dist/*.rvbible

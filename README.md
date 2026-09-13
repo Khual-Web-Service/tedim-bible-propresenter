@@ -17,6 +17,53 @@ respective copyright holders. Contact the
 [Myanmar Bible Society](https://www.myanmarbs.org/) for permission to reproduce
 or distribute them.
 
+## For churches — easy install
+
+Download one file, double-click it, done. No Terminal, no PowerShell, nothing
+to type.
+
+**Before you start:** quit ProPresenter. On a Mac press **Cmd+Q**; on Windows
+close it and check it is not still in the taskbar.
+
+Get the files from the
+[latest release](https://github.com/khualbawi/tedim-bible-propresenter/releases/latest)
+— the **Assets** list at the bottom of that page.
+
+### Mac
+
+1. Download **TedimBibles.pkg**.
+2. Find it in your Downloads folder. **Right-click it and choose Open** — then
+   click **Open** again in the box that appears. (A normal double-click shows
+   "cannot be opened because it is from an unidentified developer". The
+   right-click is what gets past that.)
+3. Click through **Continue** and **Install**, and type your Mac password when
+   it asks.
+4. Open ProPresenter and look in the Bible view.
+
+### Windows
+
+1. Download **TedimBibles-windows.zip**.
+2. Right-click the download and choose **Extract All**, then open the folder it
+   makes.
+3. Double-click **Install.bat**. Windows asks for permission to make changes —
+   click **Yes**. (If a blue "Windows protected your PC" box appears, click
+   **More info**, then **Run anyway**.)
+4. A black window does the work and tells you when it is finished. Press a key
+   to close it.
+5. Open ProPresenter and look in the Bible view.
+
+### If a translation is missing
+
+**Quit ProPresenter completely and open it again** — Cmd+Q on a Mac, or close
+it from the taskbar on Windows. It only looks for new Bibles when it starts.
+Sometimes it takes two full restarts before they all appear.
+
+If a translation still shows the old text, an older copy of it is probably
+installed under a different name. The Mac installer removes the ones we know
+about; for anything else, see the troubleshooting notes further down.
+
+---
+
 ## What changed from the older package
 
 The earlier version of this package was built for ProPresenter 7 as it shipped
@@ -44,7 +91,10 @@ broke on newer releases:
 - **Metadata is valid XML.** Two bundles were missing their XML declaration, and
   the abbreviations now match the translations they describe.
 
-## Install
+## For developers
+
+Everything below is the manual route: a checkout, a terminal, and the scripts
+that build and install from it.
 
 ### Get the files first
 
@@ -75,7 +125,7 @@ again.
 
 Then quit ProPresenter, on either platform.
 
-### Windows
+### Windows, from a checkout
 
 Run from an elevated PowerShell prompt:
 
@@ -87,7 +137,7 @@ Add `-WhatIf` to see what it would change without writing anything, or
 `-BiblesPath <path>` if your Bibles folder is not the default
 `C:\ProgramData\RenewedVision\ProPresenter\Bibles`.
 
-### macOS
+### macOS, from a checkout
 
 ```bash
 DRY_RUN=1 tools/install-macos.sh   # see what it would do, change nothing
@@ -141,6 +191,32 @@ Prefer to do it by hand?
   translation to the `InstalledBiblesNew` array in `BibleData.proPref`, in the
   form `"<uuid>|<code>|<name>|1"`. Keep the entries that are already there.
 
+### Building the installers
+
+```bash
+tools/make-pkg.sh          # dist/TedimBibles.pkg, from the packages in dist/
+```
+
+`make-pkg.sh` needs macOS (`pkgbuild` and `productbuild`) and wraps whatever is
+already in `dist/` — it never builds the `.rvbible` files itself, because that
+needs a real ProPresenter template. Build those first on a Mac that has
+ProPresenter, with `tools/install-macos.sh`, and commit `dist/` so a release can
+use them.
+
+The pkg installs into `/Library/.../RVBibles/v2` and its postinstall script
+copies the same files into the console user's `~/Library/.../RVBibles/v2`,
+resolving that user from `/dev/console` rather than `$USER`, which is `root`
+during an install. It also deletes the older filenames these translations used
+to ship under, since ProPresenter hides duplicates.
+
+The pkg is unsigned for now — `make-pkg.sh` carries a TODO with the Developer ID
+signing and notarization commands.
+
+`.github/workflows/release.yml` runs on a `v*` tag: it builds the pkg on a macOS
+runner from the committed `dist/`, zips the Windows layout (`Install.bat`,
+`tools/install-windows.ps1`, `bibles/`, `bibles.json`), and attaches the pkg, the
+zip and the raw `.rvbible` files to the release.
+
 ## Repository layout
 
 ```
@@ -153,6 +229,8 @@ bibles/TDB/             one folder per translation, named by its code
 bibles/TB77/            likewise, and BJB/ and KJV/
 bibles.json             manifest: code, UUID, name, language, license
 tools/                  build, install and validation scripts
+  make-pkg.sh             wraps dist/ as TedimBibles.pkg (macOS only)
+  Install.bat             double-click entry point for Windows
   localize-book-names.sh  shared book-name rewrite, used by both build paths
   check-build-parity.sh   diffs what the two build paths produce
 ```
