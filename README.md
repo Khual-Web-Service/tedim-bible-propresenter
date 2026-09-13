@@ -44,11 +44,38 @@ broke on newer releases:
 
 ## Install
 
-Quit ProPresenter first, on either platform.
+### Get the files first
+
+Every command below runs **from inside a copy of this repository**, not from your
+home folder. Two ways to get one:
+
+**No developer tools needed** — on the
+[repository page](https://github.com/khualbawi/propresenter-bible-tedim), click
+the green **Code** button, then **Download ZIP**. Double-click the download to
+unpack it. In Terminal, type `cd ` (with a space) and drag the unpacked folder
+onto the Terminal window, then press Return.
+
+**Or, if you already have git:**
+
+```
+git clone https://github.com/khualbawi/propresenter-bible-tedim.git
+cd propresenter-bible-tedim
+```
+
+On a Mac without the Xcode command line tools, `git` will pop up an installer
+prompt instead of cloning. You do not need it — use the ZIP download above. The
+macOS installer runs on a stock Mac, with no Python and no Xcode tools.
+
+Type the commands themselves — the ``` fences around the code blocks in this
+README are formatting, not part of any command. If your prompt changes to
+`bquote>` or `dquote>`, a fence got pasted by mistake: press Ctrl+C and try
+again.
+
+Then quit ProPresenter, on either platform.
 
 ### Windows
 
-Run from an elevated PowerShell prompt, in a clone of this repository:
+Run from an elevated PowerShell prompt:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File tools\install-windows.ps1
@@ -69,7 +96,8 @@ ProPresenter stores each Bible on macOS as a `.rvbible` package — the same
 format its own Bible downloads use — so it registers them itself and there is no
 preference file to edit, unlike on Windows.
 
-The script builds the packages and copies them into
+It builds the packages with `/usr/bin/zip`, which every Mac already has, and
+copies them into
 `/Library/Application Support/RenewedVision/RVBibles/v2`, falling back to
 `~/Library/Application Support/RenewedVision/RVBibles/v2` if that is where your
 install keeps them. It only reaches for `sudo` if the destination needs it. Pass
@@ -81,7 +109,8 @@ appear, restart ProPresenter once more — it indexes new Bibles on launch.
 ### Manual install
 
 Prefer to do it by hand? Build the packages with
-`python3 tools/build_rvbible.py`, then:
+`python3 tools/build_rvbible.py` (or let `tools/install-macos.sh` build them
+without Python), then:
 
 - **macOS** — copy `dist/*.rvbible` into
   `/Library/Application Support/RenewedVision/RVBibles/v2`.
@@ -93,15 +122,21 @@ Prefer to do it by hand? Build the packages with
 ## Repository layout
 
 ```
-bibles/<uuid>/          one folder per translation, named by UUID
+bibles/TDB/             one folder per translation, named by its code
   metadata.xml          DBL metadata (book names, language, scope)
   rvmetadata.xml        ProPresenter metadata (name, abbreviation, license)
   USX/                  one USX file per book, read by current ProPresenter
   USX_1/                same books under the legacy folder name
   SearchIndex/          prebuilt search index, where one exists
-bibles.json             manifest: UUID, code, name, language, license
+bibles/TB77/            likewise, and BJB/ and KJV/
+bibles.json             manifest: code, UUID, name, language, license
 tools/                  build, install and validation scripts
 ```
+
+ProPresenter requires each installed Bible to sit in a folder named for its
+UUID, which makes for an unreadable repository. The folders here are named for
+the translation instead, and the installers rename to the UUID on the way in —
+`bibles.json` holds the mapping.
 
 ## Development
 

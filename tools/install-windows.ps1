@@ -59,7 +59,9 @@ if (Test-Path $prefFile) {
 }
 
 foreach ($bible in $manifest.bibles) {
-    $source = Join-Path $repoRoot "bibles\$($bible.uuid)"
+    # Readable folder here, UUID folder once installed - ProPresenter requires
+    # the installed folder to be named for the UUID in BibleData.proPref.
+    $source = Join-Path $repoRoot "bibles\$($bible.abbreviation)"
     $target = Join-Path $BiblesPath $bible.uuid
 
     if (-not (Test-Path $source)) {
