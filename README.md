@@ -50,7 +50,7 @@ Every command below runs **from inside a copy of this repository**, not from you
 home folder. Two ways to get one:
 
 **No developer tools needed** — on the
-[repository page](https://github.com/khualbawi/propresenter-bible-tedim), click
+[repository page](https://github.com/khualbawi/tedim-bible-propresenter), click
 the green **Code** button, then **Download ZIP**. Double-click the download to
 unpack it. In Terminal, type `cd ` (with a space) and drag the unpacked folder
 onto the Terminal window, then press Return.
@@ -58,8 +58,8 @@ onto the Terminal window, then press Return.
 **Or, if you already have git:**
 
 ```
-git clone https://github.com/khualbawi/propresenter-bible-tedim.git
-cd propresenter-bible-tedim
+git clone https://github.com/khualbawi/tedim-bible-propresenter.git
+cd tedim-bible-propresenter
 ```
 
 On a Mac without the Xcode command line tools, `git` will pop up an installer
