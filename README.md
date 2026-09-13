@@ -33,12 +33,14 @@ broke on newer releases:
   delete the file and paste a new one in, which silently uninstalled every other
   Bible. `tools/install-windows.ps1` reads the existing entries, backs the file
   up, and adds these translations to the list.
-- **Each bundle has a canonical `USX/` folder.** Current ProPresenter reads
-  `USX/`; the legacy `USX_1/` folder is still in the repo for older builds but is
-  left out of what gets installed.
+- **Each bundle has a canonical `USX/` folder.** Both `USX/` and the legacy
+  `USX_1/` are kept in the repo; the macOS packages copy the books to
+  `release/USX_1/`, which is where ProPresenter reads them inside a `.rvbible`,
+  and the Windows install uses the folders as they are.
 - **macOS is supported.** ProPresenter on macOS picks up `.rvbible` packages, so
   `tools/build_rvbible.py` produces them and `tools/install-macos.sh` installs
-  them.
+  them. The packages put the books under `release/USX_1/` and carry DBL 2.1
+  metadata — ProPresenter rejects anything else, mostly silently.
 - **Metadata is valid XML.** Two bundles were missing their XML declaration, and
   the abbreviations now match the translations they describe.
 
@@ -92,28 +94,47 @@ DRY_RUN=1 tools/install-macos.sh   # see what it would do, change nothing
 tools/install-macos.sh             # install
 ```
 
-ProPresenter stores each Bible on macOS as a `.rvbible` package — the same
-format its own Bible downloads use — so it registers them itself and there is no
-preference file to edit, unlike on Windows.
+**Install any free Bible from ProPresenter's Options > Bibles first** (the
+public-domain *American Standard Version* is the one the script looks for).
+ProPresenter only accepts its own metadata format, so the installer copies the
+package structure out of a Bible ProPresenter installed itself, swaps in our
+books, and rewrites the name and abbreviation. Without one on the machine it
+stops and says so.
 
 It builds the packages with `/usr/bin/zip`, which every Mac already has, and
-copies them into
-`/Library/Application Support/RenewedVision/RVBibles/v2`, falling back to
-`~/Library/Application Support/RenewedVision/RVBibles/v2` if that is where your
-install keeps them. It only reaches for `sudo` if the destination needs it. Pass
-a different folder as the first argument to override both.
+copies them into **both**
+`/Library/Application Support/RenewedVision/RVBibles/v2` and
+`~/Library/Application Support/RenewedVision/RVBibles/v2`, because some installs
+read only one of them and nothing in ProPresenter says which. It only reaches
+for `sudo` where the destination needs it. Pass a folder as the first argument
+to install into that one instead.
 
-Then start ProPresenter and open the Bible view. If a translation does not
-appear, restart ProPresenter once more — it indexes new Bibles on launch.
+Then start ProPresenter and open the Bible view.
+
+#### If a translation does not appear
+
+- **Quit ProPresenter completely with Cmd+Q and start it again** — a window
+  close is not enough; it indexes Bibles on launch. Occasionally it takes two
+  full relaunches.
+- **Delete any older copy of the same translation first.** If a previous
+  package is installed under a different filename — for example
+  `Tedim_Bible_Revision_2017.rvbible` — ProPresenter hides the duplicate and you
+  keep seeing the old text. Remove it from *both* `RVBibles/v2` folders (the one
+  under `/Library` and the one under `~/Library`), then run the installer again.
+- **"We don't handle the file type"** means the package layout is wrong. A good
+  package lists `release/USX_1/…` under `unzip -l dist/TDB.rvbible`; if yours
+  does not, you are running an older copy of this repository.
 
 ### Manual install
 
-Prefer to do it by hand? Build the packages with
-`python3 tools/build_rvbible.py` (or let `tools/install-macos.sh` build them
-without Python), then:
+Prefer to do it by hand?
 
 - **macOS** — copy `dist/*.rvbible` into
-  `/Library/Application Support/RenewedVision/RVBibles/v2`.
+  `/Library/Application Support/RenewedVision/RVBibles/v2` *and*
+  `~/Library/Application Support/RenewedVision/RVBibles/v2`. Build them with
+  `python3 tools/build_rvbible.py --template <a .rvbible ProPresenter
+  installed>` — without `--template` the metadata is not in the DBL 2.1 form
+  ProPresenter parses, and it will ignore the Bible.
 - **Windows** — copy each folder from `bibles/` into
   `C:\ProgramData\RenewedVision\ProPresenter\Bibles`, then add one entry per
   translation to the `InstalledBiblesNew` array in `BibleData.proPref`, in the
@@ -143,7 +164,15 @@ the translation instead, and the installers rename to the UUID on the way in —
 ```bash
 python3 tools/validate.py        # check structure, XML and book coverage
 python3 tools/build_rvbible.py   # write dist/*.rvbible
+python3 tools/build_rvbible.py --template ~/Library/Application\ Support/RenewedVision/RVBibles/v2/publicdomain_American_Standard_Version.rvbible
 ```
+
+A `.rvbible` is a zip of `metadata.xml`, `rvmetadata.xml` and a `release/`
+folder holding `USX_1/`, `styles.xml`, `versification.vrs` and an `.ldml` file.
+`metadata.xml` must be DBL 2.1; the `bibles/*/metadata.xml` files here are DBL
+1.2, so `--template` reuses the metadata of a Bible ProPresenter installed and
+swaps in our name, abbreviation and a fresh id. `tools/install-macos.sh` finds
+such a template by itself.
 
 `validate.py` checks that every bundle has well-formed metadata, that each USX
 file declares the book code its filename claims, and that all 66 books are
