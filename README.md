@@ -134,7 +134,8 @@ Prefer to do it by hand?
   `~/Library/Application Support/RenewedVision/RVBibles/v2`. Build them with
   `python3 tools/build_rvbible.py --template <a .rvbible ProPresenter
   installed>` — without `--template` the metadata is not in the DBL 2.1 form
-  ProPresenter parses, and it will ignore the Bible.
+  ProPresenter parses, and it will ignore the Bible. Packages built this way
+  are equivalent to the installer's, book names included.
 - **Windows** — copy each folder from `bibles/` into
   `C:\ProgramData\RenewedVision\ProPresenter\Bibles`, then add one entry per
   translation to the `InstalledBiblesNew` array in `BibleData.proPref`, in the
@@ -152,6 +153,8 @@ bibles/TDB/             one folder per translation, named by its code
 bibles/TB77/            likewise, and BJB/ and KJV/
 bibles.json             manifest: code, UUID, name, language, license
 tools/                  build, install and validation scripts
+  localize-book-names.sh  shared book-name rewrite, used by both build paths
+  check-build-parity.sh   diffs what the two build paths produce
 ```
 
 ProPresenter requires each installed Bible to sit in a folder named for its
@@ -174,14 +177,19 @@ folder holding `USX_1/`, `styles.xml`, `versification.vrs` and an `.ldml` file.
 swaps in our name, abbreviation and a fresh id. `tools/install-macos.sh` finds
 such a template by itself.
 
-`validate.py` checks that every bundle has well-formed metadata, that each USX
-file declares the book code its filename claims, and that all 66 books are
-present.
+The template's metadata also names the template's books, so both build paths
+rewrite the `<names>` section with the local names out of `<bookNames>` in the
+bundle's own `metadata.xml`, falling back to the `\toc1`/`\toc2`/`\toc3`/`\h`
+lines in the USX headers. Those rules live in `tools/localize-book-names.sh`
+alone: the shell installer sources it, `build_rvbible.py` runs it. To prove the
+two paths have not drifted, build both ways and diff what they produce:
 
-Both run in CI on every push and pull request
-(`.github/workflows/validate.yml`), which also uploads the built `.rvbible`
-packages as a workflow artifact — so you can download them from a run instead
-of building them locally.
+```bash
+tools/check-build-parity.sh <a .rvbible ProPresenter installed>
+```
+
+It reports each translation as identical or prints the difference. It needs a
+template, so it is not part of CI.
 
 ## Credits
 

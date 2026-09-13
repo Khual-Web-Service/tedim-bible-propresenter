@@ -22,6 +22,10 @@ Without --template the layout is still correct, but the metadata is only an
 attribute-level rewrite of our own 1.2 file — useful for inspection and CI, not
 verified against ProPresenter.
 
+Book names come from the bundle itself either way, via
+tools/localize-book-names.sh — the same rewrite tools/install-macos.sh uses, so
+both paths produce identical <names> sections.
+
 Usage:
   python3 tools/build_rvbible.py [--out dist] [--template path/to/x.rvbible]
 """
@@ -31,11 +35,15 @@ import json
 import re
 import secrets
 import shutil
+import subprocess
 import tempfile
 import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+# The book-name rewrite lives in one place, shared with tools/install-macos.sh,
+# which sources the same file instead of running it.
+LOCALIZE = ROOT / "tools" / "localize-book-names.sh"
 # Books go here inside the package, whichever folder they came from.
 BOOKS_IN_PACKAGE = "release/USX_1"
 RELEASE_EXTRAS = ("styles.xml", "versification.vrs")
@@ -135,6 +143,20 @@ def stage(bundle_dir: Path, work: Path, template_dir: Path | None) -> Path:
             (bundle_dir / "metadata.xml").read_text(encoding="utf-8")
         )
     (staged / "metadata.xml").write_text(rewrite_metadata(metadata, info), encoding="utf-8")
+
+    # A transplanted <names> section still names the template's books, so give
+    # it ours. A no-op on metadata that has no such section, as our own DBL 1.2
+    # files do not.
+    subprocess.run(
+        [
+            "/bin/sh",
+            str(LOCALIZE),
+            str(bundle_dir),
+            str(bundle_books(bundle_dir)),
+            str(staged / "metadata.xml"),
+        ],
+        check=True,
+    )
     return staged
 
 
@@ -192,7 +214,11 @@ def main() -> None:
 
             digest = hashlib.sha256(target.read_bytes()).hexdigest()
             size_mb = target.stat().st_size / (1024 * 1024)
-            print(f"{target.relative_to(ROOT)}  {size_mb:6.1f} MB  sha256:{digest[:16]}…")
+            try:
+                shown = target.relative_to(ROOT)
+            except ValueError:  # --out pointing outside the repository
+                shown = target
+            print(f"{shown}  {size_mb:6.1f} MB  sha256:{digest[:16]}…")
 
 
 if __name__ == "__main__":
