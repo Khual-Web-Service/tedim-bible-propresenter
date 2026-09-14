@@ -168,9 +168,14 @@ build_names_table() {
 }
 
 # Write those names into the template metadata's <names> entries, which look
-# like <name id="book-gen"><abbr/><short/><long/></name>, on one line or
-# several. Entries for books we do not ship are left as the template had them,
-# matching how the template itself lists every book it carries.
+# like <name id="book-gen"><abbr/><short/><long/></name>. Every shape the DBL
+# 2.1 and 2.2.1 templates use is handled: the whole entry on one line, spread
+# over several lines (what the 2.2.1 packages ProPresenter ships today do), a
+# value tag written empty and self-closing as <abbr/> or <abbr />, and several
+# entries sharing a line — each line is walked entry by entry rather than
+# assuming one entry per line. Entries for books we do not ship are left as the
+# template had them, matching how the template itself lists every book it
+# carries.
 apply_book_names() {
     local table="$1" metadata="$2"
 
@@ -197,22 +202,36 @@ apply_book_names() {
             }
             return line
         }
+        function localize(part, c) {
+            if (c == "" || !(c in a)) return part
+            part = replace_tag(part, "abbr", a[c])
+            part = replace_tag(part, "short", s[c])
+            part = replace_tag(part, "long", l[c])
+            return part
+        }
         FNR == NR { a[$1] = $2; s[$1] = $3; l[$1] = $4; next }
         {
             line = $0
-            if (match(line, /<name id="book-[A-Za-z0-9]+"/)) {
-                code = substr(line, RSTART, RLENGTH)
-                sub(/.*book-/, "", code)
-                sub(/"$/, "", code)
+            out = ""
+            # Walk the line entry by entry. Text before the first <name
+            # id="book-…"> belongs to the entry the previous line opened, if
+            # any; each following segment belongs to the entry it opens.
+            while (match(line, /<name id="book-[A-Za-z0-9]+"/)) {
+                start = RSTART
+                len = RLENGTH
+                out = out localize(substr(line, 1, start - 1), code)
+                tag = substr(line, start, len)
+                code = substr(tag, index(tag, "book-") + 5)
+                sub(/".*$/, "", code)
                 code = toupper(code)
+                out = out tag
+                line = substr(line, start + len)
             }
-            if (index(line, "</names>") > 0) code = ""
-            if (code != "" && code in a) {
-                line = replace_tag(line, "abbr", a[code])
-                line = replace_tag(line, "short", s[code])
-                line = replace_tag(line, "long", l[code])
-            }
-            print line
+            out = out localize(line, code)
+            # The values of an entry never span past its own </name>, and no
+            # <name> outside the <names> section is a book entry.
+            if (index(line, "</name>") > 0 || index(line, "</names>") > 0) code = ""
+            print out
         }
     ' "$table" "$metadata" >"$metadata.names"
     mv "$metadata.names" "$metadata"
