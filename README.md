@@ -11,12 +11,18 @@ James Version to ProPresenter.
 3. Click **TedimBibles.pkg** to download it.
 4. Open your Downloads folder and find **TedimBibles.pkg**.
 5. Hold Control, click the file, and choose **Open**.
-6. Click **Open** again in the warning box. Your Mac only warns because we are
-   not a paid Apple developer.
-7. Click **Continue**, then **Install**, and type your Mac password when asked.
-8. Quit ProPresenter completely with **Cmd+Q**.
-9. Open ProPresenter again and look in the Bible view.
-10. Repeat steps 8 and 9 once more if a bible is still missing.
+6. If your Mac says it cannot check the file for harmful software, click
+   **Done**. Do **not** click **Move to Trash**.
+7. Open **System Settings**, click **Privacy & Security**, and scroll all the
+   way to the bottom.
+8. Next to the message about **TedimBibles.pkg**, click **Open Anyway**.
+9. Click **Open Anyway** once more in the box that appears, then type your Mac
+   password. This warning is normal for free software that does not come from
+   Apple, and you only see it the first time.
+10. Click **Continue**, then **Install**, and type your Mac password when asked.
+11. Quit ProPresenter completely with **Cmd+Q**.
+12. Open ProPresenter again and look in the Bible view.
+13. Repeat steps 11 and 12 once more if a bible is still missing.
 
 ## Install (Windows)
 
