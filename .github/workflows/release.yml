@@ -62,8 +62,36 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # The install steps go above the auto-generated notes so someone who
+          # lands on the release page does not have to find the README.
+          cat > release-notes.md <<'NOTES'
+          ## Install (Mac)
+
+          1. Download **TedimBibles.pkg** from the Assets list below.
+          2. Open your Downloads folder and find **TedimBibles.pkg**.
+          3. Hold Control, click the file, and choose **Open**.
+          4. If your Mac says it cannot check the file for harmful software,
+             click **Done**. Do **not** click **Move to Trash**.
+          5. Open **System Settings**, click **Privacy & Security**, and scroll
+             all the way to the bottom.
+          6. Next to the message about **TedimBibles.pkg**, click **Open Anyway**.
+          7. Click **Open Anyway** once more in the box that appears, then type
+             your Mac password. This warning is normal for free software that
+             does not come from Apple, and you only see it the first time.
+          8. Click **Continue**, then **Install**, and type your Mac password
+             when asked.
+          9. Quit ProPresenter completely with **Cmd+Q**, then open it again and
+             look in the Bible view.
+
+          ## Install (Windows)
+
+          Download **TedimBibles-windows.zip** from the Assets list below, open
+          the folder inside it, and follow the steps in the
+          [README](https://github.com/khualbawi/tedim-bible-propresenter#install-windows).
+          NOTES
           gh release create "$GITHUB_REF_NAME" \
             --title "$GITHUB_REF_NAME" \
+            --notes-file release-notes.md \
             --generate-notes \
             dist/TedimBibles.pkg \
             dist/TedimBibles-windows.zip \

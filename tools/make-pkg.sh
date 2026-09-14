@@ -16,8 +16,13 @@
 #   productbuild --sign "Developer ID Installer: <team>" …
 #   xcrun notarytool submit TedimBibles.pkg --keychain-profile <profile> --wait
 #   xcrun stapler staple TedimBibles.pkg
-# Until then the pkg is unsigned and Gatekeeper blocks a double-click; the
-# install instructions say to right-click and choose Open the first time.
+# A Developer ID Installer certificate plus notarization is what removes the
+# warning entirely: a signed and stapled pkg opens on a double-click with no
+# Gatekeeper prompt at all.
+# Until then the pkg is unsigned, and on current macOS Control-click > Open no
+# longer offers an Open button — the dialog only has Done and Move to Trash.
+# The working path, which the install instructions describe, is to click Done
+# and then System Settings > Privacy & Security > "Open Anyway".
 
 set -euo pipefail
 
@@ -132,4 +137,5 @@ for package in "${packages[@]}"; do
     echo "  $(basename "$package")"
 done
 echo
-echo "It is unsigned, so the first open needs right-click > Open."
+echo "It is unsigned, so the first open needs Control-click > Open, then Done,"
+echo "then System Settings > Privacy & Security > Open Anyway."
