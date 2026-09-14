@@ -71,8 +71,13 @@ license. [`tools/`](tools) holds the build, install and validation scripts.
 `.rvbible` packages and copies them into both
 `/Library/Application Support/RenewedVision/RVBibles/v2` and the same path under
 `~`. It needs a Bible ProPresenter installed itself (the public-domain American
-Standard Version) as a DBL 2.1 metadata template — ProPresenter silently
-rejects anything else. `DRY_RUN=1` shows what it would do.
+Standard Version) as a DBL 2.x metadata template — ProPresenter silently
+rejects anything else. Both DBL 2 header shapes are accepted: the older
+`<DBLMetadata id="…" revision="…" version="2.1">` and the
+`<DBLMetadata version="2.2.1" id="…" revision="11">` that ProPresenter
+downloads today; attribute order is never assumed. DBL 1.x is still rejected.
+`DRY_RUN=1` shows what it would do, `RVBIBLE_TEMPLATE` names a template
+instead of searching, and `RVBIBLE_DIST` builds somewhere other than `dist/`.
 [`tools/build_rvbible.py`](tools/build_rvbible.py) does the same packaging in
 Python; pass `--template <a .rvbible ProPresenter installed>`. A valid package
 has its books under `release/USX_1/`.
@@ -89,11 +94,17 @@ to `\toc1`/`\toc2`/`\toc3`/`\h` in the USX headers. Those rules live only in
 [`tools/localize-book-names.sh`](tools/localize-book-names.sh); the shell
 installer sources it and `build_rvbible.py` runs it.
 
-**Parity check.** [`tools/check-build-parity.sh`](tools/check-build-parity.sh)
-`<a .rvbible ProPresenter installed>` builds both ways and diffs the results. It
-needs a template, so it is not in CI.
-[`tools/validate.py`](tools/validate.py) checks structure, XML and book coverage
-and does run in CI.
+**Checks.** [`tools/check-build-parity.sh`](tools/check-build-parity.sh) builds
+both ways and diffs the `<names>` sections; pass a real `.rvbible`, or let it
+use the synthetic templates from
+[`tools/make-test-template.sh`](tools/make-test-template.sh).
+[`tools/test-metadata.sh`](tools/test-metadata.sh) runs those synthetic
+templates — 2.1 and 2.2.1 headers, plus a 1.2 one that must be rejected —
+through both build paths and asserts the bundle id is replaced, every other
+`id` and the publication `<content>` map are left alone, and the book names are
+localized in each `<names>` entry shape.
+[`tools/validate.py`](tools/validate.py) checks structure, XML and book
+coverage. All three run in CI.
 
 **Releases.** Build the `.rvbible` files on a Mac with ProPresenter and commit
 `dist/`. Push a `v*` tag:

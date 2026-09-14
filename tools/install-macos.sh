@@ -18,11 +18,14 @@
 #          release/styles.xml
 #          release/versification.vrs
 #          release/*.ldml
-#   2. metadata.xml must be DBL 2.1 (<DBLMetadata id="…" revision="…"
-#      version="2.1">). The metadata.xml files in this repository are DBL 1.2,
-#      which ProPresenter does not parse.
+#   2. metadata.xml must be DBL 2.x (<DBLMetadata id="…" revision="…"
+#      version="2.1">, or the 2.2.1 shape ProPresenter ships today,
+#      <DBLMetadata version="2.2.1" id="…" revision="11">). The metadata.xml
+#      files in this repository are DBL 1.2, which ProPresenter does not parse.
+#      Attribute order differs between those releases, so nothing here may
+#      depend on it.
 #
-# Rather than inventing 2.1 metadata, this script borrows it: it takes a
+# Rather than inventing 2.x metadata, this script borrows it: it takes a
 # .rvbible that ProPresenter itself installed, uses it as a template, swaps our
 # books and rvmetadata.xml in, and rewrites the identifying fields of the
 # template's metadata.xml. So you need at least one working Bible installed
@@ -90,8 +93,11 @@ trap 'rm -rf "$work"' EXIT
 # --- find a template ---------------------------------------------------------
 #
 # A usable template is a .rvbible ProPresenter installed itself: it has the
-# release/USX_1/ layout and DBL 2.1 metadata. The American Standard Version is
+# release/USX_1/ layout and DBL 2.x metadata. The American Standard Version is
 # the usual free download, so prefer it, but any valid package works.
+#
+# Set RVBIBLE_TEMPLATE to a .rvbible to use that one instead of searching — how
+# tools/check-build-parity.sh points both build paths at the same template.
 
 # `unzip | grep -q` is deliberately avoided: grep exits at the first match,
 # unzip dies of SIGPIPE, and pipefail then fails the whole pipeline. Capture the
@@ -105,18 +111,51 @@ zip_contains() {
     esac
 }
 
-is_valid_template() {
-    local candidate="$1" metadata
-    zip_contains "$candidate" 'release/USX_1/' || return 1
-    metadata="$(unzip -p "$candidate" metadata.xml 2>/dev/null || true)"
-    case "$metadata" in
-        *'version="2.1"'*) return 0 ;;
+# The <DBLMetadata …> start tag, on one line, or empty if there is none. The
+# tag may be written across several lines, and its attributes come in no fixed
+# order — 2.1 opens with id=, the 2.2.1 packages ProPresenter ships today open
+# with version= — so it is read as a whole rather than matched line by line.
+dbl_header() {
+    awk '
+        { buf = buf $0 "\n" }
+        END {
+            if (match(buf, /<DBLMetadata[^>]*>/)) {
+                tag = substr(buf, RSTART, RLENGTH)
+                gsub(/[\n\t]+/, " ", tag)
+                print tag
+            }
+        }
+    '
+}
+
+# True for any DBL 2.x metadata, whatever the attribute order; false for 1.x,
+# which ProPresenter does not parse.
+is_dbl2_header() {
+    case "$1" in
+        *'version="2.'*) return 0 ;;
         *) return 1 ;;
     esac
 }
 
+is_valid_template() {
+    local candidate="$1" header
+    zip_contains "$candidate" 'release/USX_1/' || return 1
+    header="$(unzip -p "$candidate" metadata.xml 2>/dev/null | dbl_header || true)"
+    is_dbl2_header "$header"
+}
+
 find_template() {
     local dir candidate
+
+    if [ -n "${RVBIBLE_TEMPLATE:-}" ]; then
+        if [ -f "$RVBIBLE_TEMPLATE" ] && is_valid_template "$RVBIBLE_TEMPLATE"; then
+            printf '%s\n' "$RVBIBLE_TEMPLATE"
+            return 0
+        fi
+        echo "RVBIBLE_TEMPLATE=$RVBIBLE_TEMPLATE is not a usable template." >&2
+        return 1
+    fi
+
     # Preferred name first, then anything else that validates.
     for dir in "$user_dest" "$system_dest"; do
         [ -d "$dir" ] || continue
@@ -184,8 +223,25 @@ xml_escape() {
 }
 
 new_id() {
-    # 16 lowercase hex characters, the shape of a DBL 2.1 id.
+    # 16 lowercase hex characters, the shape of a DBL 2.x bundle id.
     LC_ALL=C od -An -N8 -tx1 /dev/urandom | tr -d ' \n'; echo
+}
+
+# Replace the id="…" attribute of the <DBLMetadata …> start tag, wherever it
+# sits among that tag's attributes, and nowhere else: the document is full of
+# other id attributes (publications, book and name entries) and of <id> elements
+# under <systemId>, none of which may change. Prints the rewritten document;
+# fails if there is no DBLMetadata tag or it carries no id.
+rewrite_bundle_id() {
+    awk -v id="$1" '
+        { buf = buf $0 "\n" }
+        END {
+            if (!match(buf, /<DBLMetadata[^>]*>/)) exit 1
+            tag = substr(buf, RSTART, RLENGTH)
+            if (!sub(/id="[^"]*"/, "id=\"" id "\"", tag)) exit 1
+            printf "%s%s%s", substr(buf, 1, RSTART - 1), tag, substr(buf, RSTART + RLENGTH)
+        }
+    ' "$2"
 }
 
 # --- localized book names ----------------------------------------------------
@@ -203,7 +259,11 @@ fi
 # --- build ------------------------------------------------------------------
 
 echo "Building .rvbible packages..."
-mkdir -p "$repo_root/dist"
+# The packages are built into dist/ and installed from there. Tests point
+# RVBIBLE_DIST at a scratch folder so a test run cannot overwrite the packages
+# committed in dist/.
+dist_dir="${RVBIBLE_DIST:-$repo_root/dist}"
+mkdir -p "$dist_dir"
 
 packages=()
 # Counted separately: macOS ships bash 3.2, where ${#array[@]} on an empty array
@@ -213,7 +273,7 @@ built=0
 for bundle in "$repo_root"/bibles/*/; do
     # Each bundle folder is named for its code, which is also the package name.
     abbr="$(basename "$bundle")"
-    package="$repo_root/dist/$abbr.rvbible"
+    package="$dist_dir/$abbr.rvbible"
 
     if [ ! -f "$bundle/rvmetadata.xml" ]; then
         echo "  skipping $abbr: no rvmetadata.xml" >&2
@@ -254,7 +314,7 @@ for bundle in "$repo_root"/bibles/*/; do
         cp "$bundle/license.xml" "$stage/license.xml"
     fi
 
-    # Rewrite the identifying fields of the template's 2.1 metadata so the
+    # Rewrite the identifying fields of the template's 2.x metadata so the
     # package describes our translation rather than the template's.
     name="$(rv_field "$bundle/rvmetadata.xml" name)"
     abbreviation="$(rv_field "$bundle/rvmetadata.xml" abbreviation)"
@@ -265,14 +325,14 @@ for bundle in "$repo_root"/bibles/*/; do
     esc_abbr="$(xml_escape "$abbreviation")"
     fresh_id="$(new_id)"
 
-    # Only the first id="…" is the bundle id; later ones belong to book and
-    # name entries, so the substitution is anchored to that first line.
-    awk -v id="$fresh_id" -v name="$esc_name" -v abbr="$esc_abbr" '
-        !done_id && /id="[0-9a-fA-F]+"/ {
-            sub(/id="[0-9a-fA-F]+"/, "id=\"" id "\"")
-            done_id = 1
-        }
-        !done_name && /<name>/          { sub(/<name>[^<]*<\/name>/, "<name>" name "</name>"); done_name = 1; print; next }
+    if ! rewrite_bundle_id "$fresh_id" "$stage/metadata.xml" >"$stage/metadata.xml.new"; then
+        echo "  $abbr: the template's metadata.xml has no <DBLMetadata id=\"…\"> to rewrite" >&2
+        exit 1
+    fi
+    mv "$stage/metadata.xml.new" "$stage/metadata.xml"
+
+    awk -v name="$esc_name" -v abbr="$esc_abbr" '
+        !done_name && /<name>/         { sub(/<name>[^<]*<\/name>/, "<name>" name "</name>"); done_name = 1; print; next }
         !done_local && /<nameLocal>/    { sub(/<nameLocal>[^<]*<\/nameLocal>/, "<nameLocal>" name "</nameLocal>"); done_local = 1; print; next }
         !done_desc && /<description>/   { sub(/<description>[^<]*<\/description>/, "<description>" name "</description>"); done_desc = 1; print; next }
         !done_ab && /<abbreviation>/    { sub(/<abbreviation>[^<]*<\/abbreviation>/, "<abbreviation>" abbr "</abbreviation>"); done_ab = 1; print; next }

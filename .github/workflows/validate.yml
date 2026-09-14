@@ -21,6 +21,12 @@ jobs:
       - name: Validate Bible bundles
         run: python3 tools/validate.py
 
+      - name: Check DBL metadata handling (2.1 and 2.2.1 templates)
+        run: tools/test-metadata.sh
+
+      - name: Check both build paths agree
+        run: tools/check-build-parity.sh
+
       - name: Build .rvbible packages
         run: python3 tools/build_rvbible.py
 

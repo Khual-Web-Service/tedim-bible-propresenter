@@ -12,8 +12,11 @@ the file type"); what it accepts looks like:
     release/versification.vrs
     release/*.ldml
 
-metadata.xml also has to be DBL 2.1 (<DBLMetadata id="…" revision="…"
-version="2.1">). The files in bibles/ are DBL 1.2, which ProPresenter does not
+metadata.xml also has to be DBL 2.x (<DBLMetadata id="…" revision="…"
+version="2.1">, or the 2.2.1 shape ProPresenter ships today, <DBLMetadata
+version="2.2.1" id="…" revision="11">; attribute order differs between those
+releases and nothing here may depend on it).
+The files in bibles/ are DBL 1.2, which ProPresenter does not
 parse, so pass --template pointing at any .rvbible ProPresenter installed
 itself: its metadata is reused with the identifying fields swapped for ours.
 That is what tools/install-macos.sh does automatically.
@@ -74,17 +77,52 @@ def xml_escape(value: str) -> str:
     return value.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+DBL_HEADER = re.compile(r"<DBLMetadata\b[^>]*>")
+
+
+def dbl_header(metadata: str) -> str:
+    """The <DBLMetadata …> start tag, or "" if the document has none."""
+    match = DBL_HEADER.search(metadata)
+    return match.group(0) if match else ""
+
+
+def is_dbl2_header(header: str) -> bool:
+    """True for any DBL 2.x header, whatever its attribute order; 1.x is not."""
+    return re.search(r'\bversion="2\.', header) is not None
+
+
+def rewrite_bundle_id(metadata: str, new_id: str) -> str:
+    """Give the bundle a fresh id, leaving every other id in the document alone.
+
+    The id lives on the <DBLMetadata …> start tag, but not at a fixed place in
+    it: 2.1 writes id= first, the 2.2.1 packages ProPresenter ships today write
+    version= first. So the tag is found first and the attribute replaced inside
+    it — never by position, and never touching the id attributes of publication,
+    book and name entries or the <id> elements under <systemId>.
+    """
+
+    def fix(match: re.Match) -> str:
+        tag, count = re.subn(r'id="[^"]*"', f'id="{new_id}"', match.group(0), count=1)
+        if not count:
+            raise SystemExit(f"metadata.xml: {match.group(0)} has no id attribute")
+        return tag
+
+    metadata, count = DBL_HEADER.subn(fix, metadata, count=1)
+    if not count:
+        raise SystemExit("metadata.xml: no <DBLMetadata …> element")
+    return metadata
+
+
 def rewrite_metadata(metadata: str, info: dict) -> str:
     """Point a DBL metadata document at this translation.
 
-    Only the first id="…" is the bundle id — later ones belong to book and name
-    entries — and only the first of each identification field is replaced, for
-    the same reason.
+    Only the first of each identification field is replaced — later ones belong
+    to publications and other sections.
     """
     name = xml_escape(info["name"])
     abbr = xml_escape(info["abbreviation"])
 
-    metadata = re.sub(r'id="[0-9a-fA-F]+"', f'id="{secrets.token_hex(8)}"', metadata, count=1)
+    metadata = rewrite_bundle_id(metadata, secrets.token_hex(8))
     for tag, value in (
         ("name", name),
         ("nameLocal", name),
@@ -97,17 +135,17 @@ def rewrite_metadata(metadata: str, info: dict) -> str:
 
 
 def upgrade_metadata_header(metadata: str) -> str:
-    """Best-effort DBL 1.2 -> 2.1 header, for builds without a template."""
+    """Best-effort DBL 1.2 -> 2.x header, for builds without a template."""
 
     def fix(match: re.Match) -> str:
         tag = match.group(0)
-        if 'version="2.1"' in tag:
+        if is_dbl2_header(tag):
             return tag
-        # 2.1 dropped the type/typeVersion pair in favour of a version attribute.
+        # 2.x dropped the type/typeVersion pair in favour of a version attribute.
         tag = re.sub(r'\s+type(Version)?="[^"]*"', "", tag)
         return tag.rstrip(">").rstrip() + ' version="2.1">'
 
-    return re.sub(r"<DBLMetadata\b[^>]*>", fix, metadata, count=1)
+    return DBL_HEADER.sub(fix, metadata, count=1)
 
 
 def stage(bundle_dir: Path, work: Path, template_dir: Path | None) -> Path:
@@ -173,8 +211,12 @@ def unpack_template(template: Path, work: Path) -> Path:
         names = archive.namelist()
         if not any(n.startswith(f"{BOOKS_IN_PACKAGE}/") for n in names):
             raise SystemExit(f"{template}: not a usable template, it has no {BOOKS_IN_PACKAGE}/")
-        if 'version="2.1"' not in archive.read("metadata.xml").decode("utf-8", "replace"):
-            raise SystemExit(f"{template}: metadata.xml is not DBL 2.1")
+        header = dbl_header(archive.read("metadata.xml").decode("utf-8", "replace"))
+        if not is_dbl2_header(header):
+            raise SystemExit(
+                f"{template}: metadata.xml is not DBL 2.x "
+                f"({header or 'it has no <DBLMetadata …> element'})"
+            )
         target = work / "template"
         archive.extractall(target)
     return target
@@ -185,7 +227,7 @@ def main() -> None:
     parser.add_argument("--out", default="dist", help="output directory (default: dist)")
     parser.add_argument(
         "--template",
-        help="a .rvbible ProPresenter installed, whose DBL 2.1 metadata is reused",
+        help="a .rvbible ProPresenter installed, whose DBL 2.x metadata is reused",
     )
     args = parser.parse_args()
 
