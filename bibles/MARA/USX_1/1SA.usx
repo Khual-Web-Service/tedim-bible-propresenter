@@ -1,0 +1,2469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="1SA" style="id">1 Samuel</book>
+  <para style="h">1 Samuel</para>
+  <para style="toc1">1 Samuel</para>
+  <para style="toc2">1 Samuel</para>
+  <para style="mt">1 Samuel</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Epharai tlâh râh Râmâthaizôphi khih liata chyhsa pakha a moh Elkânâ ama tahpa y ta. Cha chyhsa cha Zerôhâ sawchapawpa châ ta, Zerôhâ cha Elihu sawchapawpa châ ta, Elihu cha Tôhu sawchapawpa châ ta, Tôhu cha Epharai chi Zupha sawchapawpa a châ.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Elkânâ cha lapinô pano hnei ta, pakha cha Hânâ châ ta, ahropa moh cha Peninâ a châ. Peninâ cha sawzy hnei ta, Hânâ deikua cha saw hnei leipa ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cha chyhsa cha Pheisaihzy Abeipa a chhy awpa nata atheihna hlâ awpa ta ano khih tawhta Silô khih lâ kô chareih ta sie tyh ta. Eli sawchapawpa pano Hôphani nata Phinehâ zy cha Silô khih liata Abeipa theihthaipazy châ ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Atheihna a hlâ noh liata, Elkânâ ta a lapinô Peninâ nata a sawchapaw nata a sawchanô zydua cha sa vyuh kha chyu pie tyh ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Hânâ deikua cha, Abeipa ta a chhi a khaw hapa chhao ta, a kyh a pachâ ngaitapa vâta, vyuh no a pie tyh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Hânâ cha Abeipa ta a chhi a khaw hapa vâta, Elkânâ lapinô hropa ta ano cha pasipasawhpa ta a hmia thata pachhie tyh ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cha hawhna chata kô chareih tao ngâ thlâh ha tyh ta. Abeipa o lâ a khyna maih liata a pachâ a parôhsa ngaita tyh. Chavâta Hânâ cha thata cha tyh ta, pati chhao nie thei khao tyh vei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A vahpa Elkânâ ta a hnohta, “Hânâ, khazia na cha? Khazia pati na nie vei? Khazia na palôh a pasa? Sawchapaw pahrawh hlâta na châta pha via va na mâ?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Silô khih liata pati niepa ta kresawhti ama do khai nahta, Hânâ cha thyu ta. Theihthaipa Eli cha Abeipa Achhyna o chhikao tôh thaby liata dyuchhai liata a vaw tyuh thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Hânâ cha a palôh pasa ngaita ta, Abeipa lâta thlahchhâ ta, thata cha ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Abeipa lâta bietai miakha tao ta, a hnohta, “Hy Pheisaihzy Abeipa , na sei­chanô taopasazie he hmôpa ta, na seichanô he my leipa la, nâ theipa ta, na seichanô he sawchapaw eina pie khiah chi ta la, a hro chhôh zydua ta Abeipa pie lilaw aw na ta, a luh ngyupa châ aw vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Abeipa hmiakô liata thlah a chhâ pazao ngâ nota, Eli ta Hânâ pakah cha moh thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hânâ cha a palôh ta bie reih ta, a hmao deita papie ta, a ao theipa a châ leipa vâta, Eli ta sahma a paripa chanô khiah ma tah ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Eli ta a hnohta, “Khachâ ma paripa ta na y aw? Na kresawhti kha soh bâ teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hânâ ta, “Ei zibeipa y, pari va na, a thlahpa nô a popa chanô na ei châ. Kresawhti tlyma, sahma tlyma doh va na, Abeipa hmiakô liata ei hro ei palâhâhpa tlao a châ.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Na seichanô he chanô moleipa hawhta rie na pachâ khah y, ei nôpona nata ei pachârôh ngaitanazy ei rei papua ngâpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Eli ta, “Thlalôhpa ta sie mah y, Izarei Khazohpa ta ano lâta na hmo hiapa cha cha pie mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hânâ ta, “Na seichanô he na modypa rie châ mawh sy,” tah ta. Chatawhcha chanô cha sie ta, pati nie ta, a pachârôhna hmia cha pai ha ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Mydi kari ta thyu ei ta, Abeipa amâ chhy khai nahta, Râmâ liata ama o lâ a lie ei ta. Elkânâ ta a lapinô Hânâ cha a zialâh ta. Abeipa ta Hânâ cha a thei thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Hânâ cha saw phaoh ta, a daihti a vaw tlô nahta, sawchapaw sa ta, “ Abeipa ei hiapa a châ hih,” tah ta, a moh Samuela bi ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Cha chyhsa Elkânâ cha, kô chareih ta atheihna hlâ tyhpa Abeipa lâ hlâ awpa nata a bietai patlô awpa ta, a chhôhkha zydua chhaota khy ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Hânâ deikua cha khy hra leipa ta, a vahpa hnohta, “Hawtipa he sâhpi a pathleihpa nahta, a chhi aw na ta, Abeipa hmiakô liata a luah aw ta, cha liata a y ngâ thlâh ha aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />A vahpa Elkânâ ta a hnohta, “Pha na tahpa hawhta tao mah y. Sâhpi a pathleihna taih cha hâ chy la, Abeipa ta a bietai cha patlô mawh sy,” tah ta. Chatanachata chanô cha o liata y ta, hawtipa cha sâhpi a pathleihna taihta mohôh ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Sâhpi a pathleih nahta, viahchao tôhpa kô thôhpa nata viahdie kachu hmo kha nata kresawhti ôh kha cheipa ta, hawtipa cha Silô liata Abeipa o lâ khykhei ta. Hawtipa cha hawti kaw chy ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Viahchao tôhpa cha thie ei ta, hawtipa cha Eli lâ a chhi ei ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Hânâ ta, “Hy ei zibeipa! Na hrona reipa ta ei reih. Ei zibeipa y, kei he he su liata na mohmô liata a duah na ta, Abeipa lâta thlah a chhâpa chanô kha ei châ.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />He hawtipa he hiapa ta thlahchhâ na ta, Abeipa ta ano liata ei hiapa cha eina pie haw.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Chavâta kei chhao ta hawtipa he Abeipa lâ ei hlâ lilaw haw. A hro chhôh zydua châta Abeipa lâ hlâ hapa a châ,” tah ta. Chatanachata hawtipa cha, cha liata Abeipa a chhypa ta y ha ta.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Chatawhcha Hânâ cha hetana heta thlahchhâ ta, “ Abeipa liata ei palôh a ly ta, Abeipa liata ei ki chaluahpa ta a y. Na pachhana liata ei lypa vâta, Ei chariahpazy chô liata ei pakah a kawh thei bâ aw.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />“ Abeipa hawhta pathaihpa y veih ei: Nâ leipa ta mohropa y leipa ei ta, Eima Khazohpa hawhpa lôpanô y veih ei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />“A palai ngaitapa ta bie reih khao leipa u la, Nama pakah tawhta sâlâna bie pua khao khah sy; Abeipa cha pahnona Khazohpa châ ta, Chyhsa hmotaopazy kho a pathliahtuhpa a châ.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Thatlôpazy libaw thlie ta, Chiehleipazy tha a patlô tyh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Rihbiepazy ta viahchhâ châta hriahlao ei ta, Nodipazy tlao ama nodi khao vei. Chanô chohpa ta pasari sa ta, Saw hluhpi a hneipa nô hmâchhâh yrupa ta a y.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Abeipa ta thie ta, A pahro heih tyh. Athihkhih lâ pangiasa ta, A pathyu heih tyh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Thokha dyhchhiepa ta tao ta, Thokha hneirôhpa ta a tao. Thokha panawhsa ta, Thokha a pasâhsa.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Dohlei tawhta dyhchhiepa pathyupa ta, Buchâh tawhta phahlapazy chalo ta; Beimachâzy hnohta âmo cha patyusa ta, Palyupalihna beidyuchhai a patosa ei. Alei tôhzy he Abeipa eih châ ta, Alei tôhzy chô liata khizaw he a padua.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />“A chyhsa ngâchhihpazy phei vaih aw ta, Moleipazy deikua cha zohna liata chhawh pathlahpa ama châ aw; Thatlôna vâta chyhsa a duah veih ei.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Abeipa chariahpazy cha a tlawh ta keichheih aw ei ta, Âmo a dyuhpa ta avâ tawhta tôkalôhpa hawhta â thua thlu aw ei. Abeipa ta khizaw kaokih zydua pachia aw ta, Bei a paduapa hnohta thatlôna pie aw ta, A sathawthupa ki cha a cheihchalo aw.”
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chatanachata Elkânâ cha Râmâ liata a o lâ a di ta. Hawtipa deikua cha theihthaipa Eli hmiakô liata Abeipa chakao ha ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Eli sawchapawzy cha dyutlai leipazy châ ei ta, Abeipa pahno veih ei.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />He he Eli sawchapawpa theihthaipazy ta zawpi chô liata ama tao tyhzie a châ: Chyhsa ta atheihna a hlâ tita, sa ama chhopa â tlao ngâ nota, theihthaipa chakaotuhpa cha sa thaona thua kuparo miathôh a hneipa a chabapa ta a vy ta,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />beih pakah kawhpa tlyma, keli tlyma, ukâ tlyma, beih tlyma chhôh lâ za dy ta, thua ku ta a thaopa zydua cha theihthaipa ta ano châta â la tyh. Cha hawhna chata Silô lâ a vypa Izarei saw zydua chô liata ama tao lymâ.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Cha dei châ vei, a thaw ama rao hlâta, theihthaipa chakaotuhpa a vy ta, atheihna a hlâ ngâpa hnohta, “Theihthaipa châta rao awpa sa na pie teh. Sa pasyupa cha châ pyhpa aw vei, a heipa a khoh,” a tah tyh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Chyhsa ta a hnohta, “A thaw rao ha tua ei sala, cha khai tawhta na khopa zie la lah vâ chi,” a tah khiahta cha, ano ta, “Châ vei, tahmâ tlai he na pie teh, eina pie vei khiah chi ta la, ei la raruah pyly aw,” a tah tyh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />He satliazy moleina he Abeipa mohmô liata rarôh y ngaitapa châ ta, he chyhsazy heta Abeipa lâta atheihna hlâpazy khâpasaw ta reih veih ei.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hawtipa Samuela cha lini ephaw a kypa ta, Abeipa hmiakô liata chakao lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Cha thota a nô ta viahkao pasipa biehpa tyh ta, cha cha kô chareih ta atheihna ama hlâ tyhpa hlâ awpa ta, a vahpa hnohta a khyna maihta a phaopa tyh.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Eli ta Elkânâ nata a lapinô cha byhnâ awpa ta, “He chanô ta Abeipa lâ a hlâ hapa vyuhpa ta, ano liana heta Abeipa ta saw hropazy cha pie mawh ei sy,” tah ta. Cha khai tawhta ama o lâ a lie ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Abeipa ta Hânâ cha za tly ta, saw phaoh ta, sawchapaw pathôh nata sawchanô pano sa ta. Hawtipa Samuela cha Abeipa hmiakô liata laiseih lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Eli cha machâ kaw bâ ta, Izarei zydua chô liata a sawchapawzy hmotaopa zydua nata ahmaohna poh o chhikao liata chakaotuhpa chanôzy amâ ziakhei tyhpa kyhzy thei tyh ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Ama hnohta, “Khazia cha hawhpa hmozy cha nama tao tly? Moleina hmo nama taopazy cha, he chyhsa zydua tawhna heta ei thei khai haw.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Châ bao va, ei sawchapawzy saih u, Abeipa chyhsazy ta nama thâtih ama pathâhsapa ei theipa he thâtih phapa châ vei.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Chyhsa ta chyhsa chô liata a molei khiahta cha, Khazohpa ta paryhkhei aw ta, chyhsa ta Abeipa chô liata a molei khiahta cha, ahy ma a paryhkhei khao aw?” tah ta. Châhrasala Abeipa ta âmo cha thie â chhuah hapa vâta, ama paw bie cha nathlie khoh pyly veih ei.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Hawtipa Samuela cha laiseih lymâ ta, Khazohpa nata chyhsapa modypa ta y ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Khazohpa chyhsa pakha Eli lâ a vy ta, a hnohta, “ Abeipa ta hetana heta a tah: Châ pathlatuhpa chizy Izi râh liata Phiraoh sei ta ama y no kha, ama hnohta a siapa ta a phualuah ha va na mâ?
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Châ pathlatuhpa kha ei theihthaipa châ awpa ta Izarei chi zydua hry tawhta a tlyh na ta, ei maisâh kiah ta, ropahâhpa rao awpa nata ei hmiakô liata ephaw a ky awpa ta ei tlyhpa a châ. Izarei sawzy tawhta mei ta raopa hlâpa zydua chhao châ pathlatuhpa pathlazy hnohta ei pie khai ei
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Cha hawhta a châ nota, khazia ma ei pahrâna su châta bie ei piepa atheihna nata hmohlâpazy mohnao ei chi ta, kei hlâta na sawchapawzy palyupalih viapa ta, ei phopi Izarei sawzy hmohlâpa to tawhta a pahâh chaipazy cha nâmo a pathawhna châta nama hmâh?
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Chavâta Abeipa Izarei Khazohpa ta hetana heta a tah: ‘Na chipathlazy nata châ pathlatuhpa chipathlazy cha ei hmiakô liata chhâzaw ta ama y aw,’ tahpa ta bie a vaw taih taraw na ta, tahmâ deikua cha Abeipa ta, ‘Cha hawhta châ khao aw vei, nâ palyupalihpa maih palyupalih aw ei na ta, nâ mohnaopa maih cha ama noh â li lymâ aw.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Moh teh, nâma bâh nata châ pathlatuhpa chizy bâh ei tai khai nawpa nohzy a vaw tlô hai, na chipathla liata machâpa y khao aw veih ei.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Izarei chô liata hneirôna ei tobi awpa zydua cha vâsâhpa nata hiatliapa ta moh aw chi ta, na chipathlazy hry liata machâpa chhâzaw ta y khao aw veih ei.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Ei maisâh tawhta ei chhawh pathlah leipa chyhsa cha, na mo châ pabâ awpa nata na palôh châ pasasa awpa ta pahlôhpa châ aw ta, na chipathla a pôhpazy cha ama locho nota ama thi lymâ aw.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Na sawchapaw pano, Hôphani nata Phinehâ chô liata hmo vaw tlô aw ta, cha cha ei reipa maih a vaw tlô khai awpa a châzie nâma châta ngiana a châ aw. Ama pano ta noh kha ta ama thi aw.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Chatawhcha ei châta theihthaipa ngâchhihpa padua aw na ta, ano chata ei palôh liata nata ei pachâna liata hmo a ypa hawhta tao aw ta, chipathla a ipa ei paduapa awpa vâta a chi lei leipa aw ta, ei sathawthupa hmiakô liata chhâzaw ta a y aw.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Na chipathla a hrohpa maihta tâkâ tlaw kha nata viahchhâ tlâ kha a hia awpa ta ano lâ pangai aw ei ta, a hnohta, “Viahchhâ tlawh kha chhâ nie awpa ei hnei thei nawpa ta, theihthaipa raihria kheihawhpa chhâ ma na pahriasa hra awpa ta ei châ haw,”’ ama tah awh,” tah ta.
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Hawtipa Samuela cha Eli hmiakô liata Abeipa chakao lymâ ta. Cha daihtizy liata cha, Abeipa bie sôh kaw ta, aluahna chhao y tu leipa ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cha daihti liata, Eli cha a yna su liata a zia thlâh ha ta. A mo a zoh pathao hapa vâta a phathipa ta hmô thei khao leipa ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Khazohpa meiôh thi mâh leipa ta. Samuela cha Khazohpa byh yna Abeipa Achhyna o liata a zia thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Abeipa ta Samuela cha aw ta, Samuela ta, “He liata ei y” tah ta,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Eli lâ a kei râ ta, a hnohta, “He liata ei y, na aw chi ta,” tah ta. Eli ta, “Cha aw va na, vâ zia heih teh,” tah ta. Vawh ta, a kei zia heih ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Abeipa ta “Samuela!” tahpa ta aw heih ta, Samuela cha thyu ta, Eli lâ vawh ta, “He liata ei y, na aw chi ta,” tah ta. Eli ta a chhy ta, “Cha aw va na, ei sawchapawpa y, a kei zia heih teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cha daihti liata Samuela cha Abeipa pahno mâh leipa ta, Abeipa bie chhao a hnohta phuahpa châ mâh vei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Abeipa ta Samuela cha a ei thôhna ta aw heih ta. Thyu ta, Eli lâ vawh ta, a hnohta, “He liata ei y, na aw chi ta,” tah ta. Hawtipa cha Abeipa ta a aw tahpa Eli ta pahno ha ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Chavâta Eli ta Samuela hnohta, “Vawh la, a kei zia la, a cha aw heih khiahta cha, ‘ Abeipa y, bie reih teh, châ chakaotuhpa ta a nathlie,’ tah mah y,” tah ta. Chatawhcha Samuela cha vawh ta, a yna liata a kei zia ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Abeipa cha a vy ta, a vaw duah ta, a aw tua notapa hawhna khata, “Samuela, Samuela!” tahpa ta aw heih ta. Samuela ta, “Reih mah y, châ chakaotuhpa ta a nathlie na,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Abeipa ta Samuela hnohta, “Moh teh, Izarei liata hmo miakha tao aw na ta, a theipa maihta ama nah kârano ta a khai aw.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Eli pathlazy kyh ei reipa zydua kha, cha noh liata âthaona tawhta achhâna taihta a chô liata ei patlôsa aw.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A sawchapawzy ta reipachhie tlâhpa ta âmosasyh ta â tao ei ta, cha cha a pahno thlâh hana chôta a pakhâ leipa vâta, a pathlazy cha chhâzaw ta ei hrie aw ei tahpa chho ha na ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Chavâta Eli pathlazy moleina cha atheihna ta tlyma, hmohlâpa ta tlyma, khati ta hmahta pathaisa theipa châ khao aw vei, tahpa ta Eli pathlazy hnohta bie ei vaw taih haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Samuela cha my taihta a zia ta, chatawhcha Abeipa o ochhizy cha pahy ta. Samuela ta aluahna a hmôpa cha Eli pahnosa awpa chi kaw ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Châhrasala Eli ta Samuela cha aw ta, a hnohta, “Samuela, ei sawchapawpa,” tah ta. Samuela ta, “He liata ei y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Eli ta, “Khâpa hmo ma Abeipa ta a cha chho tly? Keima liata khâpa hmah phih khah y. A cha chhopa zydua keima liata phihpa na hnei khiahta cha, Khazohpa ta na chô liata a tao awpa hawhta tao sala, cha hlâta pasa viapa chhao ta tao mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Chatanachata Samuela ta Eli cha hmo to chho khai ta, ano liata phihpa khâpa hmah hnei vei. Eli ta, “Cha cha Abeipa a châ chu, ano ta pha a tahpa hawhta tao mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Samuela cha laiseih lymâ ta, a hnohta Abeipa y ta, a bie reipazy leilô liata a pailyupa y vei.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Dânâ tawhta Besebâ taihta Izarei zydua ta Samuela cha Abeipa hrohsopa châta paduapa a châ tahpa pahno ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Abeipa cha Silô liata a luah heih ta, Abeipa bie hmâpa ta Samuela hnohta anosasyh ta a phualuah ta.
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela bie cha Izarei râh zydua liata pathâh ta. Izarei sawzy cha Philistinâ mo a dyuh awpa ta pua ei ta. Ebeneza liata riehmo paryh ei ta. Philistinâ mo chhao Aphe liata riehmo paryh hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Philistinâ mo cha Izarei a dyuh awpa ta a paziah ei ta, thata a dyuh ei ta. Philistinâ mo hmiakô liata Iza­rei cha panawhpa ta y ta, Philistinâ mo ta Izarei chyhsa sâh palih rachhôh adyuhna su liata ama thie haw.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Izarei phopi cha riehmo ama tlô nahta, machâzy ta, “Khâpa vâta ma tanoh he Abeipa ta Philistinâ mo hmiakô liata miah a panawh ha tly i? Abeipa Biehrai Byh Silô lâ kei la ei sih la, he lâ vaw cheih ei suh u, chatanachata eima hnohta sie aw ta, eima chariahpazy ku tawhta miah a pachha aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Silô lâ cha chyhsa tuah ei ta, cherubizy likawh beidyuchhai liata patyupa Pheisaihzy Abeipa Biehrai Byh cha kei palasa ei ta. Eli sawchapawpa pano, Hôphani nata Phinehâ zy cha Khazohpa Biehrai Byh hnohta sie hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Abeipa Biehrai Byh cha riehmo a vaw tlô nahta, Izarei zydua cha alei a chalyu ngâna taihta a paro ngaitapa ta awh ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Philistinâ mo ta ama awpa pyu cha ama thei nahta, “Hebrai mo riehmo liata awpa pyu a paro ngâpa cha khâpa ma a yzie tly?” tah ei ta. Abeipa Byh riehmo liata a vaw tlôpa a châzie ama pahno nahta,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Philistinâ mo cha chi ngaita ei ta, “Riehmo lâ khazoh â vy ha chu,” tah ei ta. “Eima hu a po na! He hawhpa hmo he y beih vei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Eima hu a po na! Cha khazoh thatlôpa ku tawhta ahy ma miah a pachha thei aw? Cha khazoh cha potlana to ta râhchawhpa liata Izi mo a thietuhpa kha a châ.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hy nâmo, Philistinâ mozy saih u, riahphapa ta y u la, chapaw kawpa ta y teh u, chataleipatala nama sei a châ tyhpa Hebrai mo sei ta nama y pathlei aw na. Chapaw kawpa ta y u la, a dyuh teh u,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Philistinâ mo ta a vaw dyuh ei ta, Izarei cha pahniepa ta y ha ta, ama poh o chyu lâta a râ ei ta. Izarei mo cha thata thie ei ta, Izarei alei pheisaih 30,000 tlai thiepa ama châ.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Khazohpa Byh cha la ei ta, Eli sawchapawpa pano Hôphani nata Phinehâ chhao cha thie pâ ha hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Benzami chyhsa pakha adyuhna su tawhta a vaw râ ta, a chysiazy hriepa ta nata a luh liata dohlei a miapa ta, cha noh lia tlai ta Silô khihpi vaw tlô ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A vaw tlô nota Eli cha lâpi kiah liata dyuchhai liata a tyuh ta, vaw sai thlâh ha ta. Khazohpa Byh vâta a palôh thata a chalyu ta. Cha chyhsa cha khihpi vaw tlô ta, hmo yzie a rei nahta, a khihpi dua ta thata sâh ei ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Eli ta ama sâpa pyu cha a thei nahta, “Cha pyury cha khâpa pyury tlyma?” tah ta. Chyhsa cha a parapa ta Eli lâ a râ ta, a hnohta hmo yzie chho ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Eli cha kô sychaki nata kô charie uhtheipa châ ha ta, a mo chhao zoh ha ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Chyhsa chata Eli hnohta, “Adyuhna su tawhta a vypa ei châ, adyuhna su tawhta tanoh a vaw râpa ei châ,” tah ta. Eli ta, “Ei sawchapawpa, khâpa nama lyu?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Zikyu a vaw râpa ta a chhy ta, “Philistinâ mo hmiakô liata Izarei a râpai ha ta, zawpizy hry liata chyhsa hluhpi thiepa châ ei ta, na sawchapawpa pano, Hôphani nata Phinehâ chhao thi ei ta, Khazohpa Byh chhao Philistinâ mo ta ama la haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cha chyhsa ta Khazohpa Byh kyh a reipa nahta, Eli cha chhikao thaby liata dyuchhai tawhta â die lâta pao ta. Pawpipa châ ta, â hri ngaitapa vâta, a rao thlie ta, thi ha ta. Eli cha Izarei chô liata kô sypalih ryureih ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />A myuhnô, Phinehâ lapinô cha saw phaoh ta, pih daihmâ ha ta. Khazohpa Byh lapa a châpa nata a parâhpa nata a vahpa ama thipa thâtih a thei nahta, nawh thlai ta a zeih ta, a bôh ta a nawh cha a chhaih ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />A thi chy ta, nawh paytuhpa chanôzy ta a hnohta, “Chi kha, sawchapaw na sa hih,” tah ei ta. Châhrasala a chhy leipa ta, a pachâ chhao pachâ vei.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Khazohpa Byh lapa a châpa vâta nata a parâhpa nata a vahpa kyh vâta, “Rônahna ta Izarei a puasai haw” tah ta, hawti moh cha Ikhabaw bi ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />“Khazohpa Byh lapa châ ha ta, rônahna ta Izarei a puasai haw,” tah ta.
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Philistinâ mo ta Khazohpa Byh cha patu ei ta, Ebeneza tawhta Asadô khihpi lâ siekhei ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Philistinâ mo ta Khazohpa Byh cha cheih ei ta, Dakao achhyna o liata a ngiakheipa ta, Dakao kiapâh liata soh ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A mylâ mydi kari ta Asadô chyhsazy cha thyu ei ta, Dakao cha Abeipa Byh hmiakô liata â khu lâta vaw pao thlâh ha ta. Dakao cha la ei ta, a yna su liata soh heih ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A mylâ heihpa mydi kari ta ama thyu nahta, Dakao cha Abeipa Byh hmiakô liata â khu lâta vaw pao thlâh ha heih ta. Dakao luh nata a kupazah miano â tai pachhôpazy cha chhikao thaby liata a vaw thy thlâh ha ta, Dakao cha a pôhpa deita ta vaw y ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cha vâna chata Dakao theihthaipazy nata Dakao achhyna o lâ a ngiapazy ta, Asadô liata Dakao chhikao châkeih cha tanoh taihta chakâ ngâh veih ei.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Abeipa ku ta Asadô chyh­sazy cha vi ta, âmo cha pahleipadia ta, Asadô nata a chheipâh khihzy cha kheihluh ta hrie ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Asadô liata chyhsazy ta hmo yzie ama pahno nahta, “Izarei Khazohpa Byh he eima hnohta a y awpa châ vei, keimo chô liata nata eima khazoh Dakao chô liata ku a pathlapa he a pasa tu haw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Chyhsa tuah ei ta, Philistinâ bei zydua aw pakhy ei ta, ama hnohta, “Izarei Khazohpa Byh he kheihta ma eima tao aw?” tah ei ta. Âmo ta, “Izarei Khazohpa Byh he Kâthâ khihpi lâ siekheipa châ mawh sy,” tah ei ta. Chatanachata Izarei Khazohpa Byh cha Kâthâ khihpi lâ siekhei ei ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Khihpi ama tlôkhei nahta, Abeipa ta khihpi chô liata a ku pathla ta, khihpi cha thata a tymâ ta, khihpi chyhsazy cha a lai a chyh ta hrie ta, ama keihkhaohzy lâ taihta kheihluh pathlasa ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Khazohpa Byh cha Ekaraw lâ paphao heih ei ta. Khazohpa Byh Ekaraw a tlô nahta, Ekaraw khihsawzy ta, “Keimo nata eima phopi thie awpa ta, Izarei Khazohpa Byh he keimo lâ ama vaw cheipa a châ hih,” tahpa ta awh chaimâh ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chavâta chyhsa tuah ei ta, Philistinâ bei zydua awpakhy ei ta, ama hnohta, “Izarei Khazohpa Byh he pasiesa syulyu ha teh u. Keimo nata eima phopi he miah a thie khao lei nawpa ta, a yna su dopa lâ kua heih mawh sy,” tah ei ta. Khihpi chhôh zydua liata chhiena rarôh ypa tlô ta, Khazohpa ta khihpi chô liata ku a pathlapa cha a hri ngaita ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A thi leipazy cha kheihluh ta thla ei ta, khihpi chana pyu cha avâ taihta kaw daih ta.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Abeipa Byh cha Philistinâ râh liata thla sari y ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Chatawhcha Philistinâ mo ta theihthaipazy nata pachaothaipazy aw ei ta, ama hnohta, “ Abeipa Byh he kheihta ma eima tao aw? Khâpa nata ma a yna su lâ eima pasiesa aw tahpa miah chho teh u,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Âmo ta, “Izarei Khazohpa Byh he nama pasiesa awpa khiahta cha, ku ruapa ta pasiesa cheita khuh vy, thaileichâna atheihna nama hlâ palie thlyu awpa a châ. Chatanachata patlâhpa ta y aw ei chi ta, nâmo tawhta a ku â pasie leina chhâpa nama pahno aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Philistinâ mo ta, “Thaileichâna atheihna châta khâpa ma eima hlâ palie aw?” tah ei ta. Theihthaipazy nata pachaothaipazy ta, “Potlana hri miakha ta nama zydua chô liata nata nama beizy chô liata â lyupa ta a cha tla thlu ei. Chavâta Philistinâ bei papangawh vyuhpa ta ngôh kheihluh nothlahpa miapangawh nata ngôh siahloh nothlahpa miapangawh nama hlâ awpa a châ.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Nama kheihluh nothlahpazy nata nama râh a paraotuhpa siahloh nothlahpa zy tao u la, Izarei Khazohpa cha palyupalih teh u. Cha hawhta nama tao khiahta cha, nâmo chô liata nata nama khazohzy nata nama râh chô liata a ku a pahua thei ngyu aw.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Izi mo nata Phiraoh ta palôh kuhchhapa ta ama ypa hawhna khata, khazia nama palôh kuh nama pachhasa hra aw? Khazohpa ta Izi mo kha pasa kawpa ta hria ta, cha khai tawhta Izarei sawzy kha pasiesa ei ta, ama pua hapa kha pahno veih ei chi ma?
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chavâta tahmâ talailih thiehpa a chhuanoh u la, viahchao panô pô no, a taw sâhpi a pazy haipa, raopaky paky beih leipazy a vaw chhi u la, viahchao panôzy cha talailih liata paky teh u. Ama tawzy deikua cha, a panôzy tawhta la aw ei chi ta, o lâ namâ dikhei ha aw.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Chatawhcha Abeipa Byh cha la aw ei chi ta, talailih chô liata khaih aw ei chi ta, thaileichâna atheihna châta nama hlâ paliepa ngôh hmo sôhpazy cha thobyh liata khôpa ta, a kâ lâta soh aw ei chi ta, talailih cha pathlie aw ei chi ta, a sie nawpa lâpi lâta nama pasiesa aw.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Moh thlâh ha aw ei chi ta, ano yna su Beseme râh lâ khyna lâpi a chhihpa ta a sie khiahta cha, eima chô liata pasana rarôh y ngaitapa a patlôsapa he ano tlai châ ta, cha lâta a sie vei khiahta deikua cha, ano ku ta miah a hriepa châ leipa ta, hri chareina daihti nata Byh yna daihti â su chhopa vâta a châ tahpa eima pahno aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Chyhsazy ta cha hawhna chata tao ei ta, viahchao panô a taw sâhpi a pazy haipa pô no a chhi ei ta, talailih cha viahchao panôzy liana cha paky ei ta, ama tawzy deikua cha o liata khô ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ngôh siahloh nothlahpa nata kheihluh nothlahpa khôna thobyh chhaota Abeipa Byh cha talailih chô liata khaih ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Viahchao panôzy cha, a aoh pâ lymâna chôta, Beseme lâpi a chhihpa ta â dypa ta sie lymâ ei ta. Chachâh lâ tlyma, chavei lâ tlyma tlei chachei leipa ta lâlai miakha a chhihpa ta sie lymâ ei ta. Philistinâ beizy ta Beseme râhri taihta pazi ei ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Beseme khih mo cha saikao liata sâh vaw hria ngâ kaw ei ta. A kaw heih ei ta, Byh cha hmô ei ta, byh ama hmôpa cha a ly ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Talailih cha Beseme khihpa Zawsua lyu liata a ngia ta, lôpanô lai ngaitapa yna liata a duah ta. Talailih tho cha patlaw ei ta, viahchao panôzy cha raopa hlâna ta Abeipa lâ hlâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Livai chizy ta Abeipa Byh cha ngôh hmo sôhpa yna thobyh chhaota la ei ta, lôpanô chô liata soh ei ta. Cha noh lia tlai chata Beseme khih mo cha raopa hlânazy nata atheihnazy Abeipa lâta hlâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cha hmozy cha Philistinâ bei papangawhpazy ta hmô khai ei ta, cha noh lilaw ta Ekaraw lâ a lie ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hezy he thaileichâna atheihna hlâna châta Philistinâ mo ta Abeipa lâta ngôh kheihluh nothlahpa ama hlâ paliepazy a châ: Asadô vyuhpa ta miakha, Kâza vyuhpa ta miakha, Askelaw vyuhpa ta miakha, Kâthâ vyuhpa ta miakha, Ekaraw vyuhpa ta miakha.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Philistinâ bei pangawhzy ry liata khih a ypa zydua vyuhpa ta, thokhy hneipa khihpizy nata thokhy hnei leipa khitawzy rei khaipa ta, ngôh siahloh nothlahpazy chhao thaileichâna atheihna châta Abeipa lâ hlâpa a châ hra. Abeipa Byh ama patyuna lôpanô cha pahnokheituhpa châta Beseme khihpa Zawsua lyu liata tanoh taihta a y thlâh haw.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Beseme khihsaw thokhazy deikua cha, Abeipa Byh chhôh lâ ama mopa vâta, Abeipa ta a thie ha ei. Ama hry liata chyhsa sysari tlai thie ta, Abeipa ta thata a thiepa vâ ei ta khihsawzy cha mâchhiesapa ta ama y.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Beseme khihsawzy ta, “He Khazohpa pathaihpa Abeipa hmiakô liana he ahy ma a duah thei aw? Keimo tawhna heta ahy lâ ma khy sala a pha aw tly?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Kiriaziari khihpi lâ chyhsa tuah ei ta, ama hnohta, “ Abeipa Byh kha Philistinâ mo ta ama vaw soh pakhua haw. A zu u la, nâmo paso awpa ta za la teh u,” tah ei ta.
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Kiriaziari khihsawzy cha zu ei ta, Abeipa Byh cha za la ei ta, tlâh liata Abinadâ o liata tlôkhei ei ta. A sawchapawpa Eliaza cha Abeipa Byh mohôhtuhpa châta hlâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kiriaziari liata Byh a y tawhta bohpi tlai vaw châ ha ta, kô kih chhôh tlai y ha ta. Izarei chhôhkha zydua cha Abeipa vâpa ta chaphôhtu ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Samuela ta Izarei chhôhkha zydua hnohta, “Nama pathipalôh tlokhuh ta Abeipa lâ a kuapa nama châ hmeiseih khiahta cha, râh hropa khazoh nata Astarôzy nama hry tawhta thy khai aw ei chi ta, nama palôh Abeipa lâta paheipa ta, ano deita nama chakao awpa a châ. Chatanachata Philistinâ mo ku tawhna heta a cha pachha aw ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Chavâta Izarei sawzy ta Bâlâ nata Astarô khazohzy cha thy khai ei ta, Abeipa deita chakao ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Samuela ta, “Izarei saw zydua Mizpâ liata a hmaohpakhy khai teh u, Abeipa lâta thlah ei cha chhâpa aw ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Izarei sawzy cha Mizpâ liata a hmaohpakhy ei ta. Ti thaih ei ta, Abeipa hmiakô liata patlai ei ta, cha noh cha kâhvileipa ta y ei ta. Cha su liana tlai chata, “ Abeipa chô liata eima vaw molei haw,” tah ei ta. Samuela cha Mizpâ liana chata Izarei sawzy chô liata ryureih ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Izarei sawzy Mizpâ liata amâ hmaohpakhy tahpa Philistinâ mo ta ama thei nahta, Philistinâ beizy cha Izarei a dyuh awpa ta pua ei ta. Cha kyh cha Izarei sawzy ta ama thei nahta, Philistinâ mo cha chi ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Izarei sawzy ta Samuela hnohta, “Philistinâ mo ku tawhta miah pachha awpa ta, Abeipa eima Khazohpa lâta bâh leipa ta thlah miah chhâpa teh,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Samuela ta mietakutaw sâhpi a pazy haipa la ta, a pôhpa dua ta raopa hlâna ta Abeipa lâ hlâ ta. Chatawhcha Samuela ta Izarei châta Abeipa lâ thlahchhâ ta, Abeipa ta a chhy ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Samuela ta raopa hlâna a hlâ hai no tlai chata, Philistinâ mo cha Izarei a dyuh awpa ta a vaw hnia ei ta. Châhrasala cha noh liata Abeipa ta Philistinâ mo chô liata tôkalôhpa thata vaw pathuasa ta, âmo cha patypamâ ta, Izarei hmiakô liata panawhpa ta y ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Izarei mo cha Mizpâ tawhta pua ei ta, Philistinâ mo cha a chadai ei ta, Bekâ laikathi tlôna taihta thie lymâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chatawhcha Samuela ta alô la ta, Mizpâ nata Seni likawh liata bô ta, “ Abeipa ta he taih he miah a vaw bao haw,” tah ta, a moh ta Ebeneza a bi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Chatanachata Philistinâ mo cha pahniepa ta y ha ei ta, Izarei râh siehnao heih khao veih ei. Samuela hro chhôh zydua cha, Abeipa ku ta Philistinâ mo cha â dyuh lymâ.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Philistinâ mo ta Izarei khihpi ama la hapazy kha, Ekaraw tawhta Kâthâ taihta Izarei ku liata y pakhua heih ta, Izarei ta a râh zydua cha Philistinâ mo ku tawhta a la pakhua khai haw. Izarei nata Amawri mo chhao a dyryh kawpa ta ama y lymâ.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Samuela cha a hro chhôh zydua ta Izarei chô liata ryureih ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Kô chareih ta Bethel, Kilkal nata Mizpâ zy chahlô ta, cha su zydua liana chata Izarei chô liata ryureih ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cha khihpizy tawhna chata a o yna Râmâ khihpi lâ a lie heih tyh ta, Râmâ liana chhao chata Izarei chô liata ryureituhpa ta y ta. Abeipa maisâh chhao Râmâ khihpi liata a padua.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela cha a vaw machâ nahta, a sawchapawzy cha Izarei chô liata ryureituhpazy ta tao ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />A sawchapaw uhtheipa moh cha Zôela châ ta, a pazipa moh cha Abizah a châ. Âmo pano he Besebâ liata ryureituhpazy ama châ.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Châhrasala a sawchapawzy ta ano lâpi a chhih leipa ei ta, sôh nata piah a chadai ei ta, panaopapanazy la ei ta, adona tleisaipa ta ryu ama rei tyh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Chavâta Izarei machâ zydua a hmaohpakhy ei ta, Râmâ khih liata Samuela yna lâ sie ei ta,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />a hnohta, “Pachâ teh, nâ cha machâ kaw bâ chi ta, na sawchapawzy hra ta nâma lâpizy a chhih tlôh leipa ei ta, chavâta phopi hropa zydua taozie hawhta, tahmâ eima chô liata ryu a reih awpa bei miah raopa teh,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Eima chô liata ryu a reih awpa bei miah pie teh,” ama tahpa kyh chata Samuela cha palysa lei kaw ta. Samuela cha Abeipa lâ thlahchhâ ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Abeipa ta Samuela hnohta, “Zawpi ao ta na hnohta ama reipa zydua cha nathlie mah y. Nâma ama cha khoh leipa châ leipa ta, ama bei châta kei eina khoh leipa ei tlao a châ.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Izi râh tawhta ei kaw chhi papua noh tawh ei ta tanoh taihta ama tao tyhpa, keima nâ heihsaipa ta, khazoh hropazy ama chakao tyhpa hawh tlai ta, nâma chô liata chhao ama taopa a châ.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Chavâta ama ao cha nathlie mah y. Anodeikuacha a sia ngaitapa ta ama hnohta zikyu a râ la, ama chô liata ryu a reih awpa bei hmotaozie awpazy chhao âmo pahnosa chhielie ha mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Samuela ta Abeipa bie zydua cha, a hnohta bei a hiahtuhpa Izarei phopi cha chho ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ama hnohta, “Nama chô liata ryu a reih awpa bei taozie awpa cha he hawhna heta a châ aw: Nama sawchapawzy la aw ta, a talailih a haoh awpa ta zy, a arâ a kiah awpa ta zy nata a talailih hmia lâta a râ awpazy ta a rao aw ei.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Âmo cha a pheisaih sâh kha hyutuhpa nata sypangawh hyutuhpazy ta rao aw ta, thokhazy cha ano châta lei palietuhpa châta zy, a sâh hriatuhpa châta zy, a chariah chhaichhi taotuhpa châta nata a talailih chhaichhi taotuhpa châta zy a rao aw ei.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Nama sawchanôzy chhao ropahâhpa taotuhpa châta zy, beih chhotuhpa châta zy, viahchhâ taotuhpa châta zy a la aw ei.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Nama lyuzy, kre sadôzy nata ôli sadôzy hry liata a pha chaipazy la aw ta, a chakaotuhpazy a pie aw ei.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Nama sâh nata nama kre sadôzy tawhta su hrawh su kha la aw ta, a beimachâzy nata a chakaotuhpazy a pie aw ei.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Nama seichapawzy nata nama seichanôzy, nama satlia pha chaipazy, nama alâzy la aw ta, a rai hriatuhpazy ta a tao aw ei.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Nama mietaku zawzy tawhta su hrawh su kha la aw ta, nâmo tlai chhao ano sei lâta namâ lie aw.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cha noh liata, nâmo tlai ta nama bei châta namâ tlyhpa vâna chata, thata cha aw ei chi ta, châhrasala cha noh liata cha, Abeipa ta châ chhy khao aw veih ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Châhrasala Izarei phopi ta Samuela ao cha nathlie khoh leipa ei ta. A hnohta, “Châ vei, eima chô liata bei a y tlai awpa a châ,
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />chatanachata phopi hropa zydua hawhta vaw châ hra aw pi ta, eima bei ta eima chô liata ryureih aw ta, eima hmia lâta siepa ta, eima chariahzy â dyuh aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Samuela ta Izarei phopi bie zydua cha a thei nahta, Abeipa nakhaoh liata chho pachhuah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Abeipa ta Samuela hnohta, “Ama ao nathlie la, âmo châta bei cha taopa mah y,” tah ta. Chatawhcha Samuela ta Izarei chyhsazy hnohta, “Chyhsa to nama khih chyu lâta a di teh u,” tah ta.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Benzami râh liata Benzami pathla chyhsa pakha, chyhsa thatlôpa nata riahpha ngaitapa, a moh Kisâ ama tahpa y ta. Kisâ cha Abie sawchapawpa châ ta, Abie cha Zerô sawchapawpa châ ta, Zerô cha Bekôrâ sawchapawpa châ ta, Bekôrâ cha Aphia sawchapawpa a châ.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kisâ ta sawchapaw hnei ta, a moh cha Sawla a châ. Ano cha satlia pôraoh a tlai ngaitapa châ ta, Izarei sawzy hry liata ano hlâta hmipha viapa rai y leipa ei ta, chyhsa ahy hmahta a ngiatlâh â khopa y veih ei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Noh kha cha Sawla paw Kisâ alâzy lei ta, Kisâ ta a sawchapawpa Sawla hnohta, “Thyu la, chakaotuhpa pakha a chhi la, sie la alâzy kei tlua teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Epharai tlâh râh chahryh ta, Salisâ râh chhao chahryh ta, châhrasala hmô leipa ei ta. Sâli râh chahryh heih ei ta, cha liana chhao cha y leipa ei ta. Chatawhcha Benzami râh chahryh heih ei ta, châhrasala hmô hlei leipa ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Zupha râh ama tlô nahta, Sawla ta a hnohta a siepa a chakaotuhpa hnohta, “A vy teh, a lie thlâh ha ei si, chataleipatala ei pâ ta alâzy pachâ khao leipa ta, keimo tlao miah pachâpa ta, a pachâ a rôh ngâ kaw aw na,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Châhrasala chakaotuhpa ta a hnohta, “Pachâ tua, he khih liana he Khazohpa chyhsa pakha y ta, chyhsa zachhih ngaitapa a châ, a reipa maih a tlô lymâ tyh. Cha lâ cha vawh tua ei si, eima sie nawpa lâpi miah a chho thei ngyu aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Sawla ta a chakaotuhpa hnohta, “Vawh ei sih la, cha chyhsa châta khâpa ma eima cheipa aw? Eima sahriazy liata viahchhâ hra cha y khao tlôh va, Khazohpa chyhsa châta kuhria eima cheipa awpa y vei. Eima hneipa a y rai ma?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Chakaotuhpa ta Sawla cha a chhy heih ta, a hnohta, “Moh teh, tâkâ saki miakha ei hnei, he he eima siena awpa lâpi miah a chho thei nawpa ta, Khazohpa chyhsa cha ei pie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hlâno Izarei râh liata cha, chyhsa ta Khazohpa â saohiah khoh nahta, “A vy teh, hmôtheituhpa lâ vawh ei si,” ama tah tyh. Tanoh ta hrohsopa he hlâno ta cha hmôtheituhpa tahpa ta aw tyhpa a châ.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Sawla ta a chakaotuhpa hnohta, “Na reipa cha a pha na, a vy teh, vawh ei suh u,” tah ta. Chatanachata Khazohpa chyhsa yna khihpi lâ cha sie ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Khihpi lâ khyna lâpi chakhâ ama kia ngâ no ta, ti thai awpa ta a vaw puapa laihsazy a tyh ei ta, ama hnohta, “He liata hmôtheituhpa a y ma?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Laihsazy ta a chhy ei ta, ama hnohta, “A y tlaih, nama hmiata liata a sie. A para teh u, tanoh cha su sâhpa liata atheihna hlâna noh a châpa vâta, tahmâ tlai kha khihpi liata a vaw tlô.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Khihpi namâ ngiapa nahta, su sâhpa liata pati nie awpa ta a khy hlâta, ano cha thlai nama hmô aw. Atheihna châta byhnâ a aw ha tua awpa a byuhpa vâta, ano a tlô hlâlei cha zawpi ta pati nie aw veih ei. Cha khai tawhta hrua eihpazy ama nie tyh. Chavâta khy para u la, thlai nama hmô aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Khihpi lâ cha khy ei ta. Khihpi amâ ngiapa nahta, su sâhpa lâ khy a chhuahpa Samuela cha a tyh ei ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Mylâ Sawla a vaw tlô awpa noh ta, Abeipa ta Samuela hnohta,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />“Mylâ, he daihti liana heta, Benzami râh tawhta nâ lâta chyhsa pakha vaw pasiesa aw na ta, ei phopi Izarei chô liata ryureituhpa châta sathaw na thu aw. Ano ta ei phopi cha Philistinâ mo ku tawhta a pachha aw. Ei phopi chapa pyu ta ei kô kaw daih ta, ei phopi pasataona ei hmô haw,” tahpa ta vaw pahnosa chhielie ha ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Samuela ta Sawla a hmô nahta, Abeipa ta a hnohta, “Mo teh, kha chyhsa kha a kyh ei cha chhopa chyhsa cha a châ. Ano ta ei phopi chô liata ryu a reih aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Sawla ta Samuela cha thokhy chhikao liata a kei hnia ta, a hnohta “Hmôtheituhpa o khataih liata ma a y? Ngiachhiepa ta na chho teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Samuela ta Sawla cha a chhy ta, “Kei he hmôtheituhpa cha ei châ. Su sâhpa lâ pangaipa ta ei hmia lâta sie teh, tanoh ei hnohta pati nie aw chi ta, mylâ my ta cha pasiesa aw na ta, na palôh liata a ypa zydua chhao ei cha chho aw.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Noh thôh a lei hapa alâzy kyh liata na pachâ chhie khah sy, ama hmô haw. Izarei liata rônahna zydua cha ahy châta ma a châ? Nâ nata na paw chhôhkha zydua châta châ vei mâ?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawla ta a chhy ta, “Kei he Izarei chi hry liata chi chyh chaipa Benzami chi châ va na mâ? Ei pho chhao Benzami chi pho zydua hry liata pho chyh chaipa châ vei mâ? Kheihtazieta he hawhta ei hnohta a reihpa ma na châ tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Samuela ta Sawla nata a chakaotuhpa cha a chhi ta, ama pano ta chhôhpadâhpa laipa lâ a ngiakhei ta, hrua eihpa chyhsa sythôhzy hlâta â sâh viapa liata âmo cha patyusa ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Samuela ta beihchhotuhpa hnohta, “Ânano ta so awpa ta savyuh ei cha piepa kha vaw cheih teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Beihchhotuhpa ta a byhpi nata a chô lâta a ypa sa cha vaw cheih ta, Sawla hmiakô liata soh ta. Samuela ta, “Moh teh, nâma châta ano eih ta sopa ama cha vaw pie hih. Nie teh, he savyuh he, ‘Chyhsazy ei hrua ei’ ei tah noh tawhta, he daihti a vaw tlô hlâlei cha nâma châta sopa a châ,” tah ta. Cha noh ta, Sawla cha Samuela pati dôh lâh ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Su sâhpa tawhta khihpi lâ amâ zu nahta, o chô liata Sawla a zia nawpa taopa ei ta. Sawla cha a mô awpa ta a zia ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Khih a dei nahta, Samuela ta o chô lâta a ypa Sawla cha aw ta, “Thyu teh, ei cha pasiesa bâ aw,” tah ta. Sawla cha thyu ta, ama pano ta pua ei ta, Sawla nata Samuela cha sie khoh ei ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Khihpi chhâna opâh ama za tlô nahta, Samuela ta Sawla hnohta, “Châ chakaotuhpa he eima hmia lâta pasiesa la, sie lymâ sala, nâ deikua cha buakha a duah chy teh, Khazohpa bietapa ei cha chho aw,” tah ta.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela ta sathaw ôh pachhi ta, Sawla luh liata bao ta, Sawla cha a pahnâ ta, a hnohta, “ Abeipa ta a ryuto chô liata ryureituhpa châ awpa ta sathaw a cha thu. Abeipa phopi chô liata ryureih aw chi ta, âmo a chadôpa ama chariahpazy ku tawhta na pachha aw ei. He he Abeipa ta a ryuto chô liata ryureituhpa châta sathaw a cha thu tahpa na châta ngiana a châ aw.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tanoh keima tawhta na sie tita, Benzami râh Zezah liata Râkheli thlâ kiah liata chyhsa pano a tyh aw chi ta, âmo ta na hnohta, ‘Alâ na tluapazy kha ama hmô haw. Tahmâ cha na paw ta alâzy pachâ khao leipa ta nâma sai cha pachâ ta, “Ei sawchapawpa kyh cha kheihta ma ei tao aw tly?” a tah ngâ thlâh ha na,’ tahpa ta ama cha chho aw.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cha tawhna chata sie lymâ aw chi ta, Tabaw liata ôkâ thokô tlôna taihta na sie aw. Cha liata chyhsa pathôh, Bethel liata Khazohpa lâ a khypazy ta ama châ tyh aw. Pakha ta mietaw pô thôh phaoh aw ta, pakha ta viahchhâ tlâ thôh phaoh aw ta, pakha ta kresawhti ôh kha a phaoh aw.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Châ naoh aw ei ta, viahchhâ tlâ no cha pie aw ei ta, cha cha ama ku tawhta na la awpa a châ.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cha khai tawhta Philistinâ pheisaih yna Kibia Elôhim tlô aw chi ta. Chatawhcha hetana heta a vaw châ aw. Khihpi na tlôpa nahta, su sâhpa tawhta â zupa hrohsopa py a tyh aw chi ta, totâ, khoh, ramo nata tlaipih tôtuhpazy ta hmia a sah aw ei ta, hrohsopazy ta hrohsona bie ama phuahpa na hmô aw.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Nâma chô liata chhao Abeipa thlahpa cha thatlô ngaitapa ta vaw tlô aw ta, nâ chhao ama hry liata a hlaopa ta hrohsona bie phuah hra aw chi ta, chyhsa nanopa lâta pananopa na vaw châ ha aw.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />He ngianazy he na chô liata a vaw tlô tita, na ku ta tao awpa a hmôpa maih tao lymâ mah y, Khazohpa na hnohta a y lymâ aw.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ei hmia lâta siepa ta Kilkal lâ zu aw chi ta, kei chhao raopa hlânazy nata aryhna hlâna atheihnazy hlâ awpa ta nâma lâ ei zu aw. Nâma lâ a zu aw na ta, na tao awpa ei cha chho hlâlei cha, noh sari na vaw y awpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla cha Samuela tawhta a siepata nahta, Khazohpa ta a pathipalôh panano ha ta, ngiana zydua chhao kha, cha noh lia tlai ta a vaw tlô khai haw.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tlâh ama tlô nahta, moh teh u, hrohsopazy py ta ano cha a vaw tyh ei ta, Abeipa thlahpa cha a chô liata thatlô ngaitapa ta vaw tlô ta, hrohsopazy hry liata a hlaopa ta hrohsona bie phuah lymâ hra ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cha hlâta ano a vaw pahnopazy ta, hrohsopazy hry liata a hlaopa ta, hrohsona bie a phuah lymâ hrapa ama hmô nahta, a hiahri raihriepa ta, “Kisâ sawchapawpa chô liata hmo vaw tlôpa he khâpa ma a châ tly? Sawla chhao cha hrohsopazy hry liata â hlao ha hra khiah?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cha su liata chyhsa pakha ta, “Ama paw ahy ma a châ tly?” tah ta. Chavâta, “Sawla chhao hrohsopazy hry liata â hlao ha hra khiah?” tahpa cha bieso lâta a vaw châ haw.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Sawla cha hrohsona bie a phuah khai nahta, su sâhpa lâ sie ha ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Sawla puhpa ta Sawla nata a chakaotuhpa hnohta, “Khataih lâ nama sie?” tah ta. Sawla ta, “Alâzy tlua pi ta, eima hmô leipa vâta Samuela lâ eima pangai,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Sawla puhpa ta, “Samuela ta na hnohta khâpa bie ma a cha chho? Na chho tua,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Sawla ta a puhpa hnohta, “Alâzy ama hmô haw tahpa a sia kawpa ta miah a chho,” tah ta. Â bei nawpa kyh Samuela ta a reipa deikua cha a puhpa chho vei.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Samuela ta Izarei phopi cha Mizpâ liata Abeipa lâta awpakhy ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Izarei sawzy hnohta, “Zehôvah, Izarei Khazohpa ta hetana heta a tah: ‘Izarei cha Izi tawhta a kaw chhi papua na ta, Izi mo ku tawhta cha pachha ei na ta, châ tlybaituhpa abeinarâhzy ku tawhta chhao ei cha pachha ei.’
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Châhrasala tanoh he nama chhiena nata nôpona zydua tawhta châ pachhatuhpa, nama Khazohpa cha khoh leipa ei chi ta, a hnohta, ‘Châ vei, eima chô liata bei miah paduapa teh,’ nama tah. Chavâta tahmâ a chi chi nata a pho pho ta Abeipa hmiakô liata a vaw luah teh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Samuela ta Izarei chi zydua cha vaw paluahsa ta, Benzami chi cha nuby a daopa ta a tlyhpa a châ.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Benzami chi cha a pho pho ta vaw paluahsa heih ta, Mâteri pho cha nuby a daopa ta a tlyhpa a châ. A chhâna liata Kisâ sawchapawpa Sawla cha nuby a daopa ta a tlyhpa châ ta. Châhrasala ano cha tlua ei ta, hmô leipa ei ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Abeipa hiahri heih ei ta, “Chyhsa a vy awpa ama y khao ma?” tah ei ta. Abeipa ta, “Moh teh u, hmobaoh hry liata â nyu thlâh haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />A râhnao ei ta, cha su tawhta a vaw chhi ei ta, zawpi hry liata a vaw duah ta, chyhsazy hry liata a doh seih chai ta, a ngiatlâh â khopa chhao ahy hmah y veih ei.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Samuela ta zawpi zydua hnohta, “ Abeipa ta â tlyhpa chyhsa he nama hmô ma? Chyhsa zydua hry liata ano hawhpa rai y veih ei,” tah ta. Zawpi zydua ta, “Abei cha hroh pareih mawh sy!” tahpa ta awh ei ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Samuela ta zawpizy cha khinarâh ryureina siekheizie awpa kyh zy chho ta, chazy cha châbu liata roh ta, Abeipa hmiakô liata soh ta. Chatawhcha Samuela ta zawpizy cha ama o chyu lâta padisa ha ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Sawla chhao Kibia khih liata ano o lâ a di ha hra ta. A hnohta pasaipha, Khazohpa ta ama pathipalôh a hriapazy sie hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Châhrasala chyhsa dyutlaileipa thokhazy ta, “He chyhsa heta kheihta ma miah a pachha thei aw tly?” tah ei ta, ano cha khâpasaw ta reih leipa ei ta, hmosaipa chhao pie khoh veih ei. Châhrasala Sawla cha a thlih thlâh ha ta.
+  </para>
+  <chapter number="11" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Amawna chyhsa Nahâsâ cha vaw pua ta, Zabekilia khih dôh ta, Zabe mo zydua ta Nahâsâ hnohta, “Eima hnohta bie hraih la, eima cha chakao aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Amawna chyhsa Nahâsâ ta ama hnohta, “He hawhta nama paryhsa khiahta cha, nama hnohta bie ei hraih aw: nama zydua mokhaoh chachâh lâ thaoh khai aw na ta, cha cha Izarei zydua chô liata nohzaona ei patlôsapa a châ aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Zabe machâzy ta a hnohta, “Izarei râh zydua liata lyuhchâpa eima pasiesa thei nawpa ta noh sari miah hâ chy mah y. Miah pachha awpa ahy hmahta ama y vei khiahta cha, nâ liata eimâ châ vaw hlâ aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lyuhchâpazy cha Sawla yna Kibia khih ama tlô nahta, bie ama phaopazy cha zawpi nah theina liata reih ei ta, zawpi zydua cha aoh tlili ta cha ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cha nota, moh tua u, Sawla cha viahchao vaw haoh laihpa ta lyu tawhta vaw tlô ta, ama hnohta, “Khâpa hmo pha leipa ma zawpizy he amâ tyh tly? Khazia ma ama cha ngâ kaw tly?” tah ta. Zabe mo bie reipa cha chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cha biezy cha a theipata nahta, Khazohpa thlahpa cha Sawla chô liata thatlô ngaitapa ta vaw tlô ta, a hie thata hâh ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Viahchao bao kha thie ta, a vyuh vyuh ta pachhaih ta, Izarei râh zydua liata rai awpa ta, lyuhchâpazy ku liata pie ta, ama hnohta, “Ahy rai vaw pua leipa ta Sawla nata Samuela a zi khoh leipa maih cha, ano viahchao chhao, he hawhta taopa a châ aw,” tah ta. Abeipa china ta Izarei phopi cha tla thlu ta, reih kha tlapa ta vaw pua ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Beze liata ama maluh reih ta, Izarei sawzy 300,000 y ei ta, Zudâh chyhsa 30,000 ama y.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Chatawhcha Zabekilia tawhta lyuhchâpa ama vaw tuapazy hnohna chata, “‘Mylâ noh sa locho daihti liata pachhapa nama châ aw,’ tahpa ta Zabekilia mo cha kei chho muh vy,” tah ei ta. Lyuhchâpazy cha sie ei ta, cha bie cha Zabe mo chho ei ta, a ly ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Zabe mo ta Amawna mo hnohta, “Mylâ nâmo lâta vaw pua aw pi ta, eima chô liata nama khohpa hawhta tao muh vy,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A mylâ ta Sawla ta Izarei phopi cha py thôh ta pachhaih ta, my vaina daihti liata Amawna mo riehmo cha a ngia ei ta. Amawna mo cha nohchhô lochona taihta thie lymâ ei ta, a hroh tlakaihpazy cha a râpai khai ha ei ta, pano ta a y khohpa dâhdei chhao hmôpa y khao veih ei.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chatawhcha Izarei phopi ta Samuela hnohta, “‘Sawla ta eima chô liata ryu a rei bao hra aw ma’ a tahpazy kha, ahyzy ma ama châ? Kha chyhsazy kha a vaw chhi u la eima thie aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Châhrasala Sawla ta, “Tanoh hawhpa liana heta la ahy hmahta thie awpa châ vei, tanoh he Abeipa ta Izarei a pachhana noh a châ hih,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Samuela ta ama hnohta, “A vy teh u, Kilkal lâ sie sih la, cha liata khinarâh pa-i suh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Izarei phopi zydua cha Kilkal lâ sie ei ta, Kilkal liana chata Sawla cha Abeipa hmiakô liata bei ta tao ei ta. Cha liata Abeipa hmiakô ta aryhna hlâna atheihnazy hlâ ei ta, Sawla nata Izarei chyhsa zydua cha a ly ngaitapa ta y ei ta.
+  </para>
+  <chapter number="12" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela ta Izarei zydua hnohta, “Pachâ teh u, ei hnohta bie nama reipa zydua nathlie na ta, nama chô liata ryu a reih awpa bei ei cha taopa ei.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tahmâ cha nama hmia lâta a sie awpa bei nama hnei haw. Kei cha machâpa nata luhpawhpa châ ha na ta, ei sawchapawzy nama hnohta ama y hih. Ei thyutlia daihti tawhta tanoh taihta nama hmia lâta ei sie lymâ.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tahmâ nama hmiakô liata ei duah hih. Eina reipasipasua nawpa ei chi nama hneipazy cha, Abeipa hmiakô liata nata a sathawthupa hmiakô liana heta reih teh u. Ahy viahchao tôhpa ma ei chhu? Ahy alâ ma ei chhu? Ahy ma ei dôvei? Ahy ma ei tlybai? Ahy ku tawhta ma panaopapana ei la? Cha panaopapana chata a mo a pachaopa ei châ ma? Reih teh u, ei cha thô khai aw ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Âmo ta, “Miah dôvei beih leipa chi ta, miah tlybai beih hra leipa chi ta, ahy ku tawhta hmah â doleipa ta la beih va chi,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Samuela ta ama hnohta, “Ei ku liata adoleina khâpa hmah hmô veih ei chi tahpa tanoh he Abeipa cha nâmo châ pahnokheituhpa châ ta, a sathawthupa chhao pahnokheituhpa a châ hra,” tah ta. Âmo ta, “Ano cha pahnokheituhpa a châ,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Samuela ta Izarei phopi hnohta, “Mawsi nata Arawna a raotuhpa Abeipa nata châ pathlatuhpazy Izi râh tawhta a kaw chhi papuatuhpa ta a cha pahnokhei ei.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chavâta tahmâ a chalihpa ta a duah u la, Abeipa ta nama chô liata nata châ pathlatuhpazy chô liata siana hmo a tao tyhnazie zy kha, Abeipa hmiakô liata ei châ laichadaikhei aw ei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Izi râh liata Zakaw â ngia hnôh lâna khata, châ pathlatuhpazy ta Abeipa awsao ei ta, Abeipa ta Mawsi nata Arawna tuah ta, âmo ta châ pathlatuhpazy cha Izi râh tawhta a chhi papua ei ta, he su liata ama vaw pahrâsa.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Châhrasala Abeipa ama Khazohpa cha my ha ei ta. Chavâta Abeipa ta âmo cha Hâzaw pheisaih hyutuhpa Siserâ ku liata nata Philistinâ mo ku liata nata Môabâ bei ku liata zuah ha ta. Âmo chata Izarei sawzy cha a vaw dyuh ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Chatawhcha Abeipa awsao ei ta, a hnohta, ‘Eima vaw molei ha na, Abeipa a heihsai pi ta, Bâlâzy nata Astarôzy eima vaw chakao haw. Chatahrasala tahmâ eima chariahpazy ku tawhna heta miah pachha la, nâma eima cha chakao bâ aw,’ tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chatanachata Abeipa ta Zerubâlâ, Bâraka, Zephathâ nata Samuela zy vaw tuah ta, su to tawhta châ chadôpa nama chariahpazy ku tawhta cha pachha ei ta, â bohpa ta nama y.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Châhrasala Amawna bei Nahâsâ cha nâmo a dyuh awpa ta â vy tahpa nama pahno nahta, Abeipa nama Khazohpa cha nama bei a châ thlâh hapa chhao ta, ei hnohta, ‘Châ vei, abei ta eima chô liata ryu a reih awpa a châ,’ nama tah heih.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Chavâta moh teh u, he he bei châta namâ tlyhpa cha châ ta, nama hiapa bei cha a châ hih. Moh teh u, Abeipa ta nama chô liata ryu a reih awpa bei a cha taopa ha ei hih.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Abeipa cha chipa ta, ano cha chakao u la, a ao nathliepa ta, Abeipa biepiepa a dyuh leipa u la, nâmo nata nama chô liata ryureituhpa bei chhaota Abeipa nama Khazohpa a zipa nama châ khiahta cha, a pha aw.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Abeipa ao nathlie leipa ta, Abeipa biepiepa namâ dyuh khiahta deikua cha, châ pathlatuhpazy â dyuhpa hawhna khata, Abeipa ku ta nâmo nata nama bei cha a châ dyuh aw ei.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Chavâta tahmâ a chalihpa ta a duah u la, Abeipa ta nama mohmô ta hmo rônah ngaitapa a tao awpa he moh teh u.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Tanoh he sâh hria noh châ vei ma? Tôkalôhpa pathuasa awpa nata avâ pasuasa awpa ta, Abeipa ei awsao aw. Chatanachata bei nama hiana kyh liata Abeipa mohmô ta hmo nama paraopa he a rarôh yzie pahno aw ei chi ta, nama hmô aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Samuela ta Abeipa cha aw ta, Abeipa ta cha noh liata, tôkalôhpa pathuasapa ta, avâ pasuasa ta. Zawpi zydua ta Abeipa nata Samuela cha chi ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Izarei phopi zydua ta Samuela hnohta, “Eima thi lei nawpa ta, châ chakaotuhpazy châta Abeipa na Khazohpa lâ thlah miah chhâpa teh. Bei hiah pi ta, he hmo pha lei ngaitapa eima taopa he, eima moleina zydua baichhatuhpa tlao a vaw châ,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Samuela ta ama hnohta, “Chi khah u, he hmo pha lei ngaitapa he tao tlai ei chi ta, châhrasala Abeipa nama zipa cha tleisai leipa u la, nama pathipalôh tlokhuh ta Abeipa cha chakao muh vy.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Khâpa châta hmahta a phahnai lei awpa nata châ pachha thei lei awpazy zipa ta tleisai khuh vy, âmo cha hraoleipazy ama châ.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />A moh rônah ngaitapa vâta Abeipa ta ano phopi cha a heihsai aw vei. Ano phopi châta a cha taopa liana ei heta Abeipa cha a palysa ngaita.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cha dei châ vei, nâmo châta thlah ei chhâ leipa vâta Abeipa chô liata ei molei awpa cha, kei ta la tao cheita aw va na. Lâpi phapa nata lâpi dopa tlao ei cha pahmô lymâ aw ei.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Chavâta Abeipa cha chi u la, ngâchhih ngaitapa ta, nama pathipalôh tlokhuh ta ano cha chakao u la, nama châta a hmotaopa rônahpazy kha pachâ tyh muh vy.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Molei ngaitapa ta hmo nama tao ngâ thlâh ha khiahta deikua cha, nâmo chhao, nama bei chhao, pahleipadiapa nama châ aw,” tah ta.
+  </para>
+  <chapter number="13" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Sawla cha kô kha a y tawhta a bei pathao ta. Izarei chô liata kô no â bei tawhta,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sawla ta Izarei pheisaih 3,000 a tlyh ta. Pheisaih 2,000 Mikamâ nata Bethel tlâh râh liata Sawla hnohta y ei ta, pheisaih 1,000 Benzami râh Kibia liata Zawnathâ hnohta y ei ta. Ahropazy deikua cha ama poh o lâ chyu ta padisa khai ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Zawnathâ ta Kebâ liata Philistinâ pheisaih su a dyuh ta pahnie ta, cha cha Philistinâ mo ta vaw thei ei ta. Cha kyh liata Sawla ta, “Hebrai mo ta thei mawh ei sy,” tahpa ta râh zydua liata chiahmie patôsa ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sawla ta Philistinâ pheisaih su a dyuh ta a pahniepa thâtih nata Izarei cha anosasyh ta Philistinâ mo khakhaipa ta â tao haw tahpa thâtihzy Izarei zydua ta thei ei ta. Izarei phopi cha Sawla hnohta Kilkal liata a hmaohpakhy ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Philistinâ mo cha Izarei a dyuh awpa ta a pahmaoh ei ta, talailih 30,000 nata arâ pheisaih 6,000 châ ei ta, pheisaihzy chhao tilaipi raphyu liata sadi zie tlai ta ama hluh. Philistinâ mo cha khy ei ta, Bethave nochhi lâchhâh ta Mikamâ liata riehmo paryh ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Izarei pheisaihzy cha chadiepa ta y ei ta, ama duahmo a pha leizie ama hmô nahta, lôpu liata zy, apopa liata zy, lôpanô liata zy, khaohtlô liata zy, tipâh ruapa liata zy a nyu ei ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hebrai mo thokhazy cha Zawdâh chakapa ta Kâdâ nata Kilia râhzy lâ a râ ei ta. Sawla deikua cha Kilkal liata y thlâh ha ta, a hnohta a ypa pheisaih zydua cha chipa ta a chalyu ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Samuela ta noh a raopa hawhta, Sawla cha noh sari hâ ta, châhrasala Samuela cha Kilkal lâ a vy to leipa ta. Chavâta a hnohta a ypa pheisaihzy ta Sawla cha paisai pathao ei ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla ta, “Raopa hlâna nata aryhna hlânazy kha, he lâ na vaw pie teh u,” tah ta. Raopa hlâna cha hlâ ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Raopa hlâna a hlâ khaipata nahta, Samuela cha vaw tlô ta. Sawla cha ano dy awpa nata a naoh awpa ta pua ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Samuela ta, “Khâpa hmo ma na tao haw?” tah ta. Sawla ta, “Izarei phopi ta na paisai lymâ ei ta, nâma hra ta noh raopa noh liata vaw tlô khao leipa chi ta. Mikamâ liata Philistinâ mo cha amâ hmaohpakhy haw tahpa thei tlôh na ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />‘Philistinâ mo ta Kilkal liata nâ vaw dyuh daihmâ tlôh ei ta, Abeipa khokheina hra hia leipa na ta’ tahpa ta pachâ na ta. Raopa hlâna cha a lei thei leipa ta ei vaw hlâ hapa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Samuela ta Sawla hnohta, “Hru ngaitapa ta hmo na tao haw. Abeipa na Khazohpa ta zyh awpa ta biepiepa a cha piepa zyh khoh va chi. Zyh ha la cha, Izarei chô liata nâ beina he Abeipa ta chhâzaw châta a pa-i ha awpa tlai.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Châhrasala tahmâ cha na khinarâh he a duah parei khao aw vei. Abeipa ta bie a cha piepa na zyh leipa vâta, Abeipa ta ano palôh a phaohpa chyhsa tlua ta, a phopi chô liata a bei awpa ta Abeipa ta ano cha a rao haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Chatawhcha Samuela cha thyu ta, Kilkal tawhta sie ha ta. Sawla nata a hnohta a ypazy deikua cha, pheisaihzy a tyh awpa ta Kilkal tawhta Benzami râh Kibia khih lâ khy ei ta. Sawla cha a hnohta a ypa pheisaih maluh reih ta, ama zydua ta 600 rachhôh ama châ.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Sawla nata a sawchapawpa Zawnathâ nata ama hnohta pheisaih a ypazy cha Benzami râh Kibia khih liata y ei ta. Philistinâ mo cha Mikamâ liata riehmo paryh ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hraotuhpazy cha Philistinâ mo riehmo tawhta py thôh ta vaw pua ei ta, py kha cha Suâ râh Ôpharâ khih pangaina lâpi a chhih ei ta,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />py hropa ta Behôrô lâ pangaina lâpi a chhih ei ta, py kha heih cha râhchawhpa daih lâ Zebô saikao lâ a heihpa râhri lâpi a chhih ei ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Izarei râh pôhpalôhpa liata syudaihpa rai y leipa ei ta, a chhâpa cha Philistinâ mo ta, “Hebrai mo ta zaozi nata asei zy amâ tao pathlei aw na,” tah ei ta ama pakhâ hapa vâta a châ.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Chavâta Izarei zydua ta ama tupizy, leipalienazy, ahreizy nata sâkarâzy chata awpa ta, Philistinâ mo yna lâ ama zu tyh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Ama chatasana mâ cha, leipaliena thuaku nata ahrei chatana châta sekel su thôh su no châ ta, sâkarâ nata tupi chatana nata thua hmao pazaona châta sekel su thôh su kha a châ.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Adyuhna noh ta Sawla nata Zawnathâ hnohta pheisaih a ypazy cha zaozi tlyma, asei tlyma a hneipa rai y leipa ei ta, Sawla nata a sawchapawpa Zawnathâ deita ta hnei ei ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Philistinâ pheisaihzy cha Mikamâ pangaina saikao lâpi lâta sie ei ta.
+  </para>
+  <chapter number="14" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Noh kha cha Sawla sawchapawpa Zawnathâ ta a chariah chhaichhi a chabatuhpa satliapa hnohta, “A vy teh, haosâ lâ Philistinâ pheisaihzy yna lâ hao vawh tua ei si,” tah ta. A paw deikua cha chho leipa ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sawla cha Kibia khih khôtho, Mikaraw liata pawmikarânâ kô ry liata y ta, a hnohta pheisaih 600 rachhôh y ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Ephaw a kypa Ahiza chhao ama hry liata a hlao hra ta. Ano he Ikhabaw unawhpa Ahitu sawchapawpa châ ta, Ikhabaw cha Phinehâ sawchapawpa châ ta, Phinehâ cha Silô khihpi liata Abeipa theihthaipa Eli sawchapawpa kha a châ. Zawnathâ a siepa cha zawpizy ta pahno veih ei.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Philistinâ pheisaihzy yna su tlô nawpa ta Zawnathâ ta lâpi a chhih â chhuahpa saikao lâpi chavei chachâh liata lôkâhpa y ta, sâkhapa cha Bôze tah ei ta, ahropa cha Seneh ama tah.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Lôkâhpa miakhapa cha Mikamâ dady maw lâchhâh ta y ta, ahropa cha Kebâ dady chho lâchhâh ta a y.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zawnathâ ta a chariah chhaichhi a chabatuhpa satliapa hnohta, “A vy teh, chopawtaileipa sahlao pheisaihzy yna lâ hao vaw tua ei si. Abeipa ta hmo miah a taopa thlâh ha ngyu aw. Chyhsa hluhpi ta tlyma, chyhsa chyhta tlyma, pachhana rai hria awpa ta Abeipa cha khâpa ta hmahta pakhâ thei vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A chariah chhaichhi chabatuhpa ta a hnohta, “Na palôh liata a ypa zydua tao mah y, na hnohta ei y, na pachâna cha ei pachâna a châ hra,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Zawnathâ ta, “Moh teh, haosâ kei chakapa ta chyhsazy yna lâ hao vawh aw pi ta, eimâ kei pahmôsa aw.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Âmo ta eima hnohta, ‘Nâmo lâta eimâ vy hlâlei cha vaw y thlâh ha teh u,’ miah ama tah khiahta cha, eima yna su liata a chalihpa ta a duah thlâh ha aw pi ta, âmo lâ khy aw ma pi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />‘Keimo lâ a khy teh u,’ ama tah khiahta deikua cha, khy aw pi ta, Abeipa ta eima ku liata miah a pie haw tahpa eima châta ngiana a châ aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ama pano ta Philistinâ pheisaihzy cha a kaw pahmôsa ei ta. Philistinâ mo ta, “Moh tua u, Hebrai mo amâ nyuna khaohtlô tawhta ama vaw pua huh,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Pheisaih su liata chyhsazy ta Zawnathâ nata a chariah chhaichhi a chabatuhpa cha awsao ei ta, ama hnohta, “Keimo lâ a khy teh u, hmo eima cha pahmô aw,” tah ei ta. Zawnathâ ta a chariah chhaichhi a chabatuhpa hnohta, “Na kaw zi teh, Abeipa ta Izarei ku liata a pie ha ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Zawnathâ cha a ku nata a phei ta kiah ta, a chariah chhaichhi chabatuhpa ta pazi ta. Philistinâ mo cha Zawnathâ hmiakô liata pao ei ta, a chariah chhaichhi a chabatuhpa chhao ta ano hnôhlâ ta Philistinâ mo cha thie lymâ hra ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Zawnathâ nata a chariah chhaichhi a chabatuhpa ta Philistinâ mo ama thie tua chai noh liana chata, sâh bai khophie tuna rachhôh a kawhpa su liata chyhsa pakih tlai ama thie.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Riehmo liata zy, lyu liata zy, zawpi zydua hry liata chhao, a pahlawpa ta a chalyu ei ta. Riahvaituhpa pheisaihzy nata hrâ a siepa pheisaihzy taihta thata amâ chalyu. Alo a vaw sih ta, thata tyhreihna vaw y ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Benzami râh Kibia liata Sawla riahvaituhpazy ta mohmia pasaih ei ta, zawpizy cha su to lâta a râpaipa ta ama ypa hmô ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Sawla ta a hnohta chyhsa a ypazy hnohta, “Tahmâ maluh a reih u la, ahyzy ma keimo tawhta a sie ei tahpa tlua teh u,” tah ta. Maluh cha reih ei ta, Zawnathâ nata a chariah chhaichhi chabatuhpa cha y leipa ei ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Sawla ta Ahiza hnohta, “Khazohpa Byh kha he lâ vaw cheih teh u,” tah ta. Cha daihti liata cha, Khazohpa Byh Izarei sawzy hnohta a y daihti châ ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Sawla ta theihthaipa bie â chho hai nota, Philistinâ mo riehmo liata tymâna thata y ta, paru via lymâ ta. Sawla ta theihthaipa hnohta, “Na ku kha la teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Sawla nata a pheisaih zydua cha a hmaohpakhy ei ta, adyuhna lâ pua ei ta. Philistinâ mo cha thata a tymâ ei ta, âmo nata âmo ta zaozi ta a chhawh chaimâh ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Cha hlâta Philistinâ mo chhâh a châpa Hebrai chyhsa, Philistinâ mo riehmo lâta a sie hrapazy chhao ta, Sawla nata Zawnathâ hnohta a ypa Izarei mo lâ a vaw palie ei ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Cha hawhna hra chata Epharai tlâh râh liata a nyupa Izarei chyhsa zydua chhao ta, Philistinâ mo amâ râpai hapa thâtih ama thei nahta, âmo chhao adyuhna liata a hlao hrapa ta Philistinâ mo cha thata a chadai hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cha noh ta Abeipa ta Izarei cha pachha ta, Bethave khô lâ taihta amâ dyuh lymâ.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Cha noh liata, Izarei pheisaihzy cha thachhâ panaopa ta y ei ta. A chhâpa cha Sawla ta, “Zâlâ daihti a tlô hlâta nata ei chariahpazy chô liata phuh ei la khai hlâta pati a niepa cha chhiesapa ta y mawh sy,” tahpa ta pheisaihzy cha bietai ta a chahry hapa vâ ei ta a châ. Chavâta pheisaih ahy hmahta pati a padipa y veih ei.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Pheisaih zydua cha râhmâhpa kei tlô ei ta, moh tua u, alei liata kheihti vaw y thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Pheisaihzy ta râhmâhpa amâ ngia nahta, moh teh u, kheihti vaw loh ngâ kaw ta. Châhrasala bietai ama chipa vâta, a pakah liata a ku â tupa rai y veih ei.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Zawnathâ deikua cha, a paw ta bietai ta pheisaihzy a vaw chahry hapa cha pahno leipa ta, a chôchahrei chabapa pawhmao ta kheihthlawh liata kei dy ta, a pakah liata a ku â tu ta, a mo vaw sia ha ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Pheisaih pakha ta a hnohta, “Na paw ta, ‘Tanoh pati a niepa cha chhiesapa ta y mawh sy’ tahpa ta pheisaihzy bietai a i ngaitapa ta chahry ha ta, chavâta pheisaihzy he ama panao hapa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Zawnathâ ta, “Ei paw cha râh nô a papo cha zaw! Pachâ tua u, kheihti a chyhta ei padipa vâta ei mo liahsa a vaw sia ha hih.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Tanoh he pheisaihzy ta ama chariahpa hmo hrao awpa ama hmôpa maih ama khopa hawhta nie thei ei sala, khatlu ta ma a pha via aw tly? Philistinâ mo eima thiepa chhao ama hluh via syulyu awpa tlai” tah ta.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Cha noh ta Mikamâ tawhta Aizalô taihta Philistinâ mo cha a dyuh ei ta. Pheisaihzy cha thata panao ei ta.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Pheisaihzy ta ama hraona hmo cha a zawhnao ei ta, mietakuzy, viahchao tôhpazy, viahchao tawzy patu ei ta, alei liata thie ei ta, a thisaih chhaota nie ei ta.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />“Moh tua, pheisaihzy ta thisaih chhaota niepa ta Abeipa chô liata hmo ama parao ha huh,” tahpa ta Sawla cha chho ei ta. Sawla ta, “Piehpie ngaitapa ta hmo nama tao haw. Tahmâ alô laipa thlai na vaw pahluapa teh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Sawla ta, “Pheisaihzy hry liata chahryh u la, ama hnohta, ‘Chyhsa to ta a viahchao tlyma, a mietaku tlyma, he lâ a vaw chhi sala, he liata thie sala, nie mawh sy. Thisaih chhaota niepa ta Abeipa chô liata hmo parao khuh vy,’ a tah na tahpa ta kei chho teh u,” tah ta. Cha zâ liata pheisaih zydua ta ama viahchao tôhpa a vaw chhi chyu ei ta, cha liata thie ei ta.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Sawla ta Abeipa châta maisâh tao ta, cha cha Abeipa châta maisâh a tao tua chaipa a châ.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Chatawhcha Sawla ta, “Zâ ta Philistinâ mo a zâ dyuh ei sih la, my khih pavâna taihta hrao ei suh u, pakha hmah pahlôh kha ei suh u,” tah ta. Âmo ta, “Pha na tahpa maih tao mah y,” tah ei ta. Theihthaipa deikua ta, “He liata Khazohpa a hnia tua ei suh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Sawla ta, “Philistinâ mo cha ei zâ dyuh aw mâ? Âmo cha Izarei ku liata na pie aw mâ?” tahpa ta Khazohpa hiahri ta. Châhrasala cha noh liata Khazohpa ta a chhy leipa ta.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Chatawhcha Sawla ta, “Nâmo Izarei phopi chhituhpa zydua kha he lâ a vaw hnia u la, tanoh he khâpa moleina ma eima tao haw tahpa a laichadai u la, pahno a chhuah teh u.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Izarei pachhatuhpa Abeipa hrona reipa ta ei reih, ei sawchapawpa Zawnathâ chô liata a tlupa chhao rai châ sala, a thi thlyu awpa a châ,” tah ta. Châhrasala a bie â chhy ngâhpa pheisaih zydua hry tawhta pakha hmahta y leipa ei ta.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Chatawhcha Sawla ta Izarei zydua hnohta, “Nâmo su kha liata y u la, kei nata ei sawchapawpa Zawnathâ he su hropa liata eima y aw,” tah ta. Pheisaihzy ta Sawla hnohta, “Pha na tahpa hawhta tao mah y,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Sawla ta, “Hy Abeipa , Izarei Khazohpa, khazia ma tanoh châ chakaotuhpa he na chyh-ei khoh vei tly? He moleina he keima chô liata tlyma, ei sawchapaw Zawnathâ chô liata tlyma a y khiahta cha, Hy Abeipa Izarei Khazohpa y, Uri châ sala, he moleina he na phopi Izarei chô liata a y khiahta deikua cha, Thumi châ mawh sy,” tah ta. Zawnathâ nata Sawla chô liata tlu ta, zawpi cha a hua ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Sawla ta, “Kei nata ei sawchapawpa likah pasia teh u,” tah ta. Zawnathâ chô liata tlu ha ta.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Sawla ta Zawnathâ hnohta, “Khâpa hmo ma na tao haw, na chho teh,” tah ta. Zawnathâ ta a chhy ta, “Ei chôchahrei chabapa pawhmao ta kheihti a chyhta ei padi haw, keima na ei châ, ei thi awpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Sawla ta, “Na thi thlyu awpa a châ, Zawnathâ. Na thi vei khiahta cha, Khazohpa ta ei chô liata tao sala, cha hlâta pasa viapa chhao ta tao mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Châhrasala zawpizy ta Sawla hnohta, “He pachhana rônah ngaitapa Izarei hry liata a vaw tlôkheituhpa Zawnathâ he a thi aw ma? Châ bao va! Abeipa hrona reipa ta eima reih, a sâbu miakha chhao alei liata a tla awpa châ vei. Tanoh he ano cha Khazohpa a hrialâhpa a châ hih,” tah ei ta. Zawpi ta Zawnathâ cha pachha ha ei ta, thiepa châ khao vei.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Cha khai tawhta Sawla cha Philistinâ mo â chadaipa cha kuasai ta, Philistinâ mo cha ama yna su chyu lâ sie ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Sawla cha Izarei bei a châ nahta, su to liata a chariahpazy cha a dyuh lymâ ta. Môabâ, Amawna mo, Edômâ, Zôbâ beizy nata Philistinâ mo zy a dyuh ta, â heina lâ maihta pahniena to lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Riahpha ngaitapa ta a dyuh lymâ ta, Amale mo pahnie ta, Izarei cha âmo a hraotuhpazy ku tawhta a pachha ha ei.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Sawla sawchapawzy cha Zawnathâ, Isvi nata Mekhisua zy châ ei ta, a sawchanô panozy moh cha a uhtheinô Merâbi châ ta, a seihnainô Mikâli a châ.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Sawla lapinô moh cha Ahinô châ ta, ano he Ahimazi sawchanô a châ. A pheisaihzy hyutuhpa moh cha Abane châ ta, ano he Sawla puhpa Nerâ sawchapawpa a châ.
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Kisâ cha Sawla paw châ ta, Abane paw Nerâ cha Abie sawchapawpa a châ.
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Philistinâ mo nata Izarei mo cha Sawla hro chhôh zydua ta thata a dyuh ei ta, chavâta Sawla ta chyhsa thatlôpa nata riahphapa a hmôpa maih cha a pheisaih châta a la lymâ ei.
+  </para>
+  <chapter number="15" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela ta Sawla hnohta, “Kei he Abeipa ta a phopi Izarei chô liata bei châta sathaw cha thu awpa ta nâ lâta eina vaw tuapa kha châ na ta, chavâta tahmâ Abeipa bie reipa he nathlie teh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Abeipa Atotaotheipa ta hetana heta a tah: ‘Izarei chô liata Amale hmotaopa, Izi râh tawhta a kaw pua nota lâpi liata â vaw byhpa kha ei thei ngâ thlâh ha.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Chavâta tahmâ sie la, Amale a kei dyuh la, a hneipa zydua kei pahleipadia khai teh. Khâpa hmah na pahlôh awpa châ vei. Chanô nata chapaw, hawti nata hawsaih, viahchao nata mietaku, râraoseihpa nata alâ zy na thie khai awpa a châ,’” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sawla cha Telai khihpi liata pheisaihzy awpakhy ta, ama maluh reih ta, alei pheisaih 200,000 y ei ta, Zudâh chi 10,000 ama y.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sawla cha Amale khihpi lâ sie ta, saikao liata a byh ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Sawla ta Keni mo hnohta, “Sie u la, Amale mo kha puasai teh u. Chataleipatala ei cha thie pâ pathlei aw ei na. Nâmo la Izarei sawzy Izi râh tawhta ama kaw pua nota, ama zydua chô liata phana a palâsatuhpa châ tlôh ei chi ta,” tah ta. Chatanachata Keni mo cha Amale mo hry tawhta pua ei ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Sawla ta Amale mo cha Havilâ tawhta Izi nochhi lâta Surâ taihta a dyuh ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Amale bei Akâ cha a hrohpa ta patu ta, chyhsa zydua cha zaozi ta chhawhsao ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla nata pheisaihzy ta Akâ cha pahlôh ei ta, mietaku nata viahchao pha chaipazy, viahchaotaw nata mietakutaw thawhpazy, a phapa maih pahlôh ei ta. Chazy cha tlokhuh pahleipadia khai ha awpa pasaih leipa ei ta. A pha leipa nata ama kho leipa maih deikua cha, pahleipadia khai ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Abeipa bie Samuela hnohta vaw tlô ta,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />“Sawla bei ei vaw taopa he la, ei ngiapachhi kaw na. Kei na pazi leipa ta, hnôh na chhy ta, ei biepiepazy zyh vei,” tah ta. Samuela cha a hiehâh ngaita ta, azozâkhihdei ta Abeipa pado ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Samuela cha Sawla a hmô awpa ta mydi kari ta thyu ta, chyhsazy ta Samuela hnohta, “Sawla cha Kâmel lâ sie ta, cha liata ano palyupalihna alô bô ta, kua heih ta, sie lymâ ta, Kilkal lâta a zu haw,” tahpa ta chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Samuela cha Sawla kô kei tlô ta, Sawla ta a hnohta, “ Abeipa ta byhnâ cha pie mawh sy, Abeipa biepiepa cha ei tao haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Samuela ta, “Cha mietaku sâpa pyu ei nakhaoh liata a vaw ngiapa nata viahchao a aohpa ei theipa zy cha, khâpa ma a yzie tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Sawla ta, “Amale mo eih amâ vaw chhipa a châ. Abeipa na Khazohpa lâta atheihna hlâ nawpa ta pheisaihzy ta mietaku nata viahchao pha chaipazy ama pahlôh. Ahropa zydua cha tlokhuh eima pahleipadia khai haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Samuela ta Sawla hnohta, “A chalih teh! Zâhnia ei hnohta Abeipa bie reipa ei cha chho aw,” tah ta. Sawla ta, “Reih teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Samuela ta, “Nâma pachâ ta cha, chyhsa chyhpata hawhta a pachâ hra la, Izarei chizy hyutuhpa châ va chi mâ? Abeipa ta Izarei chô liata bei châ awpa ta sathaw a cha thu.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Abeipa ta raihria awpa ta cha tuah ta, ‘Sie la moleipa sahlao Amale mo cha tlokhuh kei pahleipadia khai la, ama leidia khai hlâlei nâ dyuh aw ei,’ cha tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Khazia Abeipa ao na nathlie vei? Khazia hraona sôh a zawhnao chi ta, Abeipa mohmô liata hmo pha leipa na tao?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Sawla ta Samuela hnohta, “ Abeipa ao cha ei nathlie mâh tâh. Abeipa ta raihria awpa ta eina tuana lâ sie na ta, Amale bei Akâ a vaw chhi na ta, Amale mo cha tlokhuh ei pahleipadia khai ha ei mâh tâh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Anodeikuacha pheisaihzy ta hraona sôh pahleipadia awpazy hry liata mietaku nata viahchao pha chaipazy la ei ta, Abeipa na Khazohpa lâta Kilkal liata atheihna hlâ nawpa châta amâ vaw chhipa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Samuela ta, “ Abeipa ta, Abeipa ao nathliepa â lypa hawhta, Raopa hlânazy nata atheihnazy he â ly ma? Pachâ teh, atheihna hlâta reingiahna pha via ta, Mietaku tôhpa thaw hlâta bie nathliepa a pha via.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Chhoruna cha pachaopa moleina nata a lyu ta, Akhotlâhna chhao nothlah a chhypa thaileichâna hawh a châ. Abeipa bie na khoh leipa vâta, Ano chhao ta bei châta cha khoh khao vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Sawla ta Samuela hnohta, “Ei vaw molei haw. Zawpi chi na ta, ama ao ei nathliepa vâta, Abeipa biepiepa nata nâma biezy ei vaw parao haw.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Tahmâ ei moleina nâ ngiahthai la, Abeipa hmiakô liata ei bôh thei nawpa ta, Kilkal lâ nâ liekhei teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Samuela ta Sawla hnohta, “Châ liekhei aw va na. Abeipa bie na khoh leipa vâta, Abeipa ta nâ chhao Izarei chô liata bei châta cha khoh khao hra vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Samuela cha sie awpa ta a palie ta, Sawla ta a viahkao pasipa pai kei patu ta, a hrie ha ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Samuela ta a hnohta, “Tanoh tawhna heta Abeipa ta Izarei khinarâh cha nâma tawhta la ha ta, nâma hlâta a pha viapa, na opapa hnohta a pie haw.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Izarei Rônahna cha haipa bie reih leipa aw ta, a palôh anano hra aw vei. Ano cha chyhsapa hawhta a palôh anano thaipa châ vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Sawla ta, “Ei vaw molei ha tlai na. Chatahrasala ei châ haw na, ei chiheih machâzy nata Izarei hmiakô liana heta tahmâ na palyupalih la, Abeipa na Khazohpa hmiakô liata ei bôh thei nawpa ta, rie na kuakhei mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Chatanachata Samuela ta Sawla cha kuakhei ta, Sawla cha Abeipa hmiakô liata a bôh ta.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Samuela ta, “Amale bei Akâ kha kei lâ a vaw chhi teh u,” tah ta. Akâ cha ano lâta thathyu kawpa ta vawh ta. “Thina chichhihpa ei khôkhâh ha thlyu aw hih,” tahpa ta pachâ ta.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Samuela ta, “Na zaozi ta chanôzy saw leipa ta a taopa hawhta, Na nô chhao chanôzy hry liata saw leipa a châ aw,” tah ta. Chatanachata Samuela ta Akâ cha, a pôhpa â pachhaih khaina taihta Abeipa hmiakô ta Kilkal liata chhawh ta a thie haw.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Cha khai tawhta Samuela cha Râmâ lâ sie ta, Sawla deikua cha Sawla khih Kibia liata ano o lâ khy ta.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Cha noh tawhna chata Samuela cha a thi noh taihta Sawla a hmô khao vei. Chatanachôta Samuela cha Sawla vâta a pachâ a rôh ngaita tyh. Abeipa ta Izarei chô liata bei châ awpa ta Sawla a vaw taopa cha â ngiapachhi ngaita.
+  </para>
+  <chapter number="16" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Abeipa ta Samuela hnohta, “Sawla cha Izarei chô liata bei châta ei khoh khao leipa châ ta, ano vâta khachâ ma pachârôhpa ta na y aw? Na saki ôh liata sathaw pabie la, sie teh. Bethlehe khihpa Zese lâta ei cha tuah aw. A sawchapawzy hry liata pakha keima châta bei ta ei rao haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Samuela ta, “Kheihta ma ei sie thei aw? Sawla ta a vaw thei khiahta cha, ei na thie aw mâh tâh,” tah ta. Abeipa ta, “Viahchao zeinô a chhi la, ‘ Abeipa lâta atheihna hlâ awpa ta ei vy,’ na tah aw.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Atheihna hlâna liata Zese cha aw aw chi ta, na tao awpa ei cha chho aw. A moh ei cha chho awpa cha sathaw eina thupa aw chi,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Samuela cha Abeipa reipa hawhta tao ta, Bethlehe lâ cha sie ta. Khihpi machâzy ta a chalyuna chôta ano cha vaw dy ei ta, “Thlalôhna bie a vaw phaohpa na châ ma?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ano ta, “Thlalôhna bie na ei vaw tlôkhei. Abeipa lâta atheihna hlâ awpa ta ei vy. A pathai u la, atheihna hlâna lâ a vy teh u,” tah ta. Zese nata a sawchapawzy cha pathaisa ta, atheihna hlâna liata a hlao awpa ta âmo cha hrua ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Amâ vy nahta, Samuela ta Eliabâ cha kei moh ta, “ Abeipa sathawthupa cha, a hmiakô liata a vypa tlai he na a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Châhrasala Abeipa ta Samuela hnohta, “A hmisâ tlyma, a pôraoh tlyma moh kha, ano kha khoh va na. Abeipa ta la chyhsapa hmôzie hawhta hmô vei. Chyhsapa ta cha khôtho lâ alânazie moh tyh ta, Abeipa deikua cha palôh tlao a moh tyh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Chatawhcha Zese ta Abinadâ aw ta, Samuela hmiakô lâ pavawsa ta, Samuela ta, “He chhao he Abeipa ta â tlyhpa châ vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Zese ta Sâmâh pavawsa heih ta. Samuela ta, “He chhao he Abeipa ta â tlypa châ vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Zese ta a sawchapawpa pasarizy cha Samuela hmiakô lâ pavawsa ta. Samuela ta Zese hnohta, “ Abeipa ta âmo he a tlyh tlâ vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Samuela ta Zese hnohta, “Na sawchapawpa zydua amâ ki ma?” tah ta. Zese ta, “A seihnai chaipa y ta, châhrasala ano cha mietakuzy vaina liata na a y haw,” tah ta. Samuela ta Zese hnohta, “Kei paawsa teh, a vaw tlô hlâlei a tyuh aw ma pi,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Kei paawsa ta, a vaw chhi ei ta. Sabia panyu kawpa, a mopadei a ngia kawpa nata hmipha ngaitapa châ ta. Abeipa ta Samuela hnohta, “Thyu la, sathawthu teh, kha tlai kha na a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Samuela ta saki ôh sathaw cha la ta, ano cha a unawhzy hmiakô liata sathawthu ta. Cha noh tawhna chata, Abeipa Thlahpa cha Dâvi chô liata thatlô ngaitapa ta vaw tlô ta. Samuela cha thyu ta Râmâ lâ sie ha ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Abeipa Thlahpa ta Sawla cha puasai ha ta, Abeipa tuapa ahripa ta ano cha patypamâ ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Sawla chakaotuhpazy ta a hnohta, “Pachâ teh, Khazohpa tuapa ahripa ta a cha patypamâpa a châ hih.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Eima zibeipa ta na hmiakô liata a ypa châ chakaotuhpazy he totâ tô thaipa tlua awpa ta bie miah pie sala, na chô liata Khazohpa tuapa ahripa a vaw tlôna maihta, totâ tô tyh aw ta, na pha thlâh ha aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Sawla ta a chakaotuhpazy hnohta, “Totâ tô thaipa cha na pachâpa u la, kei lâ a vaw chhi teh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Satlia pakha ta a chhy ta, a hnohta, “Pachâ teh, Bethlehe khihpa Zese sawchapawpa pakha hmô na ta, ano cha totâ tô thai ngaitapa, chyhsa riahphapa, adyuhpa chyhsa, bierei a thai kawpa nata hmipha ngaitapa châ ta, Abeipa ta a ypâpa chyhsa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Sawla ta Zese lâ chyhsa tuah ta, “Na sawchapawpa Davi, mietaku vaituhpa kha kei lâ a vy mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Zese ta alâ pô kha la ta, viahchhâ, kresawhti ôh kha nata mietaw zy a chô liata khaih ta, Sawla pie awpa ta a sawchapawpa Dâvi cha paphaosa ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Dâvi cha Sawla kô kei tlô ta, Sawla rai hria awpa ta a ngia ha ta. Sawla ta Dâvi cha khoh kaw ta, a chariah chhaichhi a chabatuhpa ta y ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Sawla ta Zese lâ chyhsa tuah ta, a hnohta, “Dâvi he ei mo nâ dy kaw ta, ei rai hria pazao awpa ta na pasai awpa ta ei châ haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Khazohpa tuapa ahripa Sawla chô liata a vaw tlôna maihta, Dâvi cha totâ la ta, tô tyh ta. Chatanachata Sawla cha vaw tlâhpa ta, pha heih tyh ta, ahripa ta ano cha a puasai ha tyh.
+  </para>
+  <chapter number="17" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Philistinâ mo cha chariah a dyuh awpa ta ama pheisaihzy pakhy ei ta. Zudâh râh chhôh liata a ypa Sôkô khihpi liata a hmaohpakhy ei ta. Sôkô nata Azekâ likawh Ephedami liata riehmo paryh ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sawla nata Izarei mo chhao a hmaohpakhy ei ta, Elâ saikao liata riehmo paryh ei ta, Philistinâ mo cha a chykhâhpa ta amâ paziah.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Philistinâ mo cha hiakha lâ tlâh liata a duah ei ta, Izarei mo ta âmo riaaipa ta hiakha lâ tlâh liata a duah hra ei ta, ama likawh cha saikao ta padai ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Philistinâ mo riehmo tawhta ama chyhsa thatlô chaipa Kôliathâ, Kâthâ khihpa, dy charu nata kha kha a sâhpa vaw pua ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dawh lakhu a khu ta, dawh chachôhna vyhphao a ky ta, a chachôhna vyhphao dawh ahrina zie cha sekel 5,000 a châ.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A ngiahly liata dawh a ky ta, a ky liata asei â tei.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Asei bih cha thaisana bâtlâh hawhta châ ta, asei luh cha sekel 600 a hripa thua a châ. A vyhphao chabatuhpa cha a hmia lâta sie ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Kôliathâ cha a duah ta, Izarei pheisaihzy cha awsao ta, ama hnohta, “Khazia a dyuh awpa ta namâ vaw paziah ngâ kaw? Kei Philistinâ chyhsa châ na ta, nâmo Sawla chakaotuhpa châ veih ei chi mâ? Nama vyuhpa chyhsa pakha a tlyh u la, kei lâta a zu sa.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Nâ tu thei sala, eina thie thei khiahta cha, nâmo chakaotuhpa ta y aw pi ta, kei ta pahniepa ta ei thie ha khiahta deikua cha, keimo chakaotuhpa ta y aw ei chi ta, miah nama chakao aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Philistinâ chyhsa chata, “Tanoh he Izarei pheisaihzy ei cha pahao ei. Chyhsa pakha vaw papua u la, eimâ tu aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Sawla nata Izarei pheisaih zydua ta Philistinâ chyhsa biereipa cha ama thei nahta, thlazohpa ta chi ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Dâvi cha Zese sawchapawpa châ ta, Zese cha Zudâh râh Bethlehe liata Ephrâthâ chyhsa kha a châ. Zese cha sawchapaw pacharie hnei ta, Sawla â bei daihti liata cha, pawpipa kô uhthei kawpa châ ha ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Zese sawchapaw uhthei viapa pathôhzy cha Sawla hnohta adyuhna lâ sie hra ei ta. A sawchapaw pathôh adyuhna lâta a siepazy moh cha a uhthei chaipa Eliabâ, a pazipa Abinadâ nata a pathôhna Sâmâh zy ama châ.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Dâvi cha a seihnai chaipa châ ta, a uhtheipa pathôhzy cha Sawla hnohta sie ei ta,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Dâvi deikua cha Bethlehe liata a paw mietakuzy vai awpa ta, Sawla lâ vawh heih a vy heih tahpa ta a riahpahlai tyh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Philistinâ chyhsa chata my nata zâlâ maihta a vaw hnia ta, noh sypalih chhôh â dua tyhna su liata a vaw duah tyh ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Zese ta a sawchapawpa Dâvi hnohta, “Sâh pakâhpa kachu hmo kha nata he viahchhâ tlâ hrawh he, na uhtazy châta phaoh la, na uhtazy riehmo lâ vawkhei para mah y.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Sâhpiti kuapa tlo hrawh he, ama py liata pheisaih sâh kha hyutuhpa na phaopa aw. Na uhtazy cha ama pha ma tahpa kei hiahri la, ama thâtih na vaw tlôkhei aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Sawla nata Dâvi unawhzy nata Izarei mo zydua cha, Philistinâ mo a dyuhpa ta Elâ saikao liata y ei ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Dâvi cha mydi ta thyu ta, mietakuzy cha vaituhpa pakha pavaosa ta. A paw Zese ta bie a piepa hawhta niedozy phaopa ta, sie ta. Riehmo kei tlô ta, hrâsie awpa ta a pahô pahâhpa ta pheisaihzy ama pua hai no vaw châ ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Izarei sawzy nata Philistinâ mo cha a dyuh awpa ta ama pheisaihzy paziah ei ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dâvi cha niedo mohôhtuhpa ku liata a hmozy soh ta, pheisaihzy yna lâ cha a kei râ ta, a uhtazy cha a kei naoh ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Âmo bie â chho hai nota, Kâthâ khihpa, Philistinâ chyhsa thatlô chaipa, a moh Kôliathâ ama tahpa cha, Philistinâ pheisaihzy hry tawhta vaw pua ta, a bie rei tyhpazy kha vaw reih heih ta, cha biezy cha Dâvi ta thei ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Izarei pheisaih zydua ta, cha chyhsa cha ama hmô nahta, ano tawhta a râpai ei ta, chi ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Izarei pheisaihzy ta, “Kha chyhsa a vaw puapa kha nama hmô ma? Izarei pahao awpa ta a vaw pua. Ano a thie theipa cha abei ta sôh nata thih hluhpi piepa ta pahneirôhsa aw ta, a sawchanô pie aw ta, a paw chhôhkha cha râhpaw paeipa ta Izarei râh liata a paysa aw ei,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Dâvi ta a kiah liata a duahpa pheisaihzy hnohta. “He Philistinâ chyhsa he thiepa ta, Izarei hmiachhie a patlâhtuhpa cha kheihta tao awpa ma a châ? He chopawtaileipa Philistinâ chyhsa he ahy ma châ ta, Khazohpa hrohpa pheisaihzy zua a pahao tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Pheisaihzy ta, “Ano a thie theipa cha eima reipa hawhna khata taopa a châ aw,” tahpa ta a chhy ei ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Pheisaihzy hnohta Dâvi biereipa cha, a uhta uhthei chaipa Eliabâ ta vaw thei ta. Eliabâ cha Dâvi chô liata a hie thata hâh ta, a hnohta, “Khazia nâ zu hra? Râhchawhpa liata mietaku a chyhta a ypazy kha ahy na pavaisa? Akhotlâh kawpa nata palôh moleipa a phaohpa na châ tahpa ei pahno. Adyuhna mo awpa ta a zupa na châ hih,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Dâvi ta, “Khâpa hmo ma ei parao tly? Bie ei hiahripa tlâ châ ta?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Dâvi cha pheisaih hropa lâ a heih ta, a hiahri hmopa pyly hiahri heih ta. Pheisaihzy ta amâ chhy hmopa pyly kha a chhy heih ei ta.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Dâvi biereipa cha pheisaihzy ta ama thei nahta, Sawla hnohta reih pachhuah ei ta, Sawla ta Dâvi cha paawsa ta.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Dâvi ta Sawla hnohta, “Ano vâna hao ta ahy hmahta palôh duapa ta y khah ei sy, châ chakaotuhpa heta Philistinâ chyhsa hao ei kei dyuh aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Sawla ta Dâvi hnohta, “Nâ la Philistinâ chyhsa a dyuh awpa ta sie thei aw va chi, thyudyupa deita châ chi ta, ano cha a thyudyu tawhta adyuhpa chyhsa châ ta,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Dâvi ta Sawla hnohta, “Châ chakaotuhpa he ei paw mietakuzy vaih tyh na ta, chakeibarôhneipa tlyma, chavyh tlyma a vy ta, mietaku zaw hry tawhta mietakutaw a la nota,
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />a chadai na ta, chhei na ta, a pakah tawhta mietakutaw ei pachha tyh mâ tâh. Eina thyuhnao khiahta cha, a barôh ta patu na ta, tusao na ta, ei thie tyh.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Châ chakaotuhpa he chakeibarôhneipa nata chavyh zy vaw thie ha tyh na ta, he chopawtaileipa Philistinâ chyhsa chhao he, Khazohpa hrohpa pheisaihzy a pahaopa vâta, âmo hawh pyly cha a châ hra aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Dâvi ta, “Chakeibarôhneipa pheipato tawhta nata chavyh pheipato tawhta nâ pachhatuhpa Abeipa ta, he Philistinâ chyhsa ku tawhna heta eina pachha aw,” tah ta. Sawla ta Dâvi hnohta, “Sie mah y, na hnohta Abeipa y mawh sy!” tah ta.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Sawla ta Dâvi cha ano chariah chhaichhizy paky ta, dawh lakhu pakhu ta, dawh chachôhna vyhphao paky ta.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Dâvi cha a chariah chhaichhi chô liana cha Sawla zaozi nata chaisaihna a pataih ta, sie a chhuah ta. Châhrasala cha hawhta a tao beih leipa vâta, siekhei thei leipa ta. Dâvi ta Sawla hnohta, “Hezy he hmâh beih leipa na ta, chavâta siekhei thei aw va na,” tah ta. Dâvi cha Sawla chariah chhaichhizy cha pahluh ta.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />A ku ta a chôchahrei chaba ta, chavah liata alô mihpa lô pangawh a tlyh ta, mietaku vaina sahria â aopa liata khô ta, a savo cheisiah a chabapa ta, Philistinâ chyhsa cha a kei hnia ta.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Philistinâ chyhsa cha hmialâ vaw pua ta, Dâvi cha a vaw hnia ta, vyhphao chabatuhpa cha a hmialâ ta sie ta.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Philistinâ chyhsa cha a vaw heih ta, Dâvi a vaw hmô nahta, sabia panyupa nata a mopadei a ngia kawpa thyudyupa dei a châpa vâta mohnao kaw ta.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Philistinâ chyhsa ta Dâvi hnohta, “I ma ei châ, chôchahrei ta ei nâ vyhnao chi?” tah ta. Philistinâ chyhsa ta a khazohzy moh reipa ta Dâvi chô liata chhiesa ta.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Philistinâ chyhsa ta Dâvi hnohta, “A vy teh, na sa kha vâ pavawzy nata râhsazy ei pie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Dâvi ta Philistinâ chyhsa hnohta, “Nâ cha zaozi nata seipi nata seichhi zy chabapa ta naw puahnao chi ta, kei deikua la, Pheisaihzy Abeipa , Izarei pheisaihzy Khazohpa, na pahaopa moh ta ei vaw pua.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Tanoh he Abeipa ta nâma kha ei ku liata eina pie aw. Cha thie aw na ta, na luh cha tai aw na ta, Philistinâ pheisaih rizy cha tanoh he vâ pavawzy nata râhsazy ei pie aw ei. Chatanachata khizaw zydua ta Izarei liata Khazohpa a y tahpa ama pahno aw.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />He liata ahmaohpakhypa zydua chhao heta, Abeipa ta zaozi nata asei ta pachha vei tahpa ama pahno aw. Adyuhna he Abeipa eih châ ta, Abeipa ta nâmo he eima ku liata miah a pie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Philistinâ chyhsa cha thyu ta, Dâvi hmiachhy awpa ta vaw pangai ta. Dâvi chhao ta Philistinâ chyhsa cha a dyuh awpa ta thlai a kei râ ta.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Dâvi cha a sahria chapao ta, alô miakha thaoh ta, savo cheisiah ta kei siah ta, Philistinâ chyhsa cha a khi liata khai ta, a khi liata alô cha a ngia ta, â khu lâta pao ta.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Cha hawhna chata Dâvi ta Philistinâ chyhsa cha savo cheisiah nata alô ta a pahnie haw. Philistinâ chyhsa cha alô ta siah ta, a thie haw. Dâvi cha Zaozi rai a chaba vei.
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Dâvi cha thlai a kei râ ta, Philistinâ chyhsa chô liata a kei duah ta, Philistinâ chyhsa zaozi cha la ta, a paih tawhta phia ta, cha chata chhawh ta, a luh tai ta. Philistinâ chyhsazy cha ama chyhsa thatlô chaipa a thi haw tahpa ama hmô nahta, a râpai khai ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Izarei mo nata Zudâh mo cha thyu ei ta, awh ei ta, Philistinâ mo cha Kâthâ taihta nata Ekaraw thokhy ochhi taihta a chadai ei ta. Hmaphaohpa Philistinâ chyhsazy cha Saraimi lâpi tlykha ta pao ei ta, Kâthâ nata Ekaraw taihta thata ama pao.
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Izarei sawzy cha Philistinâ mo amâ chadaipa tawhta a lie ei ta, Philistinâ mo riehmo hrao ei ta.
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Dâvi ta Philistinâ chyhsa luh cha la ta, Zerusale lâ siekhei ta, Kôliathâ chariah chhaichhi deikua cha ano poh o liata soh ta.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />Dâvi ta Philistinâ chyhsa a thyuhnaopa Sawla ta a hmô nah khata, pheisaih hyutuhpa Abane hnohta, “Abane, hao satliapa hao ahy saw maw?” tah ta. Abane ta, “Na hrona reipa ta ei reih, Hy abei y, pahno cheita va na,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="56" style="v" />Abei ta, “Hao hawtipa hao ahy saw ma tahpa patluah mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="57" style="v" />Dâvi cha Philistinâ chyhsa a thie khai tawhta â vaw lie heih nahta, Abane ta Sawla lâ a chhi ta, Philistinâ chyhsa luh chabana chôta Sawla lâ cha vawkhei ta.
+  </para>
+  <para style="p">
+    <verse number="58" style="v" />Sawla ta a hnohta, “Satliapa, ahy sawchapawpa ma na châ tly?” tah ta. Dâvi ta a chhy ta, “Bethlehe khihpa, châ chakaotuhpa Zese sawchapawpa na ei châ,” tah ta.
+  </para>
+  <chapter number="18" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Dâvi ta Sawla hnohta bie a rei khaipa nahta, Zawnathâ hro cha Dâvi hro nata phie a zao ha ta. Zawnathâ ta ano hrona kyh â pachâpa tlu ta Dâvi cha a kyh pachâ ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cha noh tawhta Sawla ta Dâvi cha a hnohta paysa pâ ha ta, a paw o lâ â di awpa pasaih khao vei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Zawnathâ ta Dâvi cha ano hrona hawh tlai ta a kyh a pachâpa vâta, a hnohta biehrai tao ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Zawnathâ ta poh â bupa hlai ta, Dâvi pie ta, a chariah chhaichhi, a zaozi, a libaw nata a chaisaih taihta pie ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sawla ta a tuana lâ maih Dâvi cha sie ta, a hlao a tloh lymâ tyh. Chavâta Sawla ta Dâvi cha pheisaih hyutuhpa ta tao ta. Cha cha chyhsa zydua pachâna liata nata Sawla chakaotuhpazy pachâna liata chhao pha tah ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Adyuhna tawhta a vaw lie ei ta, Dâvi chhao Philistinâ chyhsa a thie khai tawhta vaw tlô hra ta, Izarei khihpi zydua tawhta chanôzy vaw pua ei ta, hla sapa nata lâna chôta, khohzy, alyna hlazy nata pyungiapa chhaichhizy chhaota bei Sawla cha vaw dy ei ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chanôzy ta lâna chôta hla ta a palie raihrie ei ta, “Sawla ta a sâh sâh ta thie ta, Dâvi ta a thy thy ta a thie,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sawla cha a hiehâh ngaita ta, cha hla biezy chata palysa lei kaw ta. “Dâvi cha a thy patosa ei ta, kei cha a sâh deita eina patosa ei, khinarâh tah leipa ta cha, a to awpa hropa khâpa a y khao,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cha noh tawhta cha, Sawla ta Dâvi cha mohpahroh ha ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A mylâ ta Khazohpa tuapa thlahpa chhiepa cha Sawla chô liata vaw tlô ta, o chhôh liata thata a chiaburâh ta. Dâvi cha noh hro ta a tao tyhpa hawhta, to ta tô heih ta. Sawla cha a ku liata asei a chaba thlâh ha ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Sawla ta, “Dâvi he pâhchhô liata ei chakhao pâ ha tua aw” tah ta, asei ta kei chakhao ta. Châhrasala Dâvi ta ei no po â kâ sai hmâ haw.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Abeipa ta Sawla siesai ha ta, Dâvi deikua cha a ypâpa vâta, Sawla ta Dâvi cha chi kaw ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Chavâta Dâvi cha Sawla ta ano tawhta pasiesa ta, pheisaih sâh kha hyutuhpa ta tao ta. Chatanachata Dâvi cha pheisaihzy hnohta a pahlaopa ta âmo cha chhihtha ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Abeipa a hnohta a ypa vâta, Dâvi cha a hmotaopa maih liata hlaotlohna hmô lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Dâvi hlaotlohna rônahpa cha Sawla ta a hmô nahta, chi ngaita ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Châhrasala Dâvi cha ama hnohta a pahlaopa ta âmo a chhihthapa vâ ei ta, Izarei nata Zudâh zydua ta a kyhpachâ ngaita ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Chatawhcha Sawla ta Dâvi hnohta, “Moh teh, he he ei sawchanô uhtheipa Merâbi a châ hih. Ano he lapinô ta ei cha pahneisa aw. Keima châta riahpha ngaitapa ta y la, Abeipa adyuhnazy cha a dyuh mah y,” tah ta. Sawla ta, “Kei ta Dâvi chô liata ku pathla leipa aw sah la, Philistinâ mo ta a chô liata ku tlao pathla lah vâ ei,” tahpa ta pachâna a hneipa vâta, cha hawhta a taopa a châ.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Dâvi ta Sawla hnohta, “Ahy ma châ na ta, ei sanawh rinô nata ei paw pho zy he Izarei liata ahyzy châ ei ta ma, abei piahpa cha ei châ aw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Sawla sawchanô Merâbi cha Dâvi lâ pakia nawpa daihti a vaw tlô nahta, Mehôlâ chyhsa Adari a pahneisa haw.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Sawla sawchanô Mikâli ta Dâvi cha khoh ta. Sawla chho ei ta, cha hmo chata Sawla cha palysa kaw ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawla ta, “Mikâli he Dâvi pie aw na ta, ano châta a aona khoheih châ aw ta, cha cha Philistinâ mo ta a chô liata ku ama pathla theina a châ aw,” tahpa ta pachâ ta. Chavâta Sawla ta Dâvi hnohta, “Tanoh he ei piahpa châ nawpa ryhpaohna na hnei chanei heih,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Sawla ta a chakaotuhpazy biepie ta, “Arulâta Dâvi chho u la, ‘Pachâ teh, abei ta na chô liata a ly kaw ta, a chakaotuhpa zydua chhao ta ama cha khoh kaw sai. Chavâta tahmâ abei piahpa châ mah y,’ nama tah aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cha biezy cha Sawla chakaotuhpazy ta Dâvi nah theina liata reih ei ta. Dâvi ta, “Abei piahpa châpa he hmo chynawhpa hawhta a pachâpa dua nama lyu thlâh haw? Keima hawhpa dyhchhiepa nata mohnao chhihpa chyhsa châta cha, hmo naopa naikawh ma châ vâ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Sawla chakaotuhpazy ta, “Dâvi ta cha hawhta a tah,” tahpa ta Sawla cha chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Sawla ta, “Dâvi hnohta hetana heta reih teh u, ‘Abei ta a chariahpazy chô liata phuh la a khohpa vâta, nômâ châta Philistinâ mo chopaw vo za kha haw ta, cha leipa cha abei ta nômâ hropa khâpa hmah haw a chhuah vei,’ nama tah aw,” tah ta. Cha cha Philistinâ mo ku liata Dâvi a thi thei nawpa ta Sawla ryhraona a châ.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Cha biezy cha Sawla chakaotuhpazy ta Dâvi ama chho nahta, abei piahpa a châ awpa kyh chata Dâvi cha palysa kaw ta. A daihti taihpa a khô hlâta,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Dâvi nata a chyhsazy cha thyu ei ta, sie ei ta, Philistinâ mo za no kei thie ei ta. Dâvi ta ama chopaw vozy cha vaw cheih ta, abei piahpa a cha thei nawpa ta, abei hnohta a zydua ta pie khai ta. Chatanachata Sawla ta a sawchanô­ Mikâli cha a lapinô ta pahneisa ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Abeipa cha Dâvi hnohta y ta, a sawchanônô Mikâli chhao ta Dâvi kyh a pachâ ngaita tahpa Sawla ta hmô ta, pahno pasia ha ta.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Chavâta Sawla cha Dâvi chi via rili ta. Chatanachata Sawla cha Dâvi khakhaipa châ lymâ ha ta.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Philistinâ pheisaih hyutuhpazy ta a dyuh awpa ta vaw pua tyh ei ta, ama vaw puana maihta Dâvi cha Sawla chakaotuhpa zydua hlâta a hlaotloh via lymâ ta, chavâta a moh pathâh ngaita ta.
+  </para>
+  <chapter number="19" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Sawla ta a sawchapawpa Zawnathâ nata a chakaotuhpa zydua cha Dâvi thie awpa ta chho ta. Châhrasala Sawla sawchapawpa Zawnathâ ta Dâvi cha khoh kaw ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Zawnathâ ta Dâvi hnohta, “Ei paw Sawla heta thie châ chhuah ta. Chavâta mylâ my cha a vaih kaw la, su â nyu kawpa liata y la, cha liata a nyu chy mah y.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Kei vaw pua aw na ta, na yna kiapâh lyu liata ei paw kiah liata a kei duah aw na ta, na thâtih ei paw ei chho aw. Ei pahnopa a y khiahta cha ei cha chho aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Zawnathâ ta a paw Sawla hnohta Dâvi cha reithai ta, a hnohta, “Bei heta a chakaotuhpa Dâvi chô liata hmo moleipa tao cheita khah sy. Na chô liata moleina tao beih leipa ta, a hmotaopazy ta na châta phana tlao a vaw tlôkhei tyh hri hih.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A hrona sokhâhpa ta Philistinâ chyhsa kha thie ta, Abeipa ta Izarei zydua châta pachhana rônah ngaitapa a tao. Cha cha nâ chhao ta hmô chi ta, nâ ly ngaitapa kha a châ. Khazia a chhâpa y leipa ta Dâvi cha thie aw chi ta, mosiapa thisaih chô liata moleina na tao aw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Sawla ta Zawnathâ bie cha nathlie ta, “ Abeipa hrona reipa ta ei reih, ano cha thiepa châ aw vei,” tahpa ta bie a taih ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Zawnathâ ta Dâvi cha aw ta, hmo zydua chho ta. Dâvi cha Sawla lâ a chhi ta, abei hnohta a y tyhpa hawhna khata y heih ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Adyuhna vaw y heih ta. Dâvi cha pua ta, Philistinâ mo cha a kei dyuh ta, thata thie ta, a hmiakô liata a râpai ei ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla cha asei chabapa ta ano o liata â tyu thlâh ha nota, Abeipa tuapa thlahpa chhiepa a chô liata vaw tlô ta. Dâvi cha totâ a tô ngâ nota,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Sawla ta Dâvi cha asei ta pâhchhô liata chakhao pâ a chhuah ta, châhrasala Dâvi ta Sawla cha a kâsai hmâ ha ta, asei cha pâhchhô liata a chaloh thlâh ha ta. Dâvi cha a râ ta, cha zâ cha â boh haw.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Sawla ta Dâvi cha my ta thie awpa a chhuah ta, a byh awpa ta a o lâ chyhsazy tuah ta. A lapinô Mikâli ta Dâvi hnohta, “Tazâ he na hrona pabohsa awpa ta nâ râ leipa khiahta la, mylâ cha thiepa na châ aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Mikâli ta Dâvi cha opy tawhta pathliah ta, a râ ta, â boh haw.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Mikâli cha terâfi la ta rakhô liata pazia ta, a luh lâ mie hmi lahuah soh ta, chysia ta khu ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Dâvi patu awpa ta Sawla ta chyhsazy a vaw tua nahta, Mikâli ta, “Tlâh vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Sawla ta Dâvi kei mo awpa ta chyhsazy tuah ta, “A rakhô dua ta a kaw sy u la, ei thie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />A chyhsa tuapazy amâ kei ngia nahta, moh teh u, terâfi tlai cha rakhô liata a vaw zia thlâh ha ta, a luh lâ mie hmi lahuah a huapa ta vaw y ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Sawla ta Mikâli hnohta, “Khazia ma na dôvei chi ta, ei chariahpa cha â boh thei nawpa ta na pasiesa,” tah ta. Mikâli ta Sawla cha a chhy ta, “Ano ta, ‘Ei cha thie lei nawpa ta, na pasiesa ha mah y,’ eina tahpa vâta a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Dâvi cha a râ ta, a boh ha ta. Râmâ khih liata Samuela kô kei tlô ta, a chô liata Sawla hmotaopa zydua cha Samuela chho ta. Dâvi nata Samuela cha Naiô lâ sie ei ta, cha liata y ei ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Chatawhcha Sawla hnohta, “Moh teh, Dâvi cha Râmâ khih liata Naiô liata a y,” tahpa ta chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Dâvi patu awpa ta Sawla ta chyhsazy tuah ta. Hrohsopazy ta hrohsona bie ama phuah ngâpa nata cha liata Samuela cha ama hyutuhpa ta â duapa ama hmô nahta, Sawla chyhsa tuapazy chô liata Khazohpa Thlahpa vaw tlô ta, âmo chhao chata hrohsona bie cha phuah lymâ ha hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Cha cha Sawla ama chho nahta, mohropa tuah heih ta, âmo chhao ta hrohsona bie phuah ha heih hra ei ta. Sawla ta a ei thôhna ta chyhsazy tuah heih ta, âmo chhao chata hrohsona bie cha phuah ha heih hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />A chhâna liata ano pôhpa ta Râmâ lâ cha sie ta, Seku liata tikhaoh lai ngaitapa kei tlô ta. “Samuela nata Dâvi khataih liata ama y,” tahpa ta chyhsazy hiahri ta. Chyhsa pakha ta, “Moh teh, Râmâ khih liata Naiô liata ama y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Râmâ liata Naiô lâ cha sie ta. Khazohpa Thlahpa cha Sawla chô liata chhao vaw tlô ta, a sie pâna chôta Râmâ liata Naiô a tlôna taihta hrohsona bie phuah lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Ano chhao a chysiazy pahluhpa ta, Samuela hmiakô liata hrohsona bie phuah lymâ hra ta. Cha noh cha noh y nata zâkhihdei ta thluahruapa ta a zia ta. Cha vâna chata, “Sawla chhao hrohsopazy hry liata a hlao ha hra khiah?” tahpa ta rei tyhpa a châ.
+  </para>
+  <chapter number="20" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Dâvi cha Râmâ liata Naiô khihpi tawhta a râ ta, Zawnathâ yna lâ pangai ta, a hnohta, “Khâpa ma ei tao ha tly? Khâpa ma ei thaileina tly? Na paw hmiakô liata khâpa moleina tao ha na ta ma, ei hrona he la awpa ta he hawhta eina tei ngâ thlâh ha tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Zawnathâ ta a hnohta, “Châ bao vâ! Thi cheita aw va chi. Moh teh, ei paw heta keima na pahnosa ha tua leipa ta khâpa hmahta, a laipa tlyma, a chyhpa tlyma, tao beih vei. Khazia ei paw ta he hmo he eina phih aw? Na phi cheita aw vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Dâvi ta bie a taih heih ta, Zawnathâ hnohta, “Eina ngiachhiezie chi he na paw ta pahnopasia ta, chavâta, ‘He hmo he la Zawnathâ ta pahno khah sy, chataleipatala a pachâ a rôh kaw aw na,’ a tahpa vâta a châ aw. Abeipa hrona nata nâma hrona reipa ta ei reih, hmeiseihta ta la, keima nata thina likawh he keih kha deita â hla bâ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Zawnathâ ta Dâvi hnohta, “Na reipa maih ei cha taopa aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi ta Zawna­tha hnohta, “Pachâ teh, mylâ khi thla thiehpa noh châ ta, abei hnohta pati ei dôh nawpa noh a châ. Hânoh zâlâ taihta lyurâhpa liata a nyu awpa ta na pasiesa chy teh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Na paw ta ei y leipa a pahno khiahta cha, a hnohta, ‘Davi cha a khih Bethlehe lâ sie awpa ta eina hiah, cha liata ama chhôhkha zydua châta kô chareih ta atheihna hlâ tyhpa tao awpa a châpa vâta,’ na tah aw.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />‘A pha na!’ a tah khiahta cha, châ chakaotuhpa he thlalôhpa ta y aw na ta, a hie a hâh khiahta deikua cha, hmo pha leipa tao â chhuah tahpa pahno mah y.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Châ chakaotuhpa he Abeipa biehrai liata a ngiakhei ha chi ta, chavâta châ chakaotuhpa chô liana he ngiachhiena rie palâsa mah y. Thaileichâna ei hnei khiahta deikua cha, nâma tlai ta na thie thlâh ha mah y, khazia na paw lâ cha einâ chhi ngâ kaw aw chi?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Zawnathâ ta, “Châ bao vâ! Ei paw ta na chô liata hmo pha leipa tao â chhuah khiahta cha, cha chho leipa ta ma ei y aw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Dâvi ta Zawnathâ hnohta, “Na paw ta a chahrâh kawpa ta châ chhypa vaw châ sala, ahy ma nâ chho aw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Zawnathâ ta Dâvi hnohta, “A vy teh, lyurâhpa lâ hao vawh tua ei si,” tah ta. Ama pano ta lyurâhpa lâ cha vawh ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Zawnathâ ta Dâvi hnohta, “Zehôvah, Izarei Khazohpa cha pahnokheituhpa châ maw sy! Mylâ he daihti liata tlyma, hânoh tlyma, ei paw palôh phaozie pasia aw na ta, Dâvi chô liata â ly kaw khiahta cha, nâ lâ chyhsa vaw tuah aw na ta, ei cha chho aw.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ei paw ta na chô liata hmo pha leipa tao a chhuah sala, cha chho leipa aw sah la, thlalôhpa ta na sie thei nawpa ta ei cha pathlie leipa khiahta cha, Abeipa ta Zawnathâ chô liata a tao awpa cha tao sala, cha hlâta pasa viapa chhao ta tao mawh sy. Ei paw hnohta a Abeipa a y tyhpa hawhta, nâma hnôh chhao ta y hra mawh sy.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Abeipa ta Dâvi chariahpa zydua alei chô tawhta a chhawh pathlah khai tita, ei hro thlâh ha chy khiahta cha, ei thi lei nawpa ta Abeipa ngiachhiena ei chô liata palâsa mah y.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ei thi ha khiahta deikua cha, na ngiachhiena cha ei chhôhkha chô liata chhâzaw ta chhawh pathlah beih khah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Chatawhcha Zawnathâ ta Dâvi chhôhkha chô liata bie hraih ta, “Zawnathâ moh he Dâvi chhôhkha tawhta chhawh pathlahpa ta y leipa sala, Abeipa ta Dâvi chariahzy chô liata phuh la mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Zawnathâ ta Dâvi cha, a kyh a pachâna kyh reipa ta, bie pataihsa heih ta. Ano hrona kyh a pachâpa tlu ta, Zawnathâ ta Dâvi cha a kyh a vaw pachâpa a châ.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Zawnathâ ta Dâvi hnohta, “Mylâ khi thla thiehpa kyhchhi noh châ ta, nâ tyuna a rua awpa vâta, na y leipa â lâ aw.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hânoh ta zu para la, biehraina ei tao tua nota nâ nyuna su lâ kha sie la, alô pathlupa kiah liata vaw y thlâh ha mah y.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Châka a nuapa hawhta châtai miathôh a kâ lâ ei vaw ka aw.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hawtipa vaw tuah aw na ta, ‘Vawh la, châtaizy kha kei tlua teh,’ ei tah aw. Hawtipa hnohta, ‘Moh tua, châtaizy kha na kâ lâ ama y khaw, la teh,’ ei tah khiahta cha, a vy mah y, Abeipa hrona reipa ta ei reih, na châta thlalôh a chhih ta, chi awpa y vei.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Hawtipa hnohta, ‘Moh tua, châtaizy kha na khô lâ ama y khaw,’ ei tah khiahta deikua cha, sie syulyu ha mah y. Abeipa ta a cha pasiesa hapa a châ.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Nâma nata keima likah ta hmo eima rei hapa kyh liana khata cha, pachâ teh, Abeipa cha eima likah liata chhâzaw ta miah pahnokheituhpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Chatanachata Dâvi cha lyurâhpa liata a nyu ta. Thla a vaw dieh nahta, abei cha pati dôh awpa ta a tyuh ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Abei cha noh hro ta â tyuna tyhpa, pâhchhô kiapâh liata dyuchhai liata a tyuh ta. Zawnathâ cha ano dady ta a tyuh ta, Abane cha Sawla kâ lâta a tyuh ta, Dâvi su deikua cha aruapa ta y ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Cha noh cha Sawla ta khâpa hmah reih vei, “A chô liata hmo a tlôpa y ta, a pathaih leipa a châ aw, a pathaih leipa a châ tlai aw,” tahpa ta pachâ ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />A noh nona, thlah thiehpa noh mylâ chhao Dâvi su cha rua ha heih ta. Sawla ta a sawchapawpa Zawnathâ hnohta, “Khazia ma Zese sawchapawpa he zâhnia chhao tanoh chhao pati dôh awpa ta â vy vei?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Zawnathâ ta Sawla cha a chhy ta, “Dâvi cha Bethlehe lâ sie awpa ta thata na hiah ta.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />‘Bâh na pasiesa teh, eima chhôhkha ta khihpi liata atheihna hlâna hnei aw ei ta, cha liata y hra awpa ta ei uhta ta bie eina vaw pie. Chavâta eina ngiachhie thei chi khiahta cha, rie na pasiesa la, ei unawhzy cha ei kei hmô aw ei,’ tahpa ta eina chho. Cha vâna chata bei tlâhkhai lâ he â vy leipa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Sawla cha Zawnathâ chô liata a pathi thata ia ta, a hnohta, “Nâ, chanô chochhiepa nata chhorupa sawchapawpa, nâma maophyuh nawpa nata na nô thluahruana pamaophyuhsa awpa ta, Zese sawchapawpa he nâ tlyhpa a châ tahpa ei pahno leipa ma a châ?
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Zese sawchapawpa he alei liata a hro chhôh zydua cha, a duah thei aw va chi. Nâ beinarâh chhao a duah thei aw vei. Chavâta tahmâ chyhsa tuah la, kei lâta a vaw chhi teh, a thi thlyu awpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Zawna­thâ ta a paw Sawla cha a chhy ta, a hnohta, “Khazia ma Dâvi cha thie awpa a châ tly? Khâpa ma a tao haw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Sawla ta Zawnathâ cha chakhao a chhuahpa ta a asei chalo ta, moai ta. A paw ta Dâvi cha thie â chhuah tlai tahpa Zawnathâ ta pahno ha ta.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Zawnathâ cha tlâhkhai tawhta hiehâh ngaitapa ta thyu ta, thla thiehpa noh nona noh cha pati rai nie vei. A paw ta Dâvi a pamaophyuhsa ngaitapa vâta, Dâvi cha a pachâ thata a rôhkhei.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />My ta Zawnathâ cha hawtipa a chhi ta, Dâvi nata a hmô nawpa su ama raopa lyurâhpa lâ cha sie ta.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Hawtipa â chhipa hnohta, “A râ la, châtai ei kapazy kei tlua teh,” tah ta. Hawtipa cha â râ hai no ta, ano khô lâ châtai kei ka ta.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Hawtipa ta Zawnathâ châtai kapa tlana su a kei tlô nahta, Zawnathâ ta hawtipa cha awsao ta, a hnohta, “Châtai kha na khô lâ y vei ma?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Zawnathâ ta hawtipa cha aw ta, “A para la, chatlie teh, kha liata y thlâh ha kha,” tah ta. Zawnathâ hawtipa cha châtaizy pakhy ta, a zibeipa lâ a vy ta.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Hawtipa cha khâpa hmah pahno leipa ta. Zawnathâ nata Dâvi deita ta hmo yzie cha ama pahno.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Zawnathâ ta hawtipa cha a chaihraizy pie ta, a hnohta “Sie la, khihpi lâ phaoh teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Hawtipa a siepata nahta, Dâvi cha alô pachopa chho lâ chhâh tawhta vaw pua ta, a hmia alei liata a khupa ta ei thôh a bôh ta. A pahnâ raihriepa ta, a chakhei raihrie ei ta, Dâvi cha a cha via pachai.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Zawnathâ ta Dâvi hnohta, “Thlalôhpa ta sie mah y, ‘ Abeipa cha keima nata nâma likah nata ei pathlazy nata na pathlazy likah liata chhâzaw ta y mawh sy,’ tahpa ta Abeipa moh ta bie liahsa eimâ taih raihrie ha khaw,” tah ta. Chatanachata Dâvi cha thyu ta, sie ha ta. Zawnathâ chhao khihpi lâ a lie ha hra ta.
+  </para>
+  <chapter number="21" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Dâvi cha Nôbâ khih liata theihthaipa Ahimele yna kei tlô ta. Ahimele cha a chalyuna chôta Dâvi vaw dy ta, a hnohta, “Khazia nâma dei ta dua, sielâhpa pakha hmah hnei chi va?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dâvi ta theihthaipa Ahimele hnohta, “Abei ta hmo na pataosa ta, ei hnohta, ‘Hmo ei cha pataosapa nata bie ei cha piepa zy he ahy hmahta pahno khah ei sy,’ khâchâ tah ha ta. Su raopazy liata a tyh awpa ta satliazy ei chho ha ei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Nie awpa khâpa ma na hnei? Viahchhâ tlâh pangawh na pie teh, a y vei khiah, a ypa maih na pie teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Theihthaipa ta Dâvi cha a chhy ta, “Viahchhâ thlâhthlipa hnei va na, viahchhâ pathaihpa deita ei hnei. Satliazy cha chanô liata ama pathaih khiahta cha, nama nie thei aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi ta theihthaipa cha a chhy ta, a hnohta, “Adyuhna lâ ei sie nota ei tao tyhpa hawhta, chanô liata eima pathaih tahpa â ipa ta ei rei ngâh. Khitlyna peimawh hropa ta khi eima tly nota chhao, satliazy hmobaoh cha pathaisa khai hapa a châ tyh. Tanoh hawhpa liata chhochhi cha, ama hmobaoh a pathaih via pachai mâh tâh” tah ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Theihthaipa ta viahchhâ pathaihpa cha Dâvi pie ta. Ypâna viahchhâ Abeipa lâta hlâpa la pakhua noh ta viahchhâ lalôhpa ta ri tyhpa châ ta, cha noh liata deikua cha, Abeipa hmiakô tawhta lapa viahchhâ pathaihpa dei leipa ta viahchhâ hropa a y leipa vâta a châ.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cha noh ta, cha liata Sawla chakaotuhpa hry liata chyhsa pakha cha Abeipa hmiakô liata patupa châ ta. A moh Dôe châ ta, ano cha Edômâ chyhsa, Sawla sahroh vaituhpazy hyutuhpa a châ.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Dâvi ta Ahimele hnohta, “Asei tlyma, zaozi tlyma, he liata nâ sopa a y ma? Abei rai hria awpa â para ngaitapa vâta, ei zaozi nata ei chaihrai khâpa hmah a vaw chei hmâ va na,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Theihthaipa ta, “Philistinâ chyhsa Kôliathâ, Elâ saikao liata na thiepa, kha chyhsa zaozi kha, moh teh, poh ta pahlypa ta, ephaw yna khôta liana hao ta a y thlâh ha. Nâ la khoh khiahta cha, a kei la teh. Cha leipa cha a hropa y vei,” tah ta. Dâvi ta, “Cha hleikhô cha! Na vaw pie teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Dâvi cha thyu ta, cha noh ta Sawla riahchipa ta a râ ta, Kâthâ bei Akisâ lâ sie ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Akisâ chakaotuhpazy ta a hnohta, “He chyhsa he, ama râh bei Dâvi kha châ vei ma? ‘Sawla ta a sâh sâh ta thie ta, Dâvi ta a thy thy ta a thie,’ tahpa ta, lâna chôta a thâtih hla ta amâ palie ngâpa kha châ vei ma?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cha biezy cha Dâvi ta a palôh liata paveih thlâh ha ta, chavâta Kâthâ bei Akisâ cha chi ngaita ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ama hmiakô liata a yzie panano ta, ama ku liata a pahrusa ta, thokhy chhikaozy chaphy ta, a kâhhmi liata a pachih pathlaoh ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Akisâ ta a chakaotuhpazy hnohta, “Mo tua u, ahrupa a châpa pahno thlâh ha ei chi ta, khazia kei lâ namâ vaw chhi?
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ahrupa ei phahlapa vâta ma he chyhsa he a hruzie palâsa awpa ta ei hmiakô liata namâ vaw chhi? He hawhpa chyhsa he ei o liata â vaw ngia aw ma?” tah ta.
+  </para>
+  <chapter number="22" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Dâvi cha Kâthâ tawhta pua ta, Adulâ lôpu lâ a râ ta. Cha kyh cha a unawhzy nata a paw chhôhkha zydua ta ama thei nahta, a yna lâ cha zu ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Nôpona a hneipa, leibâh a hneipa nata palôh pasana a hneipa maihta ano liata a hmaohpakhy ei ta, ama hyutuhpa ta y ta. A hnohta chyhsa 400 tlai ama y.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Dâvi cha cha tawhta Môabâ râh liata Mizpâ lâ sie ta. Môabâ bei hnohta, “Khazohpa ta hmo eina taopa awpa ei pahno hlâlei cha, ei nô nata ei paw he na hnohta rie paysa chy mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi ta a nô nata a paw cha Môabâ bei lâ a chhi ta, thokhy chhôh liata Dâvi a y chhôh zydua cha Môabâ bei hnohta y ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Chatawhcha hrohsopa Kâdâ ta Dâvi hnohta, “Thokhy chhôh liata y ngâ thlâh ha leipa la, pua la, Zudâh râh lâ sie teh,” tah ta. Dâvi cha pua ta, Heretâ râhmâhpa liata a ngia ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Sawla ta Dâvi nata a hnohta a ypazy yna cha ama pahno haw tahpa thei ta. Sawla cha a asei chabapa ta Kibia khih tamâri tho ry liata a tyuh ta. A chakaotuhpa zydua a kiapâh liata a duah ei ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Sawla ta a kiapâh liata â duahpa a chakaotuhpazy hnohta, “Nâmo Benzami mozy saih u, nathlie teh u. Zese sawchapawpa heta nama zydua ta lyuzy nata kre sadôzy a cha pie aw ei ma, a pheisaih sâh kha hyutuhpa ta zy nata za kha hyutuhpa zy ta a cha tao khai aw ei ma?
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Khazia nama zydua ta eina tei ei chi? Ei sawchapawpa ta Zese sawchapawpa hnohta biehrai a taopa ahy hmahta na chho tlâ veih ei chi. Pachâ nâ rôhkheipa rai y veih ei chi. Nâ chakaotuhpa heta keima nâ dyuhpa ta, tanoh hawhna heta nâ byh awpa ta, ei sawchapawpa ta a pasyupa kyh chhao, nâ chhopa y tlâ veih ei chi,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla chakaotuhpazy kiapâh liata a duahpa Edômâ chyhsa Dôe ta a chhy ta, “Zese sawchapawpa Nôbâ khih liata Ahitu sawchapawpa Ahimele lâ â vypa ei hmô.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ano châta Ahimele ta Abeipa a saohiahpa ta, niedozy pie ta, Philistinâ chyhsa Kôliathâ zaozi kha a pie,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Abei chata chyhsa tuah ta, Ahitu sawchapawpa theihthaipa Ahimele nata Nôbâ khih liata theihthaipa a ypa a paw chhôhkha zydua paawsa ta. Ama zydua ta abei lâ a vy ei ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Sawla ta, “Nâ Ahitu sawchapawpa, nathlie teh,” tah ta. Ano ta, “Ei zibeipa, he liata ei y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Sawla ta a hnohta, “Khazia nâ nata Zese sawchapawpa heta eina tei ei chi? Viahchhâ nata zaozi zy vaw pie chi ta, Abeipa nâ vaw saohiahpa bao! Chavâta tanoh ta a taopa hawhna tlai heta nâ dyuh ta, einâ byhpa a châ hih,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Ahimele ta abei cha a chhy ta, “Châ chakaotuhpa zydua hry liata, abei piahpa Dâvi hawhta ngâchhihpa chyhsa he ahy ma a y? Ano cha na pheisaih hyutuhpa châ ta, na o liata chyhsazy ta ama za ngaitapa châ vei ma?
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Tanoh he ma ano châta Khazohpa ei saohiah tua noh a châ? Châ bao va! Abei ta a chakaotuhpa tlyma, ei paw chhôhkha zydua tlyma, bai cheita khah sy. Châ chakaotuhpa heta he kyh zydua he, a hluhpi tlyma, a chyhta tlyma, ei pahnopa y vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Abei ta, “Ahimele, na thi tlai awpa a châ, nâ nata na paw chhôhkha zydua nama thi awpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Abei ta a kiapâh liata a duahpa pheisaihzy hnohta, “A vaw palie u la, Abeipa theihthaipazy he thie teh u, âmo chhao he Dâvi chhâh a châhpa ama châ hih. A râpa a châ tahpa ama pahno thlâh hapa ta na chho veih ei,” tah ta. Châhrasala abei chakaotuhpazy ta Abeipa theihthaipazy thie awpa ta ama ku hy khoh leipa ei ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Abei ta Dôe hnohta, “A vaw palie la, theihthaipazy he thie teh,” tah ta. Edômâ chyhsa Dôe cha a vaw palie ta, theihthaipazy cha thie ta. Cha noh ta, Edômâ chyhsa Dôe ta pala rih dipa ephaw a kypa theihthaipa sycharie nata papangawh a thie ei.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Chatawhcha Sawla ta theihthaipazy yna Nôbâ khihpi cha zaozi ta a dyuh ta, chanô nata chapaw, hawti nata sâhpi a ngiehpa, viahchao, alâ nata mietaku zy chhao zaozi ta a chhawhsao khai ha ei.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ahitu sawchapawpa Ahimele sawchapawzy hry liata pakha, a moh Abiathâ deikua cha a râ papua ta, Dâvi â kei pahlyh haw.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawla ta Abeipa theihthaipazy a thie khai hapa kyh cha Abiathâ ta Dâvi chho ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dâvi ta Abiathâ hnohta, “Kha noh kha, a su liata Edômâ chyhsa Dôe kha y ta, Sawla a chho thlyu aw tahpa ei pangiasapa rai na a châ. Na paw chhôhkha manôh zydua keima vâta a thipa ama châ.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Ei hnohta y ha mah y. Chi khah y, keima thie nâ chhuahpa heta nâ chhao thie a châ chhuah hra. Keima hnohta la â bohpa ta na y aw,” tah ta.
+  </para>
+  <chapter number="23" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Chyhsazy ta Dâvi hnohta, “Philistinâ mo ta Keilâh khihpi a dyuh ei ta, sawhri liata sâhzy ama lapa khai haw,” tahpa chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dâvi cha Abeipa a saohiah ta, “Philistinâ mo cha a dyuh awpa ta ei sie aw ma?” tah ta. Abeipa ta Dâvi hnohta, “Sie la, Philistinâ mo cha a zâ dyu la, Keilâh khih za pachha teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Châhrasala Dâvi chyhsazy ta a hnohta, “Pachâ teh, Zudâh râh liata eima y thlâh hapa chhao heta chi pi ta, Keilâh lâ zu ta, Philistinâ pheisaihzy a za dyuh awpa cha, khatlu ta ma chi â chhih via vâ tly?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi ta Abeipa a saohiah heih ta, Abeipa ta a chhy ta, a hnohta, “Thyu la, Keilâh lâ cha zu teh, Philistinâ mo cha na ku liata ei cha pie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Chatawhcha Dâvi nata a chyhsazy cha Keilâh lâ zu ei ta, Philistinâ mo cha a zâ dyuh ei ta, ama sahrohzy a kaw chhi ta, Philistinâ mo cha thata ama thie. Cha hawhna chata Dâvi ta Keilâh khihsawzy cha a pachha ha ei.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ahimele sawchapawpa Abiathâ ta Keilâh khih liata Dâvi lâta â râ no kha, ephaw a phaopa ta zu ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Dâvi cha Keilâh lâ a sie tahpa Sawla chho ei ta. Sawla ta, “Khazohpa ta ei ku liata eina pie ha chu. Chhikao nata ahraina a hneipa thokhy khih liata a ngia ta, cha liata â khawhlôh ha chu,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sawla cha adyuhna lâ sie awpa ta pheisaih zydua awpakhy ta. Dâvi nata a chyhsazy za dôhpa ta, Keilâh khih cha zâ dyuh awpa a chhuah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla ta a chô liata hmo pha leipa tao â chhuahpa cha Dâvi ta pahno ta, theihthaipa Abiathâ hnohta, “Ephaw kha vaw cheih teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Dâvi ta, “Hy Abeipa , Izarei Khazohpa y, Sawla cha Keilâh lâ a zupa ta, keima vâta khihpi he parao â chhuahpa kyh châ chakaotuhpa heta ei thei pasia.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Keilâh khihsawzy heta a ku liata eina hlâ aw ei ma? Châ chakaotuhpa ta ei theipa hawhna chata, Sawla cha â zu tlai aw ma? Hy Abeipa , Izarei Khazohpa y, ngiachhiepa ta châ chakaotuhpa he chho mah y,” tah ta. Abeipa ta, “Â zu aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Dâvi ta, “Keilâ khihsawzy ta kei nata ei chyhsazy he Sawla ku liata miah ama hlâ aw ma?” tah ta. Abeipa ta, “Ama cha hlâ aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Dâvi nata a chyhsazy za charu rachhôhpazy cha thyu ei ta, Keilâh tawhta pua ei ta, siena rypaohpa lâ maih sie ei ta. Dâvi cha Keilâh tawhta â râ haw tahpa Sawla chho ei ta, chavâta hrâsie â chhuahpa cha pathleih ha ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Dâvi cha Ziphi râhchawhpa tlâh râh liata thokhy ta dôhpa khihpizy liata y ta. Sawla ta ano cha noh chareih ta tlua ta, châhrasala Khazohpa ta Dâvi cha a ku liata pie leipa ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Dâvi ta a hrona la awpa ta Sawla a vaw puapa cha hmô ta. Dâvi cha Ziphi râhchawhpa Hôresâ liata y ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Sawla sawchapawpa Zawnathâ cha thyu ta, Hôresâ liata Dâvi yna lâ sie ta, Zawnathâ ta Dâvi cha Khazohpa liata a ku thapatlô ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A hnohta, “Chi khah y, ei paw Sawla ku ta cha hmô aw vei. Izarei bei vaw châ aw chi ta, kei cha nâma châ pazipa ei châ aw. Ei paw Sawla chhao ta, cha cha a pahno,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Ama pano ta Abeipa hmiakô liata bie hraih ei ta. Dâvi cha Hôresâ liata a ngua ta, Zawnathâ cha o lâ sie ha ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Zipha mo ta Kibia liata a ypa Sawla lâ khy ei ta, a hnohta, “Dâvi cha Zesimô chho lâ, Hâkhilâ tlâh, Hôresâ thokhy liata eima hnohta â nyu thlâh haw.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Chavâta Hy abei y, a zu la, na palôh khopa zydua hawh tlai khata a zu mah y. Keimo eima vaw tao hra awpa cha, abei ku liata Dâvi eima cha hlâ awpa cha a châ,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawla ta, “ Abeipa ta byhnâ cha pie mawh ei sy. Nâmo la eina ngiachhie ngaita ei chi na.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Sie u la, kei pasia via heih tua teh u. A hniehnôh chathô u la, ahy ma Dâvi cha cha liata a hmô tahpa kei pasia via heih tua teh u. Ano cha so piehpie ngaitapa a châ tahpa chyhsazy ta eina chho ei.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Chavâta chyhsa â nyukhâhna su zydua pahno a chhuah u la, keima lâ a vy heih u la, bie siapa na vaw chho aw ei chi ta, nama hnohta ei vaw sie hra aw. He râh liata a y tlai khiahta cha, Zudâh chyhsa sâh hluhpi hry tawhta tluapapua aw na ta, ei hmô thlyu aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Ziphi mo cha thyu ei ta, Sawla hmia lâta Zipha lâ cha a lie ei ta. Dâvi nata a chyhsazy cha Zesimô chho lâ, Arabâ liata Maô râhchawhpa liata y ei ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Sawla nata a chyhsazy cha ano tlua awpa ta sie ei ta. Cha kyh cha Dâvi chho ei ta. Dâvi cha lôkâhpa lâ zu ta, Maô râhchawhpa liata za y ta. Cha cha Sawla ta a thei nahta, Dâvi cha Maô râhchawhpa liana cha a chadai lymâ ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Sawla cha tlâh hiakha lâ chhâh ta sie ta, Dâvi nata a chyhsazy cha tlâh hiakha lâ chhâh ta sie ei ta. Dâvi cha Sawla riah chipa ta a para ngaitapa ta a râ ta. Sawla nata a chyhsazy cha Dâvi nata a chyhsazy patu a chhuahpa ta a vaw hnia via lymâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Cha nota, zikyu a râpa vaw tlô ta, Sawla hnohta, “A chatliepa ta a vy teh, Philistinâ mo ta râh ama vaw chho,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Chavâta Sawla cha Dâvi â chadaipa cha kuasai ta, Philistinâ mo a dyuh awpa ta sie ha ta. Chavâta cha su cha Abohna Lôkâhpa tahpa ta bipa a châ.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Cha su tawhta Dâvi cha khy ta, Enkedi thokhy khihpi liata pahrâ ta.
+  </para>
+  <chapter number="24" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Sawla cha Philistinâ mo â chadaina tawhta a vaw kua nahta, “Dâvi cha Enkedi râhchawhpa liata a y,” tahpa ta Sawla cha chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sawla ta Izarei pheisaih pha chaipazy sâh thôh a chhi ta, Dâvi nata a chyhsazy cha Sathawh Lôkâhpa dady liata tlua awpa ta sie ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Lâpi kiapâh liata mietaku sadô kei tlô ta, cha liata lôpu y ta, Sawla cha lyupâh pua awpa ta a kei ngia ta. Dâvi nata a chyhsazy cha lôpu chhôh chaipa liata a tyuh thlâh ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi chyhsazy ta a hnohta, “Moh teh, tanoh he Abeipa ta na hnohta, ‘Na chariahpa cha na ku liata cha pie aw na ta, pha na tahpa hawhta a chô liata na tao aw,’ a tahpa noh kha a châ hih,” tah ei ta. Dâvi cha thyu ta, arulâta Sawla poh pai cha â ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Taviapa ta Dâvi cha Sawla poh pai a kei âpa vâta a chhôh khai kaw ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A chyhsazy hnohta, “Ei zibeipa, Abeipa sathawthupa chô liata, he hmo ei taopa he pha vei. Abeipa sathawthupa a châ tahpa ei pahno thlâh hapa tlai ta, a chô liata ei ku ei pathla thlâh hapa he Abeipa ta khoh vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cha biezy cha hmâpa ta Dâvi ta a chyhsazy cha pakhâ ta, Sawla chô liata ku pathla awpa ta ama thyu awpa pasaih khao vei. Chatawhcha Sawla cha thyu ta, lôpu cha puasai ta, a sie nawpa lâ sie ha ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A hnôh lâta Dâvi chhao cha thyu ta, lôpu tawhta pua ta, “Abei y, ei zibeipa y!” tahpa ta Sawla cha awsao ta. Sawla cha a hnôh lâ a kei heih ta, Dâvi cha a hmia alei lâ a khupa Sawla cha a naoh ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Dâvi ta Sawla hnohta, “Khazia ma, ‘Dâvi ta na chhiena a tlua,’ châ tahpa chyhsazy bie reipa cha na zo thlâh tly?
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Pachâ teh, tanoh lôpu liata Abeipa ta nâ cha ei ku liata na hlâ ta, cha cha na mo tlai ta tanoh na hmô haw. Thokha ta cha thie awpa ta na chho ei ta, châhrasala cha pahro na ta, ‘Ei zibeipa chô liata ei ku rai hy aw va na, Abeipa sathawthupa a châ hih,’ tahpa ta ei chho ei.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ei pâ, moh tua, vaw moh tua rai, na poh pai chhao ei chaba thlâh ha hih. Na poh pai ei tai thei thlâh hapa ta, nâma ei cha thie leipa kha, ei ku liata paraona nata abei adyuhna rai y vei tahpa na hmô awpa nata na pahno awpa ei khopa vâta a châ. Ei hrona la a chhuahpa ta na tlua ngâ hra la, na chô liata molei va na.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Abeipa ta nâma nata keima likah pachia sala, Abeipa ta na chô liata ei phuh tlao la mawh sy. Kei ta la, na chô liata ei ku pathla cheita aw va na.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hlâno bieso ta, ‘Moleipa tawhta moleina a pua tyh,’ a tahpa hawhta, kei ta la, na chô liata ei ku pathla beih aw va na.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Izarei bei pi tlai ta ahy ma a vaw puahnao tly? Ahy ma na chadai tly? I thipa ma nâ chadai? Ihlih ma nâ chadai!
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Chavâta Abeipa ta nâma nata keima likah pachia sala, bietluna tao mawh sy. Hmo yzie moh sala, ei chhâh a châ sala, na ku tawhta na pachha mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cha biezy cha Dâvi ta Sawla hnohta a rei khai nahta, Sawla ta, “Cha cha nâma ao ma a châ, ei sawchapawpa Davi?” tah ta. Sawla cha aoh tlili ta cha ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Dâvi hnohta, “Keima hlâta na sia via syulyu na, nâ cha ei chô liata hmo phapa tao chi ta, kei deikua cha, hmo chhiepa ta viari ei cha thô.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Abeipa ta na ku liata eina so hapa chhao ta, na thie leipa chi ta, ei chô liata na pha ngaitanazie tanoh na palâsa haw.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Chyhsa ta a chariahpa hmô sala, â bohpa ta a pasiesa aw ma? Tanoh ta ei chô liata na hmotaopa vâna heta, Abeipa ta hmo phapa ta cha thô maw sy.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Pachâ teh, abei châ tlai aw chi ta, Izarei khinarâh cha nâma ku liata paduapa a châ aw tahpa tahmâ ei pahno haw.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Chavâta ei pathla vaw y lymâ awpazy cha chhawh pathlah leipa aw chi ta, ei paw pathlazy tawhta ei moh he pahleipadia aw va chi tahpa Abeipa moh ta tahmâ bie nâ taih mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dâvi ta Sawla cha bie a taih ta. Chatawhcha Sawla cha o lâ sie ta, Dâvi nata a chyhsazy deikua cha thokhy lâ khy ha ei ta.
+  </para>
+  <chapter number="25" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Samuela cha thi ta. Izarei zydua a hmaohpakhy ei ta, ano châta mâchhiesa ei ta, Râmâ liata a ohmo liata ama pabu haw. Dâvi cha thyu ta, Pârâ râhchawhpa lâ zu ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Maô khihpi liata chyhsa pakha y ta, a raihriana khihpi deikua cha Kâmel a châ. Ano cha chyhsa hneirôh ngaitapa châ ta, mietaku 3,000 nata mie 1,000 a hnei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cha chyhsa moh cha Nâbâ châ ta, a lapinô moh cha Abikai a châ. Ano cha chanô so ngaitapa nata hmipha ngaitapa châ ta, a vahpa deikua cha nôchhiepa nata chyhsa moleipa a châ. Nâbâ he Kâlebâ pathla a châ.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi cha râhchawhpa liata a y nota, Nâbâ ta a mietaku hmi a ngyupa thâtih thei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi ta satlia pahrawh tuah ta, satliazy hnohta, “Kâmel lâ khy u la, Nâbâ a kaw hmô u la, ei moh ta namâ kaw naoh aw.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Keima moh ta a hnohta, ‘Na chô liata thlalôhna y mawh sy! Na o liata thlalôhna y mawh sy! Na hneipa zydua chô liata thlalôhna y mawh sy!
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Mietaku hmi ngyutuhpazy na hnei tahpa ei vaw thei. Na mietaku vaituhpazy eima hnohta y ei ta, kheihta hmahta tah beih leipa pi ta, Kâmel liata ama y chhôh zydua khâpa hmo hmahta pahlei veih ei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Na satliazy hiahri la, ama cha chho aw. Chavâta satliazy he vaw ngiachhie mah y. Kyhchhi daihti liata nâ lâ a vypa eima châ hih. Ngiachhiepa ta, châ chakaotuhpazy nata na sawchapawpa Dâvi he, na hnei rypaohpa maih vaw pie mah y,’ tahpa ta nama kaw chho aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Dâvi satliazy cha Nâbâ kô kei tlô ei ta. Bie zydua cha Dâvi moh ta ama chho khai nahta, a chalihpa ta â chhyna hâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Nâbâ ta Dâvi chakaotuhpazy cha a chhy ta, “Dâvi cha ahy ma a châ tly? Zese saw­chapawpa cha ahy ma a châ tly? Tahmâno he sei hluhpi ta ama zibeipazy amâ râsai ngâ kaw.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ei viahchhâ, ei ti nata ei mietaku hmi ngyutuhpazy châta sa ei thiepazy cha, khataih tawhta a vypa chyhsa ma ama châ tahpa chhao ei pahno leipazy hnohta zua ei pie aw ma?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Dâvi satliazy cha kua ei ta, ama yna lâ a lie ei ta, cha bie zydua cha Dâvi chho ei ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Dâvi ta a chyhsazy hnohta, “Chyhsa zydua nama zaozi a pataih khai teh u,” tah ta. Ama zaozi a pataih chyu ei ta, Dâvi chhao a zaozi a pataih hra ta. Chyhsa za palih ta Dâvi cha zi ei ta, hmozy vaih awpa ta chyhsa za no riehmo liata y ei ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Satlia pakha ta Nâbâ lapinô Abikai hnohta “Pachâ teh, Dâvi ta râhchawhpa tawhta eima zibeipa a naoh awpa ta chyhsa vaw tuah ta, châhrasala reikah chhiepa ta âmo cha â chhy ha ei.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Chatanachôta chyhsazy cha eima chô liata pha kaw ei ta, kheihta hmahta miah tah veih ei. Lyurâhpa liata hmaohkha ta eima y chhôh zydua khâpa hmah pahlei ma pi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Mietakuzy vaih pi ta, ama hnohta eima y chhôh zydua ta, chhô nah zâ ta eima châta thokhy ama châ lymâ tyh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Chavâta he hmo he tahmâ pahno la, khâpa na tao aw, pakhâta ta pachâ mah y. Eima zibeipa chô liata nata a o liata a ypa zydua chô liata chhiena a vaw tlô ha bâ hih. Eima zibeipa hra he, chyhsa chhiepa, ahy hmahta bie amâ chho thei leipa chyhsa châ tlôh ta,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Abikai cha a para kawpa ta viahchhâ tlâ za no, kresawhti ôh no, thlai chho thei awpa ta tao chiehpa mietaku pô pangawh, sâh pakâhpa saikhua hmo pangawh, kre thei pachawhpa sao za kha, theiku viahchhâ pakâhpa tlâ za no zy la ta, alâ paphaosa ta.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />A chakaotuhpa satliazy hnohta, “Ei hmia lâta sie aw ei chi ta, ei cha vaw pazi aw ei,” tah ta. A vahpa Nâbâ deikua cha chho vei.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Abikai cha alâ kiah ta, tlâh nohdi liata a sie ngâ nota, moh teh u, Dâvi nata a chyhsazy cha a zu ei ta, ano yna lâ vaw pangai ei ta, âmo cha a tyh ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Dâvi ta, “He chyhsa he, a hneipa zydua miakha hmah a lei lei nawpa ta, a hneipa zydua râhchawhpa liata vaipa tyh na ta, hraoleipa deita a vaw châ he. Hmo phapa cha, hmo chhiepa ta viari eina thô he!
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Mylâ my khih a pavâ tita, a hneipa zydua liata chapaw pakha chhao ei pahlôh khiahta cha, Khazohpa ta Dâvi chô liata tao sala, cha hlâta pasa viapa chhao ta tao mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Abikai ta Dâvi a hmô nahta, alâ tawhta chô para ta, Dâvi hmiakô liata a hmia alei lâ a khupa ta pao ta, a naoh ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A phei thaby liata â khu lâta pao ta, a hnohta, “Ei zibeipa y, keima ta, keima tlai ta thaileichâna cha ei to aw. Na seichanô he na nah theina liata bie rei awpa ta rie pasaih la, châ chakaotuhnô biezy he ngiachhiepa ta nathlie mah y.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Ei zibeipa heta chyhsa chhiepa Nâbâ he pachâ hlei khah sy. A moh hawh tlai heta na a châ. Nâbâ moh a phaopa hawh tlai ta a hru ha hih. Kei, châ chakaotuhnô heta ei zibeipa satlia vaw tuapazy kha vaw hmô va na.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Chavâta ei zibeipa y, tahmâ Abeipa hrona nata nâma hrona reipa ta ei reih. Abeipa ta thisaih palo awpa tawhta nata na chariahpazy chô liata nâma ku ta phuh la awpa tawhta cha pakhâ ha ta, chavâta na chariahpazy nata na chô liata hmo pha leipa tao a chhuahpazy cha Nâbâ hawhta châ mawh ei sy.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Tahmâ châ chakaotuhnô ta ei zibeipa châta hmosaipa ei vaw cheipa he, ei zibeipa a vaw zipa satliazy he pie awpa ta rie paryhsa mah y.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Châ chakaotuhnô paraona cha rie a ngiahthai mah y. Ei zibeipa he Abeipa adyuhnazy châta a dyuhpa na châpa vâta, Abeipa ta ei zibeipa he chipathla a ipa a paduapa tlai aw. Na hro chhôh zydua ta nâma liata moleina rai hmôpa châ aw vei.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Nâma a chadai awpa nata na hrona pahlei awpa ta chyhsazy vaw thyu hra ei sala, ei zibeipa hrona cha, Abeipa na Khazohpa mohôhna ry liata, a hrohpazy hry liata pahlaopa châ aw ta, na chariahpazy hrona deikua cha, cheisiah ta siapa hawhta Abeipa ta âmo cha siah aw ta, ama leidia aw.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Chatanachata Abeipa ta nâma kyh liata hmo phapa â taihpa zydua hawhta ei zibeipa chô liata taopa ta, Izarei bei ta a cha padua tita,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />a chhâpa y leipa ta thisaih palopa vâta tlyma, phuh lapa vâta tlyma, pachârôhna nata palôh tymâna ei zibeipa liata y aw vei. Abeipa ta ei zibeipa chô liata a phapa ta a tao tita, châ chakaotuhnô he rie a thei mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Dâvi ta Abikai hnohta, “Tanoh na vaw dy awpa ta châ vaw tuahtuhpa Abeipa , Izarei Khazohpa cha reithaipa ta y mawh sy!
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Hmo na pahno thaina he thlaochhina châ sala, thisaih palopa thaileichâna tawhta nata keima ku ta phuh la awpa tawhta nâ pabohsatuhpa nâma chhao vânoh topa ta y mah y!
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Abeipa , Izarei Khazohpa, nâma cha pasasa awpa tawhta nâ pakhâ hapa hrona reipa ta ei reih. Na vaw dy para leipa vaw châ la cha, mylâ khih a pavâ nahta, Nâbâ hnohta a ypa chapaw pakha hmahta y khao aw veih ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Dâvi ta Abikai vaw cheipa hmozy cha a ku tawhta a hlâh ta, a hnohta, “Thlalôhpa ta na o lâ a di mah y. Na ao thei na ta, na hiapa hlao ei cha patloh haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Chatawhcha Abikai cha Nâbâ lâ vawh ta, moh tua u, Nâbâ cha a o liata kyhchhi vaw tao ta, abei kyhchhipa hawhta kyh vaw chhih ta. Nâbâ cha a pari hapa vâta a ly kawpa ta vaw y ta. Chavâta a mylâ khih pavâ hlâlei cha, Abikai ta khâpa hmah chho leipa ta.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Mydi ta, Nâbâ cha Kresawhti a paripa a pai nahta, a lapinô ta hmo yziezy chho ta, a châh-ao a chalihpa ta, alô hawhta vaw y ha ta.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Noh hrawh khai tawhta, Abeipa ta Nâbâ chô liata a ku pathla ta, thi ha ta.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Dâvi ta Nâbâ a thi haw tahpa a thei nahta, “Nâbâ ku liata pasipasawh ei tyhpa viari nâ thôpatuhpa nata ano a chakaotuhpa heta hmo pha leipa ei tao ha awpa tawhta nâ pakhâpa Abeipa cha reithaipa ta y mawh sy. Nâbâ molei paraona cha Abeipa ta ano luh chô liata a patlasa haw,” tah ta. Chatawhcha Dâvi ta a chakaotuhpazy tuah ta, Abikai cha a lapinô châta za pahiasa ta.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Dâvi chakaotuhpazy cha Kâmel liata Abikai kô ama kei tlô nahta, a hnohta, “Dâvi ta a lapinô châta châ chhi awpa ta nâma lâ miah a za tuah,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Abikai cha thyu ta, a hmia alei lâ a khupa ta âmo cha a naoh ta, ama hnohta, “Châ chakaotuhnô he, ei zibeipa chakaotuhpazy phei a pasi awpa chakaotuhpa ei châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Abikai cha thlai thyu ta, alâ kiah ta, laihsa papangawh ta ano cha zi ei ta. Dâvi chyhsa tuapazy hnohta sie ta, a lapinô ta y ha ta.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Dâvi cha Zezari zuah Ahinô vaw hnei ha ta, chavâta ama pano ta lapinô ta a hnei ei.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Dâvi lapinô Mikâli, Sawla sawchanô deikua cha, Sawla ta Kâli khihpa Laisâh sawchapawpa Pâti a pie haw.
+  </para>
+  <chapter number="26" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Zipha mo cha Kibia liata Sawla lâ a vy ei ta, a hnohta, “Dâvi cha Zesimô dady Hâkhilâ tlâh liata â nyu thlâh haw?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sawla cha thyu ta, Izarei pheisaih pha chaipa sâh thôh a chhipa ta, Dâvi tlua awpa ta Ziphi râhchawhpa lâ zu ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Sawla cha Zesimô dady ta a ypa Hâkhilâ tlâh lâpi kiah liata riehmo paryh ta. Dâvi deikua cha râhchawhpa liata y thlâh ha ta. Sawla cha ano tlua awpa ta râhchawhpa lâ â vy tahpa a pahno nahta,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi ta mohparutuhpazy tuah ta, Sawla cha â vy hmeiseih tlai tahpa pahno ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi cha thyu ta, Sawla riehmo lâ vawh ta. Sawla nata a pheisaih hyutuhpa Nerâ sawchapawpa Abane aziana kei hmô ta. Sawla cha riehmo liah liata a zia ta, pheisaihzy cha ano chadôpa ta riehmo tao ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Dâvi ta Hiti chyhsa Ahimele nata Zôabâ unawhpa Zeru sawchapawpa Abisai hnohta, “Ahy ma Sawla riehmo lâ nâ zu lâh aw?” tah ta. Abisai ta, “Kei ta ei cha zu lâh aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Dâvi nata Abisai cha pheisaihzy yna lâ zâ ta zu ei ta. Sawla cha riehmo chhôh liata a zia ta, â vaw mô thlâh hapa hmô ei ta. A asei cha a luh chô alei liata chalohsa ta. Abane nata pheisaihzy ta ano cha a zia chadô ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Abisai ta Dâvi hnohta. “Tanoh he Khazohpa ta na chariahpa na ku liata a cha pie haw. Asei ta alei nata a kei chô pâ ha tua tlai sah, ei kha a chô â daih aw, a chô chanei byuh aw vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Châhrasala Dâvi ta Abisai hnohta, “Pahleipadia khah y, Abeipa sathawthupa chô liata ku pathla ta, thai a châpa ahy ma a y beih?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Dâvi ta, “ Abeipa hrona reipa ta ei reih, Abeipa ta a chô liata ku a pathla aw. Cha hawhta a châ leipa chhao ta, a thina noh vaw tlô thei ta, adyuhna lâ sie aw ta a leidia thei hra.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Abeipa sathawthupa chô liata ku ei pathla awpa cha Abeipa ta pakhâ mawh sy. A luh chô liata asei nata titheih deikua hao kei la la, sie ha ei suh u,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chatanachata Dâvi cha Sawla luh chô liata asei nata titheih la ta, sie ha ei ta. Ahy hmahta a hmôpa nata a pahnopa y leipa ei ta, ahy hmahta a hrapa y veih ei. Abeipa ta mokuh pahâh ngaitapa ta a pamôsa hapa vâ ei ta, ama zydua ta amâ mô khai haw.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Chatawhcha Dâvi cha haosâ lâ kiah ta, lâhlapi liata a ypa tlâh laki liata a duah ta, ama likawh cha a hla kaw ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Dâvi ta pheisaihzy nata Nerâ sawchapawpa Abane cha awsao ta, ama hnohta, “Abane, nâ chhy aw va chi ma?” tah ta, Abane ta a chhy ta, “Abei a awsao ngâhpa cha ahy ma na châ tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Dâvi ta Abane hnohta, “Chapaw châ va chi ma? Nâ hawhpa he Izarei liata ahy ma a y? Kheihtazieta ma na zibeipa abei cha vaih leipa ta na y thlâh haw? Na zibeipa abei pahleipadia awpa ta chyhsa pakha â vy kha zaw.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Na hmotaopa kha a pha lei ngaita. Abeipa hrona reipa ta ei reih, Abeipa sathawthupa na zibeipa na vaih leipa vâta, a thi tlâh na châ. Abei luh chô liata asei nata titheih kha khataih liata ama y, vaw moh tua,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Sawla ta Dâvi ao a châpa pahno ta, a hnohta, “Cha cha nâma ao ma a châ, ei sawchapawpa Davi,” tah ta. Dâvi ta, “Hy abei y, ei zibeipa y, keima ao na a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Dâvi ta, “Khâpa vâta ma ei zibeipa heta châ chakaotuhpa he â chadai tly? Khâpa hmo ma ei tao ha tly? Khâpa moleina ma ei ku liata a y tly?
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Chavâta ei zibeipa abei y, châ chakaotuhpa biezy he tahmâ vaw nathlie tua mah y. Keima nâ dyuh awpa palôh châ pahneisapa he, Abeipa a châ khiahta cha, hmohlâpa a pyh sala, chyhsazy ama châ khiahta deikua cha, Abeipa hmiakô liata chhiesapa ta y mawh sy. ‘Sie la khazoh hropazy kei chakao teh,’ na tah ei ta, Abeipa ryu liata tovyuh ei hnei thei lei nawpa ta, tanoh eina papua ha ei hih.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Chavâta ei thisaih cha Abeipa hmô leina alei liata tla khah sy. Chyhsa ta bykheihpa a byhpa ta, tlâh liata râh â khiepa hawhta ma, Izarei bei pi tlai ta ihlih miakha tluapa ta a vaw pua,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawla ta, “Ei vaw molei ha na. Vaw kua ha mah y, ei sawchapawpa Davi. Ei hrona he na mohmô liata tanoh sôh ngaita ta, chavâta kheihta hmahta cha tah khao aw va na. Moh teh, hru kawpa ta hmo vaw tao na ta, ei vaw tao chhei ngaita,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dâvi ta a chhy ta, “Hy abei y, he he na asei a châ hih! Satlia pakha a vy sala, vaw la mawh sy.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Abeipa cha chyhsa to ama siana nata ama ngâchhihna hawhta lymâ a pie tyhpa a châ. Tanoh he Abeipa ta nâma cha ei ku liata na pie ta, châhrasala Abeipa sathawthupa chô liata ku pathla awpa cha khoh va na.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Pachâ teh, tanoh ei mohmô liata na hrona ei pasôpa hawhna heta, keima hrona chhao Abeipa mohmô ta pasôpa ta y sala, nôpona zydua tawh­ta na pachha mawh sy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Sawla ta Dâvi hnohta, “Ei sawchapawpa Dâvi y, vânoh topa ta y mah y! Hmo hluhpi tao aw chi ta, na hlao a tloh lymâ aw,” tah ta. Chatawhcha Dâvi cha ano lâpi lâ sie ta, Sawla chhao a yna su lâ a lie ha hra ta.
+  </para>
+  <chapter number="27" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Dâvi ta a palôh liata, “Khati ta ma cha Sawla ku liata ei leidia ualua aw hih. Philistinâ râh lâ a râpa hlâta a pha viapa y thlyu aw vei. Sawla ta Izarei râh liata eina tluapa he a hnabeidy daihti tlô aw ta, chatanachata a ku tawhta ei boh ha aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dâvi cha thyu ta, a hnohta a ypa chyhsa za charu chhaota Maokâ sawchapawpa, Kâthâ bei Akisâ lâ sie ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Dâvi nata a chyhsazy cha ama chhôhkhazy chhaota Kâthâ khihpi liata Akisâ hnohta y ei ta. Dâvi lapinô pano, Zezari zuah Ahinô nata Nâbâ panôhmeipa Kâmel zuah Abikai chhao Dâvi hnohta cha liata y hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Kâthâ lâ Dâvi â râ hapa kyh Sawla ta a pahno nahta, tlua khao leipa ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi ta Akisâ hnohta, “Na mo ei dy khiahta cha, ei pahrâ nawpa su khitaw miakha eina pie awpa chi ta ei châ haw. Châ chakaotuhpa he khazia ma abei khihpi liata na hnohta ei y ngâ thlâh ha aw?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cha noh ta, Akisâ ta Dâvi cha Zikalâ khih pie ta. Chavâta Zikalâ cha tanoh taihta Zudâh beizy eih a châ pâ haw.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Dâvi cha Philistinâ râh liata kô kha nata thla palih tlai y ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Dâvi nata a chyhsazy cha khy ei ta, Kesuri mo, Kirizi mo nata Amale mozy kaw chho ei ta. Âmo he hlâno tawhta he râh liata a vaw pahrâpa, Izi râh daih lâ Surâ taihta a pahrâpazy ama châ.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Dâvi ta râh cha a dyuh ta, chanô tlyma, chapaw tlyma, pakha chhao pahlôh leipa ta, mietakuzy, viahchaozy, alâzy, râraoseihpazy, chysiazy la ta, Akisâ lâ a lie ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Akisâ ta a hnohta, “Tanoh khataih lâ hrâ na sie?” tahpa ta a hiahri tita, Dâvi ta, “Zudâh chho lâ, Zerami chho lâ, Keni chho lâ,” tahpa zy ta a chhy tyh ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />“Eima thâtih reipa ta, ‘Cha hawh, kha hawhta Dâvi ta a tao’ tahpa ta, Kâthâ lâ thâtih ama tlôkhei pathlei aw,” tahpa a chipa vâta, Dâvi ta chanô tlyma, chapaw tlyma, pakha hmah pahlôh leipa ta a thie khai ha tyhpa ei a châ.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Akisâ ta Dâvi cha ngâ kaw ta, “A chiheih Izarei sawzy ta amâ hao awpa ta anosasyh ta â tao ha hih. Chavâta nâ chakaotuhpa ta chhâzaw ta a y bâ aw,” tahpa ta pachâ ta.
+  </para>
+  <chapter number="28" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Cha nohzy liata, Philistinâ mo cha Izarei a dyuh awpa ta ama pheisaihzy pahmaoh ei ta. Akisâ ta Dâvi hnohta, “Nâma nata na chyhsazy he pheisaihzy hry liata ei hnohta nama sie hra awpa a châ tahpa pahno mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dâvi ta Akisâ hnohta, “A pha na, châ chakaotuhpa hmotaotheizie na pahno aw,” tah ta. Akisâ ta Dâvi hnohta, “A pha na, na hro chhôh zydua nâ vaituhpa ta ei cha tao aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Samuela cha thi ha ta, Izarei zydua ta ano châta mâchhiesa ei ta, ano khih, Râmâ liata ama pabu hapa kha châ ta. Peihthaipazy nata dyuthaipazy chhao Sawla ta râh tawhta papua khai ha ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Philistinâ mo cha a pahmaohpakhy ei ta, a vy ei ta, Sune liata riehmo paryh ei ta. Sawla ta Izarei mo zydua awpakhy ta, Kibô liata riehmo paryh hra ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sawla cha Philistinâ pheisaihzy a hmô nahta, chi ngaita ta, liathih thata nie ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Abeipa a saohiah ta, châhrasala Abeipa ta mâ lâta tlyma, Uri ta tlyma, hrohsopazy hmâpa ta tlyma a chhy leipa ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Sawla ta a chakaotuhpazy hnohta, “Peihthaipa chanô na tluapa teh u, ano lâ sie aw na ta, ei saohiah aw,” tah ta. A chakaotuhpazy ta a hnohta “Enadaw khih liata peihthaipa chanô a y,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sawla cha a hmisâ nata â tobizie panano ta, ano nata chyhsa hropa pano chhaota sie ei ta. Chanô yna cha zâ ta kei tlô ei ta. Sawla ta, “Peihpa ta thlahpa nâ saohiahpa la, a moh ei cha chhopa maih na awpa mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Chanô ta a hnohta, “Pachâ teh, Sawla hmotaopa pahno chi ta, peihthaipa nata dyuthaipazy râh tawhta a pahlei khai hazie na pahno. Khazia ei hrona he khoheih chôkhâhpa ta, ei chô liata thina patlôsa nâ chhuah tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Sawla ta Abeipa moh ta a hnohta bie a taih ta, “ Abeipa hrona reipa ta ei reih, he hmo vâna heta na chô liata hriena tlô cheita aw vei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chanô ta, “Ahy ma ei cha awpa aw?” tah ta. Ano ta, “Samuela na awpa teh,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chanô cha Samuela a hmô nahta, thata sâh ta. Chanô ta Sawla hnohta, “Khazia eina dôvei chi? Sawla na châpa he,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Abei ta a hnohta, “Chi khah y. Khâpa na hmô?” tah ta. Chanô ta Sawla hnohta, “Alei tawhta khazoh a kaw puapa ei hmô” tah ta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Sawla ta a hnohta, “Khâpa a lyu?” tah ta. Chanô ta, “Pawpipa kaw pua ta, viahkao pasipa â ky,” tah ta. Sawla ta Samuela a châ tahpa pahno ta, a hmia alei lâ a khupa ta a naoh ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Samuela ta Sawla hnohta, “Khazia he hawhta na aw papuapa ta eina patypamâ chi?” tah ta. Sawla ta a chhy ta, “Ei nôpo ngaitapa vâta a châ. Philistinâ mo ta nâ dyuh ei ta, Khazohpa hra cha nâ heihsai ha ta, hrohsopazy hmâpa ta tlyma, mâ lâta tlyma, nâ chhy khao leipa ta. Chavâta ei tao awpa na chho awpa ta ei cha aw papua,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Samuela ta, “Cha hawhta Abeipa ta châ heihsai ha ta, na chariahpa lâta tlao â lie hapa na pahno thlâh tlôh khiahta cha, khazia eina hiahri chi?
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Keima hmâpa ta a reipa hawhna khata, Abeipa ta na chô liata a tao ha cha zaw. Abeipa ta khinarâh cha na ku tawhta la ta, na opapa Dâvi a pie haw.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Abeipa ao nathlie leipa chi ta, a hiehâhna ru ngaitapa phuh cha Amale chô liata na patlôsa leipa vâta, Abeipa ta he hmo he tanoh na chô liata a patlôsapa a châ.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Cha dei châ vei, Izarei chhao, nâma chhao, Abeipa ta Philistinâ mo ku liata a cha hlâ aw ei. Mylâ cha nâma nata na sawchapawzy ei hnohta nama y ha aw. Izarei pheisaihzy chhao Abeipa ta Philistinâ mo ku liata a pie aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Samuela biezy vâta Sawla cha chi ngaita ta, eikhapi ta a tlai ta alei liata pao ta. Noh y kha nata azozâkhihdei khâpa hmah a nie leipa vâta, tha rai hnei khao leipa ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Chanô cha Sawla lâ a vy ta, a chi ngaita tahpa a hmô nahta, a hnohta, “Nathlie teh, châ chakaotuhnô he na rei châ ngiah na ta, ei hnohta bie na reipazy kha ei hrona sokhâhpa ta ei nathliepa a châ.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Chavâta tahmâ, nâ chhao ta châ chakaotuhnô ao he ngiachhiepa ta nathlie hra mah y. Na sie tita thatlôna na hnei thei nawpa ta, viahchhâ a chyhta cha vaw taopa aw sah la, nie mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Châhrasala khoh leipa ta, “Nie aw va na,” tah ta. Châhrasala chanô nata ano Sawla chakaotuhpazy ta amâ haw ngâ kawpa vâta, ama biezy cha a pyh ta. Alei tawhta thyu ta, rakhô liata a tyuh ta.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Chanô ta viahchaotaw thawhpa a o liata hnei ta, thlai thie ta, viahdie la ta, nyh ta, thinô pahlao leipa viahchhâ tao ta,
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Sawla nata a chakaotuhpazy hmiakô liata soh ta, nie ei ta. Chatawhcha thyu ei ta, cha zâ liata sie ha ei ta.
+  </para>
+  <chapter number="29" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Philistinâ mo cha ama pheisaih zydua Aphe liata pahmaoh ei ta. Izarei mo chhao Zezari liata tikhaoh kiapâh liata riehmo paryh ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Philistinâ beizy cha a za za ta nata a sâh sâh ta hrâsiena lâ pua ei ta. Dâvi nata a chyhsazy cha Akisâ chhaota hnôh lâ a chhâh ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Philistinâ pheisaih hyutuhpazy ta, “He Hebrai mo he, he liata khâpa ma ama tao?” tah ei ta. Akisâ ta Philistinâ pheisaih hyutuhpazy hnohta, “He he Davi, Izarei bei Sawla chakaotuhpa a châ. Kei lâ â vaw râ tawhta, ei hnohta cha ti kô sy y ha ta, tanoh taihta ano liata adoleina khâpa hmah hmô va na?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Châhrasala Philistinâ pheisaih hyutuhpazy cha Akisâ chô liata ama hiehâh ta, a hnohta, “He chyhsa he pakuasa la, ano châta su na raopa lâ a lie ha mawh sy. Adyuhna lâ eima hnohta a sie awpa châ vei. Chataleipatala adyuhna liata keimo miah a dyuhtuhpa a châ pathlei aw. He chyhsa heta kheihta ma a zibeipa â ryh heih thei aw? He liata a ypa chyhsazy luh heta a kei ryh heih â chhuahpa châ vei ma?
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ano he, “‘Sawla ta a sâh a sâh ta thie ta, Dâvi ta a thy a thy ta a thie,’ tahpa ta, lâna chôta a thâtih hla ta amâ paliepa Dâvi kha châ vei ma?” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Akisâ ta Dâvi cha aw ta, a hnohta, “ Abeipa hrona reipa ta ei reih, chyhsa dopa châ chi ta, chavâta pheisaihzy hry liata ei hnohta na sie tyhpa nata na vaw tlô tyhpa zy he, keima mohmô liata la a pha ngaita. Kei lâ nâ vy noh tawhta tanoh taihta, nâma liata adoleina khâpa hmah hmô va na. Châhrasala beimachâzy heta cha ngâ veih ei.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chavâta tahmâ a lie ha la, Philistinâ beimachâzy palysa leipa ta na y lei nawpa ta, palôh tlâh kawpa ta sie ha mah y,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Dâvi ta Akisâ hnohta, “Khâpa hmo ma ei tao ha tly? Ei zibeipa abei chariahzy adyuhna lâ sie lei awpa ta, na hmiakô liata ei y pathao noh tawhta tanoh taih heta châ chakaotuhpa liana heta khâpa ma na hmô tly?” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Akisâ ta Dâvi cha a chhy ta, a hnohta, “Keima mohmô liata la Khazohpa vâlyuhchâpa hawh tlai ta seina hnei leipa na châ. Châhrasala Philistinâ pheisaih hyutuhpazy ta, ‘Adyuhna lâ eima hnohta a sie awpa châ vei,’ ama tah haw.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Chavâta na hnohta a vaw sie hrapa na zibeipa chakaotuhpazy chhao heta mydi kari ta thyu u la, mydi kari ta pua u la, khih pavâpa nahta sie ha muh vy,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chatanachata Dâvi nata a chyhsazy cha thyu patoh ei ta, Philistinâ râh lâ cha mydi ta a lie ha ei ta. Philistinâ mo deikua cha Zezari lâ khy ei ta.
+  </para>
+  <chapter number="30" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />A noh thôhna noh liata Dâvi nata a chyhsazy cha Zikalâ tlô ei ta. Amale mo ta Neke nata Zikalâ khihpi chho ei ta. Zikalâ cha pahnie ei ta, mei ta rao ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Chanôzy nata cha liata a ypa maih a lai a chyh ta sei ta patu ei ta. Pakha hmah thie leipa ta, a chhi ei ta ama siekhei khai haw.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Dâvi nata a chyhsazy cha khihpi vaw tlô ei ta, moh teh u, mei ta vaw kâ khai ha ta. Ama lapinôzy nata ama sawchapawzy nata ama sawchanôzy cha sei ta vaw patu ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Dâvi nata a hnohta a ypa chyhsazy cha ama tha chhâ khai hana taihta aoh tlili ta cha ei ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Dâvi lapinô pano, Zezari zuah Ahinô nata Nâbâ ta a panôhmeipa Kâmel zuah Abikai zy chhao sei ta amâ chhi ha hra.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Chyhsa to ta ama sawchapawzy nata sawchanôzy vâta palôh pasa ngaitapa ta y ei ta. Chavâta Dâvi cha alô ta vaw awpa kyh reih ei ta. Dâvi cha a nôpo kaw ta. Châhrasala Dâvi cha Abeipa a Khazohpa liata tha a patlô ta.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Dâvi ta Ahimele sawchapawpa theihthaipa Abiathâ hnohta, “Ephaw na vaw pie teh,” tah ta. Abiathâ ta Ephaw cha Dâvi vaw pie ta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Dâvi ta Abeipa a saohiah ta, “Pheisaihzy cha ei chadai aw ei ma? Ei pha aw ei ma?” tah ta. Abeipa ta a chhy ta, “A chadai teh, âmo cha pha cheingei aw chi ta, na chyhsazy na pachha khai heih aw ei,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Dâvi cha a hnohta a ypa chyhsa za charu chhaota pua ta, Besô chavah tlô ei ta. Zawpi a pha thei leipazy cha, cha liata a ngua ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Dâvi nata pheisaih za palihzy deikua cha, a chadai lymâ ei ta. Ama tha a chhâ tupa vâta chavah a chaka thei leipa manôh za nozy cha, Besô chavah liata a ngua ha ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Lyurâhpa liata Izi chyhsa pakha hmô ei ta, Dâvi lâ a vaw chhi ei ta. Viahchhâ pie ei ta, nie ta. Ti do awpa pie ei ta,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />theiku viahchhâ pakâhpa tlâ kha nata kre pachawhpa sao no pie ei ta. A nie khai nahta, a palôh tha vaw tlô heih ta. Noh thôh nata zâ thôh chhôh viahchhâ nie leipa nata ti do leipa ta a vaw ypa a châ.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Dâvi ta a hnohta, “Ahy chyhsa ma na châ? Khataih tawhta ma nâ vy?” tah ta. Ano ta, “Izi satlia châ na ta, Amale chyhsa chakaotuhpa ei châ. Ei tlâh leipa vâta noh thôh a khô hapa liana khata ei zibeipa ta eina siesai haw.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Khere mo chho râh, Zudâh râh nata Kâlebâ chho râh zy chho pi ta, Zikalâ chhao mei ta eima rao haw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Dâvi ta a hnohta, “Cha pheisaihzy yna lâ cha einâ chhi thei aw chi ma?” tah ta. Ano ta, “Na thie lei awpa nata ei zibeipa ku liata na hlâ lei awpa ta, Khazohpa moh ta bie einâ taih khiah chi ta cha, pheisaihzy yna lâ cha ei châ chhi aw,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Izi chyhsa chata Dâvi cha Amale mo yna lâ a chhi ta. Moh teh u, Amale mo cha su to liata a vaw hiezâh hôlô ei ta. Philistia râh nata Zudâh râh tawhta hraona hluhpi ama lapa vâta niedopa nata lâsopa ta y ei ta.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Dâvi ta zâlâ noh hawh khaihpa tawhta a mylâ zâlâ taihta âmo cha thie ta, râraoseihpa kiah ta a râ hapa satlia za palih tah leipa ta cha, chyhsa pakha hmahta a hrohpa y veih ei.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Dâvi ta Amale mo lapa hmo zydua la pakhua khai ta, a lapinô panozy chhao a pachha ha ei.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />A lai a chyh, sawchanô sawchapaw, ama hraopa nata ama lapa hmo khâpa hmah a ki leipa y tlâ vei. A zydua ta Dâvi ta a la pakhua khai haw.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Dâvi ta mietaku zaw nata viahchao zaw zydua la ta, pheisaihzy ta sahrohzy cha Dâvi hmia lâta haoh laih ei ta, “He he Dâvi hraopa a châ hih,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Ama tha a chhâ kawpa vâta Dâvi zi thei khao leipa ei ta, Besô chavah liata ama siesai hapa chyhsa za nozy yna kha Dâvi ta kei tlô ta. A sie thei khao leipazy chata Dâvi nata a chyhsazy dy awpa ta vaw pua ei ta. Dâvi ta âmo cha a kei hnia ta, a naoh ta.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dâvi hnohta a siepazy hry liata moleipa nata chyhsa chhiepa zydua ta, “Eima hnohta sie hra tlôh leipa ei ta, chavâta hraona sôh eima la pakhuapazy he âmo pie hra aw ma pi, ama lapinô nata sawzy deikua cha a chhi aw ei ta, ama sie thei aw,” tah ei ta.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Dâvi ta, “Ei unawhzy saih u, Abeipa miah piepa hmo he cha hawhta nama tao awpa châ vei. Abeipa ta miah pabohsa ta, pheisaih miah a vaw siehnaopazy eima ku liata miah a pie haw.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Ahy ma he kyh liata châ nathlie aw ei? Adyuhna lâ a siepazy topa hawhta, hmobaoh vaih awpa ta a nguapazy chhao he ama to hra aw. Â khopa ta ama to hra awpa a châ,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Cha bie cha Izarei châta bieraopa nata biezyhpa ta hmâh ta, cha noh tawhta tanoh taihta hmâ lymâ awpa ta tao ha ta.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Dâvi cha Zikalâ a vaw tlô nahta, hraona sôh thokhazy cha a viasa Zudâh machâzy paphao ta, ama hnohta, “He he nâmo châta hmosaipa a châ, Abeipa chariahpazy hraona sôh a châ hih,” tah ta.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Cha hmosaipazy cha Bethel liata a ypazy, Ramô chho lâta a ypazy, Zati liata a ypazy,
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Arôerâ liata a ypazy, Siphamô liata a ypazy, Estemô liata a ypazy,
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Râkalâ liata a ypazy, Zerameli khihpizy liata a ypazy, Keni khihpizy liata a ypazy,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Hômâ liata a ypazy, Bôrasâ liata a ypazy, Athakâ liata a ypazy nata
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Hebraw liata a ypazy hnohta paphao ta. Dâvi nata a chyhsazy a khiekhâ tyhna su zydua liata a ypazy hnohta paphao khaipa a châ.
+  </para>
+  <chapter number="31" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Philistinâ mo ta Izarei a dyuh heih ei ta. Izarei chyhsazy cha Philistinâ mo hmiakô tawhta a râpai ei ta, Kibô Tlâh liata thiepa ta y ei ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Philistinâ mo ta Sawla nata a sawchapawzy cha a chadai lymâ ei ta, Philistinâ mo ta Sawla sawchapawpa Zawnathâ, Abinadâ nata Mekhisua zy cha thie ei ta.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Adyuhna cha ru ngaita ta, Sawla cha thata chadie ei ta, likathaipazy ta Sawla cha hmô ei ta, hmah thata paphao ei ta.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sawla ta a chariah chhaichhi a chabatuhpa hnohta, “Na zaozi kha phia la, nâ vaw chôsao teh, chataleipatala chopawtaileipa sahlaozy a vy aw ei ta, nâ vaw chôsao aw ei ta, einâ palai thlu pathlei aw ei na,” tah ta. Châhrasala a chariah chhaichhi chabatuhpa cha a chi ngaitapa vâta tao kho leipa ta. Sawla ta ano zaozi la ta, pao thlu ta.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A chariah chhaichhi chabatuhpa ta Sawla a thipa a hmô nahta, ano chhao ta a zaozi pao thlupa ta, Sawla hnohta thi ha hra ta.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Chatanachata Sawla, a sawchapawpa pathôh, a chariah chhaichhi a chabatuhpa nata a chyhsa zydua cha, noh kha chhôh ta ama thi khai haw.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Izarei mo a râpai ei ta, Sawla nata a sawchapawzy ama thi hapa cha, Saikao haosâ lâta Izarei chyhsa a ypazy nata Zawdâh haosâ lâta a ypazy ta ama hmô nahta, ama khihpizy puasaipa ta a râpai khai ha ei ta. Philistinâ mo a vy ei ta, Izarei khihpizy liana cha ama vaw pahrâ haw.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A mylâ ta Philistinâ mo cha ama chariah thiepazy chysia pahluh awpa ta vawh ei ta. Sawla nata a sawchapawpa pathôhzy cha athipa ta Kibô Tlâh liata kei hmô ei ta.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Sawla cha a luh tai ei ta, a chariah chhaichhizy pahluh ei ta, ama nothlahpa achhyna ozy liata nata zawpizy hnohta a thâtih phuah awpa ta, Philistinâ râh zydua liata zikyu parâsa ei ta.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A chariah chhaichhizy cha Astarô o liata soh ei ta, a ri deikua cha Besâ thokhy liata chahry pâ ei ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Philistinâ mo ta Sawla ama taotiazie cha Zabekilia khihsawzy ta ama thei nahta,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />pasaipha zydua thyu ei ta, azozâkhihdei ta sie ei ta, Besâ thokhy liata ama chahry pâpa Sawla ri nata a sawchapawzy ri cha la ei ta, Zabe vaw tlôkhei ei ta, cha liata rao ei ta.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ama ruzy la ei ta, Zabe liata tamâri kô ry liata pabu ei ta, noh sari chhôh kâhvileipa ta mâchhie ama sa.
+  </para>
+</usx>

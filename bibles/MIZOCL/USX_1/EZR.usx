@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="EZR" style="id">Ezra</book>
+  <para style="h">Ezra</para>
+  <para style="toc1">Ezra</para>
+  <para style="toc2">Ezra</para>
+  <para style="mt">Ezra</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Persia lal Kura lal ṭan tirh kumin zâwlnei Jeremia kâa Lalpa thu lo sawi tawh chu a thlen kim theih nân; Lalpa chuan Persia lal Kura rilru chu a tiharh a, a ram pum puiah ziakin thu puan a chhuah a, hetiangin:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />“Persia lal Kura chuan heti hian a ti: Vân Pathian, Lalpa chuan khawvêl ram pum pui hi min pe ta a. Judai ram Jerusalem khuaah a tân in sa tûrin min ti a ni.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Nangni, a mi zawng zawngte hnênah Pathian chu awm rawh se. Judai ram Jerusalem khuaah chuan haw chho ula, Israel-te Pathian, Jerusalem khuaa in biak ṭhin Lalpa Tempul chu han sa ṭha rawh u le.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A mi, saltâng tu pawh ṭanpui ngai chu an ṭhenawmten tangka te, rangkachak te leh sabengtung tein ṭanpui rawh se; Jerusalem khuaa Pathian Tempula thilhlan tûr pawh pe rawh se,” tiin.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Juda leh Benjamin hnam hruaitu te, puithiam leh Levia chi te leh mi dang, Pathianin an rilru a tihphûrsak te chu, Jerusalem-a Lalpa in sa tûr chuan an insiam ta a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />An vêla awmte chuan tangkaraw bungbêl te, rangkachak te, thawmhnaw te, sabengtung te an pe a, chûng bâkah Tempul sak nâna an thawhlâwmte pawh an pe bawk a.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Nebukadnezaran Lalpa in aṭanga bungbêl a lâk zawng zawng kha an pathian inah a dah a; chûngte chu lal Kura chuan,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />lal sum enkawltu Mithredata chu a lâk chhuahtîr a, an ziak chhuak a, Juda-ho zînga hotu ber Sesbazara a pe a,
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />chûngte chu: rangkachak maihûn sawmthum, tangkaraw maihûn sângkhat; chem sawmhnih leh pakua.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Rangkachak no sawmthum; tangkaraw no zali leh sâwm; bungbêl chi dang sângkhat.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A vaiin rangkachak leh tangkaruaa siam no leh thil dang chi hrang chu kg. sângnga leh zali a ni a; Sesbazara leh saltâng dangte chuan chûng chu Babulon aṭangin Jerusalem-ah an chhohpui a.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Saltâng tam tak chuan Babulon chu an chhuahsan a, Jerusalem-ah leh Judai ramah, mahni awm ṭhinna ṭheuhvah an haw a. Lal Nebukadnezaran a man aṭang khân Babulon-ah an chhûngin salah an awm a ni.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />An zînga hruaitu deuh deuhte chu: Jerubabela te, Jesua te, Nehemia te, Seraia te, Reelaia te, Mordekaia te, Bilsana te, Mispara te, Bigvaia te, Rehuma te, Baasa te an ni. Israel mi, chi hrang hrang lo kîr zât chu hetiang hi a ni:
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Parosa chi mi sânghnih leh za leh sawmsarih leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sefatia chi mi zathum leh sawmsarih leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ara chi mi zasarih leh sawmsarih leh panga;
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Pahat-Moab chi, Jesua leh Joaba thlah mi sânghnih leh zariat leh sâwm leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elama chi mi sângkhat leh zahnih leh sawmnga leh pali;
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Zatu chi mi zakua leh sawmli leh panga;
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Zakai chi mi zasarih leh sawmruk;
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Bania chi mi zaruk leh sawmli leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Bebai chi mi zaruk leh sawmhnih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Azgad chi mi sângkhat leh zahnih leh sawmhnih leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Adonikam chi mi zaruk leh sawmruk leh paruk;
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Bigvai chi mi sânghnih leh sawmnga leh paruk;
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Adin chi mi zali leh sawmnga leh pali;
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Ater chi, Hezekia thlahte mi sawmkua leh pariat;
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Bezai chi mi zathum leh sawmhnih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Jora chi mi za leh sâwm leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hasum chi mi zahnih leh sawmhnih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Gibar chi mi sawmkua leh panga.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Bethlehem khaw chhuak mi za leh sawmhnih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Netofa khaw chhuak mi sawmnga leh paruk;
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Anathot khaw chhuak mi za leh sawmhnih leh pariat;
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Azmavet khaw chhuak mi sawmli leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Keriat-jearim te, Kafira te leh Beerot khaw chhuak mi zasarih leh sawmli leh pathum;
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Rama leh Geba khaw chhuak mi zaruk leh sawmhnih leh pakhat;
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Mikmas khaw chhuak mi za leh sawmhnih leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Bethel leh Ai khaw chhuak mi zahnih leh sawmhnih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Nebo khaw chhuak mi sawmnga leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Magbis khaw chhuak mi za leh sawmnga leh paruk;
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Elam khaw dang chhuak mi sângkhat leh zahnih leh sawmnga leh pali;
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Harim khaw chhuak mi zathum leh sawmhnih;
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Lod te, Hadid te, Ono khua te mi zasarih leh sawmhnih leh panga;
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Jeriko khaw chhuak mi zathum leh sawmli leh panga;
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Sena khaw chhuak mi sângthum leh zaruk leh sawmthum.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Puithiamho, lo kîr vete chu heti hi an ni: Jesua chhûng, Jedaia thlah mi zakua leh sawmsarih leh pathum;
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Imera thlah mi sangkhat leh sawmnga leh pahnih;
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Pasura thlah mi sângkhat leh zahnih leh sawmli leh pasarih;
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Harima thlah mi sângkhat leh sâwm leh pasarih.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Levia chi: Jesua leh Kadmiela fa, Hodavia thlah mi sawmsarih leh pali;
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Asafa thlah, hla sa mi, za leh sawmhnih leh pariat;
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Tempul pulis: Saluma thlah te, Atera thlah te, Talmona thlah te, Akuba thlah te, Hatita thlah te, Sobaia thlah te mi za leh sawmthum leh pakua.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Tempul enkawltu Netin-ho lo hâw vete chu: Ziha fa te, Hasufa fa te, Tabaota fa te,
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Kerosa fa te, Siaha fa te, Padona fa te,
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Lebana fa te, Hagaba fa te, Akuba fa te,
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Hagaba fa te, Samlaia fa te, Hanana fa te,
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Gidela fa te, Gahara fa te, Reaia fa te,
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Rezina fa te, Nekoda fa te, Gazama fa te,
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Uza fa te, Pasea fa te, Besaia fa te,
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Asna fa te, Meunima fa te, Nefisima fa te,
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Bakbuka fa te, Hakufa fa te, Harhura fa te,
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Bazluta fa te, Mehida fa te, Harsaa fa te,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Barkosa fa te, Sisera fa te, Tema fa te,
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Nezia fa te, Hatifa fa te.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />Solomona chhiahhlawh thlah te: Sotaia fa te, Hasofereta fa te, Peruda fa te,
+  </para>
+  <para style="p">
+    <verse number="56" style="v" />Jaala fa te, Darkona fa te, Gidela fa te,
+  </para>
+  <para style="p">
+    <verse number="57" style="v" />Sefatia fa te, Hatila fa te, Pokeret-hazebaima fa te, Amia fa te;
+  </para>
+  <para style="p">
+    <verse number="58" style="v" />Netin-ho leh Solomona chhiahhlawh thlahte chu mi zathum leh sawmkua leh pahnih an ni.
+  </para>
+  <para style="p">
+    <verse number="59" style="v" />Telmela khua te, Tel-harsa khua te, Kerub khua te, Adam khua leh Imer khua te aṭanga chho vete chu heti hi an ni: Hêngho hian Israel thlah an nihna chiah, an chi leh kuang an chhui thei lo;
+  </para>
+  <para style="p">
+    <verse number="60" style="v" />Delaia thlah te, Tobia thlah te, Nekoda thlahte mi zaruk leh sawmnga leh pahnih an ni.
+  </para>
+  <para style="p">
+    <verse number="61" style="v" />Hêng puithiamho hian an thlahtu tak an chhui chhuak thei lo: Habaia fa te, Hakoza fa te, Barzilaia fa te. Puithiam Barzilai-ho thlahtu Barzilaia hian Gilead mi Barzilai hmeichhia nupuiah a nei a, a puzawn chhûng hming chu an pu zâwk ta a ni.
+  </para>
+  <para style="p">
+    <verse number="62" style="v" />An thlahtu tak an chhui chhuah theih loh avângin puithiamah pawm an ni ta lo va.
+  </para>
+  <para style="p">
+    <verse number="63" style="v" />Juda zînga hotu ber ramawptu chuan, “Puithiam, Urim leh Thumim kawltu a awm hma chu Pathian hnêna thilhlan hi ei ve suh u,” a ti a.
+  </para>
+  <para style="p">
+    <verse number="64" style="v" />An zavai chuan mi sîngli leh sânghnih leh zathum leh sawmruk an ni.
+  </para>
+  <para style="p">
+    <verse number="65" style="v" />An chhiahhlawh, mipa leh hmeichhia mi sângsarih leh zathum leh sawmthum leh pasarih; Hla sa mi mipa leh hmeichhia zahnih;
+  </para>
+  <para style="p">
+    <verse number="66" style="v" />Sakawr zasarih leh sawmthum leh paruk, sakawr puakphur zahnih leh sawmli leh panga;
+  </para>
+  <para style="p">
+    <verse number="67" style="v" />Sanghâwngsei zali leh sawmthum leh panga, Sabengtung sângruk leh zasarih leh sawmhnih.
+  </para>
+  <para style="p">
+    <verse number="68" style="v" />Saltânghovin Jerusalem-a Lalpa Tempul hmun an lo thlen chuan an hnam hotu ṭhenkhat chuan phal takin a hmun ngaia Tempul sak ṭhat lehna tûr thilpêk an pe a.
+  </para>
+  <para style="p">
+    <verse number="69" style="v" />An neih ang ang chu an pe a, a vaiin rangkachak kg. zanga, tangkarua kg. sânghnih leh zariat leh puithiam hâk tûr puan za a ni.
+  </para>
+  <para style="p">
+    <verse number="70" style="v" />Puithiamho te, Levia chite leh mi ṭhenkhat chu Jerusalem leh a chhehvêl hnaiah hmun an bêngbel a; hla sa mi te, Tempul pulis te, Tempul enkawltu te chu khawpui hnaiah hmun an bêngbel a; Israel-ho mi dangte chuan an thlahtute awm ṭhinna khua an pan a.
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Thla sarih chhûngin Israel-te chu mahni awmna tûr ṭheuhvah an awm fel hman a, Jerusalem-ah an kal khâwm ta vek a.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Jozadaka fapa Jesua leh a puithiam nihpui Sealtiela fapa Zerubabela leh an unaute chu an tho va; Israel-te Pathian maichâm, Pathian mi Mosia Dân bu-a ziak anga hâlral thilhlan an hlanna tûr an siam a.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Chu rama mi lo awmte chu saltâng chhuakte chuan hlau bawk mah se, maichâm chu a awm ṭhinnaah khân an din leh ta a; zîngah leh tlaiah hâlral thilhlan an hâl leh ta a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Bâwkte kût an hmang a, kût chhûng chuan ni tin thilhlan tûr tuk zât, dân bu-a ziak ang chu an hlân a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ni tina hâlral thilhlan an hlan bâkah thla thar apianga an thilhlan ṭhin te, Lalpa hminga inkhâwmpui urhsûn an neih ṭuma an thilhlan te, an mahni duh thu-a thilhlan te chu an hlân ṭan leh ta a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Thla sarihna, ni khat ni aṭang chuan Lalpa hnênah hâlral thilhlan an hâl leh ṭan a, Lalpa Tempul erawh chu a lung pawh an la phûm lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Mite chuan an thawhlâwm a, lung chher mi te, thing mistiri te hlawh neiin an ruai a. Lebanon tlânga sidar thing, tuifinriata tawlha, Joppa khua rawn thlen tûrin Sidon leh Tura mite chu buh te, uain te, oliv hriak te an pe bawk a. Chûng chu Persia lal Kura phalna veka tih a ni.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Jerusalem khuaa Lalpa in awmna ṭhin an lo thlen kum hnihna, thla hnihnaah chuan Sealtiela fapa Zerubabela leh Jozadaka fapa Jesua chuan Tempul sak leh hna chu an ṭan a; an unau dangte - puithiam te leh Levia chi te, saltâng chhuak zawng zawngte pawh chu Jerusalem-ah an lo kal khâwm a, Levia chi kum sawmhnih chin chung lam chu Tempul sak enkawltuah an ruat a.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Levia chi Jesua chu a fate leh an laichînte nên, Kadmiela leh a fate nên, Hadavia thlahte nên chuan Lalpa in satu hotu-ah an ruat a. Levia chi, Henadada leh a fate leh an unaute pawh chuan, an ṭanpui bawk ṭhîn.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Lalpa Tempul tân lung an phûm dâwn ni chuan, puithiamho chuan an puithiam kawr an inbel a, tawtawrâwt an keng a, Israel lal Davida remruat angin Asafa thlah Levia chite chu Lalpa fak hla sa tûrin dârbenthekte nên an lo thawk bawk a.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Lalpa chu an fak a, lâwmthu an hrilh a, hla sa-in an inchhâwn a; “Ani chu a ṭha si a, Israel-te chungah ngîl a nei kumkhua dâwn a ni,” an ti a. Lalpa in sakna tûr lung an han phûm chuan Lalpa fakin mipui zawng zawng chu an au dur dur a.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Upaho, puithiamte leh Levia chi tam tak leh hnam hruaitute, Tempul a din lai hmu phate erawh chuan Tempul sakna tûr lung an phûm an han hmuh chuan ring takin an ṭap a, mi tam tak erawh chu lâwmin an au va.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Lâwma au thâwm leh lungchhiaa ṭap thâwm chu hriat hran hleih theih pawh a ni lo, an au ring êm a, hla tak aṭang pawhin an thâwm chu a hriat theih a ni.
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Juda leh Benjamin thlah ertute chuan, saltâng kîr lehten Israel-te Pathian, Lalpa tân Tempul an sa ṭha tih an hriat chuan
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Zerubabelâ leh hnam hruaitute hnênah an lo kal a, “Tempul saknaah hian kan tel ve ang e; in biak Pathian bawk hi kan bia a, Asuria lal Esar-hadonan hêng laia awm tûra min hâwntîr hnuah phei chuan a hnênah hlîr inthawina pawh kan hlân ṭhîn a ni,” an rawn ti a.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Zerubabela te, Jesua te leh hnam hruaitu te chuan, “Kan Pathian, Lalpa Tempul hi min sakpui a ngai lo ve; keimahniin kan sa mai ang. Babulon lal Kuran thu min pêk angin,” tiin an chhâng a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Chûng lai rama mi lo awmte chuan Juda-te in sa chu an tibuai ta a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Persia sawrkâr mite chu an hna tibahlah tûrin an tham a. Chutiang chuan Kura lal chhûng zawng Daria a lo lal thleng khân an tibuai a ni.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ahasuera a lo lal phei kha chuan an hmêlma, Jerusalem leh Judai rama awmte chuan ziak meuhvin an hêk a.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Artazerzia kha Persia rama Babulon lal a lo nih khân Bislama te, Mithredata te leh Tabeela te chuan lal hnênah ziakin an hêk bawk a, an hêkna lehkha chu Aramaik ṭawngin, Aramaik hawrawpa ziak a ni.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ramawptu Rehuma leh chu ram ziaktu Simsaia pawhin lal Artazerzia chu Jerusalem mite chungchâng hetiangin lehkha an thawn bawk:
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ramawptu Rehuma te, Ziaktu Simsaia te, an hna thawhpui, rorêltute leh sawrkâr hna thawk dang - Babulon bial Erek leh, Elam bial Susa khaw mite leh,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Asurbanipal ropuia leh thiltitheian an in leh lo aṭanga Samaria khua leh Eufretis lui khawthlang lama a awmtîrte hminga an lehkha ziak chu hetiang hi a ni:
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />“Lal Artazerzia chu, a chhiahhlawh Eufretis lui khawthlang lama awmte chuan chibai kan bûk a che.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Juda-ho, i ram hmun hrang hrang aṭanga lo kal, Jerusalem-a awm tâte chuan khaw luhlul tak leh hel hmang tak chu an din leh dâwn a; a kulh bang an rem tawh a, an sa zo mai dâwn tih i hriat kan duh a ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ka pu, he khua hi din leh a niha, a kulh bangte an rem zawh chuan mite chuan chhiah an pe duh lo vang che a, leiman leh thil dang an chawi duh lo vang a, lal sum tûr a kiam hle ang tih lal chuan hre teh se.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Lal zârzotute kan ni a, chutianga lal tâna thil ṭha lo chu thleng lo se tiin lal chu hetianga ti tûrin kan ngên a che.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />I pate thil hlui chhinchhiahna chu zawn chhuahtîr mah teh, he khawpuia mite hi mi tihmawh tak an ni a, hmânlai aṭang tawhin lal leh ramawptute tân awp an khirh êm êm ṭhîn a ni; chuvângin alâwm khua an chhut chhiat vek ni.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />He khua hi an sak ṭhat leha, a kulh bangte an rem zawh chuan Eufretis khawthlang lam ram hi lal chuan a thunun thei lo mai ang tih kan ring tlat a ni,” tiin.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Lal chuan hetiang hian a chhâng a: “Ramawptu Rehuma te, Ziaktu Simsaia te, an thawhpui Samaria-a awm leh Eufretis lui thlang lama awmte hnênah:
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Lehkha in rawn thawn chu fiah takin kan hriatah an chhiar a.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Chanchin ziaknate chu chhui tûrin ka han ti a; hmânlai aṭang tawhin Jerusalem khua chu an lalte lakah hel an chîng a; khuaah chuan hel chîng, buaina chawk chhuak peih tak tak an awm ṭeuh a ni.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Lal chak tak takte chuan Eufretis khawthlang lam ramahte chuan ro an rêl a, chhiah te, leiman te an chawitîr ṭhîn.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Thu leh awm hma chu hêng mite hi khaw din hna titâwp tûrin thu pe rawh u.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Muangchâng lovin khap vat rawh u, lal tâna thil ṭha lo zual a thlen loh nân.”
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Rehuma te, Simsaia te leh an thawhpui te hriata lal Artazerzia lehkha an chhiar zawh chuan an kal nghâl a, Juda-ten khaw din an tum chu an han titâwp ta a.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Persia lal Daria a lo lal kum hnihna thlengin Tempul sak pawh an chawlhsan a.
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Chutih hun lai chuan zâwlnei pahnih Hagaia leh Ido-a fapa Zakaria chuan Israel-te Pathian hmingin Jerusalem leh Judai rama awm Juda-ho hnênah thu an sawi a.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Sealtiela fapa Zerubabela leh Jozadaka fapa Jesua chuan Jerusalem-a Pathian in chu an sa ṭan leh ta a; zâwlnei pahnihte pawh chuan an ṭanpui a.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Eufretis khawthlang lam ram awptu Tatenaia te, Sethar-bozenaia te leh an thawhpuite chu Jerusalem-ah an lo kal vat a. “Tu nge Tempul saa chei tûrin phalna pe che u?” an rawn ti a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Tempul satute hming pawh an zâwt a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Pathian chuan Juda hotute chu a vêng a; sawrkâr hotute chuan lal Daria hnêna lehkha thawna, a chhânna an hmuh hma chu engtia tih mah an tum lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Hetiang hian lehkha chu an thawn a:
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />“Lal Daria chuan thlamuang takin ro rêl reng rawh se.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Lal chuan hei hi hria se kan ti a ni. Judai ramah kan han kal a; Pathian ropui tak Tempul chu lung lian pui pui hmangin an lo sa ṭha leh mêk a; thing tlâwn khanchhukte bangah an kham a, an sa uluk hle, hna pawh an thawk chak viau a ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />An hruaitute chu, tu nge Tempul sak ṭhata, chei leh phalna petu tih kan zâwt a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />An hruaitute hming pawh i hriat ve atân kan zâwt bawk a.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Anni chuan, ‘Lei leh vân Pathian chhiahhlawh kan ni a, Israel lal ropui takin tûn hma rei tak tawha a saka, a chei Tempul chu kan sa ṭha leh a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Kan pate chuan vân Pathian chu an tithinur a, Babulon lal, Kaldai mi, Nebukadnezara kutah a pe a, ani chuan he in hi a tichhia a, mite chu Babulon-ah a hruai a.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Babulon-ah lal Kura a lal ṭan tirh khân he Pathian in hi sak leh tûr thu a pe a ni.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Jerusalem Tempul aṭanga Nebukadnezaran a lâk, Babulon ram Tempula a dah tâk rangkachak leh tangkaruaa siam bungbêlte chu lal Kura chuan Babulon Tempul aṭang chuan a la chhuak a, ramawptu atâna a ruat Sesbazara kutah a hlân a,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />a hnênah, ‘Hêng bungbêlte hi la la, Jerusalem Tempulah chuan han dah rawh, Pathian in chu a hmun ngaiah han sa rawh u,’ a ti a.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Sesbazara chu a lo kal a, Jerusalem-a Pathian in dinna tûr lung chu a phûm a, a in sak chu chhunzawm zêl a ni a, kan la zo lo a nih hi,’ tiin min chhâng a.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Chuvângin lalin ṭha a tihzâwng a nih chuan Babulon khuaa lal thil hlui chhinchhiah dahna hmunah hetiang thupêk, Jerusalem khuaa Pathian in sa ṭha tûr hian lal Kura chuan thu a lo pe rêng em ni, zawn chhuah ni teh se. Tin, he thila lal duhzâwng chu min rawn hrilh teh se,” tiin.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Lal Daria chuan thu a pe a, Babulon khuaa lal thil hlui dahna chu a zawntîr a.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Media biala Ekbatan khuaah zâwk chuan he thu chuanna hi an hmu chhuak a:
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />“Lal Kura chuan a lal ṭan tirh kumin Jerusalem Tempul chu inthawina leh hâlral thilhlan hâlna hmun atân sak ṭhat tûr thu a pe a ni. Tempul chu tawng sawmruka sâng ni sela, tawng sawmruka zau ni bawk rawh se.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lung lian pui pui thuah thumin rem ni se, thingphel thara thuah tûr a ni; a senso hi lal sum aṭanga pêk ni rawh se.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Jerusalem Tempul aṭanga rangkachak leh tangkaraw bungbêl zawng zawng, lal Nabukadnezaran Babulon-a a rawn hawnte kha tûn hmaa a awmna ṭhîn Jerusalem Tempulah dah kîr leh tûr,” tiin lal thupêk chu an lo ziak a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Lal Daria chuan hetiang hian a chhâng a: “Eufretis khawthlang lam ram awptu Tatenaia te, Sethar-bozenaia te leh an thawhpui Eufretis thlang lama awm te u: Tempul chu han hnaih suh u,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />an sa ṭha lai chu tibuai hek suh u. Judai ram awptu leh Juda hruaitute chuan Pathian Tempul chu a awmna ngaiah sa ṭha leh rawh se.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Juda hotuten Pathian in an sa ṭha chu nangni pawhin ṭanpui rawh u; an hna hi a bahlah loh nân Eufretis khawthlang lama chhiah lâk, lal chanpual tûr aṭangin an senso tûr lo pe zat zat ang che u.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ni tina an mamawh bâwngtuai te, berâmchal te, berâmno te vân Pathian tâna hâlral thilhlana an hlan tûr chhangphut te, chi te, uain te, oliv hriakte nên Jerusalem puithiamte sawi apiang chu pe zêl ang che u.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tichuan, an Pathian lâwmzâwng thilhlan an hlân thei ang a, kei leh ka fate tân malsâwmna min dîlsak dâwn nia.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />He thupêk hi awih duh lo an awm chuan a in chung inchhun chu pawh dawha, a hmâwr lehlam zuma, chu chuan a taksa chu chhun tlang tûr a ni; a in chu ṭhiata, bawlhhlawh dah khâwma chantîr tûr thu ka pe nghâl a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />He thupêk hi awih lova Tempul chu tihchhiat tum hnamte leh lalte chu, amah chibai bûkna hmuna Jerusalem khua thlangtu chuan paihthla rawh se. Kei Daria hian thu ka pêk tawh hi, zâwm thlap rawh u,” tiin.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ramawptu Tatenaia te, Sethar-bozenaia te leh an thawhpui te chuan lal thupêk ang thlap chuan engkim an ti a.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Zâwlnei Hagaia leh Zakaria chuan an fuih bawk a. Juda hruaitute Tempul sa chu an chak hle mai. Pathianin thu a pêk ang leh Persia lal Kura te, Daria te, Artazerzia te pawhin thu an pêk angin Tempul chu an sa zo ta a.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Lal Daria lal kum rukna Adar thla, ni thum niin an sa zo ta a.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Israel mi, puithiam te, Levia chi te, saltâng lo kîr leh zawng zawng chuan Tempul chu hlim takin an hawng a.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A hawn ni chuan bâwngchal za, berâmchal zahnih, berâmno zali hâlral thilhlanah an hlân a. Israel hnam hming kimin sual thawina kêlpa sâwm leh pahnih an hlân bawk a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Mosia dân bu-a ziak angin puithiamte leh Levia chite chu Tempula an hna tûr an sem felsak bawk a.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />A kum leh thla tîr, ni sâwm leh pali ni chuan saltâng lo haw lehte chuan Kalhlên kût an hmang a.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Puithiamte leh Levia chite chu an inthian thianghlim tlâng tawh a, an za chuan an thiang a ni. Saltângte chu Kalhlên kût berâmno an talhsak a, a ṭhen chuan puithiam leh Levia chi dangte chu berâmno an talhsak bawk a.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Saltâng lo haw Israel-te leh chu rama hnam dang bawlhhlawhna ata inthiarfihlîma, Lalpa Israel-te Pathian pawmtute chuan an ei ta a.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Chhang dawidim telh loh kût ni sarih chu hlim takin an hmang a. Lalpa chuan a tilâwm a ni; Asuria lal thinlung pawh a tihmensak a, Israel-te Pathian, an Pathian in sakna pawh nasa takin a pui a ni.
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Kum tam fe hnuah Artazerzia chu Persia ram lal a lo nih khân, mi pakhat Seraia fapa, Ezra pawh Jerusalem-ah a lo chho va. Ezra chu Seraia fa, Azaria fa, Hilkia fa,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Saluma fa, Zadoka fa, Ahituba fa,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Amaria fa, Azaria fa, Meraiota fa,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Zerahia fa, Uzia fa, Bukia fa,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Abisua fa, Finehasa fa, Eleazara fa, Puithiam lalber Arona fa a ni.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />He mi, Ezra hi, Babulon aṭangin Jerusalem-ah a lo chho ve a, Israel-te Pathian, Lalpa pêk Mosia Dân hre tak a ni.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Lalpa , a Pathian chuan a awmpui avângin a duh apiang lal chuan a phalsak a.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Artazerzia lal kum sarih kum thla khatnaah chuan Israel mi puithiam te, Levia chi te, Tempul pulis te leh Tempul enkawltu Netin-ho te leh mi ṭhenkhat te nên Jerusalem-ah an chho va.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Artazerzia lal kum sarihna, thla khatna ni khat ni-in Babulon an chhuahsan a, Pathianin a awmpui a; thla ngana ni khat ni chuan Jerusalem an thleng a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ezra chuan Pathian dân chu a dam chhûnga zir tûrin a inpe a, a tiha tihin thuruatte leh awm dân tûrte chu Israel mite zirtîr a châk hle a ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Lal Artazerzia chuan Ezra chu he lehkha hi a kentîr a; Ezra chu lehkha thiam, Israel-te hnêna Lalpa thupêkte leh Israel-te tâna a thuruatte hre tak a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />“Lalte lal Artazerzia chuan puithiam Ezra, Vân Pathian Dân hretu hnênah:
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ka ram chhûnga Israel mi, puithiamte leh Levia chite nên, a duh apiang Jerusalem khuaa an chhoh ka phal e.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kei leh thu min râwntu pasarihte chuan Jerusalem leh Judai rama thil awm dân en thlithlai tûrin kan tîr che a ni, Pathian Dân i kuta kawltîr chu an zâwm ṭha meuh em tih te i en dâwn nia.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Kei leh thu min râwntuten, Israel-te Pathian, Jerusalem-a Tempul neitu tân tangka leh rangkachak kan pêkte hi i keng dâwn nia.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Babulon biala tangka leh rangkachak thawhlâwm khawn zawng zawng te, Israel mite leh an puithiamten Jerusalem khuaa an Pathian Tempul sak nâna an thilpêk te pawh i keng dâwn nia.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />“Tangka chu uluk takin hmang la, bâwngpa te, berâmchal te, berâmno te, chhangphut te, uain te leh oliv hriak te lei la, Jerusalem Tempula awm maichâmah chuan hlân ang che.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Tangka leh rangkachak in hman bâng chu, nang leh i chipuite chuan in Pathian duhzâwng anga ṭûl in tihna apiangah hmang ang che u.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Tempula hman tûr bungbêl ka pêk zawng zawng che u kha Jerusalem-a in Pathian hnênah chuan hlân ang che.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Tempula hman tûr thil dang in mamawh chuan a leina tûr chu lal sum aṭangin la mai ṭhîn ang che u.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />“Kei, Artazerzia hian, thu ka pe a che u: Eufretis lui thlang lam ram biala lal tangka vawngtu chuan puithiam Ezra, vân Pathian Dân chungchânga mi thiam hi, a dîl apiang lo pe nghâl vat ang che u.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Tangkarua kg. sângthum leh zali chin, chhangphut kg. sîngkhat chin, uain litar sânghnih chin, oliv hriak litar sânghnih chin leh chi a ṭûl zât zât in lo pe zêl tûr a ni.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Vân Pathianin a Tempul atân a phût ang chiah chu in pe zêl tûr a ni, kan ram leh kan fate chungah a thinur tûr a ni lo.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Puithiam te, Levia chi te, hla sa mi te, Tempul pulis te, Tempul enkawltu te, Tempula cheho rêng rêng lakah chhiah eng mah la suh u.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />“Tin, nang Ezra, i Pathianin finna a pêk che chu hmang la, Eufretis lui khawthlang lam biala awm, in Pathian dân zâwm duhtute tân rorêltute siam la, anmahni awptu tûr mi ruat ang che, a la hre lo apiangte chu in Pathian Dân chu zirtîr la,
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />in Pathian Dân zâwm duh lotu emaw, ram dân zâwm duh lotu emaw tawh phawt chu hrem nat hle zêl tûr a ni; tihhlum emaw, ram ata hnawh chhuah emaw, a thil neih chhuhsak emaw, lung ina khungin emaw hrem tûr a ni,” tiin.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Ezra chuan, “ Lalpa , mi thlah lotu chu fak rawh u, Jerusalem-a awm Lalpa in chei ropui nân lal thinlung heti tak hian a tithilphal a.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Lal leh a thurâwntute chu ka chungah ngîl a neihtîr a, hotu lian dangte pawhin min duhsak a; Lalpa , ka Pathian chuan min tihuai a, Israel hnam hruaitu tam tak ka ruala haw tûrin ka thlêmthlu thei a ni,” a ti a.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Hêng hi Israel hnam, Babulon sala tâng, lal Artazerzia lal laia Ezra ruala Jerusalem-a hawte chu an ni:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Finehasa thlahte zînga mi Gersoma te; Ithamara thlahte zînga mi Daniela te, Davida thlahte zînga mi Sekania fa Hatusa te.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Parosa thlahte zînga mi Zakaria, mi za leh sawmnga nên (an thlah chanchin ziakna bu a awm).
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Pahat-moaba thlahte zînga mi Zerahia fa Eliehoenaia, mi zahnih nên.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Zatua thlahte zînga mi Jahaziela fa Sekania, mi zathum nên.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Adina thlahte zînga mi Jonathana fa Ebeda, mi sawmnga nên.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elama thlahte zînga mi Athalia fapa Jesaia, mi sawmsarih nên.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sefatia thlahte zînga mi Mikaela fa Zebadia, mi sawmriat nên.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Joaba thlahte zînga mi Zehiela fa Obadia, mi zahnih leh sâwm leh pariat nên.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Bania thlahte zînga mi Josifia fa Selomita, mi za leh sawmruk nên.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Bebaia thlahte zînga mi Bebaia fa Zekaria, mi sawmhnih leh pariat nên.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Azgada thlahte zînga mi Hakatana fa Johanana, mi za leh sâwm nên.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Adonikama thlahte zînga mi: Elifeleta te, Jeuela te, Semaia te, mi sawmruk nên (anniho hi a hnu deuhva lo haw ve an ni).
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Bigvaia thlahte zînga mi Uthaia leh Zakura, mi sawmsarih nên.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ahava khaw bula tuikawng kamah chuan saltâng lo chhuakte chu ka ko khâwm a, ni thum chhûng kan châm a. Saltâng chhuakho zîngah chuan puithiam chu an lo awm a, Levia chi erawh chu an awm lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />An hotu pakua, Eleazara te, Ariela te, Semaia te, Elnathana te, Jariba te, Elnathana te, Nathana te, Zekaria te, Mesulama te chu ka ko va, zirtîrtu Joiariba leh Elnathana pawh ka ko va.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Kasifia hmuna an hotu ber Ido-a leh Tempula a thawhpuite hnênah Pathian rawngbâwl tûr, Tempula che thei tûr mi rawn zawng tûrin chûng mite chu ka tîr a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Pathianin min khawngaih a, mi fel tak Serebia, Levia chi, Mahlia thlah an rawn tîr a; a fate leh a unaute mi sâwm leh pariat an lo kal tel ve a.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Meraria thlah Hasabia leh Jesaia pawh an chhûngte mi sawmhnih nên an rawn tîr bawk a.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Chûng mite bâkah chuan Tempul enkawltu Netin-ho mi zahnih leh sawmhnih an rawn tîr tel bawk a; chûngho thlahtute chu lal Davida leh a hote khân Levia-ho ṭanpuituah an dah a nih kha, an hming ziakna bu pawh a la awm vek a ni.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Ahava khaw bula tuikawng kamah chuan kan zaa tân chaw nghei tûr thu ka puang a; kan Pathian hmaa inphahhniamin kalkawnga min hruaia, kan thil neih leh kan fate nên min vêng tûrin kan ṭawngṭai a.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />‘Kan Pathian chuan amah ringtu apiangte chu mal a sâwm ṭhîn a, amah hawisantute erawh chu a lâwm lo va, a hrem ṭhîn’ tiin lal chu ka lo hrilh ṭhin avângin kalkawnga râl laka min vêngtu tûr sakawr chungchuang sipai rual ka dîl zak a ni.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Tichuan, chaw kan nghei a, min vêng tûrin Pathian hnênah kan ṭawngṭai a, kan ṭawngṭaina chu a rawn chhâng ta rêng a.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Puithiam zînga hotu deuh deuh Serebia te, Hasabia te leh mi dang sâwm ka thlang chhuak a;
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />lal leh a thurâwntute, a miliante leh Israel miten Tempula hman tûr tangkarua te, rangkachak te leh bungbêl an pêkte chu ka bûk chhuak a, puithiamte hnênah chuan ka sem a:
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Tangkarua chu kg. sînghnih leh sânghnih a ni, tangkaraw bungbêl za, kg. sawmsarih bûk, rangkachak chu kg. sângthum leh zali,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />rangkachak maihûn sawmhnih, kg. riat leh tlem a rit; dâr chawhtawlh mawi tak pahnih, rangkachak maihûn tluka hlu a ni.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />An hnênah, “ Lalpa tâna serh hran in ni, hêng bungbêlte pawh hi bungbêl thianghlim an ni; hêng thil thlâwn pêk tangkarua te, rangkachak te hi Lalpa , in Pathian tâna pêk a ni.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Vêng ula, kawl ṭha rawh u; Jerusalem-a Lalpa in pindan pakhata puithiam leh Levia chi hotute leh Israel hnam hotute hnêna in hlan hunah in bûk leh tûr a ni,” ka ti a.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Tichuan, puithiamte leh Levia chite chuan tangkarua te, rangkachak te leh bungbêl te chu Jerusalem Tempula ken tûr chuan an la ta a.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Thla hmasa ber ni sawmhnih ni chuan Ahava tuikawng chu Jerusalem pan tûrin kan chhuahsan a. Kan kalnaah chuan hmêlma min rawn bei tûr lakah te, min châng rutute lakah te kan Pathian chuan min vêng zêl a.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Jerusalem kan thlen chuan ni thum kan hahchâwl a.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />A ni li ni chuan Tempulah kan kal a, tangkarua te, rangkachak te, leh bungbêl kan ken te chu kan bûk chhuak a, Uria fapa puithiam Meremota kutah kan hlân a. Finehasa fapa Eleazara leh Levia chi mi pahnih, Jesua fapa Jozabada leh Binuia fapa Noadia pawh an awm ve a.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Engkim kan chhiar a, kan bûk vek a, kan chhinchhiah vek a ni.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Saltâng lo haw zawng zawng chuan Israel Pathian hnênah hâlral thilhlan an hlân ṭheuh va, Israel hnam hming kimin bâwngpa sâwm leh pahnih, berâmchal sawmkua leh paruk leh berâmno sawmsarih leh pasarih; sual thawi nan kelpa sawm leh pahnih an hlân a. Chûng sa zawng zawng chu Lalpa tân hâlral vek a ni.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Lalin lehkha a kentîr pawh chu Eufretis lui khawthlang bial ram awptu leh mi lian dangte chu an entîr a; anniho chuan Tempul sakna leh Pathian biaknaah mipuite an ṭanpui ta zêl a.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Chûng thil chu kan tih zawh chuan Israel hotute chu an lo kal a, “Israel mite hian, puithiam leh Levia chite pawhin an chhehvêl hnam Amon te, Moab te, Aigupta mi te, Kanan mi te, Hit mi te, Periz mi te, Jebus mi te, Amor mite lak aṭanga inthiarfihlîm lovin thil tenawm an tih ṭhin chu an ti ve zêl mai.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Anmahni leh an fate pawhin, hnam dang an nei a, chi thianghlim chu an tidal ta a. Hnam hruaitute leh hotute hi a ti hmasa sa an ni lehnghâl a,” an rawn ti a.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Chu thu chu ka han hriat chuan pawi ka ti êm êm a, ka silhfênte ka pawtthlêr a, ka sam leh khabehmul ka tikawlh a, hrilhhai deuhvin ka ṭhu ta reng a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lungngai takin tlai hâlral thilhlan an hâl thlengin ka ṭhu a, saltâng kîr lehte khawsak pawlawh êm avânga Israel-te Pathian thu sawi hlau apiang chuan min rawn pan khâwm a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Tlai lam hâlral thilhlan an hlan lai chuan chaw ngheia ka ṭhu chu ka tho va, ka silhfên thlêrte chu ka la inbel zêl a, ṭawngṭaiin ka ṭhingṭhi a, Lalpa , ka Pathian lamah chuan ka bân ka phar a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Aw ka Pathian, i lam lo hawi hi ka zak a, ka hmai pawh a sen ṭâwn ṭâwn a ni. Kan sualna intiang khâwm chuan kan lu a khûm a, vân a tawng tâk hial hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Kan pate hun aṭanga tûn thlengin i mite hi kan demawm hle a ni. Kan sual avângin kan lalte leh kan puithiamte nên hnam dang lalte kutah min pe a, an duh leh min talh a, an duh leh min rawk a, salahte min man a, vawiin thlengin kan mualpho let dêr a nih hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />“Aw Lalpa kan Pathian, nangin min lainat a, heta awm chhunte hi bawih ata kan chhuah i phal a, rei lo tê chhûng chu i Hmun Thianghlimah hian min awmtîr a, mi tihlimin sala kan awm nun ngui chu mi tihharhsak hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Bawih kan ni a; mahse, kan Pathian hian bawiha kan awm reng zawng a phal lo va ni. A zârah Persia lal chuan min khawngaih a, kan Pathian in sa tûrin min tiphûr a, a chhe tawh chu din leh min phalsak a, Judai ram leh Jerusalem-ah him takin min awmtîr ta a ni si a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />“Aw Pathian, heti hi a ni si a, eng nge kan sawi tâk ang le? I thupêkte kan zâwm duh lo va,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />i chhiahhlawh zâwlneiten, ‘In ram neih tûr chu a rama awmte bawlhhlawhna avâng leh thil tenawm tak tak an tih ṭhin avângin, a kil tâwp aṭanga a lehlam tâwp thlengin a bawlhhlawh a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chuvângin, hêng mite nên hian inneih pawlh suh u, in fate pawh nupui pasalah innei suh se; inbe rem suh ula, an ṭhatna tûr eng lai mahin tihsak suh ang che u; tichuan, in chak ang a, rama thil ṭha haw chu in tlân ang a, in thlahten an rochung zêl thei ang’ tiin min hrilh min hrilh a ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />“Kan sualna avâng leh kan bawhchhiatna avânga hrem kan tuar tawh hnu pawh hian kan phu anga nasain, nang kan Pathian hian, min hrem lo tih kan hria, a ṭhen chu min la zuah a nih hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />I thupêk chu engtin nge kan ngaihthah theih tawh anga, hêng thil tenawm tiho nên hian kan inneih pawlh theih ang? Pakhat mah thi bâng awm lova min tichhe khawpin i thinur hial dâwn lâwm ni?
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Aw Lalpa , Israel-te Pathian, nang chu i dik a; mahse, tlêm zawng min la zuah hrâm hi. Ngai teh, kan sual thupha kan chawi a nih hi, tu mah i hmaa ding tlâk kan awm lo,” ka ti a.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Chutia Ezra chu sual thupha chawia ṭap chunga Pathian hmaa bawkkhupa a ṭawngṭai laiin Israel mi tam tak, nu te, pa te leh naupang te a bulah chuan an lo pung khâwm a, an ṭap ve ta tlawk tlawk a.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Elam chi zînga mi Jehiela fapa Sekania chuan Ezra hnênah, “Kan Pathian hawisanin hnam dang, he rama mi, nupuiah te kan lo nei ngei tak a; mahse, Israel-te zîngah chuan kan la insiam ṭha leh thei alâwm.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Kan Pathian hmaah hêng kan nupuite leh kan fate hi hnawh chhuah i tiam tlat ang u. Nang leh kan Pathian thupêk awihho thu ang zêlin kan ti ang a, Pathian thu chu kan zâwm ang e.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Tho teh, i kutah engkim kan dah e, i lamah kan ṭang zêl ang, intipaukhauh la, tih tûr tûr chu tifel mai rawh,” a ti a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ezra chu a tho va, puithiamte, Levia chite leh Israel hotute chu chutianga ti ngei tûr chuan thu a tiamtîr a, an tiam ta a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ezra chu Pathian in ata chu a chhuak a, Eliasiba fapa Jehohanana awmna pindanah chuan a kal a, saltâng chhuakho sualna avânga pawi tiin zânkhuain chaw a ei duh lo va, tui pawh a in duh lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hnam hruaitute chuan Jerusalem leh Judai rama awm, saltâng chhuak zawng zawng chu, Jerusalem-ah lo kal tûrin an chah khâwm a.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />“Ni thum chhûnga lo kal lo chu a neih zawng zawng chhuhsak a ni ang a, Israel mite zînga a tel ve phal a ni lo vang,” an ti a.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ni thum chhûng chuan an lo kal khâwm a, thla kuana ni sawmhnih ni chuan Juda leh Benjamina thlah rama awm zawng zawng chu Jerusalem-ah an lo kal a, Tempul tualah chuan an lo pung khâwm a. Ruah a sûr chiam a, an inkhâwmna chu a pawimawh si a, khaw vâwt avângin an khûr an khûr hlawm a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Puithiam Ezra chu a ding chhuak a, an hnênah, “In uire a, Israel-te suahsualna belhchhahin nupuiah hnam dang in nei a.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Lalpa , in pate Pathian hnênah in sual thupha chawi ula, a duhzâwng ti rawh u; he rama mite lakah hian inthiarfihlîm ula, hnam dang mi in nupuite chu hnawt chhuak rawh u,” a ti a.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Pungkhâwmho zawng zawng chuan ring takin an chhâng a, “I sawi ang chuan kan ti ang a.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hei, mi kan tam a, ruah lah a tam si, pâwnah kan ding reng hlei thei ta lo; thil tisual kan tam hle si a, ni hnih khat thila tihfel mai chi a ni chuang lo vang.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kan hotu ṭheuhte hi Jerusalem khuaah châmbâng sela, hnam dang nupui neite chu hun ruatah Jerusalem-ah lo kal sela; helaiah rorêltute leh hotute nên an chungchâng lo rêl rawh se; tichuan, he thil chungchânga kan chunga Pathian thinurna chu a reh dâwn nia,” an ti a.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Chu thu chu Asahela fapa Jonathana te, Tikva fapa Jahzeia te chauhvin an hnial a. Levia chi Mesulama leh Sabethaia te pawhin an remti lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Saltâng hawte chuan an thu rawt chu ṭha an ti a, puithiam Ezra chuan chi tin hotute zîng aṭangin mi a ruat a, an hmingte a ziak vek a.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Thla sâwmna, ni khat ni chuan an thawk ṭan a, thla thum chhûngin hnam dang nupui nei zawng zawng chungchâng an chhût fel hman a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Puithiamho zînga hnam dang nupui lo neite chu hêngte hi an ni: Maaseia te, Eliazara te, Jariba te, Gedalia te hi; anniho hi Jehozadaka fa Jesua leh a unaute fa an ni.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />An nupuite chu mâk ngei an tiam a, an sual man thilhlanah berâmchal an hlân a.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Imera fate: Hanania te leh Zebadia.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Harima fate: Maaseia te, Elija te, Semaia te, Jehiela te leh Uzia.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Pasura fate: Elioenaia te, Maaseia te, Ismaela te, Nathanela te, Jozabada te leh Elasa.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Levia thlah zînga hnam dang nupuia neite chu: Jozabada te, Simeia te, Kelaia te (Kelita an ti bawk), Pethahia te, Juda te leh Eleazara te an ni.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hla satute zînga hnam dang nupuia neite chu: Eliasiba; Tempul pulis zîngah Saluma te, Telema te leh Uria.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Israel mi dang, hnam dang nupuia neite chu: Parosa thlahte zînga mi: Ramia te, Izia te, Malkija te, Mijamina te, Eleazara te, Malkija te leh Benaia.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Elama thlahte zînga mi: Matania te, Zekaria te, Jehiela te, Abdia te, Jeremota te leh Elija.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Zatua thlahte zînga mi: Elioenaia te, Eliasiba te, Matania te, Jeremota te, Zabada te leh Aziza.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Bebaia thlahte zînga mi: Jehohanana te, Hanania te, Zabaia te leh Athlaia.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Bania thlahte zînga mi: Mesulama te, Maluka te, Adaia te, Jasuba te, Seala te leh Jeremota.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Pahat-moaba thlahte zînga mi: Adna te, Kelala te, Benaia te, Maaseia te, Matania te, Bezalela te, Binuia te leh Manasea.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Harima thlah zînga mi: Eliezara te, Isija te, Malkija te, Semaia te leh Simeona.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Benjamina te Maluka te leh Semaria.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Hasuma thlahte zînga mi: Matenaia te, Matata te, Zabada te, Elifeleta te, Jeremaia te, Manasea te leh Simeia.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Bania thlahte zînga mi: Maadaia te, Amrama te, Uela te,
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Benaia te, Bedeia te, Keluhia te,
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Vania te, Meremota te, Eliasiba te.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Matania te, Matenaia te, Jaasua te,
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Bania te, Binuia te, Simeia te,
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Selemia te, Nathana te, Adaia te,
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Maknadebaia te, Sasaia te, Saraia te,
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Azarela te, Selemia te, Semaria te,
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Saluma te, Amaria te leh Josefa.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Neboa thlahte zînga mi: Jeiela te, Matithia te, Zabada te, Zebina te, Jadaia te, Joela te leh Benaia.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Hêngho zawng hian nupuiah hnam dang an lo nei a, fapate pawh an lo nei hman tawh a ni.
+  </para>
+</usx>

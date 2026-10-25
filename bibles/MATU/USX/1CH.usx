@@ -1,0 +1,2818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="1CH" style="id">1 Khokhuen</book>
+  <para style="h">1 Khokhuen</para>
+  <para style="toc1">1 Khokhuen</para>
+  <para style="toc2">1 Khokhuen</para>
+  <para style="mt">1 Khokhuen</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Adam, Seth, Enosh,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kenan, Mahalalel, Jared,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Enok, Methuselah, Lamek,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Noah, Shem, Ham, neh Japheth.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Japheth koca ah Gomer, Magog, Madai, Javan, Tubal, Meshek neh Tiras,
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Gomer koca la Ashkenaz, Riphath neh Togarmah.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Javan koca ah Elishah, Tarshish, Kittim neh Dodanim.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ham koca ah Kusah, Mizraim, Put neh Kanaan.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Kusah koca Seba, Havilah, Sabtah, Raama, neh Sabteka. Raamah koca ah Sheba neh Dedan.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Kusah loh Nimrod a sak tih anih te diklai ah hlangrhalh la om cuek.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Mizraim loh Ludim, Anamim, Lehabim, Naptuhim a sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Pathrusim, Kasluhim tah Philisti neh Kapthorim lamkah ha pawk.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kanaan loh a caming Sidon neh Kheth,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Jebusi, Amori, Girgashi,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Khivee, Arkit neh Sinih,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Arvadi, Zemari neh Hamathiti a sak.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Shem koca rhoek la Elam neh Assyria, Arpaxad neh Lud, Aram neh Uz, Huul, Gether neh Meshek.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Arpaxad loh Shelah te a sak tih Shelah loh Eber a sak.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Eber loh capa panit a sak dae anih tue vaengah khohmuen a tael dongah pakhat te a ming te Palak, a mana ming te Yoktawn a sui.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Yoktawn loh Almodad neh Sheleph, Hazarmaveth neh Jerah,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hadoram, Uzal, Diklah,
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Ebal, Abimael, Sheba,
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Ophir, Havilah neh Jobab. He boeih he Yoktawn koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Shem, Arpaxad, Shelah,
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Eber, Palak, Reu,
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Seruk, Nakhaw, Terah,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Abram he Abraham ni.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Abraham ca rhoi Isaak neh Ishmael om.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Amih kah rhuirhong he tah Ishmael kah caming he Nebaioth tih Kedar, Adbeel neh Mibsam,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Mishma, Dumah, Massa, Hadar, Tema,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Jetur, Naphish neh Kedemah. Amih he Ishmael koca rhoek.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Abraham yula Keturah ca sak rhoek la Zimran neh Jokshan, Medan neh Midian, Ishbak neh Shuah, Jokshan koca ah Sheba neh Dedan.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Midian koca la Ephah, Epher, Enok, Abidah neh Eldaah. He boeih he Keturah koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Abraham loh Isaak a sak. Isaak koca ah Esau neh Israel.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Esau koca ah Eliphaz, Reuel, Jeush, Jalam neh Korah.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Eliphaz koca ah Teman, Omar, Zepho, Gatam, Kenaz, Timna neh Amalek.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Reuel koca Nahath, Zerah, Shammah neh Mizzah.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Seir koca ah Lotan Shobal, Zibeon, Anah, Dishon, Ezer neh Dishan.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Lotan koca ah Khori, Homam neh Lotan ngannu Timna.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Shobal koca Alvan, Manahath, Ebal, Shepho neh Onam. Zibeon koca ah Aiah neh Anah.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Anah koca ah Dishon. Dishon koca ah Hamran, Eshban, Ithran neh Keran.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Ezer koca ah Bilhan, Zaavan, Jaakan. Dishon koca ah Uz neh Aran.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Hekah manghai rhoek he tah Israel ca kah manghai loh a manghai hlan ah ni Edom khohmuen ah a manghai uh coeng. Beor capa he Bela tih a khopuei ming tah Dinnabah ni.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Bela a duek phoeiah tah Bozrah lamkah Zerah capa Jobab te anih yueng la manghai.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Jobab a duek phoeiah anih yueng la Temani khohmuen lamkah Husham te manghai.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Husham a duek phoeiah anih yueng la Moab khohmuen ah Midian aka ngawn Bedad capa Hadad te manghai. A khopuei ming tah Avith ni.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Hadad a duek phoeiah anih yueng la Masrekah lamkah Samlah te manghai.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Samlah a duek phoeiah tah anih yueng la Rehoboth tuiva lamkah Saul te manghai.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Saul a duek phoeiah tah anih yueng la Akbor capa Baalhanan manghai.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Baalhanan a duek phoeiah anih yueng la Hadad manghai. A khopuei ming tah Pau tih a yuu ming tah Mezahad nu Matred canu Mehetabel ni.
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Hadad a duek phoeiah Edom khoboei aka om rhoek tah, khoboei Timna, khoboei Alva, khoboei Jetheth,
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />khoboei Oholibamah, khoboei Elah, khoboei Pinon,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />khoboei Kenaz, khoboei Teman, khoboei Mibzar,
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />khoboei Magdiel, khoboei Iram he Edom khoboei la om.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel koca rhoek he tah Reuben, Simeon, Levi, Judah, Issakhar neh Zebulun.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dan, Joseph, Benjamin, Naphtali, Gad neh Asher.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Judah koca la Er, Onan neh Shelah om. Anih ham Kanaan nu Bathshua loh pathum a sak. Er tah Judah caming la om dae BOEIPA mikhmuh ah a thae dongah anih te a duek sak.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A langa Tamar long khaw anih ham te Perez neh Zerah a sak pah dongah Judah koca he a pum la panga lo.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Perez koca ah Khetsron neh Hamul.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zerah koca ah Zimri, Ethan, Heman, Khalkol neh Dara neh a pum la panga louh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Karmee koca Akhar loh Israel a lawn tih yaehtaboeih la boe a koek.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ethan koca ah Azariah.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Khetsron koca la Jerahmeel loh anih ham te Ram neh Khelubai a sak pah.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ram loh Amminadab a sak. Amminadab loh Judah koca kah khoboei Nahshon a sak.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Nahshon loh Salma te a sak tih Salma loh Boaz te a sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Boaz loh Obed a sak tih Obed loh Jesse a sak.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Jesse loh a caming la Eliab, a pabae ah Abinadab, a pathum ah Shimea,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />a pali ah Nethanel, a panga ah Raddai,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />a parhuk ah Ozem, a parhih ah David a sak.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />A ngannu khaw om tih Zeruiah neh Abigal he a ngannu nah. Zeruiah koca ah Abishai, Joab, Asahel neh pathum louh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Abigal loh Amasa a sak. Amasa napa tah Ishmael Jether ni.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Khetsron capa Kaleb loh a yuu Azubah neh Jerioth lamloh ca a sak. Anih ca rhoek he Jesher, Shobab neh Ardon.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Azubah a duek neh Kaleb loh a Epharath te amah taengla a loh tih anih ham te Hur a sak pah.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Hur loh Uri te a sak tih Uri loh Bezalel a sak.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />A hnukah Khetsron te Gilead napa Makir canu taengla kun. Khetsron loh anih te a loh tih kum sawmrhuk a lo ca vaengah tah Khetsron ham te Segub a sak pah.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Segub loh Jair a sak tih Gilead khohmuen kah khopuei pakul pathum te anih hut la om.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Tedae Geshuri, Aram vangca rhoek neh Jair, te khui lamloh Kenath neh a khobuel, khopuei sawmrhuk te a loh thil. Te boeih te Gilead napa Makir koca rhoek kah ni.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A hnukah Khetsron he Kalebephratha ah duek. Khetsron yuu Abijah loh anih ham te Tekoa napa Ashhur a sak pah.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Khetsron caming Jerahmeel koca ah a caming Ram neh Bunah, Oren neh Ozem neh Ahijah om uh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Jerahmeel te a yuu tloe om tih a ming tah Onam manu Atarah ni.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Jerahmeel caming Ram koca la Maaz, Jamin neh Eker om.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Onam koca la Shammai neh Jada om tih Shammai koca la Nadab neh Abishur om.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Abishur yuu ming tah Abihail tih anih ham Ahban neh Molid a sak pah.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Nadab koca la Seled neh Appaim om dae Seled tah camoe om kolla duek.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Appaim koca la Ishi, Ishi koca la Sheshan, Sheshan koca la Ahlai.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Shammai mana Jada koca la Jether neh Jonathan om dae Jether tah camoe om kolla duek.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Jonathan koca la Peleth, Zaza. Te rhoek te Jerahmeel koca la om uh.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Sheshan te ca tongpa om pawt tih huta rhoek bueng om. Sheshan taengah Egypt sal, a ming ah Jarha om.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Sheshan loh a canu te a sal Jarha taengah a yuu la a paek dongah anih ham te Attai a sak pah.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Attai loh Nathan a sak tih Nathan loh Zabad a sak.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Zabad loh Ephlal a sak tih Ephlal loh Obed a sak.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Obed loh Jehu a sak tih Jehu loh Azariah a sak.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Azariah loh Helez a sak tih Helez loh Elasah a sak.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Elasah loh Sismai a sak tih Sismai loh Shallum a sak.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Shallum loh Jekamiah a sak tih Jekamiah loh Elishama a sak.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Jerahmeel mana Kaleb koca ah Ziph napa Mesha he a caming tih Mareshah koca Hebron napa om.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Hebron koca ah Korah, Tappuah, Rekem neh Shema om.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Shema loh Jorkeam napa Raham a sak tih Rekem loh Shammai a sak.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Shammai koca ah Moan tih Moan tah Bethzur napa ni.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Kaleb yula Ephah loh Haran, Moza neh Gazez a sak. Haran loh Gazez a sak.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Jahdai koca ah Regem, Jotham, Geshan, Pelet, Ephah neh Shaaph om.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Kaleb yula Maakah loh Sheber neh Tirhannah a sak.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Madmannah napa Shaaph, Makhbenah napa Sheva neh Gibea napa khaw a sak. Akcah he Kaleb canu bal ni.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />He rhoek he Kaleb koca la om uh. Hur koca ah a caming la Epharath tih Kiriathjearim napa Shobal.
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Bethlehem napa Salma, Bethgader napa Hareph khaw om.
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Kiriathjearim napa Shobal koca dongah Manahati hlangvang Haroeh khaw om pueng.
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Kiriathjearim koca dongah Yitha neh Puthi, Shumati, Mishrati om tih te rhoek lamloh Zorathi neh Eshtaoi la pawk.
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Salma koca ah Bethlehem, Netophah, Atrothbethjoab neh Manahati ngancawn Zorathi om.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />Cadaek koca la aka om tah Jabez, Tirathites, Shimeathi neh Shukathi ni. Te rhoek te Rekhab imkhui kah a napa Khammath lamkah aka thoeng Keni rhoek ni.
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />He rhoek he David koca rhoek la om uh. Anih ham he Hebron ah Jezreel Ahinoam loh a caming Amnon a sak pah. A pabae ah Karmel Abigal loh Daniel a sak pah.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />A pathum ah manghai Geshuri Talmai canu Maakah capa Absalom, a pali ah Haggith capa Adonijah.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A panga ah Abital capa Shephatiah, a parhuk ah a yuu Eglah capa Ithream,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Hebron ah he amah taengah parhuk a sak coeng. Teah te kum rhih hla rhuk manghai tih Jerusalem ah sawmthum kum thum manghai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Jerusalem ah a sak he, Shimea, Shobab, Nathan, Solomon tih Ammiel canu Bathshua neh pali a sak.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Te phoeiah Ibhar, Elishama neh Eliphelet,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Nogah, Nepheg neh Japhia.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Elishama, Eliada neh a pako ah Eliphelet.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />David koca boeih he a yula rhoek kah koca rhoek khaw om pueng tih amih tanu la Tamar koca khaw om.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Solomon koca rhoek ah Rehoboam, Rehoboam capa Abijah, Abijah capa Asa, Asa capa Jehoshaphat.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Jehoshaphat capa Joram, Joram capa Ahaziah, Ahaziah capa Joash,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ahaziah capa Amaziah, Amaziah capa Azariah, Azariah capa Jotham.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Jotham capa Ahaz, Ahaz capa Hezekiah, Hezekiah capa Manasseh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Manasseh capa Amon, Amon capa Josiah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Josiah koca ah a caming he Johanan, a pabae ah Jehoiakim, a pathum ah Zedekiah, a pali ah Shallum.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Jehoiakim koca ah, Jehoiakim capa Jekoniah, Jekoniah capa Zedekiah.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hlongkhoh Jekoniah koca ah, Jekoniah capa Shealtiel.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama neh Nedabiah.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Pedaiah koca ah Zerubbabel neh Shimei, Zerubbabel koca ah Meshullam neh Hananiah neh a ngannu Shelomith.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Hashubah neh Ohel, Berekiah neh Hasadiah, Jushabhesed neh panga louh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hananiah koca ah Pelatiah neh Isaiah, Rephaiah koca, Arnon koca, Obadiah koca, Shekaniah koca.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Shekaniah koca ah Shemaiah, Shemaiah koca ah Hattush, Igal, Bariah, Neariah, Shaphat neh parhuk lo.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Neariah koca la Elioenai, Hezekiah, Azrikam neh pathum lo.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A pathum kah Elioenai koca lamloh Hodavia, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, Anani neh parhih lo.
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Judah koca ah Perez, Khetsron, Karmee, Hur, Shobal.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Shobal capa Reaiah loh Jahath a sak. Jahath loh Ahumai neh Lahad a sak. He rhoek tah Zorathi koca ni.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Etam pacaphung he Jezreel, Ishma neh Idbash tih a ngannu ming tah Hazzelelponi ni.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Gedor napa Penuel neh Hushah napa Ezer. He tah Bethlehem napa Epharath kah caming Hur kah koca ni.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Tekoa napa Ashhur he a yuu panit, Helah neh Naarah om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Anih ham te Naarah loh Ahuzzam, Hepher, Temeni, Haahashtari a sak pah. He rhoek he Naarah koca la om.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Helah koca rhoek ah Zereth, Zohar neh Ethan.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Koz loh Anub neh Zobebah a sak tih Harum capa Aharhel koca la om.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Te tla a om vaengah Jabez tah a manuca rhoek lakah a thangpom. A manu long khaw, “Tloh neh ka cun,” a ti dongah a ming te Jabez a sui.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jabez tah Israel Pathen taengah pang tih, “Kai he yoethen la yoe han then sak mai lamtah ka khorhi he han ka sak. Na kut te kai soah om tih yoethae lamloh nan hoep daengah ni ka ko a thae pawt eh?,” a ti nah. Te dongah a bih te Pathen loh a rhoi pah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Shuhah manuca Kelub loh Eshton napa Mehir a sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Eshton loh Bethrapha, Paseah, Nahash khopuei napa Tehinah a sak. He rhoek he Rekhah hlang rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kenaz koca rhoek la Othniel, Seraiah. Othniel koca ah Hathath.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Meonothai loh Ophrah a sak tih Seraiah loh kutthai la aka om Gekharashim napa Joab a sak.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Jephunneh capa Kaleb koca la Iru, Elah neh Naam, Elah neh Kenaz koca.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Jehallelel koca ah Ziph, Ziphah, Tiria neh Asarel.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ezrah koca ah Jether, Mered, Epher, Jalon tih Miriam loh Shammai neh Eshtmoa napa Ishbah a yom.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Anih yuu Judean loh Gedor napa Jered, Sokoh napa Heber, Zanoah napa Jekuthiel a sak. Te rhoek tah Mered loh a loh Pharaoh canu Bithiah ca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hodiah yuu koca ah Karmee Keliah napa Naham ngannu neh Maakathi Eshtmoa.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Shimon koca ah Amnon, Rinnah, Benhanan, Tilon. Ishi koca ah Zoheth neh Benzoheth.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Judah capa Shelah koca ah Lekah napa Er, Mareshah napa Laadah tih Ashbe imkhui ah tah baibok dongkah thohtatnah aka saii imkhui koca la om.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Te phoeiah Jokim neh Kozeba hlang neh Joash, Moab ah yuu aka lo rhoek Saraph neh Jashubilehem. He khaw tampo ol ni.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Amih tah Netaim neh Gederah kah khosa ambop la om uh tih a bitat dongah manghai taengah pahoi kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Simeon koca ah Nemuel, Jamin, Jarib, Zerah, Saul.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Saul capa Shallum, Shallum capa Mibsam, Mibsam capa Mishma.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Mishma koca la, Mishma capa Hammuel, Hammuel capa Zakkuur, Zakkuur capa Shimei.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Shimei te capa hlai rhuk neh canu parhuk om dae a manuca rhoek tah camoe ping uh pawh. Te dongah amih koca boeih te Judah koca tluk la ping uh pawh.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Beersheba, Moladah, Hazarshual ah,
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Bilhah ah, Ezem ah, Tolad ah,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Bethuel ah, Hormah ah, Ziklag ah,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Bethmarkaboth ah, Hazarsusim ah, Bethbiri ah, Shaaraim ah kho a sak uh. He rhoek he David a manghai hil amih kah khopuei la om.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Amih kah vangca la Etam, Ayin, Rimmon, Tokhen, Ashan neh kho nga lo.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Amih kah vangca boeih he tah khopuei taengvai ah Baal duela om. He tah amih kah tolrhum la om tih amih ham a khuui la om coeng.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Meshobab, Jamlekh neh Amaziah capa Joshah.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Joel neh Asiel koca Seraiah kah a ca, Joshibiah capa Jehu.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel neh Benaiah.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Shiphi capa Ziza, Allon capa Shiphi, Jedaiah capa Allon, Shimri capa Jedaiah, Shemaiah capa Shimri.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />He tlam ni amih koca kah khoboei rhoek ming neh ana tueng tih a napa imkhui khaw a yet la pungtai uh.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Te dongah a boiva kah luemnah tlap ham te kolrhawk khocuk kah Gedor khuirhai duela cet uh.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Te vaengah luemnah then pulpulh a hmuh uh tih khohmuen khaw khocaeh loh dangka. Tedae Ham lamloh lamhma la kho ana sak coeng dongah thayoeituipan neh mong mai.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />He tah Judah manghai Hezekiah tue vaengah a ming neh a daek rhoek ni aka tueng. Te vaengah amih kah dap neh Mehunim te a ngawn uh. Tekah a hmuh Mehunim khaw a thup uh dongah tahae khohnin hil amih yueng la kho a sak uh tih a boiva ham luemnah la pahoi om.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Amih lamkah khaw Simeon koca khui lamkah hlang ya nga tah Seir tlang la luei uh. Te vaengah Ishi ca rhoek Pelatiah, Neariah, Rephaiah neh Uzziel te a lu la omuh.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Amalek kah rhalyong kah a meet te khaw a ngawn uh tih tahae khohnin hil pahoi kho a sak thiluh.
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel caming Reuben koca ah amah te caming ni. Tedae a napa kah rhaenghmuen te a poeih pah dongah a caminghamsum te Israel capa Joseph koca taengla a paek. Te dongah caminghamsum kah a khuui la om voel pawh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Judah khaw a manuca lakli ah tah len tih amah lamloh rhaengsang cakhaw caminghamsum tah Joseph taengah ni a om.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Israel caming Reuben koca ah Enok, Pallu, Khetsron neh Karmee.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Joel koca ah, a capa Shemaiah, Shemaiah capa Gog, Gog capa Shimei.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Shimei capa Maikah, Mikah capa Reaiah, Reaiah capa Baal.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Baal capa Beerah. Anih te Reuben kah a khoboei la om dae Assyria manghai Tiglathpileser loh a poelyoe.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A manuca khaw amah koca ah tah a khuui la ana om van. Amih rhuirhong khuikah a lu la Jeiel, Zekhariah,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Azaz capa Bala, Shema capa Azaz, Joel capa Shema loh Aroer neh Nebo Baalmeon duela kho a sak.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Amih kah boiva he Gilead khohmuen ah a ping pah dongah khocuk ah Perath tuiva lamloh khosoek hmoi hil kho a sak.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Saul tue vaengah tah Hagri taengah caemtloek a saii tih amih kut ah cungku uh. Te vaengah amih kah dap ah Gilead khocuk imdan pum ah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Amih hmatoeng te Gad koca rhoek tih Bashan khohmuen ah Salkhah duela kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Bashan ah a lu la Joel tih a hnukthoi ah Shapham, Janai neh Shaphat om.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A napa imkhui ah a manuca rhoek tah Michael, Meshullam, Sheba, Jorai, Jakhan, Zia, Eber neh parhih louh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Abihail koca rhoek he Huri koca, Jaorah koca, Gilead koca, Michael koca, Jeshishai capa, Jahdo koca, Buz koca la om.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Guni koca Abdiel capa Ahi he a napa imkhui ah a lu la om.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Te dongah Gilead ah khaw, Bashan ah khaw a vang khui neh Sharon khocaak pum ah a hmoi duela kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Amih boeih te Judah manghai Jotham tue ah khaw, Israel manghai Jeroboam tue ah khaw a khuui a thuep coeng.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Reuben koca, Gad koca, photling neh cunghang aka muk, lii aka oei, caemtloek neh aka phaep uh tih caempuei la aka pawk, Manasseh koca rhakthuem lamkah hlang, tatthai capa he thawng sawmli thawng li ya rhih sawmrhuk lo.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Te vaengah Hagri, Jetur, Naphish neh Nodab taengah caemtloek la thoo uh.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Caemtloek vaengah khaw Pathen taengah pang uh tih amah dongah a pangtung uh dongah amih ham khaw a rhoi pah. Te dongah amih te a bom tih Hagri neh a taengkah boeih te amih kut ah a paek.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Amih kah boiva te a sol uh tih a kalauk thawng sawmnga, boiva thawng yahnih thawng sawmnga, laak thawng hnih, hlang kah hinglu thawng yakhat lo.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Pathen taeng lamkah caemtloek la a om dongah a rhok la muep cungku uh. Te dongah a vangsawn khohnin hil tah amih yueng la kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Manasseh koca hlangvang ca rhoek khaw khohmuen ah Bashan lamloh Baalhermon hil kho a sak uh. Senir neh Hermon tlang ah khaw amih te ping uh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A napa rhoek kah imkhui kah a lu he tah, Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, Jahdiel. He tah a napa rhoek imkhui kah a lu la aka om hlang neh tatthai hlangrhalh hlang kah a ming ni.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Tedae a napa rhoek kah Pathen taengah boe a koek uh tih Pathen loh amih mikhmuh lamkah a mitmoeng sak khohmuen pilnam kah pathen roek taengla cukhalh uh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Te dongah Israel Pathen loh Assyria manghai Pul kah mueihla neh Assyria manghai Tiglathpileser kah mueihla te a haeng pah. Te vaengah amih, Reuben neh Gad, Manasseh koca hlangvang te a poelyoe. Te phoeiah amih te Halah, Habor, Hara neh tahae khohnin hil Gozan tuiva la a khuen.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Levi koca ah Gershon, Kohath neh Merari.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kohath koca ah Amram, Izhar, Hebron neh Uzziel.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Amram koca ah Aaron, Moses neh Miriam. Aaron koca ah Nadab, Abihu, Eleazar neh Ithamar.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Eleazar loh Phinekha a sak tih Phinekha loh Abishua a sak.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Abishua loh Bukki a sak tih Bukki loh Uzzi a sak.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Uzzi loh Zerahiah a sak, Zerahiah loh Meraioth a sak.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Meraioth loh Amariah a sak, Amariah loh Ahitub a sak.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ahitub loh Zadok a sak, Zadok loh Ahimaaz a sak.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ahimaaz loh Azariah a sak, Azariah loh Johanan a sak.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Johanan loh Azariah a sak. Anih te Solomon loh Jerusalem kah a sak im ah khosoih.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Azariah loh Amariah a sak tih Amariah loh Ahitub a sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ahitub loh Zadok a sak tih Zadok loh Shallum a sak.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Shallum loh Hilkiah a sak tih Hilkiah loh Azariah a sak.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Azariah loh Seraiah a sak tih Seraiah loh Jehozadak a sak.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />BOEIPA loh Judah neh Jerusalem te Nebukhadnezzar kut ah a poelyoe sak vaengah Jehozadak khaw cet.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Levi koca ah Gershom, Kohath neh Merari.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Gershom koca rhoek kah ming he tah Libni neh Shimei.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Kohath koca rhoek ah Amram, Izhar, Hebron neh Uzziel.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Merari koca ah Mahli, Mushi tih he rhoek tah Levi koca kah a napa rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Gershom koca ah Gershom capa Libni, Libni capa Jahath, Jahath capa Zimmah.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Zimmah capa Joah, Joah capa Iddo, Iddo capa Zerah, Zerah capa Jeatherai.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kohath koca ah Kohath capa Amminadab, Amminadab capa Korah, Korah capa Assir.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Assir capa Elkanah, Elkanah capa Ebiasaph, Ebiasaph capa Assir.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Assir capa Tahath, Tahath capa Uriel, Uriel capa Uzziah, Uzziah capa Saul.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Elkanah koca ah Amasai neh Ahimoth.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Ahimoth capa Elkanah, Elkanah koca ah Elkanah capa Zuph, Zuph capa Nahath.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Nahath capa Eliab, Eliab capa Jeroham, Jeroham capa Elkanah.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Samuel koca ah a caming pabae tah Abijah.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Merari koca ah Mahli capa Libni, Libni capa Shimei, Shimei capa Uzzah.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Uzzah capa Shimea, Shimea capa Haggiah, Haggiah capa Asaiah.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Te rhoek te David loh BOEIPA im kah thingkawng ngolbuel hnukah lumlaa dongah a kut a kho la a khueh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Amih te Solomon loh Jerusalem kah BOEIPA im a sak hil laa neh tingtunnah dap kah dungtlungim hmai ah thotat la om uh tih amamih kah thothuengnah ham a rhimong bangla thotat uh.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />He tah amih koca lamkah aka thotat rhoek ni. Kohathi koca lamloh Samuel capa Joel kah a ca aka hlai Heman.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Elkanah capa Samuel, Jeroham capa Elkanah, Eliel capa Jeroham, Toah capa Eliel.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Zuph capa Toa, Elkanah capa Zuph, Mahath capa Elkanah, Amasai capa Mahath.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Elkanah capa Amasai, Joel capa Elkanah, Azariah capa Joel, Zephaniah capa Azariah.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Tahath capa Zephaniah, Assir capa Tahath, Ebiasaph capa Assir, Korah capa Ebiasaph.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Izhar capa Korah, Kohath capa Izhar, Levi capa Kohath, Israel capa Levi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />A manuca Asaph te a bantang ah thotat. Berekiah capa Asaph, Shimea capa Brekiah.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Michael capa Shimea, Baaseiah capa Michael, Malkhiah capa Baaseiah.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Ethni capa Malkhiah, Zerah capa Ethni, Adaiah capa Zerah.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Ethan capa Adaiah, Zimmah capa Ethan, Shimei capa Zimmah.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Jahath capa Shimei, Gershom capa Jahath, Levi capa Gershom.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Banvoei kah Merari koca, amih boeinaphung tah, Kishi capa Ethan, Abdi capa Kishi, Mallukh capa Abdi.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Hashabiah capa Mallukh, Amaziah capa Hashabiah, Hilkiah capa Amaziah,
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Amzi capa Hilkiah, Bani capa Amzi, Shemer capa Amzi.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Mahli capa Shemer, Mushi capa Mahli, Merari capa Mushi, Levi capa Merari.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Amih boeinaphung Levi rhoek tah Pathen im kah dungtlungim ah thothuengnah cungkuem ham a paek.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Tedae Aaron neh anih koca rhoek tah hmueihhlutnah hmueihtuk so neh, hmueihtuk soah bo-ul aka phum la, hmuencim neh hmuencim koek kah bitat cungkuem ham neh Pathen kah sal Moses taengah a cungkuem neh a uen bangla Israel ham aka dawth pah la om.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Aaron koca ah he, Aaron capa Eleazar, Eleazar capa Phinekha, Phinekha capa Abishua.
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Abishua capa Bukki, Bukki capa Uzzi, Uzzi capa Zerahiah.
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Zerahiah capa Meraioth, Meraioth capa Amariah, Amariah capa Ahitub.
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Ahitub capa Zadok, Zadok capa Ahimaaz.
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Amah khorhi khuikah a tolrhum ah a lumim neh aka om ham he, Aaron koca ah Kohathi cako ham hmulung om coeng.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />Te dongah amih te Judah khohmuen kah Hebron neh a kaepvai kah a khocaak te a paek uh.
+  </para>
+  <para style="p">
+    <verse number="56" style="v" />Tedae khopuei neh a vangca kah losa te tah Jephunneh capa Kaleb taengla a paek uh.
+  </para>
+  <para style="p">
+    <verse number="57" style="v" />Aaron koca taengah hlipyingnah khopuei ham a paek rhoek tah, Hebron, Libnah neh a khocaak, Jattir, Eshtmoa neh a khocaak.
+  </para>
+  <para style="p">
+    <verse number="58" style="v" />Hilen neh a khocaak, Debir neh a khocaak.
+  </para>
+  <para style="p">
+    <verse number="59" style="v" />Ashan neh a khocaak, Bethshemesh neh a khocaak.
+  </para>
+  <para style="p">
+    <verse number="60" style="v" />Benjamin koca lamloh Geba neh a khocaak, Alemeth neh a khocaak, Anathoth neh a khocaak. Amih koca kah a khopuei boeih he khopuei hlai thum lo.
+  </para>
+  <para style="p">
+    <verse number="61" style="v" />Amah koca huiko kah aka coih Kohath ca rhoek te khaw Manasseh hlangvang kah koca rhakthuem taeng lamkah te hmulung bangla khopuei parha a yo.
+  </para>
+  <para style="p">
+    <verse number="62" style="v" />Gershom koca te khaw amamih cako tarhing ah, Issakhar koca taeng lamkah, Asher koca taeng lamkah, Naphtali koca taeng lamkah neh Manasseh koca taeng lamkah te Bashan ah kho hlai thum a yo.
+  </para>
+  <para style="p">
+    <verse number="63" style="v" />Merari koca te amamih cako tarhing ah Reuben koca lamkah, Gad koca lamkah, Zebulun koca lamkah te hmulung vanbangla kho hlai nit.
+  </para>
+  <para style="p">
+    <verse number="64" style="v" />Te tlam te Israel ca rhoek loh Levi taengah khopuei neh a khocaak te a paek uh.
+  </para>
+  <para style="p">
+    <verse number="65" style="v" />hmulung bangla Judah capa koca taeng lamkah khaw, Simeon capa koca taeng lamkah khaw, Benjamin capa koca taeng lamkah khaw a paek tih te khopuei rhoek te a ming neh a khue uh.
+  </para>
+  <para style="p">
+    <verse number="66" style="v" />Kohath capa koca lamkah neh Ephraim koca lamkah khopuei khaw amih kah khorhi khui la om.
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Issakhar koca ah Tola, Puvah, Jashub, Shimron neh pali lo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tola koca ah Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam neh Samuel he a napa imkhui ah a lu la om uh. Tola he a rhuirhong lamtah tatthai hlangrhalh la om uh. A hlangmi he David tue vaengah thawng kul thawng hnih ya rhuk omuh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Uzzi koca ah Izrahiah, Izrahiah koca ah Michael, Obadiah, Joel, Isshiah neh panga la a lu boeih a biuh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Amih te amamih rhuirhong lamtah a napa imkhui lamloh a yuu a ca khaw a ping uh dongah caemtloek vaengah caempuei caem he thawng sawmthum thawng rhuk louh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A boeinaphung ah Issakhar koca rhoek tah tatthai hlangrhalh la boeih omuh. Amih khuiah thawng sawmrhet thawng rhih tah a khuui la boeih omuh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Benjamin koca ah Bela, Bekher, Jediael neh pathum lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Bela koca ah Ezbon, Uzzi, Uzziel, Jerimoth, Iri neh panga louh. A napa rhoek imkhui ah a lu neh tatthai hlangrhalh la om uh. Te dongah a khuui la thawng kul thawng hnih sawmthum pali om.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Bekher koca ah Zemirah, Joash, Eliezer, Elioenai, Omri, Jerimoth, Abijah, Anathoth neh Alemeth. He boeih he Bekher koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Amih rhuirhong he a khuui la a napa rhoek imkhui ah a lu la om tih tatthai hlangrhalh he thawng kul yahnih om.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jediael koca ah Bilhan, Bilhan koca ah Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish neh Ahishahar.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />He boeih he a napa rhoek imkhui kah a lu neh tatthai hlangrhalh aka om Jediael koca rhoek ni. Te dongah thawng hlai rhih yahnih te caemtloek vaengah caempuei la cet uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ir koca ah Shuppim neh Huppim, Aher koca neh Hushim.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Naphtali koca ah Jahziel, Guni, Jezer, Bilhah koca ah Shallum.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Manasseh koca rhoek ah a yula Arammi loh Asriel te a sak pah tih Gilead napa Makir khaw a sak pah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Makir loh a yuu te Huppim lamkah neh Shuppim lamkah a loh. A ngannu ming tah Maakah tih a pabae ming tah Zelophehad. Tedae Zelophehad taengah ca huta rhoek ni aka om.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Makir yuu Maakah loh capa a cun tih a ming ah Peresh a sui. A mana ming tah Sheresh tih anih ca rhoi tah Ulam neh Rekem.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ulam koca la Bedan. He rhoek he Manasseh capa Makir kah a ca Gilead koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />A ngannu Hammoleketh loh Ishhod, Abiezer neh Mahlah a sak.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Shemida koca ah Ahian, Shekhem, Likhi neh Aniam om.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ephraim koca ah Shuthela tih Shuthela capa Bered, Bered capa Tahath, Tahath capa Eleadah, Eleadah capa Tahath.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Tahath capa Zabad, Zabad koca ah Shuthela, Ezer neh Elead. Amih te a boiva loh ham a suntlak uh vaengah khohmuen kah a cun Gath hlang rhoek loh a ngawn.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Te vaengah a napa Ephraim te khohnin a sen nguekcoi tih a manuca rhoek khaw anih hloep ham cet uh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Te phoeiah a yuu taengla kun tih a yuu te vawn. Capa a cun pah vaengah tah a imkhui ah yoethae a pai pah dongah a ming te Beriah a sui.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Anih canu tah Sheerah tih Bethhoron a so a dang neh Uzzensherah te a sak.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Anih koca ah Rephah neh Resheph tih Resheph koca ah Telah, Telah koca ah Tahan.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Tahan capa Ladan, Ladan capa Ammihud, Ammihud capa Elishama.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Elishama capa Nun, Nun capa Joshua.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Amih khohut neh a tolrhum tah Bethel neh a khobuel rhoek, khocuk ah Naaran, khotlak la Gezer neh a khobuel, Shekhem neh a khobuel, Ai neh a khobuel hil.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Manasseh koca kut kah Bethshan neh a khobuel rhoek, Taanakh neh a khobuel, Megiddo neh a khobuel rhoek, Dore neh a khobuel rhoek ah he Israel capa Joseph koca rhoek loh kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Asher koca ah Imnah, Ishua, Ishee, Beriah neh a ngannu Serah.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Beriah koca ah Heber, Birzaith napa Malkhiel neh Birzaith.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Heber loh Japhlet, Shomer, Hotham neh a ngannu Shua a sak.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Japhlet koca Pasakh, Bimhal, Ashvath tih he rhoek he Japhlet koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Shemer koca Ahi Rohgah neh Hubbah Rohgah, Hubbah neh Aram.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />A manuca Helem koca ah Zophah, Imna, Shelesh neh Amal.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Zophah koca Suah, Harnepher, Shual, Beri neh Imrah.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Bezer, Hod, Shammah, Shilshah, Ithran neh Beera.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Jether koca ah Jephunneh, Pispah, Ara.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ula koca ah Arah, Hanniel neh Rizia.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />He boeih he a napa imkhui kah a lu rhoek neh khoboei boeilu, tatthai hlangrhalh la a coelh Asher koca rhoek ni. Amih te a khuui la caemtloek vaengkah caempuei khuiah a hlangmi la hlang thawng kul thawng rhuk om coeng.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Benjamin loh a caming la Bela, a pabae ah Ashbel, a pathum ah Aharah a sak.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />A pali te Nohah, a panga te Rapha.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Bela koca ah Addar, Gera, Abihud.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Abishua, Naaman, Ahoah.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Gera, Shephuphan, Huram om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Amih he tah Geba ah kho aka sa a napa rhoek kah a lu la aka om Ehud koca rhoek ni. Tedae amih te Manahath la a poelyoe uh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Amih, Naaman, Ahijah, Gera te a poelyoe phoeiah tah Uzzah neh Ahihud te a sak.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Shaharaim loh Moab khohmuen ah ca a sak phoeiah a yuu Hushim neh Baara te a hlak.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />A yuu Hodesh lamloh Jobab, Zibia, Mesha, Milkom,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jeuz, Sakia, Mirmah a sak. Anih koca ah he rhoek tah a napa rhoek kah a lu la om.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Hushim lamloh Abitub neh Elpaal a sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Elpaal koca ah Eber, Misham, Shemmed. Anih loh Ono, Lod neh a khobuel rhoek te a sak.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Beriah neh Shema tah Aijalon ah kho aka sa a napa rhoek kah a lu la om. Amih rhoi loh Gath kah khosa rhoek khaw a yong sak.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te phoeiah Ahio, Shashak neh Jerimoth.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Zebadiah, Arad neh Eder.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Michael, Ishpha, Beriah koca Joha.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Zebadiah, Meshullam, Hizki neh Heber.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Ishmerai, Izliah neh Elpaal koca Jobab rhoek.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Jakim, Zikhri neh Zabdi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Elienai, Zillethai neh Eliel.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Adaiah, Beriah neh Shimei koca Shimrath.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Ishpan, Eber neh Eliel.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Abdon, Zikhri neh Hanan.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hananiah, Elam neh Anthothijah.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Iphdeiah neh Shashak koca Penuel.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Shamsherai, Shehariah neh Athaliah.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Jaareshiah, Elijah neh Jeroham koca Zikhri.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Amih rhuirhong ah khaw he rhoek he a napa rhoek kah a lu la ana om tih a lu rhoek he tah Jerusalem ah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Gibeon ah Gibeon napa loh kho a sak tih a yuu ming tah Maakah ni.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Anih koca ah a caming te Abdon tih Zur, Kish, Baal neh Nadab.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Gedor, Ahio, Zeker.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Mikloth loh Shimeah te a sak. Amih khaw Jerusalem ah a manuca neh a manuca hmaitoh tih kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Ner loh Kish a sak, Kish loh Saul a sak, Saul loh Jonathan, Malkhishua, Abinadab, Eshbaal a sak.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Jonathan koca ah Meribbaal tih Meribbaal loh Maikah a sak.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Maikah koca ah Pithon, Melek, Tarea neh Ahaz.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Ahaz loh Jehoaddah a sak, Jehoaddah loh Alemeth, Azmaveth neh Zimri a sak. Zimri loh Moza a sak.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Moza loh Binea a sak. Binea capa Rapha, Rapha capa Elasah, Elasah capa Azel.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Azel te capa parhuk om tih te rhoek kah a ming tah Azrikam, Bokeru, Ishmael, Sheariah, Obadiah, Hanan. Amih he Azel koca boeih ni.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />A mana Eshek koca la a caming te Ulam tih a pabae te Jeush, a pathum te Eliphelet.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Ulam koca rhoek he lii aka phu tatthai hlangrhalh hlang la om uh. A ca rhoek ping tih a ca rhoek kah a ca rhoek khaw ya sawmnga louh. He boeih he Benjamin koca lamkah ni.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel boeih kah a khuui khaw amih loh Israel neh Judah manghai rhoek kah cabu dongah a daek uh. Amamih kah boekoeknah dongah Babylon la a poelyoe uh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tedae Israel kah Levi khosoih rhoek neh tamtaeng tah lamhma la amah khopuei kah amah khohut dongah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jerusalem ah he Judah koca lamkah khaw, Benjamin koca lamkah khaw, Ephraim neh Manasseh koca lamkah khaw kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Judah capa Perez koca lamloh Bani, Benjamin capa Imri, Imri capa Omri, Omri capa Ammihud, Ammihud capa Uthai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Shiloh lamloh a caming Asaiah neh anih koca rhoek.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zerah koca lamloh Jeuel neh a manuca ya rhuk sawmko.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Benjamin koca lamloh Hassenuah capa Hodaviah, Hodaviah capa Meshullam, Meshullam capa Salu.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Jeroham capa Yibeiah, Uzzi capa Elah, Mikhri capa Uzzi, Shephatiah capa Meshullam, Reuel capa Sephatiah, Ibnijah capa Reuel.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Amih boeinaphung he a rhuirhong lamtah ya ko sawmnga parhuk lo. He kah hlang boeih tah a napa rhoek kah imkhui ah khaw a napa rhoek kah a lu rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Khosoih rhoek lamloh Jedaiah, Jehoiarib neh Jakhin.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Pathen im kah rhaengsang la Ahitub capa Meraioth, Meraioth capa Zadok, Zadok capa Meshullam, Mesullam capa Hilkiah, Hilkiah capa Azariah.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Jeroham capa Adaiah, Pashur capa Jeroham, Malkhiah capa Pashhur, Adiel capa Maasai, Jahzerah capa Adiel, Meshullam capa Jahzerah, Meshillemith capa Meshullam, Immer capa Meshillemith.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Amih boeinaphung khaw a napa rhoek imkhui kah a lu rhoek ni. Pathen im kah thothuengnah bitat dongah tatthai hlangrhalh thawng khat ya rhih sawmrhuk om.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Levi, Merari koca lamloh Hasshub capa Shemaiah, Azrikam capa Hasshub, Hashabiah capa Azrikam.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Bakbakkar Heresh neh Galal, Mikha capa Mattaniah, Zikhri capa Mikha, Asaph capa Zikhri.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Shemaiah capa Obadiah, Galal capa Shemaiah, Jeduthun capa Galal, Asa capa Berekiah, Elkanah capa Asa tah Netophah vangca ah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Thoh tawt rhoek tah Shallum, Akkub, Talmon neh Ahiman. Amih boeinaphung kah a lu tah Shallum ni.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Amih te tahae hil khocuk kah manghai vongka ah Levi koca rhaehhmuen kah thoh tawt la om uh.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Kore capa Shallum, Ebiasaph capa Kore, Korah capa Ebiasaph neh a manuca rhoek. A napa imkhui lamloh dap kah cingkhaa a ngaithuen he Korah koca kah thothuengnah bitat la ana khuehuh. A napa rhoek khaw BOEIPA rhaehhmuen kah khuirhai te a ngaithuen uh.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Eleazar capa Phinekha tah BOEIPA amah neh a mikhmuh ah amih te rhaengsang la a om thil.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Meshelemiah capa Zekhariah tah tingtunnah dap thohka kah thoh tawt la om.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Amih cingkhaa dongkah thoh tawt la a coelh boeih he ya hnih hlai hnih lo. Amih te a vang khuiah tah a khuui la ana om coeng. Amih te khohmu David neh Samuel loh a uepomnah dongah ana suen coeng.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Amih neh amih koca rhoek loh BOEIPA im neh dap im kah vongka ah rhaltawt la ana khuehuh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Thoh tawt rhoek khaw mueihla pali dongah khocuk, khotlak, tlangpuei neh tuithim ah om uh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />A vang kah amih boeinaphung he a tue a tue kah a rhih khohnin ah tah amih taengla pawk uh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Amih kah uepomnah vanbangla Levi hlangrhalh pali te tah thoh tawt la om uh tih Pathen im kah imkhan neh thakvoh taengah om uh.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Amih kah tuemkoi vanbangla Pathen im kaepvai ah rhaeh uh. Amih tah mincang, mincang ah cabi aka ong ham khaw omuh.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Thothuengnah hnopai dongah khaw amih lamloh hlangmi tarhing la a pawk puei uh tih a hlangmi tarhing la a khuen uh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Amih lamkah te hnopai so neh hmuencim kah hnopai cungkuem soah, vaidam soah khaw, misurtui neh situi soah khaw, hmueihtui neh botui soah khaw a khueh.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Tedae khosoih koca rhoek lamkah te tah botui si neh a thungnom sak.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Levi lamkah Korah Shallum caming Mattithiah tah hmairhoh bibi neh uepomnah la om.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Amih manuca lamkah Kohathi koca rhoek lamloh Sabbath kah Sabbath rhungkung buh te a tawn uh.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Imkhan ah Levi napa boeilu aka hlai rhoek tah khoyin khothaih amih ham bitat a om dongah a bangtlang la a phaelhael uh.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />He rhoek he a rhuirhong lamtah Levi napa rhoek kah boeilu la om uh tih boeilu rhoek he Jerusalem ah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Gibeon napa Jeuel Jeiel tah Gibeon ah kho a sak tih a yuu ming tah Maakah ni.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Anih koca ah a caming te Abdon tih Zur, Kish, Baal, Ner neh Nadab.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Gedor, Ahio, Zekhariah neh Mikloth.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Mikloth loh Shimeam a sak. Amih khaw a boeinaphung la Jerusalem ah a manuca rhoek neh hmaitoh tih kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ner loh Kish a sak, Kish loh Saul a sak, Saul loh Jonathan, Malkhishua, Abinadab neh Eshbaal a sak.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Jonathan koca Meribbaal tih Meribbaal loh Maikah a sak.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Maikah koca ah Pithon, Melek neh Tahrea.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Ahaz loh Jarah a sak, Jarah loh Alemeth, Azmaveth neh Zimri a sak. Zimri loh Moza a sak.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Moza loh Binea a sak tih Binea capa Rephaiah, Rephaiah capa Elasah, Elasah capa Azel.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Azel te capa parhuk om tih a ming tah Azrikam, Bokeru, Ishmael, Sheariah, Obadiah neh Hanan ni. He rhoek he Azel koca rhoek ni.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Philisti loh Israel te a vathoh thil dongah Israel hlang tah Philisti mikhmuh lamloh rhaelrham tih Gilboa tlang ah a rhok la cungku uh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Philisti te Saul hnuk neh anih koca rhoek hnukah balak uh. Te dongah Philisti loh Saul koca rhoek Jonathan, Abinadab neh Malkhishua te a ngawn uh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Caemtloek rhoek khaw Saul kaepvai ah tah a saeng pah. Te dongah anih aka hmu rhoek loh lii neh a kah tih a kah bangla a pawlh pah.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te dongah Saul loh a hnopai aka phuei te, “Na cunghang te bong lamtah te nen te kai n'thun laeh. Pumdul rhoek he ha pawk uh vetih kai m'poelyoe uh ve,” a ti nah. Tedae a hno phuei long khaw bahoeng a rhih dongah ngaih pa pawh. Te dongah Saul loh cunghang te a loh tih a soah amah cungku uh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A hno phuei loh Saul a duek te a hmuh vaengah tah amah khaw cunghang dongah kaeh tih duek.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Saul a duek phoeiah tah a ca rhoek pathum neh a imkhui pum khaw rhenten duek uh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Saul neh anih koca rhoek a duek te tuikol kah Israel hlang cungkuem loh a hmuh vaengah tah rhaelrham uh. Te vaengah amah khopuei te a hnoo uh tih rhaelrham uh. Te dongah Philisti rhoek ha pawk uh tih a khuiah kho a sak uh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A vuen ah rhok te lim hamla Philisti rhoek pawk uh. Te vaengah Gilboa tlang ah aka cungku Saul neh a ca rhoek te a hmuh uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Anih te a lim uh phoeiah a lu khaw, a hnopai te khaw a phueih pauh. Te phoeiah a muei neh pilnam te phong sak hamla Philisti kaepvai kah khohmuen tom la a tueih uh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A hnopai te amamih kah pathen im ah a khueh uh tih a luhong te Dagon im ah a ling uh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Philisti loh Saul taengah a saii boeih te Jabesh Gilead pum loh a yaak uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Te dongah tatthai hlang boeih tah thoo uh tih Saul rhok neh a ca rhoek kah rhok te a loh uh. Te rhoek te Jabesh la a pawk puei uh tih a rhuh te Jabesh kah rhokael hmuiah a up uh. Te vaengah hnin rhih a yaeh uh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Saul he amah kah boekoeknah dongah ni a. duek. BOEIPA taengah boe a koek tih BOEIPA ol te a ngaithuen pawt dongah rhaitonghma te dawt ham a toem.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />BOEIPA te a toem pawt dongah ni anih te a duek sak tih ram te Jesse capa David taengla a paek pah.
+  </para>
+  <chapter number="11" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel pum te Hebron kah David taengla tingtun uh tih, “Kaimih he na rhuh neh na saa ni he.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Hlaem hlavai kah na manghai Saul a om vaengah pataeng Israel te na vuenva puei tih na kunael puei. Te dongah ni na Pathen BOEIPA loh namah taengah, “Nang tah ka pilnam Israel na luem puei vetih nang he ka pilnam Israel soah rhaengsang la na om ni, ' a ti,” a ti na uh .
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Israel kah a ham boeih khaw Hebron kah manghai taengla pawk uh tih David loh amih neh Hebron kah BOEIPA mikhmuh ah paipi a saii. Te phoeiah Samuel kut dongkah BOEIPA ol vanbangla David te Israel sokah manghai la a koelh uh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te vaengah David neh Israel boeih tah Jebus Jerusalem la cet uh. Te khohmuen kah khosa rhoek tah Jebusi rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te vaengah Jebus kah khosa rhoek loh David te, “Hela ha kun boeh,” a ti nah. Tedae David loh David khopuei kah Zion rhalvong te a rhawt pah.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Te phoeiah David loh, “Lamhma la Jebusi aka ngawn boeih tah boeilu la, mangpa la om saeh,” a ti nah. Te dongah Zeruiah capa Joab te lamhma la cet tih boeilu la pahoi om van.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />David loh te kah rhalmahim ah kho a sak dongah ni David khopuei la a khue uh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Khopuei te a kaepvai kah vaikhap lamloh khotaeng khovai hil a thoh tih a caknoi khopuei te Joab loh a hing sak.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />David te pongpa, pongpa tih a pantai vanbangla caempuei BOEIPA khaw anih taengah om.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />He tah a ram khuiah anih aka duel David kah boeilu hlangrhalh rhoek neh Israel sokah BOEIPA ol bangla anih aka manghai sak Israel cungkuem rhoek coeng ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />David kah hlangrhalh hlangmi he tah sawmthum kah boeilu, rhalboei Hakhomi capa Jashobeam. Anih loh a caai te a haeng tih ya thum te voei khat la a rhokpam sak.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Anih hmatoeng ah Akhohi Dodo capa Eleazar. Anih khaw hlangrhalh pathum khuikah ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Anih te Pasdammin ah khaw David taengah ni a. om. Te vaengah Philisti rhoek tah caemtloek la pahoi tingtun uh. Lohma kah khamyai te cangtun khawk om pueng dae pilnam tah Philisti mikhmuh lamloh rhaelrham uh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Lohma li ah pai uh tih khohmuen te a huul uh. Te dongah Philisti te a ngawn uh vaengah khaw BOEIPA loh loeihnah a len neh a khang.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Boeilu sawmthum lamkah pathum te Adullam lungko lungpang kah David taengla a suntlak uh vaengah Philisti caem tah Rephaim kol ah rhaeh uh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David te rhalvong ah a om kuelhuelh vaengah Philisti khohung te Bethlehem ah om van.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David loh Bethlehem vongka kah tuito lamkah tui te a ngaidam, a ngaidam vaengah tah, “Kai he u long nim n'tul lah ve?” a ti.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Pathum long te Philisti rhaehhmuen te a va uh tih vongka taengkah Bethlehem tuito lamkah tui te a than uh. Te phoeiah a khuen uh tih David taengla pawk uh. Tedae David loh te te a ok ham huem pawt tih BOEIPA ham a suep.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Te phoeiah, “He saii ham he kamah lamkah khaw, ka Pathen taeng lamkah khaw savisava saeh. A hinglu te a kun puei uh coeng dongah hinglu dongkah hlang thii he a ka ok eh?” a ti. Te dongah hlangrhalh pathum loh a saii pah te ok hamla huem pawh.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Te vaengah Joab mana Abishai tah te rhoek pathum kah a lu la om. Anih loh a caai a haeng tih ya thum te a rhokpam sak. Te dongah pawt nim anih te pathum lakli ah ming a om.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Pathum lakah khaw rhaep nit la a thangpom tih amih taengah mangpa la a om coeng dongah pathum lakli ah mop voel pawh.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kabzeel lamkah bisai aka ping, tatthai hlang capa, Jehoiada koca Benaiah loh Moab kah sathueng hlang rhoi te a tloek. Te phoeiah anih te vuelsong khohnin ah khaw suntla tih tangrhom khui kah sathueng te a ngawn bal.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Anih loh Egypt hlang te khaw a ngawn. Tekah hlang te cungnueh ah dong nga lo. Egypt kut dongkah caai te hni tak kah tampai bangla om. Tedae anih te conghol neh a suntlak thil mai tih Egypt kut lamkah caai te a rhawth pah. Te phoeiah amah caai neh amah te a ngawn.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />He tlam he Jehoiada capa Benaiah loh a saii dongah ni anih te a ming khaw hlangrhalh pathum lakah a om.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Sawmthum lakah khaw anih te amah la thangpom coeng ne. Tedae pathum taengla a mop thai voel pawt dongah anih te David loh a taengom la a khueh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Te vaengkah tatthai hlangrhalh rhoek tah Joab mana Asahel, Bethlehem lamkah Dodo capa Elhanan.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Haroree Shammoth, Pelonee Helez.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Tekoa Ikkesh capa Ira, Anatoth Abiezer.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Khushathi Sibbekhai neh Akhohi Ilai.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Netophah Maharai neh Netophah Baanah capa Heled.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Benjamin koca Gibeah lamkah Ribai capa Ithai. Pirathon kah Benaiah.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Gaash soklong lamkah Hurai neh Arbahi Abiel.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Baharumi Azmaveth neh Shaalbin Eliaba.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Gizoni Hashem koca rhoek ah Harari Shagee capa Jonathan.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Harari Sakar capa Ahiam, Ur capa Eliphal.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Mekerathi Hepher neh Pelonee Ahijah.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Karmel Hezro neh Ezbai capa Naari.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Nathan mana Joel neh Hagri capa Mibhar.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ammoni Zelek neh Zeruiah capa Joab kah hno phuei Beroth Naharai.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Yitha Ira neh Yitha Gareb.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Khitti Uriah neh Ahlai capa Zabad.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Reuben boeilu Reuben Shiza capa Adina neh a taengkah sawmthum.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Maakah capa Hanan neh Mithini Joshaphat.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Ashtrarity Uzzia, Shamma, Jeuel neh Jeiel. Arori Hotham koca rhoek.
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Shimri capa Jediael neh a mana Tizi Joha.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Makhavim Eliel, Jeribai, Elnaam koca Joshavi, Moab Ithmah.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Eliel, Obed neh Mezobah Jaasiel.
+  </para>
+  <chapter number="12" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />He tah Kish capa Saul mikhmuh lamloh a vi uh vaengah Ziklag kah David taengla aka kun uh tih hlangrhalh rhoek khui lamloh caemtloek vaengah aka bom khaw amih ni.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Lii aka muk tih banvoei neh bantang ah lungto neh, thaltang neh, lii neh aka naep Benjamin ko neh Saul kah pacaboeina tah,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Boeilu Ahiezer neh Gibeah Shemaah koca ah Joash, Jeziel, Azmaveth koca ah Pelet, Berakah, Anatoth Jehu.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sawmthum so neh sawmthum lakli kah hlangrhalh Gibonee Ishmaiah. Jeremiah neh Jahaziel, Johanan neh Gederathite Jozabad.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Eluzai, Jerimoth, Bealiah, Shemariah, Kharuphi Shephatiah.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Elkanah, Isshiah, Azarel, Joezer neh Korah Jashobeam.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Joelah neh Gedor lamkah Jeroham capa Zebadiah.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Gad lamkah khaw khosoek rhalmahim ah David taengla kun uh tih caempuei khuiah tatthai hlangrhalh hlang la omuh. Caemtloek vaengah khaw photlinglen neh cai neh a rhong a pai uh. A maelhmai te sathueng maelhmai la om tih tlang kah kirhang bangla loe uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ezer te a lu, a pabae te Obadiah, a pathum te Eliab.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A pali te Mishmannah, a panga te Jeremiah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A parhuk te Attai, a parhih te Eliel.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A parhet ah Johanan, a pako ah Elzabad.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A hlai ah Jeremiah, a hlai at dongah Makhbanai.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />He rhoek he Gad koca rhoek khui lamkah caempuei boeilu rhoek ni. Pakhat loh a yol koek yakhat, a yet koek thawng khat a hung.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Amih rhoek he tah tuikaeng langdai pum te tui a li vaengkah lamhma cuek hla ah Jordan te kat uh. Te vaengah tuikol pum te khocuk la, khotlak la yong uh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Benjamin neh Judah koca rhoek lamkah khaw, rhalmahim kah David taengla pawk uh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David te amih mikhmuh la mop tih a doo. Te vaengah amih te, “Rhoepnah neh kai bom hamla kai taengah na pawk uh atah kai khaw nangmih taengah thinko thikat la om bitni. Tedae ka rhal taengah kai nan phok ham atah ka kut ah kuthlahnah a om oeh pawt dongah a pa rhoek kah Pathen loh hmuh saeh lamtah tluung saeh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Te vaengah Mueihla loh sawmthum kah boeilu Amasai te a thing tih, “David nang te rhalboei ni. Jesse capa nang taengah rhoepnah om saeh. Nang taengah ngaimongnah om saeh. Nang aka bom taengah rhoepnah om saeh. Na Pathen loh nang m'bom bitni,” a ti nah. Te dongah David loh amih te a doe tih amih te caem kah boeilu la a khueh.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Saul te caemtloek thil ham Philisti neh a paan vaengah Manasseh lamkah khaw David taengla cungku uh. Tedae Philisti boei rhoek loh anih te cilsuep hnukah a tueih uh tih, “A boei rhoek taengla Saul a cungku atah kaimih lu ah tla saeh,” a ti nah dongah amih te bom uh pawh.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ziklag la a caeh vaengah tah Manasseh lamloh Adnah neh Jozabad, Jediael neh Michael, Jozabad, Elihu neh Zillethai tah anih taengla cungku uh. Amih he Manasseh khuiah tah thawngkhat kah boeilu rhoek la om uh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Amih te tatthai hlangrhalh neh caempuei khuiah khaw mangpa la boeih a om uh dongah David te caem nen khaw a bom thil uh.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Te vaengah tue ah ngawn tah Pathen caem bangla caem len la a poeh hil, anih bom ham te David taengla a hnin, a hnin ah pawk uh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />He tah anih taengkah BOEIPA ol bangla Saul kah ram vael pah hamla Hebron kah David taengla aka pawk tih caempuei hamla aka pumcum uh boeilu rhoek kah hlangmi ni.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Photlinglen neh cai aka muk tih caempuei hamla aka pumcum uh Judah koca he thawng rhuk ya rhet.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Simeon koca lamloh caempuei hamla tatthai hlangrhalh he thawng rhih yakhat om.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Levi koca lamloh thawng li ya rhuk.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Aaron kah rhaengsang Jehoiada neh a taengkah thawng thum ya rhih.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Tatthai hlangrhalh la cadong Zadok neh a napa rhoek imkhui he mangpa pakul panit om.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Benjamin koca lamloh Saul kah pacaboeina he thawng thum lo tih Saul im kah a kuek te a puehkan la a ngaithuen uh.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Ephraim koca lamloh tatthai hlangrhalh neh a napa rhoek imkhui kah ming om hlang rhoek he thawng kul ya rhet lo.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />David a manghai ham vaengah Menasseh koca hlangvang lamloh aka pawk te a ming neh thawng hlai rhet la mingpha uh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />A tue te yakmingnah neh aka ming tih, Israel loh metla a saii ham aka ming Issakhar koca lamkah khaw a boeilu yahnih neh, a olka hmuikah a manuca rhoek khaw cungkuem uh.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Zebulun lamkah he caempuei la pawk tih caemtloek hnopai cungkuem neh caemtloek rhong aka pai thawng sawmnga om. Tedae a lungbuei neh lungbuei khaw hmaai uh rhoi pawh.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Naphtali lamkah mangpa thawngkhat neh amih taengah photlinglen neh caai aka pom he thawng sawmthum thawng rhih om.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Dan lamloh caemtloek la rhong aka pai he thawng kul thawng rhet ya rhuk lo.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Asher lamloh caemtloek rhongpai ham caempuei la aka pawk he thawng sawmli lo.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Jordan rhalvangan lamkah Reuben, Gad neh Manasseh koca hlangvang lamlong khaw caempuei kah hnopai cungkuem neh caemtloek he thawng yahnih thawng kul om.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Caem vaengah kah a hmaai caemtloek hlang rhoek boeih tah Israel boeih soah David manghai sak ham te thinko rhuemtuet neh Hebron la pawk uh. Te vaengah Israel a meet boeih long khaw David manghai sak ham te lungbuei pakhat la a khueh.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Te vaengah David neh hnin thum pahoi om uh tih amih te a cako la a tawn uh coeng dongah a caak a ok uh.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Amih neh aka yoei long khaw Issakhar, Zebulun neh Naphtali bangla buh te laak neh, kalauk neh, muli-marhang neh, saelhung neh a thoeng puei uh. Caak ham te vaidam, thaidae, misur rhae, misurtui, situi, saelhung neh boiva khaw Israel khuikah kohoenah cangpai la a khuen pauh.
+  </para>
+  <chapter number="13" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David loh thawngkhat neh yakhat mangpa rhoek te khaw, rhaengsang boeih te khaw a uen.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te vaengah David loh Israel hlangping boeih te, “Nangmih ham a then mak atah mamih kah Pathen BOEIPA taeng lamloh Israel khohmuen tom kah aka sueng mah manuca taengah pungtai uh sih lamtah tueih uh sih. Amih neh khosoih rhoek khaw, a khocaak khopuei khuikah Levi rhoek khaw mamih taengla tingtun saeh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Saul tue vaengah te a toem uh pawt akhaw mamih Pathen kah thingkawng te mah taengla mael sak uh sih,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te vaengah hlangping boeih loh,” Ol he pilnam boeih kah mikhmuh ah a dueng coeng dongah saii ham om tangloeng,” a ti uh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te dongah Kiriathjearim lamkah Pathen thingkawng koh hamla David loh Israel pum te Egypt Shihor lamloh Lebokhamath duela a tingtun sak.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ming a phuk vanbangla cherubim loh kho a sak thil Pathen BOEIPA kah thingkawng te, te lamloh Judah kah Kiriathjearim la paan puei ham David neh Israel boeih tah Baalah la cet uh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Te phoeiah ah Pathen kah thingkawng te Abinadab im lamloh leng a thai dongah a hol uh tih leng te Uzzah neh Ahio loh a khool.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />David neh Israel boeih tah Pathen mikhmuh ah sarhi boeih neh, laa neh, rhotoeng neh, thangpa neh, kamrhing neh, tlaklak neh, olueng neh luem uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Khidon la a pawk uh vaengah tah vaito loh a soek dongah thingkawng te tuuk pah hamla Uzzah loh a kut a thueng.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tedae thingkawng soah a kut a thueng dongah BOEIPA kah thintoek te Uzzah taengah sai tih anih te a ngawn. Te dongah Pathen mikhmuh ah pahoi duek.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />BOEIPA loh Uzzah puut te a va dongah David khaw sai. Te dongah te hmuen te tahae khohnin hil Perezuzzah la a khue.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Te khohnin ah tah Pathen te David loh a rhih coeng tih, “Pathen thingkawng he ka taengla metlam ka khuen eh?” a ti.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Te dongah David loh thingkawng te David khopuei la amah neh puei voel pawt tih Ghitti Obededom imkhui la a hooi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Pathen kah thingkawng te Obededom cako neh a im ah hla thum om. Tedae BOEIPA loh Obededom imkhui neh a taengkah boeih te yoethen a paek.
+  </para>
+  <chapter number="14" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Tyre manghai Huram Khiram loh David taengla puencawn neh a im sak pah ham lamphai thing khaw, pangbueng dongkah kutthai khaw, thing dongkah kutthai khaw a pat.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />BOEIPA loh Israel soah manghai la anih a thoh te khaw, a pilnam Israel kong ah a ram so la a dangrhoek te khaw David loh a ming.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />David loh Jerusalem ah yuu koep a loh dongah David loh canu khaw capa khaw koep a sak.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />He rhoek he Jerusalem ah a sak tih amah taengah aka om rhoek kah a ming ni. Shammua, Shobab, Nathan neh Solomon.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ibhar, Elishua neh Eliphelet.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Nogah, Nepheg neh Japhia.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elishama, Beeliada neh Eliphelet.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Israel boeih kah manghai la David a koelh te Philisti loh a yaak vaengah David tlap hamla Philisti pum loh cet uh. Tedae David loh a yaak coeng dongah amih mikhmuh la cet.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Philisti rhoek a pawk vaengah Rephaim kol la capit uh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tedae David loh Pathen te a dawt tih, “Philisti taengla ka cet koinih Philisti te ka kut dongah nan tloeng aya?” a ti nah. Te dongah BOEIPA loh anih te, “Cet lamtah amih te na kut ah kan tloeng bitni,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Te dongah Baalperazim la cet uh dae amih te David loh pahoi a ngawn. Te vaengah David loh, “Pathen loh ka thunkha te tui puut bangla kamah kut ah a va coeng,” a ti. Te dongah te hmuen ming te Baalperazim la a khue.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Te vaengah amamih kah pathen te pahoi a toeng uh coeng dongah David loh a ti nah bangla hmai neh a hoeh uh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Te phoeiah Philisti loh koep a khoep tih kol ah capit uh bal.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te dongah David loh Pathen te koep a dawt tih, Pathen loh anih te, “Amih hnukah cet boeh. A so lamloh vael lamtah amih te tikti rhaldan ah cuuk.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Tikti soi ah haeksak ol na yaak van neh caemtloek la thoeih uh. Philisti caem ngawn hamla nang hmai ah Pathen cet coeng,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David long khaw Pathen kah a uen bangla a saii tangloeng. Te dongah Philisti caem te Gibeon lamloh Gezer duela a ngawn uh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Te dongah David ming te diklai pum ah thang. BOEIPA loh a birhihnah te namtom cungkuem soah a khueh.
+  </para>
+  <chapter number="15" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Amah ham im te David khopuei ah a sak. Pathen thingkawng ham hmuen a saelh tih te ham te dap a tuk pah.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />David loh, “Levi bueng pawt atah Pathen kah thingkawng te koh ham moenih. Amih tah BOEIPA kah thingkawng aka kawt ham neh kumhal due amah taengah aka thotat ham BOEIPA loh a coelh coeng,” a ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Te phoeiah BOEIPA thingkawng te a saelh pah a hmuen la khuen ham David loh Israel pum te Jerusalem ah a tingtun sak.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te vaengah David loh Aaron neh Levi koca te a coi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Kohath koca lamloh mangpa Uriel neh a manuca he ya pakul.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Merari koca lamloh mangpa Asaiah neh a manuca yahnih pakul.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Gershom koca lamloh mangpa Joel neh a manuca ya sawmthum.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Elizaphan koca lamloh mangpa Shemaiah neh a manuca yahnih.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hebron koca lamloh mangpa Eliel neh a manuca sawmrhet.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Uzziel koca lamloh mangpa Amminadab neh a manuca ya hlai nit.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />David loh khosoih Zadok neh Abiathar te khaw, Levi, Uriel, Asaiah, Joel, Shemaiah, Eliel, Amminadab te khaw a khue.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Te vaengah amih te, “Nangmih tah Levi napa rhoek kah a lu rhoek ni. Namamih neh na manuca rhoek khaw ciim uh lamtah Israel Pathen BOEIPA kah thingkawng te ka saelh nah la khuen uh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Balae tih lamhma vaengah na om uh pawh. Laitloeknah bangla amah te n'toem uh pawt dongah mamih kah Pathen BOEIPA tah mamih taeng lamloh pung coeng,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te dongah Israel Pathen BOEIPA kah thingkawng koh ham te khosoih rhoek neh Levi rhoek tah ciim uh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Te dongah Pathen thingkawng te Moses kah a uen bangla BOEIPA ol dongah Levi koca rhoek loh a laengpang dongah a hnokohcung neh a koh uh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David loh Levi mangpa rhoek taengah amah boeinaphung te lumlaa kah a tumbael neh thangpa neh, rhotoeng neh tlaklak neh aka hlai khaw, kohoenah ol neh pomsang ham aka yaak sak khaw a pai sak ham te a thui pah.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Te dongah Levi rhoek loh Joel capa Heman neh a manuca khui lamkah Berekiah capa Asaph, a manuca Merari koca lamkah Kushaiah capa Ethan a tuek uh.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Amih neh a manuca rhoek hmatoeng ah Zekhariah koca, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Elipheleh, Mikneiah, Obededom neh thoh tawt Jeiel.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Laa neh aka hlai Heman, Asaph neh Ethan loh rhohum tlaklak neh a yaak sak.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Zekhariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, Benaiah loh Alamoth thangpa neh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Rhotoeng neh parhet bangla aka mawt, Mattithiah, Elipheleh, Mikneiah, Obededom, Jeiel, Azaziah.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Amah loh a yakming dongah olrhuh neh aka toel Levi kah olrhuh mangpa Kenaniah.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Thingkawng hamla thoh tawt Berekiah neh Elkanah.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Pathen thingkawng hmai ah olueng aka ueng khosoih Shebaniah, Joshaphat, Nethanel, Amasai, Zekhariah, Benaiah neh Eliezer. Thingkawng ham thoh tawt te Obededom neh Jehiah.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Te phoeiah David khaw, Israel kah a hamca rhoek khaw, mangpa thawngkhat khaw, Obededom im lamkah BOEIPA kah paipi thingkawng te kohoenah neh khuen hamla cet uh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Pathen loh BOEIPA kah paipi thingkawng aka kawt Levi rhoek te a bom. Te dongah vaito pumrhih neh tutal pumrih a nawn uh.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Te vaengah David khaw, thingkawng aka kawt Levi boeih khaw, laa sa rhoek khaw, olrhuh neh aka hlai mangpa Kenaniah khaw baibok hnikul neh yol uh tih David loh takhlawk hnisui a bai thil.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Te vaengah Israel pum loh BOEIPA kah paipi thingkawng te tamlung neh, tuki ol neh, olueng neh, tlaklak neh, thangpa, rhotoeng a tum uh tih cet uh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />BOEIPA kah paipi thingkawng te David khopuei la a kun vaengah Saul canu Mikhal loh bangbuet lamkah a dan. Te vaengah manghai David a cungpet neh a luem te a hmuh tih anih te a lungbuei ah a sawtsit.
+  </para>
+  <chapter number="16" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Pathen thingkawng te a khuen uh tih David loh amah te ham a tuk pah dap khui ah a khueh uh. Te phoeiah hmueihhlutnah neh rhoepnah te Pathen mikhmuh ah a nawn uh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />David loh hmueihhlutnah neh rhoepnah hmueih a tloeng te a coeng phoeiah tah pilnam te BOEIPA ming neh yoethen a paek.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Israel hlang boeih te tongpa khaw, huta ham khaw buh hluem, maehcaeng, yukhap rhip a tael pah.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />BOEIPA kah thingkawng hmai ah aka thotat Levi khui lamkah te Israel Pathen BOEIPA aka thoelh ham khaw, aka uem ham khaw, aka thangthen ham khaw a khueh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Boeilu Asaph neh a hnukthoi Zekhariah, Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obededom, Jeiel tah thangpa tumbael neh rhotoeng neh om tih Asaph tah tlaklak aka tum la om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Khosoih Benaiah neh Jahaziel tah Pathen kah paipi thingkawng hmai ah olueng neh phat om.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Te vaengah tue ah BOEIPA te lamhma la uem ham David loh Asaph neh a manuca rhoek taengah a paek.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />BOEIPA te uem uh lamtah, a ming te khue uh. A khoboe rhamlang te pilnam taengah ming sakuh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Amah te hlai uh lamtah, amah te tingtoeng uh. Amah kah khobaerhambae cungkuem dongah lolmang uh lah.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Amah kah hmuencim ming dongah thangthen uh lamtah, BOEIPA aka tlap kah lungbuei tah a kohoe saeh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />BOEIPA te toem uh lamtah a sarhi neh a maelhmai te tlap yoeyah uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A saii kopoekrhai neh a ka laitloeknah bangla amah kah khobaerhambae te poek uh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Israel tiingan he amah kah sal tih, Jakob koca he amah kah a coelh ni.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Amah tah mamih kah Pathen BOEIPA ni, a laitloeknah he diklai pum ah om.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A paipi te kumhal duela poek uh. Cadilcahma thawngkhat ham khaw ol a uen coeng.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Te te Abraham taengah a saii tih a olhlo te Isaak taengah a khueh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Kumhal paipi te Israel taengkah oltlueh bangla Jakob taengah khaw a pai sak.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />“Kanaan khohmuen te Nang taengah na rho neh khoyo la kam paek ni.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Na hlang te hlangmi a yol neh a khuiah aka bakuep la om.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Namtom lamloh namtom taengla, ram khat lamloh pilnam tloe taengla pongpa uh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Amih hnaemtaek ham te hlang taengla a tloeng pawt dongah amih yueng la manghai rhoek te a tluung pah.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Ka koelh rhoek te ben uh boeh, ka tonghma rhoek taengah khaw thaehuet uh boeh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Diklai pum loh BOEIPA te hlai uh lah, amah kah khangnah te a hnin, hnin ah phong uh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Amah thangpomnah te namtom taengah, amah kah khobaerhambae te pilnam cungkuem taengah daek uh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />BOEIPA tah len tih muep thangthen pai saeh. Pathen boeih lakah amah a rhih om pai.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Pilnam kah pathen boeih tah mueirhol rhoek ni. Tedae BOEIPA loh vaan a saii.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />A mikhmuh ah mueithennah neh rhuepomnah, a ngolnah hmuen ah a sarhi neh kohoenah om.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Pilnam paca te BOEIPA taengah pae uh, thangpomnah neh sarhi te khaw BOEIPA taengah pae uh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />A ming thangpomnah te BOEIPA taengah pae uh lamtah, khocang te khuen uh. A mikhmuh ah kun uh lamtah, hmuencim kah rhuepomnah khuiah BOEIPA te bawk uh lah.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />A mikhmuh ah diklai pum he hinghuen saeh. Lunglai ngawn tah cikngae tih tuen pawh.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Vaan rhoek te a kohoe saeh lamtah diklai khaw omngaih saeh. Namtom rhoek taengah BOEIPA a manghai te thui uh saeh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Tuitunli neh a cungkuem khaw kawk saeh lamtah, khohmuen neh a khuikah a cungkuem loh sundaep saeh.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Diklai laitloek ham ha pawk coeng dongah duup thing rhoek khaw BOEIPA mikhmuh ah tamhoe uh saeh.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />A sitlohnah te kumhal due ham a then dongah BOEIPA te uem uh.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />“Kaimih kah khangnah Pathen, kaimih he n'khang lah. Kaimih he n'coi lamtah namtom taeng lamloh kaimih n'huul lah. Na cimcaihnah ming te uem ham neh na kohoenah dongah ka domyok uh ham khaw,” ti uh.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Israel Pathen BOEIPA tah, khosuen lamloh kumhal hil khaw a yoethen pai saeh. Te phoeiah pilnam boeih loh, “Amen, BOEIPA te thangthen pai saeh,” a ti uh.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Te phoeiah Asaph neh a manuca rhoek te a hnin, hnin kah olkhueh bangla thingkawng hmai ah phueih aka thotat hamla BOEIPA kah paipi thingkawng hmai ah pahoi a khueh.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Obededom neh a pacaboeina he sawmrhuk parhet lo. Thoh tawt la Jeduthun capa Obededom neh Hosah.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Khosoih Zadok neh a manuca khosoih rhoek tah Gibeon hmuensang kah BOEIPA dungtlungim hmai ah,
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />BOEIPA taengah hmueihhlutnah aka nawn la, hmueihtuk sokah sainoek hmueihhlutnah te hlaem ah khaw, mincang ah khaw aka nawn la om uh. Te dongah a cungkuem la BOEIPA kah olkhueng khuiah a daek tih Israel taengah a uen coeng.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Amih taengah Heman, Jeduthun neh a coelh coih rhoek khaw om. Te rhoek te tah a sitlohnah kumhal due la a om dongah BOEIPA uem ham a ming neh a phoei.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Te vaengah Heman neh Jeduthun tah amih taengah olueng neh tlaklak aka tum la, Pathen kah lumlaa hnopai neh om. Jeduthun koca rhoek te vongka taengah omuh.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Te phoeiah pilnam boeih te amah im la rhip cet uh tih David khaw a imkhui te yoethen paek hamla mael van.
+  </para>
+  <chapter number="17" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David te amah im ah a om van nen tah David loh tonghma Nathan taengah, “Kai he lamphai im ah ka om dae BOEIPA kah paipi thingkawng tah himbaiyan hmuiah sut om ke,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te vaengah Nathan loh David te, “Pathen he nang taengah om coeng tih na thinko khuikah bangla a cungkuem he saii ngawn,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Te khoyin ah tah Pathen kah ol te Nathan taengla pawk tih,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />“Cet lamtah ka sal David te thui pah. BOEIPA loh he ni a. thui. Kai hamla om nah im na sak moenih.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Israel ka khuen khohnin lamloh tahae khohnin hil he im khuiah ka om hlan. Tedae dap khat lamloh dap khat neh dungtlungim ah ni ka om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Israel boeih te a cungkuem dongah ka caeh puei. Israel kah laitloek pakhat taengah ol ka thui coeng te ta? Te te ka pilnam luem puei ham ka uen tih, “Balae tih kai hamla lamphai im na sak uh pawh?” ka ti nah.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Te dongah ka sal David taengah he he thui pah laeh. Caempuei BOEIPA loh he ni a. thui. Kai loh nang te tolkhoeng lamloh, boiva hnuk lamloh ka pilnam Israel soah rhaengsang la om ham kan loh coeng.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Na caeh nah takuem ah nang te kan om puei. Na thunkha boeih te na mikhmuh lamloh ka khoe. Na ming te diklai kah hlanglen ming la ka khueh ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ka pilnam Israel ham hmuen ka khueh vetih anih te ka phung ni. Te vaengah a hmuiah kho a sak vetih tlai voel mahpawh. Lamhma kah bangla anih hmawn sak ham khaw dumlai ca rhoek loh koei uh voel mahpawh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ka pilnam Israel soah lai aka tloek la kang uen khohnin lamloh, “Na thunkha boeih te ka kunyun sak bitni. Te phoeiah namah taengkah ka thui bangla BOEIPA loh nang hamla im han sak bitni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Na khohnin loh cum tih na pa rhoek taengla na cet cakhaw na tiingan te namah hnukah ka thoh ni. Na ca rhoek taeng lamloh aka om te khaw a ram ka cikngae sak ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Anih loh kai hamla im a sak vetih a ngolkhoel te kumhal duela ka cikngae sak ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kai he anih taengah pa la ka om vetih anih khaw kamah taengah capa la om ni. Na hmai ah aka om taeng lamloh ka lat bangla ka sitlohnah he anih taeng lamloh ka lat mahpawh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Anih te kamah im neh ka ram ah kumhal duela ka pai sak ni. A ngolkhoel khaw kumhal duela a cikngae la om ni,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />He ol cungkuem neh hekah mangthui cungkuem bangla Nathan loh David taengah a thui pah tangloeng.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Te phoeiah manghai David te cet tih BOEIPA mikhmuh ah ngol. Te vaengah Pathen BOEIPA aw kai he unim?, He la kai nan khuen ham akhaw ka imkhui he mebang nim?
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />He tah Pathen namah mikhmuh ah rhaidaeng. Tedae a hlahoei lamkah khaw na sal imkhui ham na thui. Tangtlaeng Pathen BOEIPA loh boeimang hlang la kai nan hmuh.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Na sal thangpomnah ham te namah taengah David loh metlam koep a thap eh? Namah loh na sal he na ming coeng.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />BOEIPA aw na sal ham kong ah lennah cungkuem te ming sak ham na lungbuei kah bangla lennah cungkuem he na saii.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />BOEIPA namah bang he om pawt tih Pathen a tloe a om moenih. Tedae namah tah a cungkuem dongah kaimih hna neh kan yaak uh coeng.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Diklai ah namtu pakhat khaw na pilnam Israel bangla om nim? Namah ham lennah ming la khueh ham, a pilnam te lat pah ham Pathen loh a paan coeng. Egypt lamkah na lat na pilnam mikhmuh lamloh na haek ham tah namtom loh a rhih.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Na pilnam Israel te namah ham kumhal kah pilnam la na khueh. BOEIPA namah tah amih kah Pathen la na om pai.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />BOEIPA aw, na sal ham neh a imkhui ham na thui ol te kumhal duela cak pawn saeh. Na thui bangla saii pai laeh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Te dongah na ming te kumhal duela cak vetih pantai ni. “Israel Pathen tah Israel Pathen, caempuei BOEIPA,” a ti pai. Na sal David imkhui khaw na mikhmuh ah cikngae pai saeh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Kai kah Pathen namah loh a im sak hamla na sal kah hna he na vueh pah. Te dongah ni na sal loh na mikhmuh ah thangthui ham a hmuh.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Pathen amah khaw BOEIPA namah coeng dongah ni hnothen he na sal ham na thui pah.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Na sal imkhui he yoethen sak ham neh na mikhmuh ah kumhal duela om sak ham na mulmet coeng. BOEIPA namah loh yoethen na paek dongah kumhal duela a yoethen.
+  </para>
+  <chapter number="18" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Te phoeiah khaw David loh Philisti te a ngawn tih amih te a kunyun sak. Te vaengah Gath neh a khobuel rhoek te Philisti kut lamloh a lat.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Moab te a ngawn bal dongah Moab khaw David taengah khocang aka thak sal la om uh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Zobah manghai Hadadezer loh a kut dongah Perath tuiva phai te khueh hamla a caeh vaengah David loh Khamath duela a ngawn.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Anih taeng lamkah te David loh leng thawngkhat, marhang caem thawng rhih, rhalkap tongpa thawng kul a tuuk pah. Te vaengah David loh leng khaw boeih a haih pah tih leng yakhat bueng a paih pah.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te vaengah Aram Damasku tah Zobah manghai Hadadezer bom hamla ha pawk. Tedae David loh Aram kah hlang thawng kul neh thawng hnih a ngawn.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David loh Aram Damasku ah khohung a khueh tih Aram te David taengah khocang aka thak sal om. David te a caeh nah takuem ah BOEIPA loh a khang.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />David loh Hadadezer sal rhoek pum dongah aka om sui photling te a loh tih Jerusalem la a khuen.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hadadezer khopuei Tibhath lamkah neh Kun lamkah rhohum te yet te David loh bahoeng a loh pah. Te nen te Solomon loh rhohum tuili khaw, tung khaw, rhohum hnopai khaw a saii.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />David loh Zobah manghai Hadadezer kah caem boeih a ngawn pah te Khamath manghai Toi loh a yaak.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Hadadezer a vathoh thil tih Toi kah caemtloek hlang rhoek hamla Hadadezer te a ngawn pah. Te dongah amah te sading kawng dawt ham neh amah uem puei hamla manghai David taengah a capa Hadoram te a tueih tih sui hnopai boeih neh cak khaw rhohum khaw a khuen sak.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Te rhoek te khaw Manghai David loh BOEIPA taengah namtom cungkuem taeng lamkah, Edom lamkah, Moab lamkah, Ammon koca taeng lamkah, Philisti lamkah, Amalek lamkah a phueih cak neh sui neh a ciim.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Zeruiah capa Abishai loh kolrhawk ah Edom te thawng hlai rhet a ngawn.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Te dongah Edom ah khohung rhoek a khueh tih Edom boeih te David taengah sal om uh. A caeh nah takuem ah David te BOEIPA loh a khang.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />David te Israel boeih soah a manghai vaengah a pilnam boeih ham khaw tiktamnah neh duengnah aka saii la om.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Zeruiah capa Joab tah caempuei soah, Ahilud capa Jehoshaphat loh khocil aka khoem la om.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Ahitub capa Zadok neh Abiathar capa Abimelek te khosoih, Shavsha te cadaek la om.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Jehoiada capa Benaiah te Kerethi neh Phelethi soah a khueh. David koca rhoek te tah manghai kut ah lamhma uh.
+  </para>
+  <chapter number="19" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Te phoeiah tah Ammon koca rhoek kah manghai Nahash te duek tih a capa te anih yueng la manghai.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te vaengah David loh, “A napa loh kai taengah sitlohnah a tueng sak dongah Nahash capa Hanun te sitlohnah ka tueng sak van eh,” a ti. Te dongah a napa kongah anih suem ham te David loh puencawn a tueih tih David kah sal rhoek khaw Hanun suem hamla Ammon koca rhoek kah khohmuen la pawk uh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tedae Ammon koca rhoek kah mangpa rhoek loh Hanun taengah, “Nang suem ham han tueih dongah na mikhmuh ah David loh na pa a thangpom nama? Khohmuen he hip ham neh maelh ham, khe ham pawt nim a sal rhoek te nang taengla ha pawk uh?” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te dongah Hanun loh David kah sal rhoek te a tuuk. Amih te sam a vok pah, a himbai te a ael ah rhakhuem a hlueng pah phoeiah a tueih.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A caeh uh vaengah tah a hlang rhoek kawng te David ham a puen pauh. Hlang rhoek khaw hmaithae la mat a om uh coeng dongah amih aka doe te a tueih. Te vaengah manghai loh, “Na hmuimul a cawn hil Jerikho ah om uh lamtah ha mael uh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David taengah bo a rhim uh te Ammon koca rhoek loh a hmuh uh. Te dongah Hanun neh Ammon koca rhoek loh Aramnaharaim, Arammaakah, Zobah lamkah leng neh marhang caem te paang hamla cak talent thawng khat neh a tah.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Te dongah amamih ham te leng thawng sawmthum thawng hnih te a paang uh. Manghai Maakah neh a pilnam te khaw cet uh tih Medeba rhaldan ah rhaeh uh. Ammon koca rhoek khaw amamih khopuei lamloh coi uh thae tih caemtloek la pawk uh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />David loh a yaak vaengah Joab neh hlangrhalh caempuei te boeih a tueih.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ammon koca rhoek te cet uh tih khopuei thohka ah caemtloek rhong a pai uh. Te vaengah manghai aka pawk rhoek te lohma ah amamih bueng omuh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Joab loh caemtloek hmai ah a hnuk a hmai la a om te a hmuh. Te dongah Israel khuikah a coelh boeih te koep a coelh tih Aram te mah hamla rhong a pai.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Pilnam kah a coihpaih te a mana Abishai kut ah a khueh tih Ammon koca rhoek te mah hamla rhong a pai uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Te vaengah, “Aram te kai lakah a tlung atah loeihnah hamla kai taengah om. Tedae Ammon koca rhoek te nang lakah a tlung oeh atah nang kang khang van eh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Thaahuel uh lamtah mah pilnam ham neh mamih kah Pathen khopuei rhoek ham khaw thaahuel uh sih. BOEIPA loh a mikhmuh ah a then a saii bitni,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te phoeiah Joab neh a taengkah pilnam loh Aram te caemtloek la a thoeih hatah a mikhmuh lamloh rhaelrham uh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ammon koca rhoek loh Aram a rhaelrham te a hmuh vaengah amamih khaw Joab mana Abishai mikhmuh lamloh rhaelrham uh tih khopuei khuila a kun coeng dongah Joab khaw Jerusalem la mael.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Aram loh Israel mikhmuh ah a yawk te a hmuh vaengah puencawn rhoek te a tueih uh. Te vaengah Aram loh tuiva rhalvangan lamkah te a khuen uh tih Hadadezer kah caempuei mangpa Shophate teamih hmai ah a lamhma sak.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Tedae David taengla a puen pah dongah Israel pum te a coi tih Jordan te kat. Amih te a paan tih a rhaldan ah rhong a pai. David loh Aram te caemtloek neh doe hamla rhong a pai tih a vathoh thil uh.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Aram te Israel mikhmuh lamloh a rhaelrham coeng dongah David loh Aram kah leng caem thawng rhih, rhalkap te hlang thawng sawmli a ngawn pah tih caempuei mangpa Shophate te a duek sak.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Israel mikhmuh ah a yawk uh te Hadadezer kah sal rhoek loh a hmuh. Te dongah David te a sah tih a taengah thotat uh. Te phoeiah Aram loh Ammon koca te rhun ham ngaih voel pawh.
+  </para>
+  <chapter number="20" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Kum a thok tue kah manghai a pawk tue vaengah tah Joab loh tatthai caempuei te a hmaithawn tih Ammon koca kah khohmuen te a phae pah. Te phoeiah cet tih Rabbah te a dum. David te Jerusalem ah kho a sak vaengah Joab loh Rabbah te a tloek tih a koengloeng.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />David loh amih kah manghai rhuisam te a lu dong lamloh a loh pah. Te te a khiing sui talent khat lo tih a khuiah lung vang om. Te tah David lu dongah om tih khopuei kah kutbuem a khuen khaw bahoeng yet.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A khuikah pilnam te khaw a khuen tih hlawh taengah, thi yoeng taengah, hlawh te a ah sak. Te tlam te David loh Ammon koca rhoek kah khopuei boeih te a saii. Te phoeiah ni David neh a pilnam boeih te Jerusalem la a mael pueng.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A hnukah khaw Gezer ah Philisti neh caemtloek koep puek bal. Te vaengah Khushathi Sibbekhai loh Rapha cahlah lamkah Sippai te a ngawn sak tih a kunyun sakuh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te phoeiah Philisti neh caemtloek om bal tih Jair kah Jair capa Elhanan loh Ghitti Goliath mana Lahmi te a ngawn. Anih kah caai tueng te hni tak kah tampai bangla om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Gath ah caemtloek om bal tih cungkui hlang kaw om. A kutdawn khodawn parhuk, parhuk neh pakul pali lo. Anih khaw Rapha lamkah ca sak ni.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Israel te a veet dongah anih te David maya Shimea capa Jonathan loh a ngawn.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Rapha lamkah a sak rhoek he Gath ah David kut neh a sal rhoek kut ah cungku uh.
+  </para>
+  <chapter number="21" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Satan loh Israel a thoh thil tih Israel tae hamla David a vueh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te dongah David loh Joab taeng neh pilnam mangpa rhoek taengah, “Cet uh lamtah Israel he Beersheba lamloh Dan duela tae uh. Te phoeiah kai taengla ha puen uh lamtah a hlangmi te ka ming van eh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tedae Joab loh, “BOEIPA loh a pilnam te a pueh yakhat la a thap bitko. Ka boei manghai aw, amih boeih te ka boei taengah sal la a om uh moenih a? Ka boeipa loh balae tih he he a hue. Balae tih Israel soah dumlai la a om eh?” a ti.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Tedae manghai kah ol loh Joab te a khum a la. Te dongah Joab te nong tih Israel tom te a pha phoeiah Jerusalem la pawk.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te phoeiah Joab loh pilnam hlangboel hlangmi te David taengla a paek. Te vaengah Israel boeih te cunghang aka pom thai hlang thawng thawng khat neh thawng yakhat om. Judah kah cunghang aka pom hlang he thawng ya li neh thawng sawmrhih lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tedae manghai ol loh Joab te a tuei dongah Levi neh Benjamin tah amih lakli ah nuen sak pawh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />He ol he Pathen mik ah a lolh dongah Israel te a ngawn.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />David loh Pathen taengah, “He kah hno ka saii he bahoeng ka tholh coeng. Na sal kathaesainah he khuen mai laeh, ka pavai tangkik dongah ni,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Te vaengah BOEIPA loh David kah khohmu Gad te a voek tih,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Cet lamtah David te thui pah. BOEIPA loh he ni a. thui. Kai loh nang te pathum kan doe tih te khuikah pakhat te namah ham tuek lamtah nang taengah kan saii eh?,’ ti nah,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Te phoeiah Gad te David taengla pawk tih amah te, “BOEIPA loh a thui he namah ham doe laeh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Khokha kum thum nim, na rhal mikhmuh lamloh hla thum na khoengvoep uh tih na thunkha kah cunghang loh n'kae te nim? Hnin thum khuiah BOEIPA kah cunghang neh diklai ah duektahaw la BOEIPA puencawn loh Israel kah khorhi tom ah a phae te nim? Mebang khaw hmu lamtah kai taengla ol ham mael laeh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />David loh Gad taengah kai he puen ka cak tangkik coeng. A haidamnah he a len tangkik dongah BOEIPA kut ah ka tla mai eh. Tedae hlang kut ah tah ka tla boel eh?,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te dongah BOEIPA loh Israel soah duektahaw a paek tih Israel hlang thawng sawmrhih cungku.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Te phoeiah Pathen loh Jerusalem phae hamla puencawn a tueih. Tedae a phae te BOEIPA loh a hmuh tanglang vaengah tah boethae khaw damti. Te dongah khopuei aka phae puencawn te, “Temah laeh saeh, na kut yuek laeh,” a ti nah. Te vaengah BOEIPA kah puencawn te Jebusi Ornan kah cangtilhmuen ah pai.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David loh a mik a huel vaengah diklai laklo neh vaan laklo ah aka pai BOEIPA puencawn te a hmuh. Te long te a kut dongah a cunghang a muk tih Jerusalem te a nuen. Te dongah David neh a ham rhoek tah a maelhmai ah tlamhni neh a khuk uh tih bakop uh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David loh Pathen taengah, “Pilnam tae ham aka thui te kai moenih a? Anih te kai ka tholh sak dongah ka thae tah ka thae coeng. Tedae he boiva rhoek loh balae a saii uh? Ka Pathen BOEIPA aw, na kut te kamah so neh a pa kah imkhui soah tla mai saeh. Tedae na pilnam te lucik neh ben boel mai,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Te daengah BOEIPA kah puencawn loh Gad te, “David te thui pah, David te BOEIPA kah hmueihtuk suem hamla Jebusi Ornan kah cangtilhmuen ah cet saeh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Te dongah David khaw BOEIPA ming neh a thui Gad ol bangla cet.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ornan a mael vaengah puencawn te a hmuh. Te vaengah a taengkah a capa pali tah thuh uh dae Ornan tah cang a til.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />David te Ornan taengla pawk tih Ornan loh a paelki vaengah David te a hmuh. Te dongah cangtilhmuen lamloh thoeih tih David taengah a maelhmai te diklai la buluk.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />David loh Ornan te, “Cangtil hmuen he kai taengah m'pae mai lamtah a soah BOEIPA kah hmueihtuk ka suem mai eh. Te te tangka nen khaw kai he boeih m'pae mai. Te daengah ni lucik he pilnam dong lamloh a cing eh?,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Ornan loh David taengah, “Namah ham lo lamtah ka boei manghai a mikhmuh ah a then la saii saeh. So lah he, Hmueihhlutnah ham vaito neh thing hamla tloep kam paek bitni. Cang he khaw khocang la boeih kam paek bitni,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Tedae manghai David loh Ornan te, “Moenih, tangka la boeih a lai la kan lai eh. Nang taengkah te BOEIPA ham akhaw, hmueihhlutnah nawn ham akhaw a yoe la ka lo mahpawh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Te dongah David loh Ornan te a hmuen phu la sui shekel a khiing ya rhuk a paek.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Te phoeiah David loh BOEIPA ham hmueihtuk pahoi a suem tih hmueihhlutnah neh rhoepnah te a nawn. BOEIPA a khue vaengah anih te hmueihtuk sokah hmueihhlutnah dongah vaan lamkah hmai neh a voek.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Te daengah BOEIPA loh puencawn te a voek tih a cunghang te tuengim khuila a sang.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Te vaeng tue kah Jebusi Ornan cangtilhmuen ah BOEIPA loh anih a doo te David loh a hmuh van neh pahoi a nawn.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Moses loh khosoek kah a saii BOEIPA kah dungtlungim neh te vaeng tue kah hmueihhlutnah hmueihtuk tah Gibeon hmuensang ah om pueng.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Tedae BOEIPA puencawn kah cunghang ha loh a let sak coeng dongah David loh a mikhmuh la a caeh ham khaw, Pathen a toem ham coeng thai pawh.
+  </para>
+  <chapter number="22" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David loh, “He he BOEIPA Pathen im neh he tah Israel ham hmueihhlutnah hmueihtuk saeh,” a ti.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te dongah David loh Israel khohmuen kah yinlai te calui ham a thui tih Pathen im sak vaengkah lungrhaih lung aka phaek aka dae la a khueh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Vongka thokhaih thohkhaih kah thicung ham neh hnarhui ham David loh a sikim sak dongah thi khaw puh mai tih rhohum khaw a puh coeng dongah a khiing tae lek pawh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lamphai thing khaw a pum tae lek pawt hil Sidoni neh Tyre lamkah a pawk pah. Lamphai thing he David ham tah thawt mai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />David loh, “Ka capa Solomon he camoe tih mongkawt pueng. BOEIPA ham im a sak he khaw a ming a sang neh pantai saeh. Diklai boeih lakli ah boeimang saeh. Anih ham he ka sikim pawn eh?,” a ti. Te dongah David he a duek hlan ah a cungkuem la sikim coeng.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Te phoeiah a capa Solomon te a khue tih Israel Pathen BOEIPA im sak hamla anih te a uen.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Te vaengah David loh a capa Solomon te, “Ka capa aw, kai he ka thinko ah tah ka Pathen BOEIPA ming la im sak ham om.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tedae BOEIPA ol te kai taengla ha pawk tih Thii khaw muep na long sak, caemtloek khaw muep na saii, ka mikhmuh ah diklai la thii muep na long sak dongah ka ming ham he im na sa mahpawh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Na taengah capa na sak coeng te ta. Anih tah hlang mong la om vetih anih te a kaepvai kah a thunkha cungkuem lamloh ka duem sak ni. Solomon ngawn tah a ming khaw om vetih anih tue vaengah tah Israel te rhoepnah neh rhalmongnah ka paek ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Anih loh ka ming ham he im a sak vetih anih te kamah taengah capa la om ni. Kai khaw a taengah a napa la ka om ni. A ram kah ngolkhoel khaw Israel soah kumhal duela ka cikngae sak ni,’ a ti.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ka capa aw na taengah BOEIPA om saeh lamtah n'thaihtak sak saeh. BOEIPA na Pathen im te na taengkah a thui bangla sa.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Israel soah nang n'uen vaengah he na Pathen BOEIPA kah olkhueng te ngaithuen hamla BOEIPA loh nang taengah lungmingnah neh yakmingnah m'pae bal saeh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />BOEIPA loh Israel ham Moses a uen vanbangla oltlueh neh laitloeknah te vai hamla na ngaithuen atah na thaihtak ni. Te dongah thaahuel lamtah namning rhih boeh, rhihyawp boeh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kamah kah phacipphabaem nen ni BOEIPA im hamla a soepsoei coeng he. Sui he talent thawng yakhat, cak he talent thawng thawng khat, rhohum khaw, thi khaw muep lo coeng tih a khiing tae lek moenih. Thing khaw, lungto khaw ka tawn coeng dae tomthap thil nawn.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Namah taengah bitat aka saii khaw, lungto aka dae neh kutthai khaw, thing thai khaw, bitat cungkuem dongah boeih aka cueih khaw a cungkuem la om coeng.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Sui neh, cak neh, rhohum neh, thi neh, a tarhing naa voel moenih. Thoo lamtah saii laeh. Na taengah BOEIPA om saeh,” a ti nah.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Te phoeiah David loh Israel mangpa boeih te khaw a capa Solomon te bom hamla a uen.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Nangmih kah Pathen BOEIPA he nangmih taengah a om moenih a? Khohmuen khosa rhoek te ka kut dongah m'paek tih kaepvai ah khaw nangmih te n'duem sak. Te dongah khohmuen he BOEIPA mikhmuh neh a pilnam mikhmuh ah khoem uh coeng.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Nangmih kah Pathen BOEIPA te toem hamla na thinko neh na hinglu te pae uh laeh. Thoo uh lamtah Pathen BOEIPA kah rhokso te sa uh laeh. BOEIPA kah paipi thingkawng neh Pathen kah hmuencim hnopai te BOEIPA ming ham a sak im khuila khuen ham om,” a ti nah.
+  </para>
+  <chapter number="23" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David te patong coeng tih khohnin khaw cum coeng. Te dongah a capa Solomon te Israel soah a manghai sak.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te phoeiah Israel mangpa boeih neh khosoih rhoek khaw, Levi rhoek khaw a coi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Te vaengah Levi rhoek te tongpa kum sawmthum lamloh a so hang te a tae tih amih kah hlangmi te a pum la hlang thawng sawmthum neh thawng rhet om.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Te rhoek khuiah BOEIPA im kah bitat aka mawt te thawng kul thawng li om tih rhoiboei rhoek neh laitloek rhoek he thawng rhuk om.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Thoh tawt rhoek te thawng li, thangthen ham ka saii bangla tumbael neh BOEIPA aka thangthen te thawng li lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David loh amih te boelnah neh a tael. Gershon kah Levi koca rhoek ah Kohath neh Merari.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Gershon lamloh Ladan neh Shimei.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ladan koca ah a lucuek te Jehiel tih Zetham neh a pathum te Joel.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Shimei koca rhoek Shelmoth neh Haziel, Haran neh pathum lo. Te rhoek te Ladan napa rhoek khuiah a lu la om uh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Shimei koca rhoek ah Jahath, Zina, Jeush neh Beriah. He rhoek pali he Shimei koca rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Jahath te a lucuek tih Zizah he a pabae la om. Tedae Jeush neh Beriah tah a ca ping pawh. Te dongah napa pakhat imkhui pakhat bangla cawhkung pakhat la om uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Kohath koca rhoek la Amram, Izhar, Hebron, Uzziel neh pali lo.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Amram koca ah Aaron neh Moses dae, Aaron tah amah loh a cim kah a cim koek la ciim ham, anih neh anih koca rhoek tah kumhal hil BOEIPA mikhmuh ah aka phum uh la, a taengah aka thotat la, a ming neh kumhal hil aka uem la a hoep.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Pathen kah hlang Moses neh anih koca rhoek te Levi koca la a khue uh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Moses koca ah Gershom neh Eliezer.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Gershom koca kah boeilu tah Shubael.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Eliezer koca aka om rhoek khuiah Rehabiah he boeilu dae Eliezer te ca a tloe om pawh. Tedae Rehabiah koca rhoek tah a pueh la ping uh.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Izhar koca khuiah Shelomith he boeilu la om.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hebron koca ah Jeriah te a cacuek, Amariah te a pabae, Jahaziel a pathum, Jekameam tah a pali.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Uzziel koca rhoek ah Maikah te a cacuek tih Isshiah te a pabae.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Merari koca ah Mahli neh Mushi, Mahli koca ah Eleazar neh Kish.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Eleazar a duek vaengah he a taengah ca tongpa a om moenih. Tedae ca huta rhoek bueng om tih amih te a manuca Kish koca rhoek loh a loh uh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Mushi koca rhoek la Mahli, Eder, Jerimoth neh pathum lo.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />He rhoek tah Levi koca rhoek kah a napa rhoek imkhui lamloh a napa boeilu rhoek ni. Tongpa kum kul neh a so hang lamloh BOEIPA im kah thothuengnah ham bitat a saii uh. Amih te a hlangmi neh a ming tarhing la a soep uh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />David loh, “Israel Pathen BOEIPA loh a pilnam te a duem sak tih Jerusalem ah kumhal due kho a sak.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Levi te khaw dungtlungim neh a thothuengnah dongkah a hnopai boeih te a koh ham moenih,” a ti.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />David kah hnukkhueng ol dongkah bangla amih Levi koca rhoek kah hlangmi tah tongpa kum kul neh a so hang lamkah ni a tae.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Amih kah ngolhmuen ngawn tah BOEIPA im kah thothuengnah khuiah khaw, vongup ah khaw, imkhui ah khaw, hmuencim boeih kah ciimnah dongah khaw, Pathen im thothuengnah bibi dongah khaw Aaron koca rhoek kah a kut a kho la omuh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Rhungkung buh dongah khaw, khocang vaidam dongah khaw, vaidamding vaidamrhawm dongah khaw, thiphael dongah khaw, a kae dongah khaw, khoe neh cungnueh boeih dongah khaw omuh.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Mincang, mincang ah pai tih BOEIPA aka uem ham neh aka thangthen hamla, hlaem ah khaw te tlam te aka thangthen la om uh.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />A cungkuem dongah BOEIPA taengkah hmueihhlutnah te Sabbath ah khaw, Hlasae ah khaw, tingtunnah dongah BOEIPA mikhmuh kah laitloeknah bangla a tarhing neh phat a khuen uh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Te dongah tingtunnah dap kah a kuek neh hmuencim kah a kuek khaw, BOEIPA im kah thothuengnah dongkah a manuca Aaron koca rhoek kah a kuek khaw a ngaithuen uh.
+  </para>
+  <chapter number="24" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Aaron koca rhoek kah a boelnah rhoek la, Aaron koca ah Nadab, Abihu, Eleazar neh Ithamar.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tedae Nadab neh Abihu tah a napa rhoek hmai ah duek rhoi. Amih rhoi te ca tongpa a om pawt dongah Eleazar neh Ithamar te khosoih rhoi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Amih khaw David loh ana tael coeng tih Eleazar koca lamkah Zadok neh Ithamar koca lamkah Ahimelek tah amih kah thothuengnah dongah amih aka cawhkung la a khueh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Eleazar koca kah hlang rhoek he Ithamar koca lakah khaw boeilu la muep thoeng. Amih Eleazar koca lamloh a napa imkhui kah boeilu la aka phaeng uh he hlai rhuk lo. Ithamar koca lamkah khaw a napa rhoek imkhui kah te parhet louh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Te tlam he hmulung neh amih te a tael uh. Te dongah Eleazar koca lamkah kah neh Ithamar koca lamkah he hmuencim mangpa neh Pathen mangpa la om uh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Amih te Levi lamkah cadaek Nethanel capa Shemaiah loh manghai neh mangpa rhoek, khosoih Zadok neh Abiathar capa Ahimelek, khosoih napa boeilu neh Levi kah mikhmuh ah a daek pah. A napa rhoek imkhui kah te Eleazar lamkah pakhat a loh tih Ithamar lamkah a loh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />hmulung te lamhma ah Jehoiarib taengla, a pabae ah Jedaiah taengla pawk.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A pathum ah Harim taengla, a pali te Seorim taengla.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />A panga te Malkhiah taengla, a parhuk Mijamin taengla,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A parhih te Koz taengla, a parhet te Abijah taengla.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A pako te Jeshua taengla, a hlai te Shekaniah taengla.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Hlai at te Eliashib taengla, hlai nit te Jakim taengla.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hlai thum te Huppah taengla, a hlai li te Jeshebeab taengla.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />A hlai nga te Bilgah taengla, a hlai rhuk te Immer taengla.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hlai rhih te Hezir taengla, hlai rhet te Happozzez taengla.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Hlai ko te Pethahiah taengla, pakul te Ezekiel taengla.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Pakul pakhat te Jakhin taengla, pakul panit te Gamul taengla.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Pakul pathum te Delaiah taengla, pakul pali te Maaziah taengla.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Te rhoek long te Israel Pathen BOEIPA loh amih napa Aaron kut dongah a uen a khosing vanbangla BOEIPA im la a kun vaengah amamih kah thothuengnah dongah amih aka cawhkung la om.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Levi koca kah a coih te Amram koca lamloh Shubael, Shubael koca lamloh Jedeiah.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Rehabiah ham te Rehabiah koca lamloh a cacuek Isshiah.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Izhari lamloh Shelmoth, Shelmoth koca lamloh Jahath.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Jeriah koca ah, Amariah te a pabae, Jahaziel te a pathum, Jekameam te a pali.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Uzziel koca Maikah, Maikah koca lamloh Shamir.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Maikah mana Isshiah, Isshiah koca lamloh Zekhariah.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Merari koca ah Mahli neh a capa Jaaziah koca Mushi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Merari koca ah a capa Jaaziah lamkah neh Shoham, Zakkuur neh Ibri.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Mahli lamkah he Eleazar dae anih te ca tongpa om pawh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Kish lamkah khaw Kish koca he Jerahmeel.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Mushi koca rhoek la Mahli, Eder, Jerimoth. He rhoek tah Levi koca rhoek kah a napa rhoek imkhui cako ni.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Amih khaw a manuca rhoek bangla manghai David, Zadok, Ahimelek neh khosoih napa boeilu rhoek, a napa Levi boeilu rhoek, voeivang kah a manuca tanoe rhoek mikhmuh ah Aaron koca bangla hmulung neh a naan uh.
+  </para>
+  <chapter number="25" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David neh caempuei mangpa rhoek loh Asaph koca lamkah Heman, Jeduthun khaw, rhotoeng neh, thangpa neh, tlaklak neh aka tonghma tonghma rhoek khaw a thothuengnah dongkah ham a hoep. Te dongah amamih kah thothuengnah dongkah bibi hlang rhoek te a hlangmi neh om.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Asaph koca lamkah Zakkuur, Joseph, Nethaniah neh Asarelah. Asaph koca rhoek tah Asaph kut hmui neh manghai kut hmui ah tonghma uh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jeduthun lamkah Jeduthun koca rhoek he Gedaliah, Zeri, Isaiah, Hashabiah, Mattithiah neh parhuk lo. A napa Jeduthun kut hmuiah BOEIPA uem ham neh thangthen ham te rhotoeng neh tonghma uh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Heman lamkah Heman koca rhoek tah Bukkiah, Mattaniah, Uzziel, Shubael, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamtiezer, Joshbekashah, Mallothi, Hothir, Mahazioth.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Amih Heman koca boeih tah a ki pomsang pah ham Pathen kah ol tarhing ah manghai kah khohmu la om uh. Pathen loh Heman he capa hlai li neh canu pathum a paek.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Te boeih te a napa rhoek kut hmuiah BOEIPA im kah lumlaa ham tlaklak neh, thangpa neh, rhotoeng ham omuh. Asaph, Jeduthun neh Heman he tah manghai kut hmuiah Pathen im kah thothuengnah dongah omuh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A boeinaphung neh a hlangmi la BOEIPA ham lumlaa aka cang tih aka yakming boeih he ya hnih sawmrhet parhet lo.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Voeivang kah a kuek te tanoe khaw, kangham khaw, aka yakming khaw, hnukbang khaw hmulung a naan uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Asaph lamloh lamhma la Joseph taengah, a pabae Gedaliah taengah hmulung a tlak pah. Amah neh a pacaboeina khaw a ca rhoek khaw hlai nit louh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A pathum ah Zakkuur, anih koca neh a manuca rhoek he hlai nit louh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A pali ah Izri tih anih koca rhoek neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A panga ah Nethaniah tih, anih koca rhoek neh a manuca rhoek he hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A parhuk te Bukkiah tih anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />A parhih te Jesarelah tih anih koca neh a manuca rhoek he hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A parhet te Isaiah tih anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />A pako te Mattaniah tih, anih koca neh a manuca rhoek he hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A hlai ah Shimei tih, anih koca neh a manuca rhoek hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />A hlai at te Azarel tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />A hlai nit te Hashabiah tih, anih koca rhoek neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />A hlai thum te Shubael tih, anih koca rhoek neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />A hlai hli te Mattithiah tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />A hlai nga te Jerimoth tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />A hlai rhuk te Hananiah tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A hlai rhih te Joshbekashah tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />A hlai rhet te Hanani tih, anih koca neh a manuca rhoek hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />A hlai ko te Mallothi tih, anih koca neh a manuca rhoek he hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />A pakul te Eliathah tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Pakul pakhat te Hothir tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Pakul panit te Giddalti tih, anih koca neh a manuca rhoek te hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Pakul pathum te Mahazioth tih anih koca neh a manuca rhoek hlai nit lo.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Pakul pali te Romammtiezer tih, anih koca neh a manuca rhoek tah hlai nit lo.
+  </para>
+  <chapter number="26" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Thoh tawt rhoek kah boelnah tah, Korah lamkah he Asaph koca, Kore capa Meshelemiah.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Meshelemiah koca lamkah Zekhariah te a cacuek, Jediael te a pabae, Zebadiah te a pathum, Jathniel te a pali.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Elam te a panga, Jehohanan te a parhuk, Elioenai te a parhih.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Obededom koca la Shemaiah a cacuek, Jehozabad te a pabae, Joah te a pathum, Sakar te a pali, Nethanel te a panga.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ammiel te a parhuk, Issakhar te a parhih, Peulthai te a parhet tih anih te Pathen loh yoethen a paek.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Anih capa Shemaiah kah ca sak rhoek tah amamih khaw tatthai hlangrhalh la a om uh dongah a napa imkhui ah ukkung rhoek la om uh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Shemaiah koca rhoek la Othni, Rephael, Obed, a manuca Elzabad, tatthai capa Elihu neh Semakiah.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />He boeih he Obededom koca lamkah ni. Amamih neh a ca rhoek khaw, a manuca rhoek khaw, thothuengnah dongah thadueng neh hlang tatthai la om uh. Obededom lamkah he sawmrhuk panit lo.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Meshelemiah koca rhoek neh a manuca rhoek te khaw tatthai capa hlai rhet om.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Merari koca lamkah Hosah taengah khaw Shimri koca he boeilu om van. Anih te caming la om pawt sitoe cakhaw a napa loh anih te boeilu la a khueh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Hilkiah te a pabae, Tabaliah te a pathum, Zekhariah te a pali. Hosah koca neh a manuca rhoek he a pum la hlai thum lo.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />He rhoek he thoh tawt rhoek kah boelnah ni. BOEIPA im ah thohtat ham voeivang kah a manuca rhoek bangla rhaltawt tongpa boeilu la omuh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kangham khaw tanoe bangla vongka, vongka ah a napa rhoek imkhui neh hmulung a naan pa uh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Te vaengah Shelemiah ham hmulung te khocuk la a tlak pah tih lungmingnah neh aka uen a capa Zekhariah ham hmulung a naan uh vaengah tah a hmulung te tlangpuei la a tlak pah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Obededom ham te tuithim ah, anih koca rhoek ham te rhueng im ah.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Shuppim ham neh Hosah ham tah khotlak kah thongim aka pan longpuei kah Shalleketh vongka neh thongim voeivang ah.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Levi te khocuk ah parhuk tih tlangpuei ah khaw hnin at ham te pali, tuithim ah khaw hnin at ham te pali, rhueng im ah panit, panit.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Imhlai ham te khotlak kah longpuei ah pali, imhlai ah panit.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />He tah thoh tawt Korah koca lamkah neh Merari koca kah boelnah ni.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Levi Ahijah long tah Pathen im kah thakvoh neh hmuencim kah thakvoh te a hung.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Gershon ca rhoek lamkah Ladan koca ah he Ladan tah a napa rhoek kah a lu la om. Gershon Ladan lamloh Jehieli om.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Jehieli koca lamkah Zetham neh a mana Joel loh BOEIPA im kah thakvoh a hung.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Amrami lamkah khaw, Izhari lamkah khaw, Khebroni lamkah khaw, Ozziel lamkah khaw omuh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Moses capa Gershom koca Shubael khaw thakvoh soah rhaengsang la om.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />A manuca Eliezer lamloh a capa Rehabiah, a capa Isaiah, a capa Joram, a capa Zikhri, a capa Shelmoth neh Shelomith.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Shelmoth neh a manuca rhoek he khaw hmuencim kah thakvoh boeih soah omuh. Te tah manghai David neh a napa rhoek kah a lu rhoek, thawngkhat neh yakhat mangpa rhoek, caempuei mangpa rhoek loh a ciim coeng.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Caemtloek lamkah neh kutbuem dong lamkah khaw BOEIPA im a duel vaengkah hamla a ciim uh.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />A cungkuem te khohmu Samuel, Kish capa Saul, Ner capa Abner, Zeruiah capa Joab loh a ciim. A cungkuem te Shelomith neh a manuca rhoek kut ah a ciim.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Izhari lamkah Kenaniah neh anih koca rhoek tah Israel rhamvoel kah bitat dongah rhoiboei neh laitloek la omuh.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Khebroni lamkah Hashabiah neh a manuca rhoek he tatthai capa thawng khat ya rhih om tih Jordan khotlak rhalvangan kah Israel te BOEIPA kah bitat neh manghai kah thothuengnah cungkuem dongah aka cawhkung la om.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Khebroni lamkah Khebroni boeilu Jeriah loh a napa rhoek kah a rhuirhong neh David kah ram ah kum sawmli a toem uh hatah amih khuikah tatthai hlangrhalh rhoek te Gilead Jazer ah a hmuh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />A manuca rhoek khaw, a napa boeilu rhoek neh tatthai capa thawng hnih ya rhih om. Te dongah amih te David manghai loh Reuben, Gad, Manasseh koca rhakthuem soah Pathen kah olka cungkuem neh manghai olka dongkah ham a khueh.
+  </para>
+  <chapter number="27" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel ca rhoek tah a hlangmi bangla a napa boeilu rhoek khaw, thawng khat neh yakhat mangpa rhoek khaw, boelnah olka cungkuem dongah manghai aka bong a rhoiboei rhoek khaw, kum khat kah hla takuem ah a hla, a hla ah aka kun neh aka vuenva rhoek khaw boelnah pakhat dongah thawng kul thawng li om.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Hla lamhmacuek ham boelnah pakhat dongkah Zabdiel capa Jashobeam neh anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Perez koca lamkah te lahmacuek hla dongah caempuei mangpa boeih kah boeilu la om.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A hla bae kah boelnah dongah Akhohi Dodai tih anih boelnah neh rhaengsang Mikloth khaw om. Anih kah boelnah khuiah thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A hla thum dongkah a pathum nah caempuei mangpa tah khosoih boeilu Jehoiada capa Benaiah tih anih kah boelnah khuiah thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Benaiah he tah sawmthum khuikah hlangrhalh la a om dongah sawmthum soah om van. Anih kah boelnah khuiah a capa Ammizabad om.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A hla li dongkah a pali nah tah Joab mana Asahel. Anih phoeiah tah a capa Zebadiah tih a boelnah khuiah thawng kul thawng li om.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A hla nga dongkah a panga nah ham te mangpa Izrah Shamhuth tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />A hla rhuk dongkah a parhuk nah ham te Tekoa Ikkesh capa Ira tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A hla rhih dongkah a parhih nah ham te Ephraim koca lamkah Pelonee Helez tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A hla rhet dongkah a parhet nah ham te Zarkhii kah Khushathi Sibbekhai tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A hla ko dongkah a pako nah ham te Benjamin koca lamkah Anatoth Abiezer tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A hla rha dongkah parha nah ham te Zarkhii lamkah Netophah Maharai tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />A hla hlai khat dongkah hlai khat nah ham te Ephraim koca lamkah Pirathon Benaiah tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A hla hlai nit dongkah hlai nit nah ham te Othniel lamkah Netophah Heldai tih anih kah boelnah khuiah he thawng kul neh thawng li om.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Israel koca rhoek so neh Reuben soah he Zikhri capa rhaengsang Eliezer om. Simeon soah tah Maakah capa Shephatiah om.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Levi soah Kemuel capa Hashabiah, Aaron soah Zadok.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Judah soah David manuca rhoek lamkah Elihu, Issakhar soah Michael capa Omri.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Zebulun soah Obadiah capa Ishmaiah, Naphtali soah Azriel capa Jerimoth.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ephraim koca soah Azaziah capa Hosea, Manasseh koca rhakthuem soah Pedaiah capa Joel.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Gilead kah Manasseh rhakthuem soah Zekhariah capa Iddo. Benjamin soah Abner capa Jaasiel.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Dan soah Jeroham capa Azarel. He rhoek he Israel koca kah mangpa rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />BOEIPA loh Israel te vaan kah aisi bangla ping sak ham a thui coeng dongah David loh camoe kum kul neh a hmui tah a hlangmi hlum pawh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Zeruiah capa Joab loh soep hamla a tong coeng dae a khah moenih. Te vaengah Israel soah thinhul a tlak thil dongah a hlangmi te David manghai kah khokhuen olka dongah hlangmi la kun pawh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Manghai thakvoh soah Adiel capa Azmaveth. Thakvoh soah, khohmuen ah, khopuei ah, vangca ah, rhaltoengim ah, Uzziah capa Jonathan.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Khohmuen kah thothuengnah dongah lohma kah bitat aka saii soah Kelub capa Ezri.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Ramathi Shimei misurdum so neh misurdum lamkah misur thakvoh soah Shipmi Zabdi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Kolrhawk kah olive neh thaihae soah Gadery Baalhanan. Situi thakvoh soah Joash.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Sharon ah aka luem saelhung soah Sharon Shitrai, kol kah saelhung soah Adlai capa Shaphat.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Kalauk soah Ishmael Obil, laak soah Meronoti Jedeiah.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Boiva soah Hagri Jaziz. He boeih he David manghai taengkah khuehtawn mangpa rhoek ni.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Hlang aka uen David nupu Jonathan he aka yakming neh cadaek la om. Hakhomi capa Jehiel tah manghai koca rhoek neh om.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Ahithophel manghai taengah olrhoep la om tih Arkii Hushai tah manghai a hui nah.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Ahithophel phoeiah tah Benaiah capa Jehoiada neh Abiathar tih Joab te manghai kah caempuei mangpa la om.
+  </para>
+  <chapter number="28" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David loh Israel mangpa boeih, koca kah mangpa rhoek, manghai taengah aka thotat rhoek kah boelnah mangpa rhoek, thawng khat kah mangpa rhoek, yakhat kah mangpa rhoek, khuehtawn boeih kah mangpa rhoek, manghai kah boiva neh imkhoem taengkah a ca rhoek khaw, hlangrhalh rhoek neh Jerusalem kah tatthai hlangrhalh boeih te khaw a tingtun sak.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te phoeiah David manghai te a kho neh pai tih, “Ka manuca neh ka pilnam rhoek kai ol he hnatun uh, kai he ka thinko ah tah BOEIPA paipi thingkawng kah duemnah neh mamih Pathen kho kah khotloeng ham im sa la ka cai tih sak ham ka sikim coeng.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tedae Pathen loh kai taengah, 'Ka ming ham te im na sa mahpawh, nang tah caemtloek hlang tih thii na long sak dongah,’ a ti.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Israel Pathen BOEIPA loh kai he Israel soah kumhal hil manghai la om ham a pa imkhui pum lamloh n'coelh. Judah te khaw rhaengsang la acoelh bal. Te dongah Judah imkhui lamloh a pa imkhui tih a pa pacaboeina khui lamloh kai he tah Israel boeih soah manghai sak ham a ngaingaih.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />BOEIPA loh kai he ca muep m'paek dae ka ca boeih khuiah khaw BOEIPA ram kah ngolkhoel dongah Israel ngol thil ham tah ka capa Solomon te ni a. coelh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Kamah taengah khaw, 'Na capa Solomon loh ka im neh ka vongtung a sak ni. Anih te kamah kah capa la ka coelh dongah kai khaw anih ham a napa la ka om ni.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Tahae khohnin kah bangla ka olpaek neh ka laitloeknah vai ham te a tlungmu mak atah a ram te kumhal duela ka cikngae sak ni,’ a ti.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Te dongah BOEIPA kah hlangping, Israel pum kah mikhmuh neh mamih kah Pathen hna ah khaw ngaithuen uh laeh. Nangmih kah Pathen, BOEIPA kah olpaek boeih te toem uh. Te daengah ni khohmuen then te na pang uh vetih nangmih hnuk ah na ca rhoek te khaw kumhal duela na phaeng uh thai eh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ka capa Solomon nang khaw na pa kah Pathen te ming. Amah te lungbuei neh a rhuemtuet la thothueng lamtah hinglu neh omtoem lah. Thinko boeih he BOEIPA loh a toem tih kopoek kah benbonah boeih khaw a yakming. Amah te na toem atah nang taengah ha phoe vetih amah te na hnoo atah a yoeyah la nang n'hlahpham ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />BOEIPA loh Im sak hamla nang n'coelh te hmu laeh. Rhokso hamla thaahuel lamtah saii.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />David loh a capa Solomon taengah ngalha neh a im khaw, a kawn-im neh a imhman khaw, a imkhui khuisaek neh a tlaeng im khaw a muei te boeih a paek.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />BOEIPA im kah vongup ham neh a kaepvai kah imkhan boeih ham khaw, Pathen im kah thakvoh ham khaw, hmuencim thakvoh ham khaw a cungkuem dongkah a muei te a khuiah mueihla rhang neh a om pah coeng.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Khosoih rhoek neh Levi rhoek kah boelnah ham khaw, BOEIPA im kah thothuengnah bitat cungkuem ham khaw, BOEIPA im kah thothuengnah hnopai cungkuem ham khaw.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Thothuengnah sui hnopai cungkuem neh thothuengnah dongkah ham sui te khaw a khiing neh, cak hnopai cungkuem ham khaw a khiing neh, thothuengnah hnopai cungkuem neh thothuengnah ham khaw.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Sui hmaitung neh a hmaithoi dongkah a khiing tah sui hmaitung kah a khiing bangla hmaitung neh a hmaithoi te a khueh. Cak hmaitung ham khaw hmaitung pakhat neh hmaitung pakhat kah thohtatnah bangla hmaitung neh a hmaithoi kah a khiing te a khueh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Rhungkung caboei dongkah caboei neh caboei ham sui khaw a khiing neh, cak caboei dongkah ham cak khaw a khueh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ciksum neh baelcak khaw, sui cilh tui-um neh sui bael ham khaw, bael neh bael ham khaw a khiing neh, cak bael dongkah bael neh bael khaw a khiing neh,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Bo-ul hmueihtuk dongkah sui a ciil khaw a khiing neh, phuel uh tih BOEIPA kah paipi thingkawng soah aka khuk sui cherubim leng kah muei ham khaw.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />BOEIPA kut lamkah ca dongah khaw cungkuem coeng tih a muei dongkah bitat cungkuem dongah khaw kai he n'cangbam coeng.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Te phoeiah David loh a capa Solomon te, “Thaahuel lamtah namning lamtah saii. Rhih boeh, rhihyawp boeh. Kai kah Pathen, Yahweh Pathen tah nang taengah om. BOEIPA im kah thothuengnah bitat cungkuem a khah ham hil te nang n'rhael pawt vetih nang te n'hnoo mahpawh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Pathen im kah thothuengnah cungkuem ham khaw khosoih neh Levi rhoek kah boelnah om coeng he. Hlangcong cungkuem lamkah khaw bitat cungkuem dongah, thothuengnah cungkuem dongah cueihnah neh nang taengah om. Mangpa rhoek neh pilnam boeih khaw a cungkuem ah nang ol bangla om uh saeh,” a ti nah.
+  </para>
+  <chapter number="29" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David manghai loh hlangping boeih taengah, “Ka ca Solomon pakhat bueng he Pathen loh amah ham a coelh. Camoe tih mongkawt cakhaw a bitat tah len. Rhalmah im he hlang ham pawt tih Pathen BOEIPA ham ni.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Te dongah ka Pathen im ham he ka thadueng cungkuem neh ka sikim coeng. Sui dongkah ham sui, cak dongkah ham cak, rhohum dongkah ham rhohum, thi dongkah ham thi, thing ham khaw thing, oitha lungto neh saboi lung dongkah canglung khaw, rhaekva khaw, lung vang boeih neh lungrhat lung khaw cungkuem coeng.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Te phoeiah ka Pathen im ham tah ka moeihoeih pueng. Kamah taengah aka om sui neh cak lungthen pataeng ka Pathen im ham a pueh a la ka paek coeng. Hmuencim im ham tah a cungkuem dongah ka sikim coeng.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Ophir sui te sui talent thawng thum, im pangbueng ah bol ham cak a ciil te talent thawng rhih lo.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sui ham tah sui khaw, cak ham atah cak khaw, kutthai kut dongkah bitat cungkuem ham khaw om coeng. Te dongah BOEIPA ham tah hnin at khaw a kut cum sak ham aka puhlu te unim?” a ti.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Te vaengah a napa mangpa rhoek, Israel koca kah mangpa rhoek, thawngkhat neh yakhat mangpa rhoek, manghai bitat dongkah mangpa rhoek loh a puhlu uh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Pathen im kah thothuengnah hamla sui talent thawng nga, suitangka thawngrha, cak talent thawng rha, rhohum talent thawngrha phoeiah thawng rhet, thi talent thawng yakhat a paek uh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Amah taengah a hmuh lungto te khaw Gershon Jehiel kut ah BOEIPA im kah thakvoh ham a paek uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />BOEIPA te lungbuei neh rhuemtuet la a puhlu uh dongah a puhlu uh soah pilnam a kohoe tih David manghai khaw kohoenah a len neh a kohoe.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />David loh BOEIPA te hlangping boeih kah mikhmuh ah a uem. Te vaengah David loh, “Kaimih napa Israel kah Pathen BOEIPA tah khosuen lamloh kumhal duela na yoethen pai.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Lennah neh thayung thamal khaw, boeimang neh a yoeyah mueithennah khaw BOEIPA namah kah ni. Vaan ah khaw diklai ah khaw a cungkuem he namah kah ni. Ram neh a cungkuem soah kaw a lu la aka phuei khaw BOEIPA ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Khuehtawn neh thangpomnah he na mikhmuh lamkah ni. A cungkuem soah aka taemrhai khaw namah ni. Na kut dongah thadueng neh thayung thamal om tih pantai sak ham neh a cungkuem taengah talong ham khaw na kut dongah om.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kaimih kah Pathen aw, namah te kan uem uh coeng tih na boeimang ming te ka thangthen uh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Tedae he tla puhlu ham neh thadueng khawk ham khaw kai he unim, ka pilnam khaw unim? A cungkuem he namah lamkah dongah ni na kut lamkah te namah taengah kam paek uh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Kaimih khaw a pa rhoek boeih bangla na mikhmuh ah yinlai neh lampah la ka omuh. Kaimih kah khohnin he diklai ah khokhawn bangla om tih ngaiuepnah om pawh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Kaimih kah Pathen Yahweh aw, hlangping boeih he na ming cim ham na im te sak ham ka tawn uh coeng. He namah kut lamkah dongah a cungkuem he namah kah ni.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Kai kah Pathen namah loh thinko na loepdak tih a vanatnah na ngaingaih te ka ming. Kai loh ka thinko dueng neh a cungkuem he ka puhlu coeng. Te dongah na pilnam loh pahoi a hmuh tih namah taengah a puhlu ham kohoenah neh ka hmuh coeng.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Kaimih napa Abraham, Isaak neh Israel kah Pathen BOEIPA aw, na pilnam kah thinko kopoek dongkah benbonah bangla kumhal duela he tlam he ngaithuen lamtah namah taengah amih kah thinko te cikngae saeh.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Ka capa Solomon te a rhuemtuet la thinko pae lamtah na olpaek neh na olphong khaw, na oltlueh khaw, a cungkuem saii ham khaw, rhalmah im ka hmoel te a sak ham khaw ngaithuen saeh,” a ti.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Te phoeiah David loh hlangping boeih te, “Nangmih kah Pathen BOEIPA te uem uh laeh,” a ti nah. Te dongah hlangping boeih loh a napa rhoek kah Pathen BOEIPA te a uem uh tih buluk uh. Te phoeiah BOEIPA taeng neh manghai taengah bakop uh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />BOEIPA taengah hmueih a nawn uh tih te khohnin kah a vuen ah vaito thawngkhat, tutal thawngkhat, tuca thawngkhat, a tuisi neh a hmueih te khaw Israel pum ham a cungkuem la BOEIPA taengah hmueihhlutnah a khuen uh.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Te khohnin ah tah BOEIPA mikhmuh ah kohoenah a len neh a caak uh tih a ok uh. Te phoeiah David capa Solomon te a pabae la a manghai sak uh tih BOEIPA mikhmuh ah rhaengsang la, Zadok te khosoih la a koelh uh.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Solomon te a napa David yueng manghai la BOEIPA ngolkhoel dongah a ngol van neh thaihtak tih Israel pum loh anih ol te a ngai uh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Mangpa neh hlangrhalh boeih, David kah manghai koca boeih long khaw manghai Solomon hmuiah kut a duen uh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />BOEIPA loh Solomon te Israel pum kah mikhmuh ah a so la a pantai sak tih anih soah ram kah mueithennah te a paek. Te bang te anih hmai kah Israel manghai boeih soah a om moenih.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Jesse capa David he Israel boeih soah manghai.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Israel soah a manghai tue te kum sawmli lo. Hebron ah kum rhih manghai tih Jerusalem ah sawmthum kum thum manghai.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Khohnin loh khuehtawn neh thangpomnah neh ngaikhuek la sampok then ah duek. Te phoeiah a capa Solomon te anih yueng la manghai.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Manghai David kah lamhnuk lamhma ol khaw khohmu Samuel kah olka dongah khaw, tonghma Nathan kah olka dongah khaw, khohmu Gad kah olka dongah khaw a daek uh ne.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />A ram pum neh a thayung thamal khaw, a tue vaengah anih kaep neh Israel kaep ah, khohmuen ram pum ah a paan uh te khaw a daek.
+  </para>
+</usx>

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Builds TedimBibles.pkg — the double-click installer for macOS.
+# Builds MyanmarBibles.pkg — the double-click installer for macOS.
 #
 # The pkg carries the four .rvbible packages from dist/ and nothing else: it
 # does not build them, and the machine it installs on never does either. Build
@@ -14,8 +14,8 @@
 #
 # TODO: sign and notarize before wider distribution —
 #   productbuild --sign "Developer ID Installer: <team>" …
-#   xcrun notarytool submit TedimBibles.pkg --keychain-profile <profile> --wait
-#   xcrun stapler staple TedimBibles.pkg
+#   xcrun notarytool submit MyanmarBibles.pkg --keychain-profile <profile> --wait
+#   xcrun stapler staple MyanmarBibles.pkg
 # A Developer ID Installer certificate plus notarization is what removes the
 # warning entirely: a signed and stapled pkg opens on a double-click with no
 # Gatekeeper prompt at all.
@@ -53,7 +53,7 @@ for tool in pkgbuild productbuild; do
     }
 done
 
-work="$(mktemp -d "${TMPDIR:-/tmp}/tedim-pkg.XXXXXX")"
+work="$(mktemp -d "${TMPDIR:-/tmp}/myanmar-bibles-pkg.XXXXXX")"
 trap 'rm -rf "$work"' EXIT
 
 # The payload: the system-wide Bibles folder, exactly as installed.
@@ -129,7 +129,7 @@ pkgbuild \
     "$component" >/dev/null
 
 mkdir -p "$repo_root/dist"
-out="$repo_root/dist/TedimBibles.pkg"
+out="$repo_root/dist/MyanmarBibles.pkg"
 productbuild --package "$component" "$out" >/dev/null
 
 echo "Built $out (version $version) with:"

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="ECC" style="id">Ecclesiastes</book>
+  <para style="h">Ecclesiastes</para>
+  <para style="toc1">Ecclesiastes</para>
+  <para style="toc2">Ecclesiastes</para>
+  <para style="mt">Ecclesiastes</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Jerusalem lal, Davida fapa, Thuhriltu thute chu.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Thuhriltu chuan, “Eng mah lo mai mai, Thil zawng zawng hi eng mah lo mai a lo ni,” a ti a.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Mihringin a hnathawh, ni hnuaia a thawhah chuan hlâwkna eng nge a hmuh?
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Chhuan khat an liam a, chhuan dang an lo chhuak a, Lei hi erawh chu a awm reng mai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ni pawh chu a lo chhuak a, tin, a tla leh a, A chhuahna tûr lam panin a hmanhmawh ṭhîn.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Thli chu chhim zâwngin a tleh a, Hmâr hawiin a lo lêt leh a; A tleh vêl a tleh vêl a; tin, a bial ngaiah a kîr leh ṭhîn a.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Lui zawng zawngte chu tuipuiah an luang lût a; Mahse, tuipui chu a khat chuang lo; Luite chu an luanna ṭhin lamah chuan an luang reng a.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Thil zawng zawng hi ninawm mai mai a ni; sawiin a siak lo ve: Mit chu a thil hmuhah a tlai lo va, Beng pawhin a thil hriat a kham hek lo.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Thil lo awm tawh chu lo awm tûr rênga kha a ni a, Thil tih tâkate chu tih tûr rêng kha a ni: Ni hnuaiah hian thil thar rêng rêng a awm lo ve.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Miin, “En rawh, hei hi a thar a ni,” a tih theih rêng rêng a awm em ni? Kan awm hma daiha lo awm tawh rêng a ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Tûn hma thil tu mân an hre reng lo va. Nakinah pawh tûnlai thil hi an hre reng lo vang.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Kei, thuhriltu hi Jerusalem-a Israel-te lal ka ni tawh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Tin, vân hnuaia thiltih tâk zawng zawng chungchâng chu finna hmangin fiah leh hmu chhuak tûrin ka rilru ka lo hmang ta a: Pathianin mihring fate hnêna buaipui tûra a lo pêk hi hna hrehawm tak a ni.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Ni hnuaia thiltih tâk zawng zawngte chu ka hmu ta a; tin, ngai rawh, thil zawng zawng hi eng mah lo leh thil lothlâwn mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A kawi tawh kha chu tihngîl theih a ni lo va, A awm lo chu chhiar rual a ni lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />“Ka hmaa Jerusalem-a awmte zawng zawng aia nasain finna ka nei alâwm maw! Ka rilru pawhin finna leh hriatna a nei nasa rêng a ni,” ka inti a.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Tin, ka rilru hi finna hre tûr leh âtna leh fin lohna hre tûr pawhin ka hmang a. Hei pawh hi thil lothlâwn mai a lo ni tih ka lo hre ta.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Finna a nasat poh leh buaina a tam a, Hriatna a pun poh leh manganna a pung.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Ka rilruin, “Khawi nge! Nuamsip bâwl ka han chîng teh ang, a nuam teh rêng emaw!” ka ti a; mahse, hei pawh hi eng a lo ni lo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Nuih hi a âtthâkzia ka chhar chhuak a, hlimhlawp lah eng ruai a ni lo.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Vân hnuai mihring fate dam chhûng tawi tê hman ral dân ṭha ber a ni law maw tiin, finna zawngin uaina intihhlima nuam tâwl ka tum ta a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Hna nasa tak ka thawk a; inte ka insak a, grêp huante ka insiam a,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />huante leh ngaw nuamte ka insiam a, tah chuan thei kûng zawng zawngte ka phun a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ngawa thing ṭhang laite châwm nân dîlte ka siam a.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chhiahhlawhpate leh chhiahhlawhnute ka lei a, ka ina piang chhiahhlawhte ka nei bawk a; bâwng rualte leh berâm rualte pawh ka nei ṭeuh va, ka hmaa Jerusalem-a lo awmte zawng zawng aia nasain.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tangkarua leh rangkachakte leh lalte ro leh ram bial ro ṭha bîkte ka la khâwm a; hmeichhe zai mi leh mipa zai mite ka siam a, mipa fate lâwm zawng hmei tam tak nên.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Chutichuan, ka lo ropui a, ka hmaa Jerusalem-a awmte zawng zawng chu ka khûm a; ka finna pawh a ngai reng a ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tin, ka mit ît zâwng apiang chu ka hlah lo va, ka thinlung pawh eng lâwmnaah mah ka sûm lo; ka thawhrimna zawng zawng avângin ka thinlung a lâwm si a; chu chu ka thawhrimna zawng zawnga ka lâwmman a ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Tichuan, ka kutchhuak zawng zawngte leh ka thawh rimnaa ka thiltih zawng zawngte ka han en hian, ngai teh, thil zawng zawng hi eng mah lo leh thil lothlâwn mai a lo ni a, ni hnuaiah hian hlâwkna rêng rêng a lo awm lo ve!
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Tichuan, fin emaw, ât emaw, tlawktlaw emaw eng nge lêm chuang tih ka ngaihtuah a; lal pawhin a hmaa lalte tih tawh bâk eng nge a tih theih chuan?
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Thim aiin êng a ṭha angin, ât ai chuan fin a ṭha;
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />mi fing chuan a kalna a hria a, mi â chuan a hre lo va; mahse, khawrêl thuhmun an zaa chungah a thleng tho tih ka hria.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Tin, ka rilruah chuan, “Mi a chunga thleng ang bawk chu ka chungah pawh a thleng dâwn a, eng atân nge ka fin bîk le?” ka inti a. Tichuan, ka rilruah chuan, “Hei pawh hi eng mah lo mai a lo ni,” ka ti a.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Mi fing pawh, mi â pawh, kumkhuaa hriat rengna chu a awm si lo; ni lo la thleng tûrahte chuan an vaia theihnghilh daih an ni dâwn si a. Mi â ang bawka mi fing pawh a thih tûrzia mai chu!
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Tichuan, nun hi ka hua a ni; ni hnuaia thiltih rêng rêng hi mi tilungngaitu vek a nih avângin: thil zawng zawng hi eng mah lo leh thil lothlâwn mai a lo ni si a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Tichuan, ni hnuaia ka thawhrimna zawng zawnga ka thiltihte chu ka haw ta, ka hnua lo awm tûra tân chuan ka hnutchhiah tûr a ni mai si a; mi fing a nih leh mi â a nih pawh tu nge hria ang?
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Mahse, ka thawhrimna zawng zawnga ka thiltihte chungah leh ni hnuaia finna hmanga ka thawh rim rah zawng zawng neitu a ni mai dâwn si a. Hei pawh hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Chutichuan, ka han hawi vêl a, ni hnuaia ka thawhrimna zawng zawnga ka thawh tâkte chungchângah chuan ka thinlung bei ka tidawng ta.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Mi, finna leh hriatna leh thiamnate nêna thawk rimtu chuan, thawk ve hauh lo mi hnênah a rochun atân a hnutchhiah mai tûr a ni. Hei pawh hi eng mah lo leh thil ṭha lo tak a ni.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Miin a thawh hahna zawng zawngah leh rilru rim taka ni hnuaia a thawhnaah chuan eng nge a hmuh?
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />A dam lai ni zawng zawngte chu tuarna hlîr a ni a, a hnathawhte lah vuivaina mai a ni si a; zânah pawh a rilru a hahdam chuang hek lo. Hei pawh hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Mihring tân chuan ei leh in te leh a thawh rimnaa a rilru tihnawm te aliama ṭha a lo awm lo. Hei pawh hi Pathian kuta mi a ni tih ka lo hre ta.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Amah lovin tu nge ei leh bâr leh intinuam thei awm ang?
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Amah tilungnitu hnênah chuan finna te, hriatna te, lâwmna te a pe si a; mi sualte erawh chu, Pathian tilungnitu hnêna la pêk chhâwn tûr lâk khâwm leh chhêk khâwm hna a pe zâwk a ni. Hei pawh hi eng mah lo leh thil lothlâwn mai a lo ni.
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Engkim tân hian hun ruat a awm a, Vân hnuaia thiltih zawng zawng tân hun remchâng a awm:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Pian hun a awm a, thih hun a awm; Phun hun a awm a, thil phun phawi hun a awm;
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tihhlum hun a awm a, tihdam hun a awm; Ṭhiat hun a awm a, siam leh hun a awm;
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Ṭah hun a awm a, nuih hun a awm; Sûn hun a awm a, lâm hun a awm.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Lung paih darh hun a awm a, lung lâk khâwm hun a awm; Pawm hun a awm a, pawm loh hun a awm;
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zawn hun a awm a, tihbo hun a awm; Vawn ṭhat hun a awm a, paih bo hun a awm;
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Tihthlêr hun a awm a, ṭhui hun a awm; Ngawih hun a awm a, ṭawng hun a awm;
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hmangaih hun a awm a, huat hun a awm; Indo hun a awm a, muan hun a awm a ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hnathawktuin a thawhrimna ata eng hlâwkna nge a hmuh?
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Pathianin mihring fate hnêna buaipui tûra hna a lo pêk chu ka hmu ta.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Engkim hi an hun ṭheuhvah chuan mawi takin a siam a; mihring rilruah chuan chatuan a dah bawk a; mahse, chuti pawhin anni chuan Pathianin a tîr ata a tâwp thlenga thil a tih chu an hmu chhuak thei chuang lo.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Hlim taka awma, an nun chhûnga thil ṭha an tih aliama an tâna ṭha zâwk eng mah ka hre lo.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Tichuan, mi tin ei leh in leh an thawhrimna zawng zawnga hlim taka an awm chu Pathian thilpêk a ni.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Pathianin a tih apiang chu a awm hlen ang tih ka hria. Eng mah belh theih a ni lo vang a, lâk ṭhen theih pawh a ni hek lo vang. Mihringin amah an ṭih theih nân Pathianin chutiang chuan a ti a ni.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Thil awm mêkte hi lo awm tawh sa kha a ni a; thil lo awm tûrte chu lo awm tawh sa bawk kha a ni; Pathian chuan a bo tawhte kha a rawn la kîr leh zêl a ni.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Tin, chu lo pawh chu, ni hnuaiah rorêlna hmuna suahsualna awm leh dikna hmuna suahsualna awm chu ka hmu bawk a.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ka rilruah chuan, “Pathianin mi fel leh mi suaksualte ro pawh a rêl ang, thil tinrêng atân hun a awm si a,” ka ti a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />“Mihring fate chung thûah chuan, ramsa mai an ni tih an inhriat theih nân Pathianin anmahni a fiah a ni,” ka ti rilru a.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Mihring fate chunga khawrêl leh ramsate chunga khawrêl chu thuhmun a ni si a, khawrêl thuhmun an chungah a tla a ni, pakhat a thih ang bawkin a dang pawh kha a thi a; an zain thâwk dân thuhmunin an thaw a, mihring chu ramsa aiin a chungnung lêm lo; thil zawng zawng hi eng mah lo mai a lo ni si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />An zain hmun khatah an kal vek a; an zain vaivuta mi an ni vek a, an zain vaivutah an chang leh vek a ni.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Mihring fate thlarau chu chung lamah a chho emaw, ramsa thlarau chu hnuai lamah leiah a chhuk emaw tih tu nge hria?
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Chuvâng chuan mihring chu a thiltihah a lâwm aliama ṭha eng mah a awm lo, tih ka hmu a ni; chu chu a chanvo a ni mai; a hnua thil lo awmte hmu tûrin tuin nge rawn hruai kîr leh hlei ang?
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Tin, ka han thlîr leh a, ni hnuaia inhnehchhiahna zawng zawngte chu ka hmu a; tin, en teh, hnehchhiaha awmte mittui te chu, thlamuantu an nei lo va; anmahni hnehchhiahtute chuan thiltihtheihna an nei a, anni zawngin thlamuantu rêng an nei lo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Chuvângin, mi nung la damte aiin mitthi thi tawhte chu awhawm ka ti zâwk;
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />tin, anmahni ve ve ai pawhin lo la piang lo, ni hnuaia thiltih ṭha lo la hmu lo nih chu a ṭha zâwk.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Tin, thawhrimna zawng zawng leh themthiamna tinrêngte hi ṭhenawm elrelna avânga lo awm a ni tih ka hre ta. Hei pawh hi eng mah lo leh thil lothlâwn mai a ni.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />“Mi â chuan a kut a kuangkuah a, a inṭâm hlum ṭhîn,” tih a ni a.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A dik thei e, hahdama vei khat neih pawh hi buai phîlîa thawka vei hnih neih ai chuan a ṭha.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Tin, ka han thlîr leh a, ni hnuaiah chuan eng mah lo a ni ka hmuh ni.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Mi pakhat, mi mal tak a awm a, fapa emaw, unaupa emaw pawh a nei hek lo; mahse, tâwpintai awm lovin a thawk rim a, a hausaknate pawh a mit tlaina khawp a ni hek lo; mahni nawmsakna chân khawpa tu tâna thawk rim ka ni nge pawh a inti ngai hek lo. Hei pawh hi eng mah lo mai a lo ni a, thil hrehawm tak a ni bawk.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Pahnih chu pakhat ai chuan an ṭha zâwk, an thawh chhuah ṭhat avângin.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />An tlûk pawhin pakhat chuan a ṭhian chu a khai ding dâwn si a; mahni chauhva awm kha erawh chu a chung a pik e, a tlûk chuan khaidingtu tûr a nei si lo.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Chu lo pawh, pahnih chu an mut dun chuan an innghêng lum thei a, pakhat erawh chu amah maiin engtin nge a lum theih ang?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Tin, amah maia awm kha chu miin hneh thei mah sela, pahnih chuan an lo dodâl zo dâwn a ni; hrui thum hrual chu a chat lawk lawk ngai lo ve.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Lal putar â tawh, thurâwn dawngsawng duh lo ai chuan tleirâwl rethei leh fing chu a ṭha zâwk.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Tân in ata chu lal tûrin a lo chhuak a ni si a; a ni, ama ram meuhvah pawh retheia piang ni mah sela.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ni hnuaia lêng mi nung zawng zawngte chu lal aiawh tûr tleirâwl lampangah vek ka hmu a.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Lalin chhiar sên loh chungah ro a rêl thei e; mahse, a hnuah chuan tu mah a chungah an lâwm lo. Hei pawh hi eng mah lo leh thil lothlâwn a lo ni ngei mai!
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Pathian ina i kal laiin i ke vêng ṭha rawh; mi âte inthawina ai chuan ngaithla tûra rawn hnaih hi a ṭha zâwk si a: thil ṭha lo an tih an hre si lo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />I ka chu hmanhmawh suh se, Pathian hmaa thu eng pawh chhâk chhuak tûrin i thinlung pawh hmanhmawh suh se, Pathian chu vâna awm a ni a, nang chu leia awm i ni si a; chuvâng chuan i thu pawh tlêm rawh se.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Buaina tam tak chu mangphan a ni nge nge si a, thu tuitam vak lah chu mi a aw chhuak a ni mai.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Pathian hnêna thu i tiam chuan ngaihthah suh; mi â chu a lâwm si lo. I tiam chu hlen ngei rawh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Thu tiama hlen si loh ai chuan tiam loh law law i tân a ṭha zâwk.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />I kâ chuan tihsualtîr che suh se; vântirhkoh hmaah pawh, “Tiam sual palh a nih kha,” ti hek suh. Eng atân nge i âwkâ chhuakah Pathian a thinur ang a, i kutchhuak thilte a tihboral ang le?
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Mumang a tam poh leh thu lawi lo a tam a ni si a. Pathian chu ṭih zâwk rawh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ram bialah rethei hnehchhiahna te, pâwngnêknain rorêlna leh diknate a tibo a ni tih i hmuh pawhin mak ti suh; hotu sâng chu a sâng lehzualin a mit sîr ru reng si a, anni aia sâng lehzualte pawh an awm zêl a ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Tin, lei hlâwkna chu mi zawng zawng tân a ni a, lal pawh thlawhhma ring mi bawk a ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tangka sum ngainatu chuan tangka sumah duh tâwk a hmu lo vang a, hausak ngainatu chuan duh tâwk a hlêp hek lo vang. Hei pawh hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Sum leh pai a lo pun chuan eitute pawh an pung a, a neitu tân a mita hmuh mai loh chu eng nge a sâwtna?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Thawk rim chu a ei tlêm emaw, a ei tam emaw, a mut a tui ṭhîn a, mi hausa chuan a thil ngah chu a muthilh loh phah zâwk ang.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ni hnuaia thil pawi tak ka hmuh chu, mahni tâna sum khâwla,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />a sum khâwl chu peipun tuma, chhe ta hlauh si, a fa hnutchhiah tûr pawh nei ta lo hi a ni.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A nu pum ata a lo chhuaha saruaka a lo kal ang bawk khân a kal leh ang a, a thawh rim rah eng mah a chhawm lo vang.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Hei pawh hi thil ṭha lo tak mai a ni, a lo kal lam ang chiah bawka a kal leh tûr hi. Boruak atân maia a thawh rim hi eng nge a hlâwkna?
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A dam chhûng ni zawng zawngah thim hnuaiah a ei a, a lungni lo êm êm a, natna tuar leh thinur takin a awm bawk a.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Ngai rawh, thil ṭha leh mawi nia ka hmuh chu, miin a ei a, a in a, a thawhrimna Pathianin a pêk, a dam chhûng ni zawng zawnga ni hnuaia a thawh ṭhinnaa thil ṭhate chu nuam ti taka a hman chu a ni; chu chu a chanvo a ni mai.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Mi tu hnênah pawh Pathianin hausakna leh sum leh pai a pêka, chumi chu chên tûrin theihna te, a chanvo pawm theihna te, a thawhrimna nuam tih theihna te a pêk hi, hêng hi Pathian thilpêk a ni.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />A dam chhûng nite chu a hre mang dâwn si lo va, a thinlung lâwmnaah chuan Pathianin a chhân avângin.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Thil ṭha lo, ni hnuaia ka hmuh chu, mihring tâna rit tak a ni:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />mi, Pathianin hausakna te, sum leh pai te, zahawmna te a pêk chu a rilruin a châk zawng zawng chu eng mah chham lovin a awm a; mahse, Pathianin chu mi chu chên tûrin theihna a pe lo va, mi dangin a chên ta zâwk a. Hei hi eng mah lo mai a lo ni a, hrehawmna kulmût tak a ni.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Miin fa za pawh hring sela, kum tam tak damin, a dam chhûng nite chu tam hle mah se, a dam laia thil ṭha chên lova, phûm pawh a hlawh si loh chuan, ani ai chuan thi saa pian pawh ṭha ka ti zâwk.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Ani chu chhuak thlâwn mai a ni a, thimah a lût a, a hming chu thimin a chhilh bo ta a.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ni hmu lovin, eng mah a hre lo na a, mi dang ai khân a nihlawh zâwk a ni.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A ni, kum sâng lêt hnih pawh dam sela, thil ṭha a hmuh si loh chuan thuhmun an ni mai lâwm ni?
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Mihring thawhrimna zawng zawng chu a hrawk tân a ni mai a; mahse, a châk a daih chuang lo.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Mi fing chuan mi â aiin sâwtna eng nge a hmuh chuan bîk? A nih loh leh, mi rethei, mi nungdamte hmaa lên thiam chuan eng nge a hmuh?
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Châkna chavai mai mai ai chuan mita hmuh sa ngei chu a ṭha zâwk. Hei pawh hi eng mah lo leh thil lothlâwn mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Thil lo awm apiang hi hming vuah tawh a ni a, mihring nihna pawh hi hriat sa a ni; amah aia ropui zâwk chu a dodâl thei lo.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Thu a tam poh leh eng mah lo a tam mai a ni a, mihring tân eng nge a ṭhatna?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Mi, a nun lothlâwn ni rei lo tê, hlimthla ral leh mai tûr anga a nun chhûng hian a tâna ṭha ber tûr chu tu nge hria ang? Ni hnuaiah hian mi, a hnua thil lo awm tûr chu tu nge hrilh thei ang?
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />A ṭha zawk e hming ṭha, hriak to aiin, Pian ni aiin thih ni.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Lusûn ina kal a ṭha e, Ruaiṭheh ina kal ai chuan; Chu chu mi zawng zawng tâwpna a ni si; Nungdamin thinlungah an vei chu.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A ṭha zâwk e lungngaih, nuihza aiin; Hmêla lungngaih lo lang zârah Thinlung a lo ṭha si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Mi fingte thinlung a châm reng lusûn inah, Mi âte thinlung erawh hlimhlawp inah.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Mi fing zilhna ngaihthlâk a ṭha, Mi âte hla ngaihthlâk ai chuan.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Bêl chhuan hnuaia hlîng alh ri ang Mi â nui ri chu a ni si. Hei pawh hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hnehchhiahna hian mi fing a tiâ a, Thamna hian rilru a tichhia.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Thil tâwpna chu a ṭha zâwk ṭhîn, a ṭanna aiin, Rilrua chhel hi a ṭha zâwk, rilrua chapo aiin.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />I rilruah thinur hmanhmawh suh, Mi âte ṭânglaiah a châm ṭhîn, thinurna hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Nang chuan zâwt suh, hmânlai nite ṭhat zâwkzia, tûnlai aiin; Hemi i zawh hi, fin vâng a ni si lo.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Finna a ṭha, roluah tlukin, Ni hmutute tân lah hlâwkna a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Finna hi himna a ni si, Tangka sum himna a ni bawk; Hriatna ṭangkaizia erawh chu, A neitu nun chu finnain a tiharh ṭhîn.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Pathian hnathawh hi ngaihtuah teh, A tihkawih tawh chu tu nge tingîl thei ang?
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Ṭhat nîah chuan lâwm langin, Chhiat nîah chuan ngaihtuah rawh: Pathian chuan pakhata pawh chu a dang ang bawka a siam a ni si a, Mihring chuan a hnu lam tûr a hriat chhuah loh nân.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ka nun eng mah lovah hian engkim ka lo hmu ta a: mi fel a fel chunga borala awma, mi suaksual thil ṭha lo ti chunga dam rei phian si angte hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Kherkhiap lutuk suh la, intifing lutuk hek suh; engah nge mahni i intihchhiat ang?
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Suaksual lutuk suh la, â hek suh; i hun lo takah engah nge i thih ang?
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hei hi i chelh tlat a ṭha a, chu pawh chu thlah hlek suh; Pathian ṭihtu chuan a chhuahsan vek si ṭhîn a.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Khawpuia rorêltu sâwm aiin finna chuan mi fing chu a tichak zâwk.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Thil ṭha titu, thil sual ti hauh lo khawpa mi fel chu lei chungah hian an awm lo tak zet a ni.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Mi thusawi nazawng chu bengkhawn suh, i chhiahhlawh ânchhe lawh che i hre dah ang e;
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />nang ngei pawhin mi dangte ânchhia i lawh ṭhîn tih i thinlung ngeiin a hre fo si a.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Hêng zawng zawng hi finnain ka chian tawh a ni. “Ka la fing ang chu,” ka ti ṭhîn a; mahse, a teuh lo mai.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Thil awmzia tak chu, hla tak, thûk tak, thûk êm êm a lo ni a, tuin nge hmu chhuak thei ang?
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Finna leh thil awmzia hre tûr te, hmu chhuak tûr te, zawng tûr tein ka rilruin ka hawi vêl a, suahsualna hi âtna, âtna hi ât bâwrâwna a lo ni tih ka hria.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Tin, thihna aia kha zawk thil ka lo hriat chu, hmeichhia a thinlung, thang leh lên ang nia, a kuta a vawn lah kawl bun ang mai ni chu a ni; tu pawh Pathian tilâwmtu chu a lakah a him ang a, mi sual erawh chu a man ngei ang.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Thuhriltu chuan heti hian a ti: “Ngai teh, thu dik hre tûra ka han ngaihtuah khâwma ka hriat chhuah chu hei hi a ni, chu chu ka rilruin a zawn ṭhin, ka hmuh theih loh chu a ni a.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Mipa sângkhat zîngah chuan pakhat ka hmu thei a, hmeichhe zîngah phei chuan ka hmu lo.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Ngai teh, hei hi ka hriat chhuah tâk chu a ni: Pathianin tluang taka nung tûrin mihringte a siam a, anni erawh chuan an tikhirhkhân zo vek a ni,” tih hi.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Mi fing ang hi tu nge awm? Thil hrilhfiahna pawh tu nge hria? Finna chuan a hmêl a tiêng a, A hmêl pûm chhuak pawh a dang ta.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Pathian hmaa i thutiam avâng chuan lal thupêk pawisa tûrin ka ti a che.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A hma ata chhuah hmanhmawh suh la, thil ṭha lo tilui suh, a duh duha ti ṭhîn a ni si a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lal thu chu thutâwp a nih avângin tu nge a hnênah, “Eng nge i tih ni?” ti thei ang?
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Thupêk pawm apiang chuan eng mah a tuar lo vang a, mi fing rilru chuan nîngkhâwng a hria a ni.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Thil tinrêng hian nîngkhâwng a nei si ṭhîn a, mihring buaina chu a tân nasa hle mah se.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Thil lo awm tûr chu a hre si lo va, a lo awm dân tûr chu tu nge hrilh thei ang le?
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Mi thlarau chelh theihna leh thih ni chunga thuneihna nei tu mah an awm lo; indo chhûngin chawlh a awm lo va, suahsualnain a neitute a chhan chhuak hek lo vang.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ni hnuaia thiltih zawng zawng kim takin ka ngaihtuah a, hei zawng hi ka chhinchhiah a ni: mi, mi dang chungah pawi khawpin a intilal ṭhîn a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tin, mi suaksualte an phûm ka hmu ṭhîn a, thlânah an liam a; thil dik tite pawh hmun thianghlim ata an kal bo va, khawpuiah chuan hriat zui an ni lo. Hei pawh hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Thil sual tih chungah hremna hlen nghâl mai a nih ṭhin loh avângin, mihring fate thinlung chu thil sual ti tûrin a lo ngampa ṭhîn a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Mi sual chu vawi za pawh thil sual tiin dam rei bawk mah sela, a tluang lo vang; a ni tihsei ni mah sela, hlimthla ang lek a ni ang, Pathian ṭihna a neih loh avângin.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Pathian ṭihtute erawh chu, amah ngei an ṭih avângin an tluang ang tih chiang takin ka hria.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Lei chungah hian eng mah lo a lo awm a lo awm a, mi felte chuan mi suaksualte tawn âwm tak an tawng a; mi suaksualte lahin mi felte tawn âwm tak an tawng lawi si a. Hei pawh hi eng mah lo mai a lo ni ka ti a ni.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Tichuan, ni hnuaiah hian ei leh in leh nuam taka awm aliama thil ṭha eng mah mihringin a neih loh avângin nawmna hi ṭha ka ti mai e; chu chu ni hnuaia a dam chhûng ni Pathianin a pêk zawng zawnga a thawh rimnaahte chuan a tel zêl dawn si a.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Finna hre tûr leh lei chunga thiltih tâk zawng zawng hre tûra chhûn leh zân, mu lo chhîng lova ka rilru ka han hman chuan,
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Pathian thiltih zawng zawng, ni hnuaia tih tâkte chu miin a hmu chhuak thei lo tih ka hmu ta a. Miin zawng eng ang mah sela, a hmu chhuak lo vang; mi fingin hriat inring teh mah se, a hmu chhuak thei bawk hek lo vang.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Hêng zawng zawng dap chhuak tûr hian ka vei êm êm ṭhîn a: mi fel leh mi fing leh an thiltihte chu Pathian kuta awm a lo ni a. Hmangaihna a ni nge huatna tih mihringin an hre lo, an hmabâk a ni vek si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Mi zawng zawng chungah thil thuhmun a thleng a ni: khawrêl thuhmun chu mi fel leh mi suaksual te, mi ṭha te, mi thianghlim leh thianghlim lo te, inthawi mi leh inthawi lo mite chungah pawh, mi ṭha ang bawkin mi sual pawh, chhechham hmang ang bawkin chhechham duh lo mi pawh.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Hei hi a ni, ni hnuaia thiltih zawng zawnga thil ṭha lo chu: mi zawng zawng chunga khawrêl thuhmun thleng hi. Mihring fate thinlung lah chu suala khat a ni a; an dam chhûngin an thinlungah âtna a awm a, chutih hnuah chuan mitthi hnênah an kal a.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Mi nungdamte zînga la telte tân chuan beiseina a la awm a; sakeibaknei thi ai chuan ui nung takngial pawh a ṭha zâwk si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Mi nungdamte chuan an la thi dâwn tih an hre si a, mitthi erawh chuan eng mah an hre lo va, lâwmman an nei tawh ngai lo va, hriat reng pawh an hlawh tawh hek lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />An hmangaihna te, an huatna te, an îtsîkna te a boral daih tawh a ni, ni hnuaia thiltihahte hian chanvo rêng an nei tawh ngai hek lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Kal la, lâwm takin i chaw ei la, thinlung hlimin i uain in rawh; Pathianin i thiltihte chu a pawm tawh si a.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />I silhfênte chu vâr reng sela, i lû pawh hram ngai suh se.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ni hnuaia a pêk che i hun eng mah lo chhûng zawng chuan i nupui, i hmangaih hnênah chuan nun nuam takin awm rawh; chu chu dam chhûnga i chanvo leh ni hnuaia i thawh rimnaa i chanvo chu a ni si a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />I kutin tih tûr a hmuh apiang chu theihtâwpin ti rawh; thlân i kalna tûrah chuan thiltih tûr emaw, remruat tûr emaw, hriatna emaw, finna emaw a awm si lo va.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Ka han thlîr leh a, ni hnuaia intlânsiaknaah mi chak chu a hlawhtling chuang lo va, indonaah mi huai a hlawhtling chuang hek lo; mi fingin ei tûr a hmu bîk lo va, mi nikhaw hria an hausa chuang hek lo va, mi themthiamin duhsak an hlawh chuang hek lo, mi zawng zawng chungah hun leh khawrêl ang angin a thleng mai zâwk tih ka hmu a.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Mihringin ama hun pawh a hre si lo va; sangha, lên hlauhawma man leh sava, thanga âwk ang maiin, mihring fate pawh an chunga lo thleng phutin hun ṭha lovah an âwk ṭhîn a ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ni hnuaiah chuan hetiang finna hi ka hmu bawk a, ka tân ropui hlein a lang.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Khawpui tê tak tê, a chhûnga mi tlêm tê awmna chu a awm a; lal ropui takin a rawn bei a, a hual a, hual dai nasa tak a theu hnan a;
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />tin, chu khuaah chuan mi rethei fing tak a awm a, a finnain khawpui chu a chhan chhuak ta a; mahse, tu mahin chu mi rethei chu an hre reng lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Mi rethei finna chu hmuhsita awmin, a thu pawh ngaihthlâk ni lo mah sela, kei chuan, “Chakna aiin finna a ṭha zâwk,” ka ti tho a ni.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Mi fingte thusawi zawi tê pawh, mi âte zînga rorêltu au vak aiin a hriat ṭhat theih zâwk.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Finna chu indona hriamhrei aiin a ṭha zâwk a; mahse, mi sual pakhatin thil ṭha tam tak a tichhe ṭhîn.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Tho thiin a tichhia, Rimtui siamtu hriak rim; Chutiangin finna leh zahawmna pawh Âtna tlêm têin a chhilh bo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Mi fing thinlung a hawi, a ding lamah, Mi â thinlung erawh a vei lamah.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A ni tak e, mi â chu tual a lên laiin A hriatnain a tlin lo va, Mi tin hnênah, “A â a ni,” a ti zêl ṭhîn.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Rorêltu thin thawk mah sela, nangma chungah, I hmun kalsan suh ang che; Lungnih lohnate a tireh, zâwldawhnain.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ni hnuaia ka hmuh ṭhin thil ṭha lo a awm, Rorêltua lo chhuak thiltih dik lo ang:
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Mi â hmun sângahte daha, Mi hausa hmun hniama an ṭhut te hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Chhiahhlawh ka hmu, sakawr chungah, Hotu a kal kêin, chhiahhlawh angin.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hum laitu chu a hum laihah a tla ang; Hungna tâwn tlangtu a chu ang, rûlin.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Lung lai chhuaktu a inhliam ang; Thing ektu tân hlauhthâwn a awm.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Thîr a bila, miin a tah hriam loh chuan Tharum a ngai lehzual ang; Mahse, a sâwt ber mai, finna, hlawhtlin nân.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A chuk mai chuan rûlin, dawi ât hmain, Dawi ât thiam sâwtna a awm hlei nêm.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Mi fing kamchhuak thu zawng a hlû, Mi a hmui erawh chuan amah a dawlh zo vang;
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A kamchhuak thu bul chu âtna a ni sa a, A kamchhuak tâwpna chu âtna pawi khawih chi a ni.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Thu a tuitam ṭhîn, mi â chuan. Miin a hre lo, thil lo awm tûr chu; Tu nge hrilh thei, mi hnu lama thil lo awm tûr?
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Thawh rimnain a intichau ṭhîn, mi â chu, Khawpui kalkawng pawh a hre lo!
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />I chung a pik e, nang ram, lal naupang leh Hotute, zînga ruaiṭheh ṭhîn neitu!
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />I nihlawh e, nang ram, lal chu lal chi fapa leh Hotute, ruih nân ni lo, chakna tûra hun dik tak ei ṭhîn neitu!
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Zawmthâwt vângin a sawp in chung, Kut dâwngdah vângin a far.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Ruai siam a ni, hlimhlawp atân, Uain chu nun tihnawm nân; Tangkain engkim a si thlu.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Lalber chu lawh suh la, ânchhia, i rilru pawhin; Ânchhia lawh suh, mi hausa chu, i khum laizâwlah pawh; Chunglêng savaten i aw chu an pu darh ang a, Thla neiten chûng chu an hril mai ang.
+  </para>
+  <chapter number="11" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />I chhang paih la, tui chungah chuan, I hmu leh dâwn si, ni rei hnuah.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Chan tûr pe la, mi pasarih, pariat hnênah, I hre si lo, lei chungah hian thil ṭha lo lo tla tûr chu.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tui a pai chuan chhûmin, a intiruak ṭhîn, lei chungah; Thing a tlûk chuan chhim hawi emaw, hmâr hawi emaw, A awm ngei ang thing chu, a tlûk hmunah.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Thli pawisatuin chi a tuh lâwng, Chhûm enthlatuin a seng hek lo vang.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Thli kalkawng chu i hre lo va, Hmeichhe pum chhûnga nau ruh ṭhan dân pawh i hre hek lo, Chutiang bawkin Pathian engkim titu thiltih chu i hre lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zîngah i chi tuh la, tlaiah i kut sûm suh; I hre si lo, a ṭhang ṭha tûr khawi nge, Hei hi nge, kha kha nge, an ṭha ve ve dâwn.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A nuam ngei mai tak e, êng chu, Mit tân pawh ni hmuh a ṭha e;
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A ni, mi kum tam tak a dam chuanin, Hêng zawngah hian lâwm rawh se; Amaherawhchu, hre reng sela thimna nite, An tam hle mai dâwn si a. Thil lo thleng zawng zawng hi eng mah lo mai a lo ni.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ṭhalaite u, in ṭhat lai chên ula, In la naupan viau lai hian hlim rawh u; In thinlung duh zâwng chu zâwm ula, In mitin a hmuh châk zâwng nên chuan; Amaherawhchu, chûngah chuan Pathianin in chungah Ro a rêl dâwn tih hre reng ang che u.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Eng mah engto nei suh ula, In pang tinatu awm hek suh se, In ṭhat lai hun a rei dâwn lo.
+  </para>
+  <chapter number="12" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />I vânglai hian i Siamtu hre reng rawh - Ni ṭha lote a lo thlen hma leh, “Lâwmna rêng rêng ka nei lo ve,” I tihna tûr kumte a lo hnaih hma hian:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Nî te, êng te, thla te, arsite a thim hma leh Ruah hnua chhûm a lo kîr leh hma hian;
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />In vêngtu chu a lo khurha, Mi chakte chu an kaikûna, An tlêm avânga râwt sawmtu nute an bâna, Tukverha dâk nute chu an thima,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Kawtthlêra kawngte a inkhâr ni chuan, Râwt sawmna ri a lo chuaia, Sava thâwmah mi a thawha, Zai nu zawng zawngte an lo zuai lai hian;
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />A ni, a sâng chu an hlau va, Kawngah hlauhawm a awm a, Vaiumkhal thing a pâr a, Khau chu hnawksak a ni a, Chakna a bo va, mi chu a chatuan in lamah a hâwngin, Lusûnte chu kawtthlêrah an vâk vêl si a;
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tangkaraw zai chu a chaha, Rangkachak berhbu chu a keha, Hlumbêl chu tuikhurah a keha, Tawlailîr chu tuikhuah bulah a tliah hma hian.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Vaivut chu a awm angin leiah a chang leh a, Thlarau chu a petu Pathian hnênah a kîr leh a ni.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Thuhriltu chuan, “Eng mah lo mai mai, Thil zawng zawng hi eng mah lo mai a lo ni,” a ti a.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Tin, a fing chauh pawh ni lovin, Thuhriltu chuan mite hriatna a zirtîr a; a ni, thufing tawi tam tak a ngaihtuah a, a zawng chhuak a, a rem fel a.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Thuhriltu chuan thu pawm tlâk hmu tûrin a zawng a, tlang taka ziak, thutak thute chu.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Mi fing thu chu berâmputen ran khalh nâna an hman tiang zum ang a ni a, thufing lâwr khâwm chu thîr kilhna khen bûr tlat anga nghet a ni.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Chu chauh pawh ni lovin, hêngah hian, ka fapa, zilhin awm ta che. Lehkhabu tam tak siam hi tâwpintai a awm lo ve, nasa taka zir pawh hi tisa chauhna mai a ni.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hêng thu zawng zawng khaikhâwmna hi i ngaithla teh ang: Pathian ṭih la, a thupêkte vawng rawh; hei hi mihring zawng zawng tih tûr chu a ni mai.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Pathian chuan thiltih zawng zawng chungah ro a la rêl dâwn si a, thil inthup engkim, a chhia emaw, a ṭha emawte pawh, tih hi.
+  </para>
+</usx>
