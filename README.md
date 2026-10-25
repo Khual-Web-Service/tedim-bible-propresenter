@@ -1,6 +1,6 @@
 # Myanmar Bibles for ProPresenter
 
-Adds 20 Bibles in Zomi/Zo, Chin, Mizo, Kuki, Kachin, Burmese and English to
+Adds 22 Bibles in Zomi/Zo, Chin, Mizo, Kuki, Kachin, Burmese and English to
 ProPresenter 7 — free, with a double-click installer for Mac and Windows.
 
 ## Install (Mac)
@@ -66,6 +66,8 @@ ProPresenter 7 — free, with a double-click installer for Mac and Windows.
 | `HAKHA` | Baibal Thiang (Hakha 1920) | Hakha (Lai) |
 | `MARA` | Khazopa Chabu Pathaipa (Mara 2011) | Mara |
 | `MATU` | Baibal Olcim (Matu Chin) | Matu |
+| `THAIPHUM` | Thai Phum Holy Bible (2020) | Thaiphum Chin |
+| `KHUMI` | Asang Khongca Bible (Eastern Khumi 2019) | Eastern Khumi Chin |
 | `MIZO` | Pathian Lehkhabu Thianghlim (Mizo 1917) | Mizo |
 | `MIZOCL` | Common Language Bible (Mizo 1995) | Mizo |
 | `JCLB` | Jinghpaw Common Language Bible (2009) | Jinghpaw (Kachin) |
@@ -150,6 +152,6 @@ git clone --depth 1 https://github.com/laisiangtho/bible ../laisiangtho-bible
 python3 tools/import_laisiangtho.py ../laisiangtho-bible   # rewrites bibles/<CODE>/ and bibles.json
 ```
 
-Matu comes from the eBible.org Matupi Chin Standard Bible instead, because the
-laisiangtho copy has its New Testament books misnumbered. Pass
+Matu, Thaiphum and Eastern Khumi come from eBible.org instead (Matu because
+the laisiangtho copy has its New Testament books misnumbered). Pass
 `--ebible <clone of github.com/BibleNLP/ebible>` to rebuild it.

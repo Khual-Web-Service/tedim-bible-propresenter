@@ -60,6 +60,25 @@ EBIBLE_IMPORTS = [
      Malakhi|Matthai|Marku|Luka|Johan|Caeltueih|Rom|1 Korin|2 Korin|Galati|Ephesa|
      Philipi|Kolosa|1 Thessalonika|2 Thessalonika|1 Timothy|2 Timothy|Titus|Philemon|
      Hebrew|James|1 Peter|2 Peter|1 Johan|2 Johan|3 Johan|Jude|Olphong"""),
+    ("KHUMI", "cek-cekak", "Asang Khongca Bible (Eastern Khumi 2019)", "Chin: Eastern Khumi", "cek",
+     "Asang Khongca Bible, public domain, via eBible.org",
+     """Genesis|Exodus|Levitikas|Nambar|Deuteronomy|Joshua|Lokcaekkung|Ruth|1 Samuel|
+     2 Samuel|1 Siangpahrang|2 Siangpahrang|1 Dungkrhoekhaih|2 Dungkroekhaih|Ezra|
+     Nehemiah|Esther|Job|Saam|Palungha Lok|Patukkung|Solomon Laa|Isaiah|Jeremiah|
+     Oihaih Laa|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Mikah|Nahum|Habakkuk|
+     Zephaniah|Haggai|Zekariah|Malakhi|Mathai|Marka|Luka|Johan|Toksahkungnawk|Rom|
+     1 Korin|2 Korin|Kalati|Efisa|Filipi|Kolosa|1 Thesalonika|2 Thesalonika|1 Timote|
+     2 Timote|Titu|Felemon|Hebru|Jakob|1 Peter|2 Piter|1 Johan|2 Johan|3 Johan|Juda|
+     Lokphong"""),
+    ("THAIPHUM", "cth-cth", "Thai Phum Holy Bible (2020)", "Chin: Thaiphum", "cth",
+     "Thai Phum Holy Bible © 2020 Batupuei Christian Fellowship, CC BY-SA 4.0, via eBible.org",
+     """Kamtawngnae|Tâconae|Bawknae|Milu Pareinae|Kâboutpoenae|Joshua|Lawkcengkung|Ruth|
+     1 Samuel|2 Samuel|1 Siangpahrang|2 Siangpahrang|1 Setouknae|2 Setouknae|Ezra|
+     Nehemiah|Esta|Job|Sam|Cingthuilawk|Phungdeikung|Solomon La|Isaiah|Jeremiah|Khuinae|
+     Ezekiel|Daniel|Hosi|Joel|Amos|Obadiah|Jonah|Mikah|Nahum|Habakkuk|Zephaniah|Haggai|
+     Zekhariah|Malakhi|Matthai|Mark|Luk|Jawhan|Guncei|Rom|1 Kawrin|2 Kawrin|Galati|
+     Efisa|Filippi|Kolosa|1 Thesalon|2 Thesalon|1 Timote|2 Timote|Titu|Filemon|Hebru|
+     Jem|1 Piter|2 Piter|1 Jawhan|2 Jawhan|3 Jawhan|Judah|Papholawk"""),
 ]
 
 

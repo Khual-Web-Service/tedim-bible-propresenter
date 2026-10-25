@@ -156,6 +156,22 @@
       "language": "hlt",
       "license": "Matupi Chin Standard Bible, public domain (CC BY-SA 4.0 in Myanmar), via eBible.org",
       "source": "BibleNLP/ebible corpus/hlt-hltmcsb.txt"
+    },
+    {
+      "uuid": "cea76cc6-0050-5f6c-8811-2d9fdceef9b0",
+      "abbreviation": "KHUMI",
+      "name": "Asang Khongca Bible (Eastern Khumi 2019)",
+      "language": "cek",
+      "license": "Asang Khongca Bible, public domain, via eBible.org",
+      "source": "BibleNLP/ebible corpus/cek-cekak.txt"
+    },
+    {
+      "uuid": "016fea2f-817a-5c99-a0a7-9e6d3a8c02fd",
+      "abbreviation": "THAIPHUM",
+      "name": "Thai Phum Holy Bible (2020)",
+      "language": "cth",
+      "license": "Thai Phum Holy Bible © 2020 Batupuei Christian Fellowship, CC BY-SA 4.0, via eBible.org",
+      "source": "BibleNLP/ebible corpus/cth-cth.txt"
     }
   ]
 }
