@@ -1,21 +1,21 @@
-# Tedim (Chin) Bible for ProPresenter
+# Myanmar Bibles for ProPresenter
 
-Adds the Tedim (Chin) Bible, Chin 1977 Bible, Judson Burmese Bible, and King
-James Version to ProPresenter.
+Adds 19 Bibles in Zomi/Zo, Chin, Mizo, Kuki, Kachin, Burmese and English to
+ProPresenter 7 — free, with a double-click installer for Mac and Windows.
 
 ## Install (Mac)
 
 1. Open the
-   [Releases page](https://github.com/khualbawi/tedim-bible-propresenter/releases/latest).
+   [Releases page](https://github.com/Khual-Web-Service/myanmar-bibles-propresenter/releases/latest).
 2. Scroll to the **Assets** list near the bottom of that page.
-3. Click **TedimBibles.pkg** to download it.
-4. Open your Downloads folder and find **TedimBibles.pkg**.
+3. Click **MyanmarBibles.pkg** to download it.
+4. Open your Downloads folder and find **MyanmarBibles.pkg**.
 5. Hold Control, click the file, and choose **Open**.
 6. If your Mac says it cannot check the file for harmful software, click
    **Done**. Do **not** click **Move to Trash**.
 7. Open **System Settings**, click **Privacy & Security**, and scroll all the
    way to the bottom.
-8. Next to the message about **TedimBibles.pkg**, click **Open Anyway**.
+8. Next to the message about **MyanmarBibles.pkg**, click **Open Anyway**.
 9. Click **Open Anyway** once more in the box that appears, then type your Mac
    password. This warning is normal for free software that does not come from
    Apple, and you only see it the first time.
@@ -27,9 +27,9 @@ James Version to ProPresenter.
 ## Install (Windows)
 
 1. Open the
-   [Releases page](https://github.com/khualbawi/tedim-bible-propresenter/releases/latest).
+   [Releases page](https://github.com/Khual-Web-Service/myanmar-bibles-propresenter/releases/latest).
 2. Scroll to the **Assets** list near the bottom of that page.
-3. Click **TedimBibles-windows.zip** to download it.
+3. Click **MyanmarBibles-windows.zip** to download it.
 4. Right-click the download and choose **Extract All**, then **Extract**.
 5. Open the folder that appears.
 6. Double-click **Install.bat**.
@@ -42,7 +42,7 @@ James Version to ProPresenter.
 
 - **A bible is missing.** Quit ProPresenter and open it again, twice. It looks
   for new bibles only when it starts.
-- **Still missing, or the words look old.** An older Tedim bible may already be
+- **Still missing, or the words look old.** An older copy of a bible may already be
   installed. On a Mac, delete any `.rvbible` files with old Tedim names from
   both `/Library/Application Support/RenewedVision/RVBibles/v2` and
   `~/Library/Application Support/RenewedVision/RVBibles/v2`. On Windows, delete
@@ -53,17 +53,33 @@ James Version to ProPresenter.
 
 ## What's included
 
-| Code | Translation |
-| --- | --- |
-| `TDB` | Tedim (Chin) Bible |
-| `TB77` | Chin 1977 (Tedim Bible) |
-| `BJB` | Judson Bible (Burmese) |
-| `KJV` | King James Version |
+| Code | Translation | Language |
+| --- | --- | --- |
+| `TDB` | Tedim (Chin) Bible | Tedim |
+| `TB77` | Chin 1977 (Tedim Bible) | Tedim |
+| `SIZANG` | Lai Siangtho (Sizang 1932) | Sizang (Siyin) |
+| `ZBI` | Lai Siengthou (Zou 1992) | Zo / Zou |
+| `ZBM` | Zo Bible (Zou 2018) | Zo / Zou |
+| `PAITE` | Paite Bible (1971) | Paite |
+| `THADOU` | Pathen Thutheng Bu (Thadou 2015) | Thadou (Kuki) |
+| `FALAM` | Baibal Thianghlim (Falam 1973) | Falam |
+| `HAKHA` | Baibal Thiang (Hakha 1920) | Hakha (Lai) |
+| `MARA` | Khazopa Chabu Pathaipa (Mara 2011) | Mara |
+| `MIZO` | Pathian Lehkhabu Thianghlim (Mizo 1917) | Mizo |
+| `MIZOCL` | Common Language Bible (Mizo 1995) | Mizo |
+| `JCLB` | Jinghpaw Common Language Bible (2009) | Jinghpaw (Kachin) |
+| `JHVB` | Jinghpaw Hanson Version Bible (2009) | Jinghpaw (Kachin) |
+| `BJB` | Judson Bible | Burmese |
+| `MSV` | Myanmar Standard Version (2005) | Burmese |
+| `MCL` | Myanmar Common Language (2005) | Burmese |
+| `MNWT` | New World Translation (Burmese 2010) | Burmese |
+| `KJV` | King James Version | English |
 
-These translations are copyrighted by the **Myanmar Bible Society** and other
-respective copyright holders. Contact the
-[Myanmar Bible Society](https://www.myanmarbs.org/) for permission to reproduce
-or distribute them.
+These translations are copyrighted by the **Bible Society of Myanmar**, the
+**Bible Society of India** and other respective copyright holders; each
+bundle's license line names its publisher. Contact the publisher (for example
+the [Bible Society of Myanmar](https://www.myanmarbs.org/)) for permission to
+reproduce or distribute them.
 
 ## For developers
 
@@ -116,11 +132,19 @@ coverage. All three run in CI.
 `dist/`. Push a `v*` tag:
 [`.github/workflows/release.yml`](.github/workflows/release.yml) runs
 [`tools/make-pkg.sh`](tools/make-pkg.sh) to wrap the committed `dist/` as
-`TedimBibles.pkg`, zips the Windows layout as `TedimBibles-windows.zip`, and
+`MyanmarBibles.pkg`, zips the Windows layout as `MyanmarBibles-windows.zip`, and
 attaches both plus the raw `.rvbible` files to the release. The pkg is unsigned;
 `make-pkg.sh` carries a TODO with the signing and notarization commands.
 
 ## Credits
 
-Original package and translation data by
+Original Tedim package by
 [peterlianpi/Tedim-Chin-Bible](https://github.com/peterlianpi/Tedim-Chin-Bible).
+The other translations come from
+[laisiangtho/bible](https://github.com/laisiangtho/bible) and are converted with
+[`tools/import_laisiangtho.py`](tools/import_laisiangtho.py):
+
+```
+git clone --depth 1 https://github.com/laisiangtho/bible ../laisiangtho-bible
+python3 tools/import_laisiangtho.py ../laisiangtho-bible   # rewrites bibles/<CODE>/ and bibles.json
+```

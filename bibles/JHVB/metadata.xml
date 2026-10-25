@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBLMetadata id="c85c2c0db2c65484" revision="2" type="text" typeVersion="1.2">
+   <identification>
+      <name>Jinghpaw Hanson Version Bible (2009)</name>
+      <nameLocal>Jinghpaw Hanson Version Bible (2009)</nameLocal>
+      <abbreviation>JHVB</abbreviation>
+      <abbreviationLocal>JHVB</abbreviationLocal>
+      <scope>Old and New Testament</scope>
+      <description>Jinghpaw Hanson Version Bible (2009) © Bible Society of Myanmar. Old and New Testament</description>
+      <dateCompleted></dateCompleted>
+      <bundleProducer></bundleProducer>
+   </identification>
+   <agencies>
+      <etenPartner>NON-DBL</etenPartner>
+      <creator>HolySpirit</creator>
+   </agencies>
+   <language>
+      <iso>kac</iso>
+      <name>Jinghpaw</name>
+      <script>Latin</script>
+      <scriptDirection>LTR</scriptDirection>
+   </language>
+   <bookNames>
+      <book code="GEN">
+         <long>Ningpawt Ninghpang</long>
+         <short>Ningpawt Ninghpang</short>
+         <abbr>Ningpawt Ninghpang</abbr>
+      </book>
+      <book code="EXO">
+         <long>Pru Mat</long>
+         <short>Pru Mat</short>
+         <abbr>Pru Mat</abbr>
+      </book>
+      <book code="LEV">
+         <long>Jaw Jau</long>
+         <short>Jaw Jau</short>
+         <abbr>Jaw Jau</abbr>
+      </book>
+      <book code="NUM">
+         <long>Bu Hkawm</long>
+         <short>Bu Hkawm</short>
+         <abbr>Bu Hkawm</abbr>
+      </book>
+      <book code="DEU">
+         <long>Tara Jahprang</long>
+         <short>Tara Jahprang</short>
+         <abbr>Tara Jahprang</abbr>
+      </book>
+      <book code="JOS">
+         <long>Yawshu</long>
+         <short>Yawshu</short>
+         <abbr>Yawshu</abbr>
+      </book>
+      <book code="JDG">
+         <long>Tara Agyi</long>
+         <short>Tara Agyi</short>
+         <abbr>Tara Agyi</abbr>
+      </book>
+      <book code="RUT">
+         <long>Ruhta</long>
+         <short>Ruhta</short>
+         <abbr>Ruhta</abbr>
+      </book>
+      <book code="1SA">
+         <long>1 Samuela</long>
+         <short>1 Samuela</short>
+         <abbr>1 Samuela</abbr>
+      </book>
+      <book code="2SA">
+         <long>2 Samuela</long>
+         <short>2 Samuela</short>
+         <abbr>2 Samuela</abbr>
+      </book>
+      <book code="1KI">
+         <long>1 Hkawhkam</long>
+         <short>1 Hkawhkam</short>
+         <abbr>1 Hkawhkam</abbr>
+      </book>
+      <book code="2KI">
+         <long>2 Hkawhkam</long>
+         <short>2 Hkawhkam</short>
+         <abbr>2 Hkawhkam</abbr>
+      </book>
+      <book code="1CH">
+         <long>1 Hkawhkam Labau</long>
+         <short>1 Hkawhkam Labau</short>
+         <abbr>1 Hkawhkam Labau</abbr>
+      </book>
+      <book code="2CH">
+         <long>2 Hkawhkam Labau</long>
+         <short>2 Hkawhkam Labau</short>
+         <abbr>2 Hkawhkam Labau</abbr>
+      </book>
+      <book code="EZR">
+         <long>Ezra</long>
+         <short>Ezra</short>
+         <abbr>Ezra</abbr>
+      </book>
+      <book code="NEH">
+         <long>Nehemia</long>
+         <short>Nehemia</short>
+         <abbr>Nehemia</abbr>
+      </book>
+      <book code="EST">
+         <long>Eshta</long>
+         <short>Eshta</short>
+         <abbr>Eshta</abbr>
+      </book>
+      <book code="JOB">
+         <long>Yoba</long>
+         <short>Yoba</short>
+         <abbr>Yoba</abbr>
+      </book>
+      <book code="PSA">
+         <long>Shakawn Kungdawn</long>
+         <short>Shakawn Kungdawn</short>
+         <abbr>Shakawn Kungdawn</abbr>
+      </book>
+      <book code="PRO">
+         <long>Ga Shagawp</long>
+         <short>Ga Shagawp</short>
+         <abbr>Ga Shagawp</abbr>
+      </book>
+      <book code="ECC">
+         <long>Hpaji Ningli</long>
+         <short>Hpaji Ningli</short>
+         <abbr>Hpaji Ningli</abbr>
+      </book>
+      <book code="SNG">
+         <long>Shawlumon A Mahkawn Ga</long>
+         <short>Shawlumon A Mahkawn Ga</short>
+         <abbr>Shawlumon A Mahkawn Ga</abbr>
+      </book>
+      <book code="ISA">
+         <long>Esaia</long>
+         <short>Esaia</short>
+         <abbr>Esa</abbr>
+      </book>
+      <book code="JER">
+         <long>Yeremia</long>
+         <short>Yeremia</short>
+         <abbr>Yeremia</abbr>
+      </book>
+      <book code="LAM">
+         <long>Sharung Shayawt</long>
+         <short>Sharung Shayawt</short>
+         <abbr>Sharung Shayawt</abbr>
+      </book>
+      <book code="EZK">
+         <long>Ezekela</long>
+         <short>Ezekela</short>
+         <abbr>Ezekela</abbr>
+      </book>
+      <book code="DAN">
+         <long>Daniela</long>
+         <short>Daniela</short>
+         <abbr>Dan</abbr>
+      </book>
+      <book code="HOS">
+         <long>Hosea</long>
+         <short>Hosea</short>
+         <abbr>Hosea</abbr>
+      </book>
+      <book code="JOL">
+         <long>Yoela</long>
+         <short>Yoela</short>
+         <abbr>Yoe</abbr>
+      </book>
+      <book code="AMO">
+         <long>Amo</long>
+         <short>Amo</short>
+         <abbr>Amo</abbr>
+      </book>
+      <book code="OBA">
+         <long>Obedia</long>
+         <short>Obedia</short>
+         <abbr>Obedia</abbr>
+      </book>
+      <book code="JON">
+         <long>Yona</long>
+         <short>Yona</short>
+         <abbr>Yona</abbr>
+      </book>
+      <book code="MIC">
+         <long>Mihka</long>
+         <short>Mihka</short>
+         <abbr>Mihka</abbr>
+      </book>
+      <book code="NAM">
+         <long>Nahum</long>
+         <short>Nahum</short>
+         <abbr>Nahum</abbr>
+      </book>
+      <book code="HAB">
+         <long>Habaku</long>
+         <short>Habaku</short>
+         <abbr>Habaku</abbr>
+      </book>
+      <book code="ZEP">
+         <long>Zehpani</long>
+         <short>Zehpani</short>
+         <abbr>Zehpani</abbr>
+      </book>
+      <book code="HAG">
+         <long>Hagi</long>
+         <short>Hagi</short>
+         <abbr>Hag</abbr>
+      </book>
+      <book code="ZEC">
+         <long>Zehkaria</long>
+         <short>Zehkaria</short>
+         <abbr>Zeh</abbr>
+      </book>
+      <book code="MAL">
+         <long>Malahki</long>
+         <short>Malahki</short>
+         <abbr>Malahki</abbr>
+      </book>
+      <book code="MAT">
+         <long>Mahte</long>
+         <short>Mahte</short>
+         <abbr>Mt</abbr>
+      </book>
+      <book code="MRK">
+         <long>Marku</long>
+         <short>Marku</short>
+         <abbr>Mk</abbr>
+      </book>
+      <book code="LUK">
+         <long>Luka</long>
+         <short>Luka</short>
+         <abbr>Lk</abbr>
+      </book>
+      <book code="JHN">
+         <long>Yawhan</long>
+         <short>Yawhan</short>
+         <abbr>Yn</abbr>
+      </book>
+      <book code="ACT">
+         <long>Kasa</long>
+         <short>Kasa</short>
+         <abbr>Kas</abbr>
+      </book>
+      <book code="ROM">
+         <long>Roma</long>
+         <short>Roma</short>
+         <abbr>Roma</abbr>
+      </book>
+      <book code="1CO">
+         <long>1 Korinhtu</long>
+         <short>1 Korinhtu</short>
+         <abbr>1 Korinhtu</abbr>
+      </book>
+      <book code="2CO">
+         <long>2 Korinhtu</long>
+         <short>2 Korinhtu</short>
+         <abbr>2 Korinhtu</abbr>
+      </book>
+      <book code="GAL">
+         <long>Galati Ni</long>
+         <short>Galati Ni</short>
+         <abbr>Galati Ni</abbr>
+      </book>
+      <book code="EPH">
+         <long>Ehpesu</long>
+         <short>Ehpesu</short>
+         <abbr>Ehpesu</abbr>
+      </book>
+      <book code="PHP">
+         <long>Hpilipi</long>
+         <short>Hpilipi</short>
+         <abbr>Hpilipi</abbr>
+      </book>
+      <book code="COL">
+         <long>Kolose</long>
+         <short>Kolose</short>
+         <abbr>Kolose</abbr>
+      </book>
+      <book code="1TH">
+         <long>1 Htesaloni</long>
+         <short>1 Htesaloni</short>
+         <abbr>1ht</abbr>
+      </book>
+      <book code="2TH">
+         <long>2 Htesaloni</long>
+         <short>2 Htesaloni</short>
+         <abbr>2h2</abbr>
+      </book>
+      <book code="1TI">
+         <long>1 Timohti</long>
+         <short>1 Timohti</short>
+         <abbr>1 Timohti</abbr>
+      </book>
+      <book code="2TI">
+         <long>2 Timohti</long>
+         <short>2 Timohti</short>
+         <abbr>2 Timohti</abbr>
+      </book>
+      <book code="TIT">
+         <long>Titu</long>
+         <short>Titu</short>
+         <abbr>Titu</abbr>
+      </book>
+      <book code="PHM">
+         <long>Hpilemon</long>
+         <short>Hpilemon</short>
+         <abbr>Hpilemon</abbr>
+      </book>
+      <book code="HEB">
+         <long>Hebre</long>
+         <short>Hebre</short>
+         <abbr>Heb</abbr>
+      </book>
+      <book code="JAS">
+         <long>Yaku</long>
+         <short>Yaku</short>
+         <abbr>Yaku</abbr>
+      </book>
+      <book code="1PE">
+         <long>1 Petru</long>
+         <short>1 Petru</short>
+         <abbr>1pe</abbr>
+      </book>
+      <book code="2PE">
+         <long>2 Petru</long>
+         <short>2 Petru</short>
+         <abbr>2pe</abbr>
+      </book>
+      <book code="1JN">
+         <long>1 Yawhan</long>
+         <short>1 Yawhan</short>
+         <abbr>1 Yawhan</abbr>
+      </book>
+      <book code="2JN">
+         <long>2 Yawhan</long>
+         <short>2 Yawhan</short>
+         <abbr>2 Yawhan</abbr>
+      </book>
+      <book code="3JN">
+         <long>3 Yawhan</long>
+         <short>3 Yawhan</short>
+         <abbr>3 Yawhan</abbr>
+      </book>
+      <book code="JUD">
+         <long>Yuda</long>
+         <short>Yuda</short>
+         <abbr>Yuda</abbr>
+      </book>
+      <book code="REV">
+         <long>Shingran</long>
+         <short>Shingran</short>
+         <abbr>Shr</abbr>
+      </book>
+   </bookNames>
+   <contents>
+      <bookList id="1" default="yes">
+         <name>Jinghpaw Hanson Version Bible (2009)</name>
+         <nameLocal>Jinghpaw Hanson Version Bible (2009)</nameLocal>
+         <abbreviation>JHVB</abbreviation>
+         <abbreviationLocal>JHVB</abbreviationLocal>
+         <description>null</description>
+         <range>Old and New Testament</range>
+         <tradition />
+         <books>
+            <book code="GEN" />
+            <book code="EXO" />
+            <book code="LEV" />
+            <book code="NUM" />
+            <book code="DEU" />
+            <book code="JOS" />
+            <book code="JDG" />
+            <book code="RUT" />
+            <book code="1SA" />
+            <book code="2SA" />
+            <book code="1KI" />
+            <book code="2KI" />
+            <book code="1CH" />
+            <book code="2CH" />
+            <book code="EZR" />
+            <book code="NEH" />
+            <book code="EST" />
+            <book code="JOB" />
+            <book code="PSA" />
+            <book code="PRO" />
+            <book code="ECC" />
+            <book code="SNG" />
+            <book code="ISA" />
+            <book code="JER" />
+            <book code="LAM" />
+            <book code="EZK" />
+            <book code="DAN" />
+            <book code="HOS" />
+            <book code="JOL" />
+            <book code="AMO" />
+            <book code="OBA" />
+            <book code="JON" />
+            <book code="MIC" />
+            <book code="NAM" />
+            <book code="HAB" />
+            <book code="ZEP" />
+            <book code="HAG" />
+            <book code="ZEC" />
+            <book code="MAL" />
+            <book code="MAT" />
+            <book code="MRK" />
+            <book code="LUK" />
+            <book code="JHN" />
+            <book code="ACT" />
+            <book code="ROM" />
+            <book code="1CO" />
+            <book code="2CO" />
+            <book code="GAL" />
+            <book code="EPH" />
+            <book code="PHP" />
+            <book code="COL" />
+            <book code="1TH" />
+            <book code="2TH" />
+            <book code="1TI" />
+            <book code="2TI" />
+            <book code="TIT" />
+            <book code="PHM" />
+            <book code="HEB" />
+            <book code="JAS" />
+            <book code="1PE" />
+            <book code="2PE" />
+            <book code="1JN" />
+            <book code="2JN" />
+            <book code="3JN" />
+            <book code="JUD" />
+            <book code="REV" />
+         </books>
+      </bookList>
+   </contents>
+</DBLMetadata>

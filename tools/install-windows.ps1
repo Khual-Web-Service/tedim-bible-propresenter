@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Installs the Tedim (Chin) Bible bundles into ProPresenter 7 on Windows.
+    Installs the Myanmar Bibles bundles into ProPresenter 7 on Windows.
 
 .DESCRIPTION
     Copies each bundle from bibles/ into the ProPresenter Bibles folder and

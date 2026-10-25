@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Installs the Tedim (Chin) Bible bundles into ProPresenter 7 on macOS.
+# Installs the Myanmar Bibles bundles into ProPresenter 7 on macOS.
 #
 # ProPresenter stores each Bible on macOS as a .rvbible file (a zip of a bundle)
 # under RVBibles/v2, which is the same format its own Bible downloads use. This

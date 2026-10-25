@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="EZR" style="id">Ezra</book>
+  <para style="h">Ezra</para>
+  <para style="toc1">Ezra</para>
+  <para style="toc2">Ezra</para>
+  <para style="mt">Ezra</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Persia siangpahrang Sairas a bawi kum khatnak ah, Jeremiah kaa in Bawipa nih a chimmi bia kha a tlin nakhnga, Persia siangpahrang Sairas lungthin cu Bawipa nih a thawhter i cucaah a ram dihlak ah khan thawngthanhnak a tuah i ca zongin a ṭial:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />“Hi bangin Persia siangpahrang Sairas nih a ti: Bawipa, vancung Pathian nih vawleicung ram vialte hi a ka pek dih cang i Judah ram i a ummi Jerusalem khua ah amah caah inn sak awk a ka fial.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Nannih amah mi vialte hna, nan sin i a ummi paoh cu a sinah a Pathian kha um seh law, Judah ram i a ummi Jerusalem khua ah cun hung kal seh, cun Bawipa, Israel Pathian inn cu hung sa seh — amah cu Jerusalem i a ummi Pathian cu a si;
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />cun a nung rihmi paohpaoh cu, khuazei ka i a um a si hmanh ah, a umnak mi hna nih cun ngun le sui le thilri le saṭil in, Pathian inn Jerusalem i a ummi ca i mah lungtho tein pekmi lengah khan, rak bawm hna seh,” a ti.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Khi tikah Judah phun le Benjamin phun chung i pale innchungkhar lu cio a simi hna le tlangbawi hna le Levi mi hna, Bawipa inn Jerusalem i a ummi sak ṭhan awkah Pathian nih an lungthin a canghtermi vialte kha an tho i,
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />an pawngkam i a ummi vialte hna nih khan ngun umkheng le sui le thilri le saṭil le a man a fakmi thilri khan, mah lungtho tein thawhmi thil ri lengah khan an bawmh hna.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Nebukhadnezzar nih Jerusalem i a rak kalpi i a pathian hna inn chungah a rak chiahmi Bawipa inn umkheng hna zong kha Sairas siangpahrang nih cun a chuah hna.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cu thil hna cu Persia siangpahrang Sairas nih cun, a rak kengtu Mithredath kha a chuahter hna i Judah bawi Sheshbazzar kha rel ciammam tein a pek.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cun hi vial hi an si: sui hmaihum sawm thum, ngun hmaihum thong khat, zihmui kheng kul le pakua,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />sui khengkuar sawm thum, ngun khengkuar za li le pahra, le umkheng dangdang thong khat an si;
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />sui umkheng le ngun umkheng vialte cu a dihlak ah thong nga, za li an si. Saltangmi hna cu Babilonia in Jerusalem ah hunpi an si tikah hi thil vialte hna hi Shesh-bazzar nih a hun ken hna.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Babilon siangpahrang Nebukhadnezzar nih Babilonia ah sal ah a kalpimi hna lakin, sal cannak chungin a kir ṭhanmi Judah ram mi cu mah hna hi an si; annih cu Jerusalem le Judah ah khan an kir, anmah le an khua cio ah khan an kir.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Annih cu Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordekai, Bilshan, Mispar, Bigvai, Rehum le Baanah sin i a kirmi an si. Israel mi cu hi zat hi an si:
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Parosh hrinthlak hna cu thong hnih, za khat sawm sarih le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Shefatiah hrinthlak hna cu za thum le sawm sarih le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Arah hrinthlak hna cu za sarih le sawm sarih le panga an si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Pahath-moab hrinthlak hna chung i Jeshua le Joab hrinthlak hna cu thong hnih, zariat le hleihnih an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elam hrinthlak hna cu thong khat za hnih le sawm nga le pali an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Zattu hrinthlak hna cu za kua sawm li le panga an si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Zakkari hrinthlak hna cu za sarih le sawm ruk an si.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Bani hrinthlak hna cu za ruk, sawm li le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Bebai hrinthlak hna cu za ruk, kul le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Azgad hrinthlak hna cu thong khat, za hnih le kul le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Adonikam hrinthlak hna cu za ruk, sawm ruk le paruk an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Bigvai hrinthlak hna cu thong hnih, sawm nga le paruk an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Adin hrinthlak hna cu za li sawm nga le pali an si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Ater hrinthlak hna chung i Hezekiah hrinthlak hna cu sawm kua le pariat an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Bezai hrin hrinthlak hna cu za thum le kul le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Jorah hrinthlak hna cu za khat le hleihnih an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hashum hrinthlak hna cu za hnih le kul le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Gibbar hrinthlak hna cu sawm kua le panga an si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Bethlehem hrinthlak hna cu za khat le kul le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Netofah mi cu sawm nga le pa ruk an si.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Anathoth mi cu za khat le kul le pariat an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Azmaveth hrinthlak hna cu sawm li le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Kiriath Jearim, Khefirah le Beeroth hrinthlak hna cu za sarih sawm li le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Ramah le Geba hrinthlak hna cu za ruk le kul le pakhat an si.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Mikmash mi cu za khat le kul le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Bethel le Ai mi hna cu za hnih kul le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Nebo hrinthlak hna cu sawm nga le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Magbish hrinthlak hna cu za khat le sawm nga le paruk an si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Elam dang hrinthlak hna cu thong khat za hnih le sawm nga le pali an si.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Harim hrinthlak hna cu za thum le kul an si.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Lod, Hadid le Ono hrinthlak hna cu za sarih kul le panga an si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Jeriko hrinthlak hna cu za thum sawm li le panga an si.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Senaah hrinthlak hna cu thong thum za ruk le sawm thum an si.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Tlangbawi hna: Jeshua hrin chung i Jedaiah tefa hna cu za kua le sawm sarih le pathum an si.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Immer tefa hna cu thong khat le sawm nga le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Pashhur tefa hna cu thong khat za hnih sawm li le pasarih an si.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Harim tefa hna cu thong khat le hleisarih an si.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Levi mi hna: Hodaviah hrin Jeshua le Kadmiel tefa hna cu sawm sarih le pali an si.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Hlasatu hna: Asaf tefa hna cu za khat kul le pariat an si.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Kutka cawngtu tefa hna: Shallum tefa hna, Ater tefa hna, Talmon tefa hna, Akkub tefa hna, Hatita tefa hna le Shobai tefa hna cu an dihlak ah za khat le sawm thum le pakua an si.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Biakinn rianṭuantu hna: Ziha tefa hna, Hasufa tefa hna, Tabbaoth tefa hna,
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Keros tefa hna, Siaha tefa hna, Padon tefa hna,
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Lebanah tefa hna, Hababah tefa hna, Akkub tefa hna,
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Hagab tefa hna, Shamlai tefa hna, Hanan tefa hna,
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Giddel tefa hna, Gahar tefa hna, Reaiah tefa hna,
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Rezin tefa hna, Nekoda tefa hna, Gazzam tefa hna,
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Uzza tefa hna, Paseah tefa hna, Besai tefa hna,
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Asnah tefa hna, Meunim tefa hna, Nefesim tefa hna,
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Bakbuk tefa hna, Hakufa tefa hna, Hahur tefa hna,
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Bazluth tefa hna, Mehida tefa hna, Harsha tefa hna,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Barkos tefa hna, Sisera tefa hna, Temah tefa hna,
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Neziah tefa hna, le Hatifa tefa hna.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />Solomon sinum hna i tefa hna: Sotai tefa hna, Hassofereth tefa hna, Perusa tefa hna,
+  </para>
+  <para style="p">
+    <verse number="56" style="v" />Jaalah tefa hna, Darkon tefa hna, Giddel tefa hna,
+  </para>
+  <para style="p">
+    <verse number="57" style="v" />Shefatiah tefa hna, Hattil tefa hna, Pokhereth-hazzebaim tefa hna le Ami tefa hna.
+  </para>
+  <para style="p">
+    <verse number="58" style="v" />Biakinn rianṭuantu hna le Solomon sinum hna tefa hna cu za thum sawm kua le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="59" style="v" />Hi hna hi Israel mi an si le si lo hngalhnak ah an pale innchungkhar siseh, an chuahkehnak siseh an langhter kho lo nain, Tel-melah, Telharsha, Kherub, Addan le Immer in a hungmi hna cu an si:
+  </para>
+  <para style="p">
+    <verse number="60" style="v" />Delaiah tefa hna, Tobiah tefa hna, Nekoda tefa hna, za ruk le sawm nga le pahnih an si.
+  </para>
+  <para style="p">
+    <verse number="61" style="v" />Tlangbawi tefa hna chung zong in: Habaiah tefa hna, Hakkoz tefa hna le Barzillai tefa hna kha an si. Barzillai hi Gilead ram mi a si i a fanu a ṭhitu i a tefa hna cu Barzillai phun in kawh an si.
+  </para>
+  <para style="p">
+    <verse number="62" style="v" />Hi hna nih hin pupa chanrelnak i a min khumh a simi hna lakah khan an minthlaknak cu an kawl i sihmanhsehlaw an hmu lo, cucaah tlangbawi sinak chung khan a thianglo ah ruah an si caah chuah an si;
+  </para>
+  <para style="p">
+    <verse number="63" style="v" />uktu bawi nih khan annih cu a thawh hna i, Urim le Thummim hal awkah tlangbawi a um hlan paoh cu rawl thiang bik kha nan ei lai lo, tiah a ti hna.
+  </para>
+  <para style="p">
+    <verse number="64" style="v" />Aa pummi vialte cu an dihlak in sang li thong hnih za thum le sawm ruk an si,
+  </para>
+  <para style="p">
+    <verse number="65" style="v" />hi hleiah an sal hna le an salnu hna cu thong sarih za thum sawm thum le pasarih an um i hlasatu, nu he pa he, za hnih an ngei hna.
+  </para>
+  <para style="p">
+    <verse number="66" style="v" />An rangtum cu za sarih sawm thum le paruk an si i an khacer cu za hnih sawm li le panga an si i
+  </para>
+  <para style="p">
+    <verse number="67" style="v" />an kalauk cu za li sawm thum le panga an si i an laa cu thong ruk za sarih le kul an si.
+  </para>
+  <para style="p">
+    <verse number="68" style="v" />Chungkhar hna lu cio a simi a cheu hna nih khan Bawipa inn, Jerusalem i a ummi ah khan an rat tikah, a hmun i sak ṭhan awkah khan Pathian inn caah cun mah lungtho tein pekchanhnak an tuah;
+  </para>
+  <para style="p">
+    <verse number="69" style="v" />anmah le an ti khawh tawk cio in rianṭuannak tangka chungah khan sui darik sang ruk le thong khat, ngun mina thong nga le tlangbawi puan za khat an pek.
+  </para>
+  <para style="p">
+    <verse number="70" style="v" />Tlangbawi hna le Levi mi hna le mi a cheukhat cu Jerusalem le a pawngkam ah khan an um; cun hlasatu hna le kutka cawngtu hna le biakinn rianṭuantu hna kha anmah khua cio ah an um, cun Israel mi vialte cu anmah khua cio ah an um.
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Thla sarihnak thla a hung chuah i Israel mi hna cu an khua ah an um tikah, mi cu Jerusalem ah mi pakhat bantukin an i pum.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Khi tikah Jozadak fapa Jeshua cu a tlangbawi hawi hna he, cun Shealtiel fapa Zerubbabel cu a phun hawi hna he, an tho i, Pathian mi Moses cauk chungah aa ṭial bangin, a cung i khangh thawinak pekchanh awkah Israel Pathian i a biakṭheng cu an ser.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cun an pawngkam ram mi hna ruang ah cun an cungah ṭihnak a um caah, annih nih biakṭheng cu a hmun ah khan an chiah i a cungah cun Bawipa sinah khangh thawinak zinglei he zanlei he an pekchanh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Aa ṭial bangin deu puai cu an tuah i, a ni cio nih a herhning in a phunglam bantuk khan ni fate khangh thawinak cu, cu zat in pekchanh awk a si lai tining khan an pekchanh,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />cun cu hnuah cun pekchanh camcinmi khangh thawinak, thla thar i pekchanhnak le Bawipa ca i caan ngei in tuahmi puai hna i pekchanhnak le mah lungtho tein Bawipa sinah pekchanhmi thil hna kha an pekchanh hna.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Thla sarihnak thla, a ni khat ni thawk in Bawipa sin i khangh thawinak pekchanh cu hram an thawk. Sihmanhsehlaw Bawipa biakinn hram cu an bunh rih lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cucaah lung lei zungthiam hna le lehtama hna kha phaisa an pek hna i, Persia siangpahrang Sairas nih a onh hna ningin, sidar thing kha Lebanon tlang in rili ah, Joppa khua ah, ratpi awkah, Sidon mi le Tair mi hna cu rawl le din awk le chiti kha an pek hna.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Jerusalem Pathian inn ah a ummi ah an rat a kum hnihnak, a thla hnihnak thla ah, Shealtiel fapa Zerubbabel le Jozadak fapa Jeshua nih an unau tlangbawi hna le Levi mi hna, sal taannak chungin Jerusalem ah a ra cangmi vialte hna he khan, hramthawknak an tuah. Levi mi cu, kum kul ri in a cunglei kha Bawipa inn rianṭuannak i zohkhenhtu ah an thiah hna.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cun Jeshua nih a fapa hna le a rualchan hna he, Kadmiel nih a fapa hna Judah fapa hna he cun, Pathian inn chung i rianṭuantu hna cu, Henadad fapa hna le Levi mi hna le an fapa hna le an rualchan hna he tiah an zohkhenh hna.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Cun inn satu hna nih Bawipa biaknak inn hram kha an bunh tikah, Israel siangpahrang David lam hmuhsaknak ningin, Bawipa cu thangṭhat awkah, tlangbawi hna kha an thilthuam in an i fam i muko he an hung chuak, cun Levi mi hna, Asaf fapa hna kha an sumsel he an hung chuak;
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />cun annih nih Bawipa cu an thangṭhat i an lawmh i, “ Bawipa sin i lunglawmhnak chim hi a ṭha; Zeitintiah a fekmi a dawtnak cu Israel leiah zungzal in a hmun,” tiin an i sak tonh. Bawipa inn hram cu bunh a si caah mi vialte nih Bawipa cu an thangṭhat tikah fak piin an au.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Sihmanhsehlaw tlangbawi tampi hna le Levi mi tampi hna le pale innchungkhar lu a si ciomi tampi hna, tar pawl hmasa inn a rak hmutu hna kha cu, inn hram bunh an hmuh tikah khan, mi tampi cu lunglawm in fak piin an au nain, annih cu fak piin an ṭap i,
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />cucaah lunglawmhnak au thawng le mi an ṭahnak thawng cu mi nih an thleidang kho lo; zeicahtiah mi cu fak piin an au i an au thawng cu lamhlat piin aa thei.
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Judah mi le Benjamin mi an ral hna nih, saltang kir hna nih Bawipa, Israel Pathian inn kha an sa, ti an theih tikah,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Zerubbabel le pale innchungkhar lu a si ciomi kha an fuh hna i annih cu an thawh hna i, “Kan in sakpi hna lai; zeicahtiah nan Pathian cu nanmah bantukin kannih zong nih kan biak i Assiria siangpahrang Esarhaddon nih hika ah a kan ratpi thawk in atu tiang Pathian sinah cun rai kan thawi ve ko”, tiah an ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Sihmanhsehlaw Zerubbabel, Jeshua le Israel mi lak i pale innchungkhar lu cio hna nih khan, “Kan Pathian ca i inn saknak kongah nan i tel ve nakding lam a um lo; sihmanhsehlaw Persia siangpahrang Sairas nih nawl a kan pek bangin, kanmah lawng nih, Bawipa, Israel Pathian ca inn cu kan sak ko lai,” tiah an ti hna.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Khi tikah cu ram mi hna nih cun Judah mi cu an tha an dorhter hna i inn sak cu an ṭihter hna,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />cun Persia siangpahrang Sairas nun chung vialte, Persia siangpahrang Darius a bawi tiangin, an i tinhmi cu a pelh khawh nakhnga annih nih fimchimtu kha an i roih hna.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cun Ahasuerus pen chung, pen aa domh kum ah khin, Judah le Jerusalem i a ummi hna sual puhnak ah ca an ṭial.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cun Artazaksis chan ah Bishlam le Mithredath le Tabeel le an hawikom hna nih Persia siangpahrang Artazaksis sinah cun ca an ṭial; ca cu Aramaik holh in an ṭial i an leh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ralbawi Rehum le caṭialtu Shimshai nih Artazaksis siangpahrang sinah cun Jerusalem khua kongah a tanglei bang hin ca an ṭial —
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />ralbawi Rehum, caṭialtu Shimshai le an hawikom hna, biaceihtu hna, uktu bawi hna, bawi hna, Persia mi hna, Erek mi hna, Babilon mi hna, Susa mi hna, cu hna cu Elam mi an si,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />cun a ngan i a ṭhami Osnappar nih Samaria ram chung khua hna le Tiva Ral ram a tangmi chung i a kalpi hna i a umtermi miphun hna nih khan ca cu an ṭial i
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />mah hihi an kuatmi ca a khawpi cu a si — “Artazaksis siangpahrang sinah: Tiva Ral ram i a ummi na sal hna nih na kut kan in tlaih.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Nangmah sinin kan sinah a rami Judah mi hna kha Jerusalem ah an kal tiah siangpahrang nih rak hngal tuah. Ral thawh hmangmi le khua ṭhalo a simi kha an remh ṭhan i a kulhnak vampang hna cu an lim pah cang i a hram cu an remh lio.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hi khua hi an remh ṭhan i a kulhnak vampang cu an lim hna ahcun, ngunkhuai le thil ngeih man le lam hman man kha an pe duh lai lo i siangpahrang tangka hmuhnak kha an donhkhanh lai ti kha siangpahrang nih rak hngal ko seh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kannih cu siangpahrang inn cite a eimi kan si i siangpahrang nih zeirellonak a hmuh ding cu kannih nih hmuh kan duh lo caah, siangpahrang cu ca kan in kuat i kan in thanh,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />na pupa hna cazin khumhnak cauk chung kha rak kawl u law, cazin khumhnak cauk chungah cun hi khua hi hlanlio piin ralthawh hmangmi khua, siangpahrang le ram ca i intuarnak petu, a chung i ral thawhnak tuah tawnnak a si kha na hmuh lai. Cucaah cun pei hi khua cu hrawh a rak si cu.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Hi khua hi remh ṭhan a si i a kulhnak vampang hna kha lim an si ahcun, Tiva Ral ram chungah hin ram na ngei ti lai lo ti kha siangpahrang cu kan in hngalhter,” an ti.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cun siangpahrang nih cun lehnak ca a kuat hna i, “Ralbawi Rehum le caṭialtu Shimshai le an hawikom Samaria le Tiva Ral ram i a ummi hna, nan kut kan tlaih hna.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cun ca nan kan kuatmi kha ka hmaika ah fiang tein rel a si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Cun nawl ka pek hna i an kawl i, hlanlio piin hi khua hi siangpahrang hna doh awkah ral a tho i a chungah hin dohnak le tuknak khuakhan a si tawn ti kha hmuh a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cun Tiva Ral ram a ning piin a rak uk i, ngunkhuai, thil ngeih man le lam hman man an rak pekmi hna siangpahrang ṭhawngṭhawng kha Jerusalem uktu hi an rak si tawn.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Cucaah cun keimah nih nawlbia ka chuah hlantiang, hi mi hna hi ngolter an si i khua cu remh ṭhan a si nakhnga lo, nawlbia chuah tuah u.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Cun hi thil kongah hin thluarthlap in nan um nakhnga lo i ralring tuah u; zeicahdah siangpahrang cu harnak pek awkah rawhnak cu a ṭhan lai?” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Siangpahrang Artazaksis cakuat khawpi cu Rehum le caṭialtu Shimshai le an hawikom hna hmaiah khan rel a si tikah, Jerusalem i a ummi Judah mi sinah khan khulrang in an va kal i zaang-ennak le thazang in an ngolter hna.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Cucaah Bawipa inn Jerusalem i a ummi i an ṭuannak cu ngol a si; cun Persia siangpahrang Darius a bawi kum hnihnak tiang ngol a si.
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Profet Haggai le Iddo fapa profet Zekhariah nih khan, Judah le Jerusalem i a ummi Judah mi hna sinah cun, an cung i a ummi Israel Pathian min khan bia an chim.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Khi tikah Shealtiel fapa Zerubbabel le Jozadak fapa Jeshua kha an tho i Pathian inn Jerusalem i a ummi kha remh ṭhan hram an thawk; cun an sinah cun Pathian profet kha an um i an bawmh hna.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cucaah cun Tiva Ral ram a uktu bawi Tattenai le Shethar-bozenai le an hawikom hna cu an sinah khan an ra i, “Aho nih dah hi inn le hi vampang hi sak awk le lim awkah nawl an pek hna?” tiah an ti hna.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />“Hi inn a satu hna hi an min ahodah an si?” ti zongin an hal hna.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sihmanhsehlaw an Pathian mit cu Judah upa hna cungah khan a um i Darius sinah thawng theihternak a phak hlan le cu kong i lehnak ca in a kir hlantiang cu an ngolter kho hna lo.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tiva Ral ram a uktu bawi Tattenai le Shethar-bozenai le Tiva Ral ram a uktu bawi an hawikom hna nih Darius siangpahrang sinah an kuatmi ca khawpi cu hi hi a si;
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />thawng theihternak kha an kuat i a chungah hi bangin an ṭial: “Darius siangpahrang cungah daihnak vialte um ko seh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Kannih nih Judah ram ah, a liannganmi Pathian inn ah kan va kal kha siangpahrang nih rak hngal tuah. Lung ngan pipi in an sak i a vampang ah thingah an chon lio a si; hi rian cu fel tein a kal i an rianṭuannak ah an hlawh a tling.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cun kannih nih cu upa hna cu kan hal hna i, ‘Aho nih dah hi inn saknak le hi vampang limnak caah hin nawl an pek hna?’ tiin kan ti hna.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Cun nangmah theihter awkah an lu a simi hna min kha kan ṭial nakhnga an min zong kha kan hal hna.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cun mah hihi an kan lehnak cu a si: ‘Kannih cu van le vawlei hna i an Pathian sal kan si i Israel siangpahrang a liannganmi pakhat nih a rak sak i a rak limmi inn, kan hnulei hlanpi i rak sakmi inn kha kan remh ṭhan.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Sihmanhsehlaw kan pupa hna nih vancung Pathian cu a thin an phawh caah Khaldi mi Babilon siangpahrang Nebukhadnezzar kut chungah annih cu a rak chanh hna i amah nih cun hi inn hi a hrawh i mi cu Babilon ah a rak kalpi hna.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Sihmanhsehlaw Babilon uktu siangpahrang Sairas a bawi kum khatnak ah, Sairas siangpahrang nih cun hi Pathian inn hi remh ṭhan a si nakhnga nawlbia a chuah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Cun Pathian inn chung i sui le ngun umkheng hna, Nebukhadnezzar nih Jerusalem khua i a ummi biakinn chungin a chuah i Babilon i a ummi biakinn chungah a kalpimi hna cu, hi thil hna cu Siangpahrang Sairas nih Babilon biakinn khan a chuah hna i amah nih uktu bawi ah a sermi mipa pakhat a min Sheshbazzar a simi sinah khan a pek;
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />cun amah cu a thawh i, “Hi umkheng hna hi i lak hna law va kal law Jerusalem i a um mi biakinn ah khan va chia hna, cun Pathian inn cu a hmun ah khan sak ṭhan si seh,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Khi tikah hi Sheshbazzar cu a ra i Pathian inn Jerusalem i a ummi hram kha a bunh; cu caan thawk in atu tiang sak lengmang a si ko i a dih rih lo,’ an ti.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cucaah siangpahrang nih a ṭha tiah a ruah ahcun, Babilon i siangpahrang thilhlun khonnak ah khan rak kawl hna seh law, hi Pathian inn Jerusalem i a ummi sak ṭhannak caah hin Siangpahrang Sairas nih nawlbia a chuah maw chuah lo rak zoh hna seh. Cun siangpahrang nih hi kong i a duhnak kha kan kua seh,” tiah an ti.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Cun Darius siangpahrang nih cun nawlbia a chuah i Babilonia i ca an chiahnak thilhlunkhonnak inn chung cu an kawl.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cun Media ram khuapi a simi Ekbatana khua ah khan cazual pakhat an hmuh i cu cazual chungah cun mah hihi aa ṭial: “Ken awk.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Sairas siangpahrang a bawi kum khatnak ah, Sairas siangpahrang nih nawlbia a chuah: Jerusalem i a ummi Pathian kongah, raithawinak an pekchanhnak le khangh thawinak an rak putnak hmun inn cu sak ṭhan si seh; a san cu dong sawm ruk a si lai i a vang cu dong sawm ruk a si lai,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />lung ngan pipi tlar thum in an um lai i a thing cu tlar khat a si lai; cun a man cu siangpahrang tangka in pek si seh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cun Pathian inn chung i sui le ngun umkheng hna, Jerusalem i a ummi biakinn chungin Nebukhadnezzar nih a lak i Babilon ah a ratpimi hna zong kha khirh ṭhan si hna seh law, Jerusalem i a ummi biakinn ah khan anmah le an hmunte cio ah chiah ṭhan si hna seh; Pathian inn chungah khan nan chiah hna lai,” ti in a um.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Cucaah Tattenai, Tiva Ral ram uktu bawi, Shethar-bozenai le nan hawikom Tiva Ral ram uktu bawi a simi hna, rak naih hna hlah u;
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />hi Pathian biakinn rian hi dawnkhan hlah u; Judah mi uktu bawi le Judah mi upa hna nih hi Pathian inn hi amah hmun te ah khan sa ṭhan ko hna seh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cuhleiah hi Pathian inn sak ṭhannak caah hin Judah mi upa hna caah hin zeidah nan tuah awk a simi kongah nawlbia ka chuah cang; hi mi hna hi a man cu tling tein le rau lo tein, siangpahrang tangka, Tiva Ral ram nih ngunkhuai an thawhmi chung khan pek an si lai.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cun annih nih vancung Pathian sinah khan raithawinak rim thaw kha an pekchanh i siangpahrang le a fapa hna nunnak caah thla an cam nakhnga, vancung Pathian sin i khangh thawinak caah a herhmi paoh cawtum no si hna seh, tuukawng si hna seh, tuu si hna seh, changvut si seh, cite si seh, mitsur hang si seh, chiti si seh, Jerusalem i tlangbawi hna nih an herh ningin nifate in pel lo tein nan rak pek hna lai.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cun hi nawlbia hi ahohmanh nih an thlen ahcun a thlengtu cu a inn chung i kaan pakhat kha zuh a si lai i cu kaan ah cun amah cu ṭem chih i fung in tuk a si lai; cu pinah a inn kha chuh a si lai, tiah nawl zong ka ser fawn.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Khika ah a min a umtertu Pathian nih hi thil hi thlen awkah le Jerusalem i a ummi Pathian inn kha hrawh awkah a kut a chuahtu cu ahohmanh, siangpahrang a si ah, miphun an si ah, hrawh dih si hna seh. Keimah Darius nih nawlbia hi ka chuah, fel tein tuah si seh,” a ti.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Khi tikah Darius siangpahrang nih bia a kuat hna ningin, Tattenai, Tiva Ral ram uktu bawi, Shethar-bozenai le an hawikom hna nih Darius siangpahrang nawl pekmi cu fel tein an tuah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Cun profet Haggai le Iddo fapa Zekhariah chimnak thawngin Judah mi upa hna nih cun an sak i an hma a kal. Israel Pathian nawlbia le Persia siangpahrang Sairas, Darius, le Artazaksis nawl peknak thawngin, an inn sak cu an lim;
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />cun hi inn cu Darius siangpahrang a bawi kum ruknak kum Adar thla ni thum ni ah lim a si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cun hi Pathian inn pekchanhnak cu Israel mi hna le tlangbawi hna le Levi mi hna le saltannak in a kirmi a dang hna nih khan lunglawm ngaiin an hman.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hi Pathian inn pekchanhnak ah hin cawtum za khat, tuukawng za hnih le tuufa za li an pekchanh i Israel mi vialte sual thawinak caah Israel mi an phun ning zat in mehehtum hleihnih an pekchanh,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />cun Moses cauk chungah aa ṭial bangkhan, tlangbawi hna cu an i cheu ningin, Levi mi hna cu an phu an phu in, Jerusalem i Pathian rianṭuan awkah khan an thiah hna.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Thla khatnak thla, a ni hleili ni ah saltannak in a kirmi hna nih khan lanhtak puai kha an tuah.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Tlangbawi hna le Levi mi hna kha an i thianh cang caah, an dihlak in an thiang. Cucaah saltannak in a kirmi vialte le an tlangbawi bawi hna le anmah caah khan lanhtak tuufa kha an thah;
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Israel mi saltannak in a kirmi hna le Bawipa, Israel Pathian biak awkah anmah sinah khan aa fon i cu ram mi hna thurhnawmhnak in aa thleidangmi vialte hna zong nih an ei ve.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Cun thilnu telh lo changreu puai kha ni sarih lunglawmhnak in an tuah; zeicahtiah Pathian nih an lung a lawmhter hna i Assiria siangpahrang lung cu anmah leiah khan a merter, cucaah anih nih khan Pathian, Israel mi hna Pathian inn rian ah khan, a bawmh hna.
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Cun hi hnuah hin Persia siangpahrang Artazaksis chan ah Ezra cu Babilon in a hung kal; Ezra cu Seraiah fapa a si, Seraiah cu Azariah fapa a si, Azariah cu Hilkiah fapa a si;
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Hilkiah cu Shallum fapa a si, Shallum cu Zadok fapa a si, Zadok cu Ahitub fapa a si,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Ahitub cu Amariah fapa a si, Amariah cu Azariah fapa a si, Azariah cu Meraioth fapa a si,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Meraioth cu Zerahiah fapa a si, Zerahiah cu Uzzi fapa a si, Uzzi cu Bukki fapa a si,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Bukki cu Abishua fapa a si, Abishua cu Finehas fapa a si, Finehas cu Eleazar fapa a si, Eleazar cu tlangbawi bik Aaron fapa a si —
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />hi Ezra cu Babilonia in a hung kal. Amah cu Bawipa, Israel Pathian nih a pekmi Moses phungbia i a thiam ngaingaimi a si; Bawipa, a Pathian kut cu a cungah a um caah, a halmi vialte kha siangpahrang nih a pek dih.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cun Artazaksis a bawi kum sarihnak ah khan Israel mi tlawmpal, tlangbawi tlawmpal, Levi mi tlawmpal, hlasatu hna, kutka cawngtu hna le biakinn rianṭuantu hna kha Jerusalem ah amah he cun an hung kal.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cun siangpahrang a bawi kum sarihnak a thla nganak thla ah khan Jerusalem cu an phan;
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />thla khatnak thla a ni khatnak ni ah Babilonia in aa thawh i thla nganak thla a ni khatnak ni ah Jerusalem cu a phan, zeicahtiah a Pathian kut velngeihnak cu a cungah khan a um.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ezra nih Bawipa phungbia kha cawn awk le tuah awk le a nawlbia hna le a phunglam hna kha Israel mi cawnpiak awk kha a lung in aa sehchih.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cun mah hihi Siangpahrang Artazaksis nih Israel mi ca i Bawipa nawlbia hna le phungbia hna a thiam ngaingaimi cazi, tlangbawi Ezra sinah a pekmi ca a khawpi cu a si:
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />“Siangpahrang hna siangpahrang Artazaksis nih vancung Pathian phungbia cazi, tlangbawi Ezra sinah:
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Atu cu keimah nih nawlbia ka chuah i ka ram chung i a ummi Israel mi ahopaoh si hna seh, an tlangbawi si hna seh, Levi mi si hna seh, Jerusalem ah mah lungtho tein kal a duhmi paoh cu nangmah sinah an kal kho lai.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Zeitintiah nangmah kut chung i a ummi na Pathian phungbia bangin Judah le Jerusalem kong kha va dothlat awkah, nangmah cu siangpahrang le a ruahnak petu pasarih hna nih kan in thlah,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />cun siangpahrang le a ruahnak petu hna nih Jerusalem i a ummi Israel Pathian caah mah lungtho tein an thawhmi ngun le sui le
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Babilonia ram i na hmuh laimi ngun le sui vialte le Jerusalem i a ummi an Pathian inn ca i mah lungtho tein biakamnak in mizapi hna le tlangbawi hna nih mah lungtho tein an thawhmi vialte zong kha na hei phorh lai.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hi tangka hin fel tein cawtum hna le tuukawng hna le tuufa hna kha an changvut thawinak hna le an thlet thawinak hna he tiah na cawk hna lai i na Pathian inn Jerusalem i a ummi biakṭheng cungah cun na pekchanh hna lai.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cun ngun le sui a tang rihmi hna cu nangmah le na unau hna nih a ṭha tiah nan ruahmi paoh, nan Pathian duhnak ningin, nan tuah lai.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Na Pathian inn rianṭuannak caah an in pekmi umkheng hna cu Jerusalem Pathian hmaika ah cun na va chiah hna lai.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cun na Pathian inn caah thil dang a herh rihmi paohpaoh nangmah nih peknak caan na ngeihmi paoh cu, siangpahrang tangka chungin na rak pek ko lai.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />“Cun keimah Artazaksis siangpahrang nih Tiva Ral ram i a ummi tangka kengtu vialte hna sinah nawlbia ka chuah cang i: Vancung Pathian phungbia cazi tlangbawi Ezra nih an halmi hna paoh cu,
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />ngun talen za khat tiang, changvut phor za khat tiang, mitsur hang bath za khat tiang, chiti bath za khat tiang, cun cite cu zeizat tinak um loin, fel tein nan rak tuah lai.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Vancung Pathian nawl pekmi paoh cu, siangpahrang le a fapa hna pennak cungah hin a thinhunnak a tlun sual nakhnga lo, vancung Pathian inn caah tling tein tuah si seh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Cun hi Pathian inn chung tlangbawi si hna seh, Levi mi si hna seh, hlasatu si hna seh, kutka cawngtu si hna seh, biakinn rianṭuantu si hna seh, rianṭuantu dangdang si hna seh, ahohmanh ngunkhuai siseh, thil ngeih man siseh, lam hman man siseh, thawhter cu a phung a si lai lo ti zong kha kan in theihter hna.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />“Cun nang, Ezra, na Pathian fimnak na kut chung i a ummi ning khan, Tiva Ral ram i a ummi vialte, na Pathian phungbia a hngalmi vialte kha bia a ceihtu dingah uktu bawi le biaceihtu kha na chiah hna lai; cun phungbia a hngal lomi kha nan cawnpiak hna lai.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Cun na Pathian phungbia le siangpahrang nawlbia a ngai lomi paoh cu thah awk siseh, ram chungin ṭhawl awk siseh, a thil chuh awk siseh, thong thlak awk siseh, a cungah biakhiahnak kha fek tein tuah a si lai,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Ezra nih, “ Bawipa, kan pupa hna Pathian cu thangṭhat si ko seh. Bawipa inn Jerusalem i a ummi kha dawhter awkah hi thil hi amah nih siangpahrang lung chungah khan a chiah i
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />amah nih siangpahrang le a ruahnak petu hna hmai le siangpahrang bawi a ṭhawngmi vialte hna hmaiah khan a fekmi a dawtnak cu ka cungah a chuan. Bawipa, ka Pathian kut cu ka cungah a um caah ka ral a ṭha i Israel mi hna lakin keimah sin i kal awkah hruitu deuhdeuh kha ka thim hna,” a ti.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Siangpahrang Artazaksis a bawi lio i Babilonia in keimah sinah a hung kal vemi hna cu pale chungkhar lu cio kha an si i mah hihi an tefa hna cu an si:
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Finehas tefa hna chungin Gershom. Ithamar tefa hna chungin Daniel. David tefa hna chungin Shekaniah fapa Hattush,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Parosh tefa hna chungin Zekhariah, amah sinah cun pa za khat le sawm nga minthlak an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Pahath-moab tefa hna chungin Zerahiah fapa Eliehoenai, amah he cun pa za hnih.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Zattu tefa hna chungin, Jahaziel fapa Shekaniah, cun amah he cun pa za thum.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Adin tefa hna chungin, Jonathan fapa Ebed, cun amah he cun pa sawm nga.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elam tefa hna chungin, Athaliah fapa Jeshaiah, amah he cun pa sawm sarih.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Shefatiah tefa hna chungin, Mikhael fapa Zebadiah, cun amah he cun pa sawm riat.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Joab tefa hna chungin, Jehiel fapa Obadiah, cun amah he cun pa za hnih le hleiriat.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Bani tefa hna chungin, Josifiah fapa Shelomith, cun amah he cun pa za khat le sawm ruk.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Bebai tefa hna chungin, Bebai fapa Zekhariah, cun amah he cun pa pakul le pariat.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Azgad tefa hna chungin Hakkatan fapa Johanan, cun amah he cun pa za khat le pahra.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Adonikam tefa hna chungin, annih cu hnu deuh i a ra mi an si, an min cu Elifelet, Jeuel, le Shemaiah an si, cun anmah he pa sawm ruk.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Bigvai tefa hna chungin Uthai le Zakkur, cun anmah he pa sawm sa rih.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ahava khua i a va luangmi tiva ah ka pumh hna i khika ah zan thum kan riak. Mi zapi hna le tlangbawi hna kha ka zoh ṭhan hna tikah khika ah Levi fapa hna chung mi pakhat hmanh ka hmu hna lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cun mi hruitu Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zekhariah, le Meshullam le mifim Joiarib le Elnathan kha ka cah hna i
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Kasifia hmun i hruitu a simi Iddo sinah khan ka thlah hna. Annih cu Kasifia i a ummi Iddo le a unau biakinn rianṭuantu hna sin i va chim awk kha ka chimh hna, cucu zeidah a si tiah, kan Pathian inn i rianṭuantu an kan kuat hna nakhnga ding kha a si.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cun kan cung i a ummi kan Pathian kut velngeihnak thawngin, Israel fapa Levi fapa Mahli fapa hna chungin mifim ngaingai a simi Sherebiah le a fapa hna le a rualchan hna, hleiriat kha ka sinah an ratpi hna;
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hashabiah zong Merari fapa hna chung i Jeshaiah le a rualchan hna le a fapa hna, pakul hna he tiah an ratpi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />cu lengah David le a bawi pawl nih Levi mi hna bultawltu ah an rak thleidanmi hna biakinn rianṭuantu za hnih le kul zong kha an ratpi hna. Hi hna hi an min tein ṭial an si dih.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Cun kan Pathian sinin kanmah ca le kan fale hna ca le kan thilri vialte ca i lam ding kawl awkah amah hmaiah cun kan lung kan i ṭhumh khawh nakhnga Ahava tiva ah cun rawl ulhnak kan thanh.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Cun kannih nih, “Kan Pathian kut cu amah a kawltu hna cung paoh ah cun ṭhatnak caah a um i amah a hlawtu hna paoh cu a thinhunnak ṭhawnnak kha a chuahhnawh hna,” tiin siangpahrang kha kan rak chimh cang caah, kan lam i kan ral hna sinin a kan vengtu dingah ralkap bu khat le rangcung ralkap kha siangpahrang cu hal awkah ka ning a zak.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cucaah cun rawl kan ul i kan Pathian cu kan hal i kan nawlnak cu a kan ngaihpiak.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Cun tlangbawi upa bikbik hleihnih, Sherebiah, Hashabiah le an unau hna pahra kha a dang tein ka chiah hna.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Cun siangpahrang le a fim chimtu hna le a bawi hna le khika i a ummi Israel mi vialte nih, kan Pathian inn ca i an thawhmi ngun le sui le umkheng hna cu an sinah ka thlai i ka pek hna;
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />an kut chung i ka thlai i ka pekmi hna cu hihi an si: ngun talen za ruk le sawm nga, ngun umkheng talen za khat man, sui talen za khat,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />sui khengkuar pakul, darik thong khat man, cun sui man sung tlukin a man a fakmi dar tleu um pahnih.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Cun annih cu ka thawh hna i, “Nannih cu Bawipa caah nan thiang i umkheng zong hi an thiang ve; cun ngun le sui hna cu Bawipa nan pupa hna Pathian ca i mah lungtho tein thawhmi thawhlawm an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Tlangbawi bik hna le Levi mi hna le Israel mi lak i pale innchungkhar cung i lu cio a simi hna hmaiah Jerusalem ah Bawipa inn chung dal chungah nan thlai hna hlan cu nan ven hna lai i nan ken hna lai,” tiah ka ti.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Cucaah Jerusalem i kan Pathian inn i kalpi awkah tlangbawi hna le Levi mi hna nih ngun le sui le umkheng hna cu an lak hna.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Cun kannih cu Jerusalem i kal awkah cun thla khatnak thla a ni hleihnih ni ah cun Ahava tiva cun kan i thawh; kan Pathian kut cu kan cungah a um i kan ral hna kut chung le lam i lamhruang a rak kan ahtu hna kut chungin a kan khamh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Jerusalem cu kan phan i khika ah ni thum kan cam.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />A ni linak ni ah cun, kan Pathian inn chungah khan, ngun le sui le umkheng hna cu Uriah fapa tlangbawi Meremoth kut chungah khan kan thlai hna i kan pek hna, amah sinah cun Finehas fapa Eleazar kha a um i an sinah cun Levi mi Jeshua fapa Jozabad le Binnui fapa Noadiah kha an um.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />A ningpi cun rel a si i thlai a si i zeipaoh a rih ning kha ṭial a si dih.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Khi caan ah khan, sal taannak in a kir cangmi, sal chuak pawl nih khan Israel Pathian sinah cun khangh thawinak, Israel mi vialte caah cawtum hleihnih, tuukawng sawm kua le paruk, tuufa sawm sarih le pasarih, cun sual thawinak caah mehehtum hleihnih an pekchanh; mah vialte hi Bawipa sin i pekchanhmi khangh thawinak a si.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Cun siangpahrang nih a chiahmi bawi upa hna le Tiva Ral ram uktu bawi hna sinah cun siangpahrang nawlbia ca zong cu an pek hna i annih nih mi hna le Pathian inn cu an bawmh hna.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Hi thil hi tuah dih an si tikah, bawi hna nih cun an ka fuh i, “Israel mi hna le tlangbawi hna le Levi mi hna nih hin hi ram miphun Kanaan mi hna le Hit mi hna le Periz mi hna le Jebus mi hna le Ammon mi hna le Moab mi hna le Izipt mi hna le Amor mi hna le an thil fihnung hna sin khan an i thleidang lo.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />An fanu hna kha nupi caah le an fapale hna nupi caah an lak hna i cucaah phun thiang cu hi ram mi hna he hin cawh a si cang. Cun hi zumhtlak loin umnak ah hin bawi hna le upapa hna kha an zualhma,” tiah an ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Mah hi ka theih tikah ka puan hna le ka angki kha ka thleh hna i ka lu sam le ka khahmul kha ka bawh hna i awlokchong in ka ṭhu.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cun salchuak pawl zumhtlak loin an um ruang i Israel Pathian bia ah a thermi hna cu, zanlei raithawinak tiang khuaruahhar in ka ṭhut ko lioah khan ka sinah an rak i pum.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cun zanlei raithawinak caan ah khan ka puan le ka angki tlek he cun rawl ka ulhnak khan ka hung tho i ka khuk kaa bil i Bawipa ka Pathian sinah cun ka kut ka samh hna i:
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Maw ka Pathian, nangmah lei hoih hi ka ning a zak i ka hmai a sen ko, zeicahtiah kan ṭhat lonak nih kan lu a lonh i kan mawhnak cu van a tawng.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Kan pupa hna chan in nihin tiang mawhnak nganpi kan tuah lengmang ko; cun kan ṭhat lonak caah cun kanmah le kan siangpahrang hna le kan tlangbawi hna cu ramdang siangpahrang hna kut chungah pek kan si i vainam le saltannak le ramhnak le mualphonak cu nihin i bang hin rak in lengmang kan si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sihmanhsehlaw atu cu caan tawite chung kha Bawipa kan Pathian nih zaangfahnak kan cungah a langhter, kannih cu Pathian nih kan mit kha a ceuter i kan saltannak chungah khan nun ṭhannak tlawmte a kan pek nakhnga, a tangmi a kan nganhpiak i a hmunthiang chungah a himmi hmun a kan pek.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Kannih cu sal kan si ko, sihmanhsehlaw sal kan sinak chungah hin kan Pathian nih a kan philh lo i kan Pathian inn cu dirh ṭhan awk le a rawhnak kha remh awk le Judea ram le Jerusalem khua ah kannih cu huhphenhnak pek awk le nun ṭhannak kannih cu pek awkah Persia siangpahrang hna hmaiah cun a fekmi a dawtnak tu kha a kan pek.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />“Maw kan Pathian, atu cu mah hnuah hin zeidah kan chim ti lai? Zeicahtiah na nawlbia,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />na sal profet hna sinin na kan pek i, ‘Va co awkah nan va luhhnawh laimi ram cu, cu ram i a ummi hna thian lonak thawngin a thurhnawm i khattelei kam in khattelei kam tiang an fihnunnak le an thian lonak in a khatmi ram a si.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cucaah nan fanu hna cu an fapa hna kha pe hna hlah u law, an fanu hna zong nan fapa hna caah la hna hlah u, cun kan ṭhawng lai i ram chung thil ṭha cu kan ei hna lai i kan tefa hna cu zungzal ca in ro ah kan roh hna lai tiin annih he remnak siseh, rumnak siseh kawl hlah u,’ tiah na timi kha kan hlawt hna.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Cun kan ṭhat lonak le kan mawhnak a nganmi ruang i kan cung i a tlungmi thil vialte hna hnuah hin, kan Pathian, kan ṭhat lonak nih a hmuh awk hnga nakin tlawm deuh in nangmah nih dan na kan tat i hi bantuk a tangmi hi na kan pek ti kha kan hmuh caah
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />na nawlbia hna kha buar ṭhan in hi thil fihnung a tuahmi hna he hin kan i ṭhi-um ko rih lai maw? A tangmi siseh, a luatmi siseh, kan um lo tiangin kannih kha hrawh dih awkah kan cungah na thin a hung lai lo maw?
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Maw Bawipa, Israel Pathian, nihin ah a si bang hin, kannih cu a luatmi a tangmi na kan nganh caah nangmah cu na ding ko. Na hmaiah misual si ko hmanh u sih law, kan zoh ko rih, zeicahtiah kan sualnak ruangah cun na hmaiah a dir khomi ahohmanh kan um lo,” tiah ka ti.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Ezra cu thla a cam i sual phuannak a tuah i a ṭah i Pathian inn hmaiah cun a rilh ko lioah khan, mibu nganpi, nu he ngakchia he Israel mi chungin amah sinah khan an i pum i mi cu lunghno ngaiin an ṭap.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cun Elam fapa hna chung i Jehiel i a fapa Shekaniah nih khan Ezra cu a chawnh i: “Kannih nih kan Pathian cungah zumhawktlak loin kan um i hi ram mi hna chung hin ramdang nu kha nupi ah kan i ṭhit hna, sihmanhsehlaw atu hmanh ah hin hitihin thil a si ko nain ruahchannak a um ko rih.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cucaah ka bawipa ruahnak cheuhning in le kan Pathian nawlbia ah a thermi hna ruahnak cheuhnak bangin, hi kan nupi vialte hna le an fale hna hi hlawt awkah kan Pathian sinah biakamnak ser u sih; cun phungbia ningin tuah si seh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Mah cucu na rian a si caah tho law, tuah ko, ṭih hlah, na sinah kan ṭang,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cucaah Ezra cu a tho i tlangbawi hna lak i hruitu deuhdeuh hna kha le Levi mi hna le Israel mi vialte kha an chim cang bantuk khan tuah awkah chiat a serter hna. Cucaah chiat cu an ser.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cun Ezra cu Pathian inn hmai khan a tho i Eliashib fapa Jehohanan khaan chungah khan a va kal i khika ah cu zan cu rawl zong ei lo ti zong ding loin a riak; zeicahtiah salchuak pawl zumhtlak loin an um ruangah khan a ngaih a chia.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cun Judah ram dihlak le Jerusalem ah khan, Jerusalem ah nan i pum lai tiin, salchuakmi vialte sinah cun thawng thanhnak an tuah i
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />ni thum chung i a chuak lomi paoh cu bawi hna le upa hna nawl in a thil vialte chuh a si lai i amah cu salchuak pawl bu chung luh kha donh a si lai, tiah ti a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Khi tikah Judah le Benjamin mi vialte cu ni thum chungah Jerusalem ah an i pum; thla kuanak thla, a ni kul ni ah a si. Cun mi vialte cu Pathian inn hmai i tual ah cun an i pum i hi thil kong ah hin le ruah tampi a sur caah an ther ko.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Cun tlangbawi Ezra cu a dir i a thawh hna i, “Nannih nih nan palh cang i ramdang nu kha nan ṭhit hna i cuticun Israel mawhnak kha nan karhter cang.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Atu cu nan pupa hna Pathian, Bawipa sinah khan sual phuannak tuah u law, amah duhnak kha tuah tuah u; hi ramchung mi hna le ramdang nu hna sin khan i ṭhen ko u,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cun aa pummi vialte nih aw thang piin, “A si taktak ko; na chim bangin kan tuah lai.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Sihmanhsehlaw mi hi an tam i ruah fak piin a sur caan a si fawn; lengah hitihin kan dir kho lo. Cun hi rian hi ni khat ni hnih rian zong a si fawn lo; zeicahtiah hi kongah hin fak piin kan buar cang.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kan bawi hna cu aa pummi bu dihlak caah hin dir hna seh; cun kan khua cio i ramdangmi nupi a ngeimi paoh cu, hi kong i kan Pathian thinhunnak ṭihnung cu kan cungin a ṭian hlantiang, an khua cio i upa hna le biaceihtu hna he a caan tinhmi ah cun ra hna seh,” an ti.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Asahel fapa Jonathan le Tikvah fapa Jahzeiah lawnglawng nih mah hihi an al i Meshullam le Levi mi Shabbethai nih annih cu an bawmh hna.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cu bang cun salchuak pawl nih cun an tuah. Tlangbawi Ezra nih khan mi cu a thim hna, annih cu pale innchungkhar ning cio ah lu a simi an si i an min cio ah thiah an si. Thla hranak thla, a ni khat ni ah cu kong cu ruah awkah an i pum;
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />cun thla khatnak thla a ni khat ni ah, ramdang nu a ṭhimi vialte hna donghnak cu a phan.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Tlangbawi fapa hna lakah ramdang nu a ṭhimi hna cu Maaseiah, Eliezer, Jarib, le Gedaliah an si, annih cu Jozadak fa Jeshua le a unau hna i fapa chung mi an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />An nupile cu hlawt awk kha bia an i kam i an phungbuar thawinak cu tuurun chungin tuukawng pakhat, an mawhnak caah cun a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Immer tefa hna chungin; Hanani le Zebadiah.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Harim tefa hna chungin: Maaseiah, Elijah, Shemaiah, Jehiel, le Uzziah.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Pashhur tefa hna chungin: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad le Elasah.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Levi mi hna chungin: Jozabad, Shimei, Kelaiah, (cucu Kelita a si), Pethahiah, Judah le Eliezer.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hlasatu hna chungin: Eliashib. Kutka cawngtu hna chungin: Shallum, Telem le Uri.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Israel mi chungin: Parosh tefa hna chungin: Ramiah, Izziah, Malkhijah, Mijamin, Eleazar, Hashabiah le Benaiah.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Elam tefa hna chungin: Mattaniah, Zekhariah, Jehiel, Abdi, Jeremoth, le Elijah.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Zattu tefa hna chungin: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad le Aziza.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Bebai tefa hna chungin: Jehohanan, Hananiah, Zabbai le Athlai an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Bani tefa hna chungin Meshullam, Malluk, Adaiah, Jashub, Sheal le Jeremoth an si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Pahathmoab tefa hna chungin: Adna, Khelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, le Manasseh.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Harim tefa hna chungin: Eliezer, Isshijah, Malkhijah, Shemaiah, Shimeon,
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Benjamin, Malluk, le Shemariah.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Hashum tefa hna chungin: Mattenai, Mattattah, Zabad, Elifelet, Jeremai, Manasseh le Shimei.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Bani tefa hna chungin: Maadai, Amram, Uel.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Benaiah, Bedeiah, Kheluhi,
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Vaniah, Meremoth, Eliashib,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Mattaniah, Mattenai, Jaasu.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Binnui tefa hna chungin: Shimei,
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Shelemiah, Nathan, Adaiah,
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Makhnadebai, Shashai, Sharai,
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Azarel, Shelemiah, Shemariah,
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Shallum, Amariah le Josef.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Nebo tefa hna chungin: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel le Benaiah.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Hi vialte nih hin ramdang nu hna kha an ṭhit hna i an nupi le cu an fale hna he khan an kalter hna.
+  </para>
+</usx>

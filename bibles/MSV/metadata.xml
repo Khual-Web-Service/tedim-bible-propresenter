@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBLMetadata id="e3c991a880755b94" revision="2" type="text" typeVersion="1.2">
+   <identification>
+      <name>Myanmar Standard Version (2005)</name>
+      <nameLocal>Myanmar Standard Version (2005)</nameLocal>
+      <abbreviation>MSV</abbreviation>
+      <abbreviationLocal>MSV</abbreviationLocal>
+      <scope>Old and New Testament</scope>
+      <description>Myanmar Standard Version (2005) © Bible Society of Myanmar. Old and New Testament</description>
+      <dateCompleted></dateCompleted>
+      <bundleProducer></bundleProducer>
+   </identification>
+   <agencies>
+      <etenPartner>NON-DBL</etenPartner>
+      <creator>HolySpirit</creator>
+   </agencies>
+   <language>
+      <iso>mya</iso>
+      <name>Burmese</name>
+      <script>Myanmar</script>
+      <scriptDirection>LTR</scriptDirection>
+   </language>
+   <bookNames>
+      <book code="GEN">
+         <long>ကမ္ဘာဦး</long>
+         <short>ကမ္ဘာဦး</short>
+         <abbr>ကမ္ဘာဦး</abbr>
+      </book>
+      <book code="EXO">
+         <long>ထွက်မြောက်</long>
+         <short>ထွက်မြောက်</short>
+         <abbr>ထွက်မြောက်</abbr>
+      </book>
+      <book code="LEV">
+         <long>ဝတ်ပြု</long>
+         <short>ဝတ်ပြု</short>
+         <abbr>ဝတ်ပြု</abbr>
+      </book>
+      <book code="NUM">
+         <long>တောလည်</long>
+         <short>တောလည်</short>
+         <abbr>တောလည်</abbr>
+      </book>
+      <book code="DEU">
+         <long>တရားဟော</long>
+         <short>တရားဟော</short>
+         <abbr>တရားဟော</abbr>
+      </book>
+      <book code="JOS">
+         <long>ယောရှု</long>
+         <short>ယောရှု</short>
+         <abbr>ယောရှု</abbr>
+      </book>
+      <book code="JDG">
+         <long>သူကြီး</long>
+         <short>သူကြီး</short>
+         <abbr>သူကြီး</abbr>
+      </book>
+      <book code="RUT">
+         <long>ရုသ</long>
+         <short>ရုသ</short>
+         <abbr>ရုသ</abbr>
+      </book>
+      <book code="1SA">
+         <long>၁ ရာ</long>
+         <short>၁ ရာ</short>
+         <abbr>၁ ရာ</abbr>
+      </book>
+      <book code="2SA">
+         <long>၂ ရာ</long>
+         <short>၂ ရာ</short>
+         <abbr>၂ ရာ</abbr>
+      </book>
+      <book code="1KI">
+         <long>၃ ရာ</long>
+         <short>၃ ရာ</short>
+         <abbr>၃ ရာ</abbr>
+      </book>
+      <book code="2KI">
+         <long>၄ ရာ</long>
+         <short>၄ ရာ</short>
+         <abbr>၄ ရာ</abbr>
+      </book>
+      <book code="1CH">
+         <long>၁ ရာချုပ်</long>
+         <short>၁ ရာချုပ်</short>
+         <abbr>၁ ရာချုပ်</abbr>
+      </book>
+      <book code="2CH">
+         <long>၂ ရာချုပ်</long>
+         <short>၂ ရာချုပ်</short>
+         <abbr>၂ ရာချုပ်</abbr>
+      </book>
+      <book code="EZR">
+         <long>ဧဇရ</long>
+         <short>ဧဇရ</short>
+         <abbr>ဧဇရ</abbr>
+      </book>
+      <book code="NEH">
+         <long>နေဟမိ</long>
+         <short>နေဟမိ</short>
+         <abbr>နေဟမိ</abbr>
+      </book>
+      <book code="EST">
+         <long>ဧသတာ</long>
+         <short>ဧသတာ</short>
+         <abbr>ဧသတာ</abbr>
+      </book>
+      <book code="JOB">
+         <long>ယောဘဝတ္တု။</long>
+         <short>ယောဘဝတ္တု။</short>
+         <abbr>ယောဘဝတ္တု။</abbr>
+      </book>
+      <book code="PSA">
+         <long>ဆာလံ</long>
+         <short>ဆာလံ</short>
+         <abbr>ဆာလံ</abbr>
+      </book>
+      <book code="PRO">
+         <long>သုတ္တံကျမ်း။</long>
+         <short>သုတ္တံကျမ်း။</short>
+         <abbr>သုတ္တံကျမ်း။</abbr>
+      </book>
+      <book code="ECC">
+         <long>ဒေသနာကျမ်း။</long>
+         <short>ဒေသနာကျမ်း။</short>
+         <abbr>ဒေသနာကျမ်း။</abbr>
+      </book>
+      <book code="SNG">
+         <long>ရှောလမုန်သီချင်း။</long>
+         <short>ရှောလမုန်သီချင်း။</short>
+         <abbr>ရှောလမုန်သီချင်း။</abbr>
+      </book>
+      <book code="ISA">
+         <long>ဟေရှာယ</long>
+         <short>ဟေရှာယ</short>
+         <abbr>ဟေရှာယ</abbr>
+      </book>
+      <book code="JER">
+         <long>ယေရမိ</long>
+         <short>ယေရမိ</short>
+         <abbr>ယေရမိ</abbr>
+      </book>
+      <book code="LAM">
+         <long>မြည်တမ်းစကား</long>
+         <short>မြည်တမ်းစကား</short>
+         <abbr>မြည်တမ်းစကား</abbr>
+      </book>
+      <book code="EZK">
+         <long>ယေဇကျေလ</long>
+         <short>ယေဇကျေလ</short>
+         <abbr>ယေဇကျေလ</abbr>
+      </book>
+      <book code="DAN">
+         <long>ဒံယေလ</long>
+         <short>ဒံယေလ</short>
+         <abbr>ဒံယေလ</abbr>
+      </book>
+      <book code="HOS">
+         <long>ဟောရှေ</long>
+         <short>ဟောရှေ</short>
+         <abbr>ဟောရှေ</abbr>
+      </book>
+      <book code="JOL">
+         <long>ယောလ</long>
+         <short>ယောလ</short>
+         <abbr>ယောလ</abbr>
+      </book>
+      <book code="AMO">
+         <long>အာမုတ်</long>
+         <short>အာမုတ်</short>
+         <abbr>အာမုတ်</abbr>
+      </book>
+      <book code="OBA">
+         <long>သြဗဒိ</long>
+         <short>သြဗဒိ</short>
+         <abbr>သြဗဒိ</abbr>
+      </book>
+      <book code="JON">
+         <long>ယောန</long>
+         <short>ယောန</short>
+         <abbr>ယောန</abbr>
+      </book>
+      <book code="MIC">
+         <long>မိက္ခာ</long>
+         <short>မိက္ခာ</short>
+         <abbr>မိက္ခာ</abbr>
+      </book>
+      <book code="NAM">
+         <long>နာဟုံ</long>
+         <short>နာဟုံ</short>
+         <abbr>နာဟုံ</abbr>
+      </book>
+      <book code="HAB">
+         <long>ဟဗက္ကုတ်</long>
+         <short>ဟဗက္ကုတ်</short>
+         <abbr>ဟဗက္ကုတ်</abbr>
+      </book>
+      <book code="ZEP">
+         <long>ဇေဖနိ</long>
+         <short>ဇေဖနိ</short>
+         <abbr>ဇေဖနိ</abbr>
+      </book>
+      <book code="HAG">
+         <long>ဟ္ဂဲ</long>
+         <short>ဟ္ဂဲ</short>
+         <abbr>ဟ္ဂဲ</abbr>
+      </book>
+      <book code="ZEC">
+         <long>ဇာခရိ</long>
+         <short>ဇာခရိ</short>
+         <abbr>ဇာခရိ</abbr>
+      </book>
+      <book code="MAL">
+         <long>မာလခိ</long>
+         <short>မာလခိ</short>
+         <abbr>မာလခိ</abbr>
+      </book>
+      <book code="MAT">
+         <long>မဿဲ</long>
+         <short>မဿဲ</short>
+         <abbr>မဿဲ</abbr>
+      </book>
+      <book code="MRK">
+         <long>ရှင်မာကု</long>
+         <short>ရှင်မာကု</short>
+         <abbr>ရှင်မာကု</abbr>
+      </book>
+      <book code="LUK">
+         <long>လုကာ</long>
+         <short>လုကာ</short>
+         <abbr>လုကာ</abbr>
+      </book>
+      <book code="JHN">
+         <long>ရှင်ယောဟန်</long>
+         <short>ရှင်ယောဟန်</short>
+         <abbr>ရှင်ယောဟန်</abbr>
+      </book>
+      <book code="ACT">
+         <long>တမန်တော်ဝတ္ထု</long>
+         <short>တမန်တော်ဝတ္ထု</short>
+         <abbr>တမန်တော်ဝတ္ထု</abbr>
+      </book>
+      <book code="ROM">
+         <long>ရောမ</long>
+         <short>ရောမ</short>
+         <abbr>ရောမ</abbr>
+      </book>
+      <book code="1CO">
+         <long>၁ ကော</long>
+         <short>၁ ကော</short>
+         <abbr>၁ ကော</abbr>
+      </book>
+      <book code="2CO">
+         <long>၂ ကော</long>
+         <short>၂ ကော</short>
+         <abbr>၂ ကော</abbr>
+      </book>
+      <book code="GAL">
+         <long>ဂလာတိ</long>
+         <short>ဂလာတိ</short>
+         <abbr>ဂလာတိ</abbr>
+      </book>
+      <book code="EPH">
+         <long>ဧဖက်</long>
+         <short>ဧဖက်</short>
+         <abbr>ဧဖက်</abbr>
+      </book>
+      <book code="PHP">
+         <long>ဖိလိပ္ပိ</long>
+         <short>ဖိလိပ္ပိ</short>
+         <abbr>ဖိလိပ္ပိ</abbr>
+      </book>
+      <book code="COL">
+         <long>ကောလောသဲ</long>
+         <short>ကောလောသဲ</short>
+         <abbr>ကောလောသဲ</abbr>
+      </book>
+      <book code="1TH">
+         <long>၁ သက်</long>
+         <short>၁ သက်</short>
+         <abbr>၁ သက်</abbr>
+      </book>
+      <book code="2TH">
+         <long>၂ သက်</long>
+         <short>၂ သက်</short>
+         <abbr>၂ သက်</abbr>
+      </book>
+      <book code="1TI">
+         <long>၁ တိ</long>
+         <short>၁ တိ</short>
+         <abbr>၁ တိ</abbr>
+      </book>
+      <book code="2TI">
+         <long>၂ တိ</long>
+         <short>၂ တိ</short>
+         <abbr>၂ တိ</abbr>
+      </book>
+      <book code="TIT">
+         <long>တိတု</long>
+         <short>တိတု</short>
+         <abbr>တိတု</abbr>
+      </book>
+      <book code="PHM">
+         <long>ဖိလေမုန်</long>
+         <short>ဖိလေမုန်</short>
+         <abbr>ဖိလေမုန်</abbr>
+      </book>
+      <book code="HEB">
+         <long>ဟေဗြဲ</long>
+         <short>ဟေဗြဲ</short>
+         <abbr>ဟေဗြဲ</abbr>
+      </book>
+      <book code="JAS">
+         <long>ယာကုပ်</long>
+         <short>ယာကုပ်</short>
+         <abbr>ယာကုပ်</abbr>
+      </book>
+      <book code="1PE">
+         <long>၁ ပေ</long>
+         <short>၁ ပေ</short>
+         <abbr>၁ ပေ</abbr>
+      </book>
+      <book code="2PE">
+         <long>၂ ပေ</long>
+         <short>၂ ပေ</short>
+         <abbr>၂ ပေ</abbr>
+      </book>
+      <book code="1JN">
+         <long>၁ ယော</long>
+         <short>၁ ယော</short>
+         <abbr>၁ ယော</abbr>
+      </book>
+      <book code="2JN">
+         <long>၂ ယော</long>
+         <short>၂ ယော</short>
+         <abbr>၂ ယော</abbr>
+      </book>
+      <book code="3JN">
+         <long>၃ ယော</long>
+         <short>၃ ယော</short>
+         <abbr>၃ ယော</abbr>
+      </book>
+      <book code="JUD">
+         <long>ယုဒ</long>
+         <short>ယုဒ</short>
+         <abbr>ယုဒ</abbr>
+      </book>
+      <book code="REV">
+         <long>ဗျာဒိတ်</long>
+         <short>ဗျာဒိတ်</short>
+         <abbr>ဗျာဒိတ်</abbr>
+      </book>
+   </bookNames>
+   <contents>
+      <bookList id="1" default="yes">
+         <name>Myanmar Standard Version (2005)</name>
+         <nameLocal>Myanmar Standard Version (2005)</nameLocal>
+         <abbreviation>MSV</abbreviation>
+         <abbreviationLocal>MSV</abbreviationLocal>
+         <description>null</description>
+         <range>Old and New Testament</range>
+         <tradition />
+         <books>
+            <book code="GEN" />
+            <book code="EXO" />
+            <book code="LEV" />
+            <book code="NUM" />
+            <book code="DEU" />
+            <book code="JOS" />
+            <book code="JDG" />
+            <book code="RUT" />
+            <book code="1SA" />
+            <book code="2SA" />
+            <book code="1KI" />
+            <book code="2KI" />
+            <book code="1CH" />
+            <book code="2CH" />
+            <book code="EZR" />
+            <book code="NEH" />
+            <book code="EST" />
+            <book code="JOB" />
+            <book code="PSA" />
+            <book code="PRO" />
+            <book code="ECC" />
+            <book code="SNG" />
+            <book code="ISA" />
+            <book code="JER" />
+            <book code="LAM" />
+            <book code="EZK" />
+            <book code="DAN" />
+            <book code="HOS" />
+            <book code="JOL" />
+            <book code="AMO" />
+            <book code="OBA" />
+            <book code="JON" />
+            <book code="MIC" />
+            <book code="NAM" />
+            <book code="HAB" />
+            <book code="ZEP" />
+            <book code="HAG" />
+            <book code="ZEC" />
+            <book code="MAL" />
+            <book code="MAT" />
+            <book code="MRK" />
+            <book code="LUK" />
+            <book code="JHN" />
+            <book code="ACT" />
+            <book code="ROM" />
+            <book code="1CO" />
+            <book code="2CO" />
+            <book code="GAL" />
+            <book code="EPH" />
+            <book code="PHP" />
+            <book code="COL" />
+            <book code="1TH" />
+            <book code="2TH" />
+            <book code="1TI" />
+            <book code="2TI" />
+            <book code="TIT" />
+            <book code="PHM" />
+            <book code="HEB" />
+            <book code="JAS" />
+            <book code="1PE" />
+            <book code="2PE" />
+            <book code="1JN" />
+            <book code="2JN" />
+            <book code="3JN" />
+            <book code="JUD" />
+            <book code="REV" />
+         </books>
+      </bookList>
+   </contents>
+</DBLMetadata>

@@ -28,6 +28,126 @@
       "name": "King James Version",
       "language": "eng",
       "license": "Crown Copyright in UK"
+    },
+    {
+      "uuid": "2feaf0af-dbc4-566f-a053-c6f37d66e8af",
+      "abbreviation": "ZBI",
+      "name": "Lai Siengthou (Zou 1992)",
+      "language": "zom",
+      "license": "Lai Siengthou (Zou 1992) © Bible Society of India",
+      "source": "laisiangtho/bible json/1065.json"
+    },
+    {
+      "uuid": "723e4a80-7b6d-520d-85f0-475603621e9e",
+      "abbreviation": "ZBM",
+      "name": "Zo Bible (Zou 2018)",
+      "language": "zom",
+      "license": "Zo Bible (Zou 2018) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/2486.json"
+    },
+    {
+      "uuid": "43ce8f7f-da3f-53a2-85a2-39bb3a8644de",
+      "abbreviation": "PAITE",
+      "name": "Paite Bible (1971)",
+      "language": "pck",
+      "license": "Paite Bible (1971) © Bible Society of India",
+      "source": "laisiangtho/bible json/paite1971.json"
+    },
+    {
+      "uuid": "d56cbcd5-bbb5-560d-8294-e7046c02ccf0",
+      "abbreviation": "SIZANG",
+      "name": "Lai Siangtho (Sizang 1932)",
+      "language": "csy",
+      "license": "Lai Siangtho (Sizang 1932) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/sizang1932.json"
+    },
+    {
+      "uuid": "477acd82-466e-5c6c-80fe-6d18b95bddda",
+      "abbreviation": "FALAM",
+      "name": "Baibal Thianghlim (Falam 1973)",
+      "language": "cfm",
+      "license": "Baibal Thianghlim (Falam 1973) © Falam Bible Revision",
+      "source": "laisiangtho/bible json/falam1973.json"
+    },
+    {
+      "uuid": "b4532e31-7ab8-5c1a-b60b-bf82af7be8ad",
+      "abbreviation": "HAKHA",
+      "name": "Baibal Thiang (Hakha 1920)",
+      "language": "cnh",
+      "license": "Baibal Thiang (Hakha 1920) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/hakha1920.json"
+    },
+    {
+      "uuid": "5f92d6c1-03ad-580f-8333-622e2e5c09fa",
+      "abbreviation": "MIZO",
+      "name": "Pathian Lehkhabu Thianghlim (Mizo 1917)",
+      "language": "lus",
+      "license": "Pathian Lehkhabu Thianghlim (Mizo 1917) © Bible Society of India",
+      "source": "laisiangtho/bible json/mizo1917.json"
+    },
+    {
+      "uuid": "9f86e3a3-1db5-546e-a820-180f98861d8b",
+      "abbreviation": "MIZOCL",
+      "name": "Common Language Bible (Mizo 1995)",
+      "language": "lus",
+      "license": "Common Language Bible (Mizo 1995) © Bible Society of India",
+      "source": "laisiangtho/bible json/1048.json"
+    },
+    {
+      "uuid": "dccd780c-7751-526d-a21a-bd00a160424a",
+      "abbreviation": "MARA",
+      "name": "Khazopa Chabu Pathaipa (Mara 2011)",
+      "language": "mrh",
+      "license": "Khazopa Chabu Pathaipa (Mara 2011) © Bible Society of India",
+      "source": "laisiangtho/bible json/mara2011.json"
+    },
+    {
+      "uuid": "5c182e70-6c8f-50a7-b28c-e77f79169962",
+      "abbreviation": "THADOU",
+      "name": "Pathen Thutheng Bu (Thadou 2015)",
+      "language": "tcz",
+      "license": "Pathen Thutheng Bu (Thadou 2015) © the copyright holder",
+      "source": "laisiangtho/bible json/1879.json"
+    },
+    {
+      "uuid": "e3c991a8-8075-5b94-b3eb-760845851a53",
+      "abbreviation": "MSV",
+      "name": "Myanmar Standard Version (2005)",
+      "language": "mya",
+      "license": "Myanmar Standard Version (2005) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/mcl2005.json"
+    },
+    {
+      "uuid": "f2cc3a33-dfa0-553c-8ef0-df34b64c7f7a",
+      "abbreviation": "MCL",
+      "name": "Myanmar Common Language (2005)",
+      "language": "mya",
+      "license": "Myanmar Common Language (2005) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/1391.json"
+    },
+    {
+      "uuid": "1ca6f0d5-5bd0-53e3-bf82-c7198e41e5a9",
+      "abbreviation": "MNWT",
+      "name": "New World Translation (Burmese 2010)",
+      "language": "mya",
+      "license": "New World Translation (Burmese 2010) © JW.ORG",
+      "source": "laisiangtho/bible json/jwmynwt.json"
+    },
+    {
+      "uuid": "d83fac46-39ff-56d9-a49e-a5b80c7975fa",
+      "abbreviation": "JCLB",
+      "name": "Jinghpaw Common Language Bible (2009)",
+      "language": "kac",
+      "license": "Jinghpaw Common Language Bible (2009) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/348.json"
+    },
+    {
+      "uuid": "c85c2c0d-b2c6-5484-89bc-7b556cd150ff",
+      "abbreviation": "JHVB",
+      "name": "Jinghpaw Hanson Version Bible (2009)",
+      "language": "kac",
+      "license": "Jinghpaw Hanson Version Bible (2009) © Bible Society of Myanmar",
+      "source": "laisiangtho/bible json/2647.json"
     }
   ]
 }

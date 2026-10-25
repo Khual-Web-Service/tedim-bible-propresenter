@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBLMetadata id="f2cc3a33dfa0553c" revision="2" type="text" typeVersion="1.2">
+   <identification>
+      <name>Myanmar Common Language (2005)</name>
+      <nameLocal>Myanmar Common Language (2005)</nameLocal>
+      <abbreviation>MCL</abbreviation>
+      <abbreviationLocal>MCL</abbreviationLocal>
+      <scope>Old and New Testament</scope>
+      <description>Myanmar Common Language (2005) © Bible Society of Myanmar. Old and New Testament</description>
+      <dateCompleted></dateCompleted>
+      <bundleProducer></bundleProducer>
+   </identification>
+   <agencies>
+      <etenPartner>NON-DBL</etenPartner>
+      <creator>HolySpirit</creator>
+   </agencies>
+   <language>
+      <iso>mya</iso>
+      <name>Burmese</name>
+      <script>Myanmar</script>
+      <scriptDirection>LTR</scriptDirection>
+   </language>
+   <bookNames>
+      <book code="GEN">
+         <long>ကမ္ဘာဦးကျမ်း</long>
+         <short>ကမ္ဘာဦးကျမ်း</short>
+         <abbr>က</abbr>
+      </book>
+      <book code="EXO">
+         <long>ထွက်မြောက်ရာကျမ်း</long>
+         <short>ထွက်မြောက်ရာကျမ်း</short>
+         <abbr>ထွ</abbr>
+      </book>
+      <book code="LEV">
+         <long>ဝတ်ပြုရာကျမ်း</long>
+         <short>ဝတ်ပြုရာကျမ်း</short>
+         <abbr>ဝတ်</abbr>
+      </book>
+      <book code="NUM">
+         <long>တောလည်ရာကျမ်း</long>
+         <short>တောလည်ရာကျမ်း</short>
+         <abbr>တော</abbr>
+      </book>
+      <book code="DEU">
+         <long>တရားဟောရာကျမ်း</long>
+         <short>တရားဟောရာကျမ်း</short>
+         <abbr>တရား</abbr>
+      </book>
+      <book code="JOS">
+         <long>ယောရှုမှတ်စာ</long>
+         <short>ယောရှုမှတ်စာ</short>
+         <abbr>ယောရှု</abbr>
+      </book>
+      <book code="JDG">
+         <long>တရားသူကြီးမှတ်စာ</long>
+         <short>တရားသူကြီးမှတ်စာ</short>
+         <abbr>သူကြီး</abbr>
+      </book>
+      <book code="RUT">
+         <long>ရုသဝတ္ထု</long>
+         <short>ရုသဝတ္ထု</short>
+         <abbr>ရု</abbr>
+      </book>
+      <book code="1SA">
+         <long>ဓမ္မရာဇဝင်ပထမစောင်</long>
+         <short>ဓမ္မရာဇဝင်ပထမစောင်</short>
+         <abbr>၁ရာ</abbr>
+      </book>
+      <book code="2SA">
+         <long>ဓမ္မရာဇဝင်ဒုတိယစောင်</long>
+         <short>ဓမ္မရာဇဝင်ဒုတိယစောင်</short>
+         <abbr>၂ရာ</abbr>
+      </book>
+      <book code="1KI">
+         <long>ဓမ္မရာဇဝင်တတိယစောင်</long>
+         <short>ဓမ္မရာဇဝင်တတိယစောင်</short>
+         <abbr>၃ရာ</abbr>
+      </book>
+      <book code="2KI">
+         <long>ဓမ္မရာဇဝင်စတုတ္ထစောင်</long>
+         <short>ဓမ္မရာဇဝင်စတုတ္ထစောင်</short>
+         <abbr>၄ရာ</abbr>
+      </book>
+      <book code="1CH">
+         <long>ရာဇဝင်ချုပ်ပထမစောင်</long>
+         <short>ရာဇဝင်ချုပ်ပထမစောင်</short>
+         <abbr>၅ရာ</abbr>
+      </book>
+      <book code="2CH">
+         <long>ရာဇဝင်ချုပ်ဒုတိယစောင်</long>
+         <short>ရာဇဝင်ချုပ်ဒုတိယစောင်</short>
+         <abbr>၆ရာ</abbr>
+      </book>
+      <book code="EZR">
+         <long>ဧဇရမှတ်စာ</long>
+         <short>ဧဇရမှတ်စာ</short>
+         <abbr>ဧဇ</abbr>
+      </book>
+      <book code="NEH">
+         <long>နေဟမိမှတ်စာ</long>
+         <short>နေဟမိမှတ်စာ</short>
+         <abbr>နေ</abbr>
+      </book>
+      <book code="EST">
+         <long>ဧသတာဝတ္ထု</long>
+         <short>ဧသတာဝတ္ထု</short>
+         <abbr>ဧသ</abbr>
+      </book>
+      <book code="JOB">
+         <long>ယောဘဝတ္ထု</long>
+         <short>ယောဘဝတ္ထု</short>
+         <abbr>ယောဘ</abbr>
+      </book>
+      <book code="PSA">
+         <long>ဆာလံကျမ်း</long>
+         <short>ဆာလံကျမ်း</short>
+         <abbr>ဆာ</abbr>
+      </book>
+      <book code="PRO">
+         <long>သုတ္တံကျမ်း</long>
+         <short>သုတ္တံကျမ်း</short>
+         <abbr>သု</abbr>
+      </book>
+      <book code="ECC">
+         <long>ဒေသနာကျမ်း</long>
+         <short>ဒေသနာကျမ်း</short>
+         <abbr>ဒေ</abbr>
+      </book>
+      <book code="SNG">
+         <long>ရှောလမုန်သီချင်း</long>
+         <short>ရှောလမုန်သီချင်း</short>
+         <abbr>သီ</abbr>
+      </book>
+      <book code="ISA">
+         <long>ဟေရှာယအနာဂတ္တိကျမ်း</long>
+         <short>ဟေရှာယအနာဂတ္တိကျမ်း</short>
+         <abbr>ဟေရှာ</abbr>
+      </book>
+      <book code="JER">
+         <long>ယေရမိအနာဂတ္တိကျမ်း</long>
+         <short>ယေရမိအနာဂတ္တိကျမ်း</short>
+         <abbr>ယေ</abbr>
+      </book>
+      <book code="LAM">
+         <long>ယေရမိမြည်တမ်းစကား</long>
+         <short>ယေရမိမြည်တမ်းစကား</short>
+         <abbr>မြည်</abbr>
+      </book>
+      <book code="EZK">
+         <long>ယေဇကျေလအနာဂတ္တိကျမ်း</long>
+         <short>ယေဇကျေလအနာဂတ္တိကျမ်း</short>
+         <abbr>ယေဇ</abbr>
+      </book>
+      <book code="DAN">
+         <long>ဒံယေလအနာဂတ္တိကျမ်း</long>
+         <short>ဒံယေလအနာဂတ္တိကျမ်း</short>
+         <abbr>ဒံ</abbr>
+      </book>
+      <book code="HOS">
+         <long>ဟောရှေအနာဂတ္တိကျမ်း</long>
+         <short>ဟောရှေအနာဂတ္တိကျမ်း</short>
+         <abbr>ဟော</abbr>
+      </book>
+      <book code="JOL">
+         <long>ယောလအနာဂတ္တိကျမ်း</long>
+         <short>ယောလအနာဂတ္တိကျမ်း</short>
+         <abbr>ယောလ</abbr>
+      </book>
+      <book code="AMO">
+         <long>အာမုတ်အနာဂတ္တိကျမ်း</long>
+         <short>အာမုတ်အနာဂတ္တိကျမ်း</short>
+         <abbr>အာ</abbr>
+      </book>
+      <book code="OBA">
+         <long>ဩဗဒိအနာဂတ္တိကျမ်း</long>
+         <short>ဩဗဒိအနာဂတ္တိကျမ်း</short>
+         <abbr>ဩ</abbr>
+      </book>
+      <book code="JON">
+         <long>ယောနဝတ္ထု</long>
+         <short>ယောနဝတ္ထု</short>
+         <abbr>ယောန</abbr>
+      </book>
+      <book code="MIC">
+         <long>မိက္ခာအနာဂတ္တိကျမ်း</long>
+         <short>မိက္ခာအနာဂတ္တိကျမ်း</short>
+         <abbr>မိ</abbr>
+      </book>
+      <book code="NAM">
+         <long>နာဟုံအနာဂတ္တိကျမ်း</long>
+         <short>နာဟုံအနာဂတ္တိကျမ်း</short>
+         <abbr>နာ</abbr>
+      </book>
+      <book code="HAB">
+         <long>ဟာဗက္ကုတ်အနာဂတ္တိကျမ်း</long>
+         <short>ဟာဗက္ကုတ်အနာဂတ္တိကျမ်း</short>
+         <abbr>ဟဗ</abbr>
+      </book>
+      <book code="ZEP">
+         <long>ဇေဖနိအနာဂတ္တိကျမ်း</long>
+         <short>ဇေဖနိအနာဂတ္တိကျမ်း</short>
+         <abbr>ဇေ</abbr>
+      </book>
+      <book code="HAG">
+         <long>ဟဂ္ဂဲအနာဂတ္တိကျမ်း</long>
+         <short>ဟဂ္ဂဲအနာဂတ္တိကျမ်း</short>
+         <abbr>ဟဂ္ဂဲ</abbr>
+      </book>
+      <book code="ZEC">
+         <long>ဇာခရိအနာဂတ္တိကျမ်း</long>
+         <short>ဇာခရိအနာဂတ္တိကျမ်း</short>
+         <abbr>ဇာ</abbr>
+      </book>
+      <book code="MAL">
+         <long>မာလခိအနာဂတ္တိကျမ်း</long>
+         <short>မာလခိအနာဂတ္တိကျမ်း</short>
+         <abbr>မာလ</abbr>
+      </book>
+      <book code="MAT">
+         <long>ရှင်မဿဲခရစ်ဝင်</long>
+         <short>ရှင်မဿဲခရစ်ဝင်</short>
+         <abbr>မ</abbr>
+      </book>
+      <book code="MRK">
+         <long>ရှင်မာကုခရစ်ဝင်</long>
+         <short>ရှင်မာကုခရစ်ဝင်</short>
+         <abbr>မာ</abbr>
+      </book>
+      <book code="LUK">
+         <long>ရှင်လုကာခရစ်ဝင်</long>
+         <short>ရှင်လုကာခရစ်ဝင်</short>
+         <abbr>လု</abbr>
+      </book>
+      <book code="JHN">
+         <long>ရှင်ယောဟန်ခရစ်ဝင်</long>
+         <short>ရှင်ယောဟန်ခရစ်ဝင်</short>
+         <abbr>ယော</abbr>
+      </book>
+      <book code="ACT">
+         <long>တမန်တော်ဝတ္ထု</long>
+         <short>တမန်တော်ဝတ္ထု</short>
+         <abbr>တ</abbr>
+      </book>
+      <book code="ROM">
+         <long>ရောမဩဝါဒစာ</long>
+         <short>ရောမဩဝါဒစာ</short>
+         <abbr>ရော</abbr>
+      </book>
+      <book code="1CO">
+         <long>ကောရိန္သုဩဝါဒစာပထမစောင်</long>
+         <short>ကောရိန္သုဩဝါဒစာပထမစောင်</short>
+         <abbr>၁ကော</abbr>
+      </book>
+      <book code="2CO">
+         <long>ကောရိန္သုဩဝါဒစာဒုတိယစောင်</long>
+         <short>ကောရိန္သုဩဝါဒစာဒုတိယစောင်</short>
+         <abbr>၂ကော</abbr>
+      </book>
+      <book code="GAL">
+         <long>ဂလာတိဩဝါဒစာ</long>
+         <short>ဂလာတိဩဝါဒစာ</short>
+         <abbr>ဂလ</abbr>
+      </book>
+      <book code="EPH">
+         <long>ဧဖက်ဩဝါဒစာ</long>
+         <short>ဧဖက်ဩဝါဒစာ</short>
+         <abbr>ဧ</abbr>
+      </book>
+      <book code="PHP">
+         <long>ဖိလိပ္ပိသြဝါဒစာ</long>
+         <short>ဖိလိပ္ပိသြဝါဒစာ</short>
+         <abbr>ဖိ</abbr>
+      </book>
+      <book code="COL">
+         <long>ကောလောသဲဩဝါဒစာ</long>
+         <short>ကောလောသဲဩဝါဒစာ</short>
+         <abbr>ကော</abbr>
+      </book>
+      <book code="1TH">
+         <long>သက်သာလောနိတ်ဩဝါဒစာပထမစောင်</long>
+         <short>သက်သာလောနိတ်ဩဝါဒစာပထမစောင်</short>
+         <abbr>၁သက်</abbr>
+      </book>
+      <book code="2TH">
+         <long>သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</long>
+         <short>သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</short>
+         <abbr>၂သက်</abbr>
+      </book>
+      <book code="1TI">
+         <long>တိမောသေဩဝါဒစာပထမစောင်</long>
+         <short>တိမောသေဩဝါဒစာပထမစောင်</short>
+         <abbr>၁တိ</abbr>
+      </book>
+      <book code="2TI">
+         <long>တိမောသေဩဝါဒစာဒုတိယစောင်</long>
+         <short>တိမောသေဩဝါဒစာဒုတိယစောင်</short>
+         <abbr>၂တိ</abbr>
+      </book>
+      <book code="TIT">
+         <long>တိတုဩဝါဒစာ</long>
+         <short>တိတုဩဝါဒစာ</short>
+         <abbr>တိ</abbr>
+      </book>
+      <book code="PHM">
+         <long>ဖိလေမုန်ဩဝါဒစာ</long>
+         <short>ဖိလေမုန်ဩဝါဒစာ</short>
+         <abbr>ဖိလေ</abbr>
+      </book>
+      <book code="HEB">
+         <long>ဟေဗြဲဩဝါဒစာ</long>
+         <short>ဟေဗြဲဩဝါဒစာ</short>
+         <abbr>ဟေဗြဲ</abbr>
+      </book>
+      <book code="JAS">
+         <long>ရှင်ယာကုပ်ဩဝါဒစာ</long>
+         <short>ရှင်ယာကုပ်ဩဝါဒစာ</short>
+         <abbr>ယာ</abbr>
+      </book>
+      <book code="1PE">
+         <long>ရှင်ပေတရုဩဝါဒစာပထမစောင်</long>
+         <short>ရှင်ပေတရုဩဝါဒစာပထမစောင်</short>
+         <abbr>၁ပေ</abbr>
+      </book>
+      <book code="2PE">
+         <long>ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</long>
+         <short>ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</short>
+         <abbr>၂ပေ</abbr>
+      </book>
+      <book code="1JN">
+         <long>ရှင်ယောဟန်ဩဝါဒစာပထမစောင်</long>
+         <short>ရှင်ယောဟန်ဩဝါဒစာပထမစောင်</short>
+         <abbr>၁ယော</abbr>
+      </book>
+      <book code="2JN">
+         <long>ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</long>
+         <short>ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</short>
+         <abbr>၂ယော</abbr>
+      </book>
+      <book code="3JN">
+         <long>ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်</long>
+         <short>ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်</short>
+         <abbr>၃ယော</abbr>
+      </book>
+      <book code="JUD">
+         <long>ရှင်ယုဒဩဝါဒစာ</long>
+         <short>ရှင်ယုဒဩဝါဒစာ</short>
+         <abbr>ယု</abbr>
+      </book>
+      <book code="REV">
+         <long>ဗျာဒိတ်ကျမ်း</long>
+         <short>ဗျာဒိတ်ကျမ်း</short>
+         <abbr>ဗျာ</abbr>
+      </book>
+   </bookNames>
+   <contents>
+      <bookList id="1" default="yes">
+         <name>Myanmar Common Language (2005)</name>
+         <nameLocal>Myanmar Common Language (2005)</nameLocal>
+         <abbreviation>MCL</abbreviation>
+         <abbreviationLocal>MCL</abbreviationLocal>
+         <description>null</description>
+         <range>Old and New Testament</range>
+         <tradition />
+         <books>
+            <book code="GEN" />
+            <book code="EXO" />
+            <book code="LEV" />
+            <book code="NUM" />
+            <book code="DEU" />
+            <book code="JOS" />
+            <book code="JDG" />
+            <book code="RUT" />
+            <book code="1SA" />
+            <book code="2SA" />
+            <book code="1KI" />
+            <book code="2KI" />
+            <book code="1CH" />
+            <book code="2CH" />
+            <book code="EZR" />
+            <book code="NEH" />
+            <book code="EST" />
+            <book code="JOB" />
+            <book code="PSA" />
+            <book code="PRO" />
+            <book code="ECC" />
+            <book code="SNG" />
+            <book code="ISA" />
+            <book code="JER" />
+            <book code="LAM" />
+            <book code="EZK" />
+            <book code="DAN" />
+            <book code="HOS" />
+            <book code="JOL" />
+            <book code="AMO" />
+            <book code="OBA" />
+            <book code="JON" />
+            <book code="MIC" />
+            <book code="NAM" />
+            <book code="HAB" />
+            <book code="ZEP" />
+            <book code="HAG" />
+            <book code="ZEC" />
+            <book code="MAL" />
+            <book code="MAT" />
+            <book code="MRK" />
+            <book code="LUK" />
+            <book code="JHN" />
+            <book code="ACT" />
+            <book code="ROM" />
+            <book code="1CO" />
+            <book code="2CO" />
+            <book code="GAL" />
+            <book code="EPH" />
+            <book code="PHP" />
+            <book code="COL" />
+            <book code="1TH" />
+            <book code="2TH" />
+            <book code="1TI" />
+            <book code="2TI" />
+            <book code="TIT" />
+            <book code="PHM" />
+            <book code="HEB" />
+            <book code="JAS" />
+            <book code="1PE" />
+            <book code="2PE" />
+            <book code="1JN" />
+            <book code="2JN" />
+            <book code="3JN" />
+            <book code="JUD" />
+            <book code="REV" />
+         </books>
+      </bookList>
+   </contents>
+</DBLMetadata>

@@ -1,0 +1,2599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="1CH" style="id">1 Sansiarnak</book>
+  <para style="h">1 Sansiarnak</para>
+  <para style="toc1">1 Sansiarnak</para>
+  <para style="toc2">1 Sansiarnak</para>
+  <para style="mt">1 Sansiarnak</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Adam cu Seth ih pa a si, Seth cu Enosh ih pa a si, Enosh cu Kenan ih pa a si,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kenan cu Mahalalel ih pa a si, Mahalalel cu Jared ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jared cu Enok ih pa a si, Enok cu Methuselah ih pa a si, Methuselah cu Lamek ih pa a si,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Lamek cu Noah ih pa a si. Noah in fapa pathum a nei ih Shem, Ham le Jafeth an si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Jafeth ih fapa pawl cu Gomer, Magog, Madai, Javan, Tubal, Meshek le Tiras an si ih an hrinmi miphun pawl in anmah hringtu ih hmin ciar an keng.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Gomer ih tefa pawl cu Ashkenaz mi, Riphath mi le Togarmah mi an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Javan ih hrin pawl cu Elishah mi, Tarshish mi, Saipras mi le Rodes mi pawl an si
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ham ih fapa pawl cu Kush, Izipt, Libia, le Kanaan an si ih an hrinmi miphun pawl in anmah hringtu ih hmin ciar an keng.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Kush ih tefa pawl cu Seba mi, Havilah mi, Sabtah mi, Raamah mi le Sabteka mi an si. Raamah tefa pawl cu Sheba le Dedan mi an si.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />(Kush in fapa Nimrod a nei ih Nimrod cu leilung tlunah mi nehtu hminthang hmaisa bik a si.)
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Izipt ih tefa pawl cu Lidia mi, Anam mi, Lehab mi, Naftuh mi,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Pathrus mi, Kasluh mi le Krete mi an si. (Krete mi pawl cu Filistin mi pawl cithlahtu an si.)
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Kanaan ih fapa upabik cu Sidon a si ih, a sangtu ah Heth a si ih an hrinmi miphun pawl in anmah hringtu ih hmin ciar an keng.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Kanaan ih cithlahmi cu Jebus mi, Amor mi, Girgash mi,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hiv mi, Arka mi, Sin mi,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Arvad mi, Zemar mi le Hamath mi tla an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Shem ih fapa pawl cu Elam, Asshur, Arpakshad, Lud, Aram, Uz, Hul, Gether le Meshek an si ih an hrinmi miphun pawl in anmah hringtu ih hmin ciar an keng.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Arpakshad cu Shelah ih pa a si, Shelah cu Eber ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Eber in fapa pahnih a nei, pakhat cu Peleg a si, ziangahtile amah ih sanah leilungtlun milai pawl cu an ṭhen-aw thluh; pahnihnak cu Joktan a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Joktan ih tefa pawl cu Almodad mi, Shelef mi, Hazarmaveth mi, Jerah mi,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hadoram mi, Uzal mi, Diklah mi,
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Ebal mi, Abimael mi, Sheba mi,
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Ofir mi, Havilah mi le Jobab mi an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Shem ih cithlah pawl cu Shem, Arpakshad, Shelah,
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Eber, Peleg, Reu,
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Serug, Nahor, Terah le
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Abram an si. (Abram cu Abraham tiih run kawh a si.)
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Abraham in fapa pahnih Isaak le Ishmael a nei.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Ishmael ih tefa pawl cu Nebaioth (Ishmael ih fapa upa bik), Kedar, Adbeel, Mibsam,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Mishma, Dumah, Massa, Hadad, Tema,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Jetur, Nafish le Kedemah an si. Hi pawl hi Ishmael ih fapa pawl an si.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Abraham in nusun Keturah a nei ih fapa paruk a hrin: Zimran, Jokshan, Medan, Midian, Ishbak le Shuah an si. Jokshan in fapa pahnih Sheba le Dedan a nei.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Midian in fapa panga a nei ih Efath, Efer, Hanok, Abida le Eldaah an si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Abraham ih fapa Isaak in fapa pahnih Esau le Jakob a nei.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Esau ih fapa pawl cu Elifaz, Reuel, Jeush, Jalam le Korah an si.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Elifaz cu Teman mi, Omar mi, Zefi mi, Gatam mi, Kenaz mi, Timna mi le Amalek mi pawl ih cithlahtu a si.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Cule Reuel cu Nahath mi, Zerah mi, Shammah mi, le Mizzah mi pawl ih cithlahtu a si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Edom ramih a rak um hmaisatu pawl cu a thuailam Seir fapa pawl ih cithlahmi an si: Lotan cu Hori le Homam hrin pawl ih cithlahtu a si. (Lotan in farnu pakhat Timna a nei.) Shobal cu Alvan, Manahath, Ebal, Shefi le Onam hrin pawl ih cithlahtu a si. Zibeon in fapa pahnih Aiah le Anah a nei. Anah cu Dishon pa a si ih Dishon cu Hamran, Eshban, Ithran le Kheran hrin pawl ih cithlahtu a si. Ezer cu Bilhan, Zaavan le Jaakan hrin pawl ih cithlahtu a si. Dishan cu Uz le Aran hrin pawl ih cithlahtu a si.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Israel ramih siangpahrang an rak um hlanah a tanglam siangpahrang pawl in Edom ram cu a sangsangin an rak uk: Dinhabah khua mi Beor ih fapa Bela, Bozrah khua mi Zerah ih fapa Jobab, Teman peng mi Husham, Avith khua mi Bedad fapa Hadad. (Hadad cu Moab ramih Midian ral nehtu a si.) Masrekah khua mi Samlah, Tivapi kapih Rehoboth khua mi Shaul, Akbor ih fapa Baal Hanan le Pai khuami Hadad tla in an rak uk a si. (Hadad nupi Mehetabel cu Matred fanu le Mezahab tunu a si.)
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Hadad a thih hnuah Edom ram cu a tanglam hrin ciar ah an ṭhen aw. Cuih hrin pawl cu Timna, Aliah, Jetheth,
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Oholibamah, Elah, Pinon,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Kenaz, Teman, Mibzar,
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Magdiel le Iram an si.
+  </para>
+  <chapter number="2" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Jakob in fapa hleihnih a nei ih Reuben, Simeon, Levi, Judah, Issakhar, Zebulun,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Dan, Josef, Benjamin, Naftali, Gad le Asher an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Judah in fapa panga a nei. A nupi, Kanaan nunau, Bathshua hnenah fapa pathum Er, Onan, le Shelah a nei. A fapa upabik Er cu a sualtuk lawmmam ruangah Bawipa in a that a si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A fapa ih nupi Tamar hnenah fapa pahnih Perez le Zerah a nei.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Perez in fapa pahnih Hezron le Hamul a nei.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A nau Zerah in fapa panga a nei ih Zimri, Ethan, Heman, Kalkol le Darda an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Karmi ih fapa Akhan in Bawipa ih hrangih serhmi thilri cu amah hrangih a ruk ruangah Israel mi parah mi siatsuahtu ah a cang.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ethan in fapa pakhat Azariah a nei.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hezron in fapa pathum Jerahmeel, Ram le Kaleb a nei.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ram ihsin Jesse tiang, an sungkhat ih cithlahtu pawl cu: Ram, Amminadab, Nahshon, (amah cu Judah hrinah hminthang zetmi a si),
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Salmon, Boaz,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Obed le Jesse an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Jesse in fapa pasarih a nei. Upabik in nautabik tiang, a sangsang in Eliab, Abinadab, Shammah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Nethanel, Raddai,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Ozem le David an si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Fanu pahnih Zeruiah le Abigail a nei. Jesse fanu Zeruiah in fapa pathum a nei ih Abishai, Joab le Asahel an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A fanu dang Abigail in Ishmael ih tefa Jether a pasal ih fapa pakhat Amasa an nei.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hezron fapa Kaleb in Azubah a ṭhi ih fanu pakhat Jerioth an nei ih fapa pathum Jesher, Shobab le Ardon an nei.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Azubah a thih hnuah Kaleb cun Efrath a ṭhi ih fapa pakhat Hur an nei.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Hur ih fapa cu Uri a si ih a fasuan cu Bezalel a si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hezron cu kum sawmruk a ti tikah Makhir fanu, Gilead ih farnu a ṭhi. Fapa pakhat Segub an nei ih,
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Segub in fapa pakhat Jair a nei. Jair in Gilead ramah khawpi kul hluanthum a uk.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Asinain Geshur le Aram ram pawl in khua sawmruk an lak ih Havvoth Jair le Kenath khua pawl le a kiangkap ih khawte pawl tla an tel a si. Cuih khawsungih ummi pawl cu Gilead ih pa Makhir ih tefa pawl an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hezron a thih hnuah a fapa Kaleb in a pa ih nupi Efrath a ṭhi. Fapa pakhat Ashhur an nei; Ashhur cu Tekoa khawsattu a si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Hezron fapa upabik Jerahmeel in fapa panga a nei. Upabik cu Ram a si ih a dang pawl cu Bunah, Oren, Ozem, le Ahijah an si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Ram in fapa pathum a nei ih Maaz, Jamin le Eker an si. Jerahmeel in nupi dang Atarah a nei ih fapa Onam an nei.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Onam in fapa pahnih a nei ih Shammai le Jada an si. Shammai in fapa pahnih a nei ih Nadab le Abishur an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Abishur in Abihail a ṭhit ih fapa pahnih Ahban le Molid an nei.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Nadab in fapa pahnih Seled le Appaim a nei; asinain Seled cu fa nei loin a thi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Appaim cu Ishi ih pa a si, Ishi cu Sheshan ih pa a si, cule Sheshan cu Ahlai ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Shammai nau Jada in fapa pahnih Jether le Jonathan a nei; asinain Jether cu fa nei loin a thi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Jonathan in fapa pahnih Peleth le Zaza a nei. Himi pawl cu an zatein Jerahmeel ih tesinfa an si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Sheshan cun fapa a nei lo, fanu lawng a nei. Izipt mi hnen-umpa pakhat Jarha an timi a nei ih,
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />cupa cu a fanu pakhat nupi ah a neihter. Fapa an nei ih Attai an ti.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Attai ih cithlahmi pawl cu a sangsang in Attai, Nathan, Zabad,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Eflal, Obed,
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Jehu, Azariah,
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Helez, Eleasah,
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Sismai, Shallum,
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Jekamiah le Elishama an si.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Jerahmeel ih naupa Kaleb ih fapa upabik cu Mesha a si. Mesha cu Zif ih pa a si, Zif cu Mareshah ih pa a si, Mareshah cu Hebron pa a si.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Hebron in fapa pali a nei ih Korah, Tappuah, Rekem le Shema an si.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Shema cu Raham ih pa a si ih Jorkeam ih pu a si. Shema ih u Rekem cu Shammai ih pa a si,
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Shammai cu Maon ih pa a si, Maon cu Bethzur ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Cun Kaleb in nusun pakhat Efah a nei ih fapa pathum an nei: Haran, Moza le Gazez an si. Haran in fapa pakhat Gazez an timi a nei.
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Jahdai in fapa paruk a nei ih Regem, Jotham, Geshan, Pelet, Efah le Shaaf an si.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />Cun Kaleb in nusun dang a nei ih a hmin cu Maakah a si. Fapa pahnih an nei ih Sheber le Tirhanah an si.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Neta lamah a dang fapa pahnih Shaaf le Shevah a nei lala; Shaaf cu Madmannah khawsattu a si ih Shevah cu Makbenah le Gibea khawsattu a si. Kaleb in fanu pakhat Aksah an timi a nei.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />A tanglam pawl tla hi Kaleb ih tesinfa an si. Kaleb le a nupi Efrath ih an hrinmi fapa upabik cu Hur a si. Hur ih fapa Shobal cu Kiriath Jearim khawpi sattu a si;
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />a fapa pahnihnak Salma cu Bethlehem khawsattu a si; a fapa pathumnak Haref cu Beth Gader khawsattu a si.
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Kiriath Jearim khawpi sattu Shobal cu Haroeh mi, Menuhoth ih a ummi miphun pawl ih a hrek,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Jearim khawpi ih a ummi a hnuailam ih hrin pawl, Ithri mi, Puth mi, Shumath mi le Mishrai mi pawl ih cithlahtu a si. (Zorah mi le Eshtaol mi pawl tla cu hi hrin pawl ih cithlahmi an si.)
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Bethlehem khawsattu Salma cu Netofath mi, Atroth Beth Joab mi, Zor mi le Manahath ih a ummi a hrek pawl ih cithlahtu a si.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />A tanglam hrin pawl cangan thiamtu le ca-tleng thiamtu pawl: Tirath mi, Shimeath mi le Sukath mi pawl cu Jabez khua ih ummi an si. (Anmah cu Ken mi an si ih Rekhab mi pawl thawn a ṭhi-aw tlangmi an si.)
+  </para>
+  <chapter number="3" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />A tanglam pawl cu Hebron ih David a um laiih a hrinmi fapa pawl an si ih an kum vekin a sangsang in an si: Amnon, a nu cu Jezreel khua mi Ahinoam a si; Daniel, a nu cu Karmel khua mi Abigail a si; Absalom, a nu cu Geshur khua siangpahrang Talmai ih fanu Maakah a si; Adonijah, a nu cu Haggith a si; Shefatiah, a nu cu Abital a si; Ithream, a nu cu Eglah a si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />An paruk in siangpahrang David, Hebron ih kum sarih le a hrek a um sungih a neihmi an si. David cu Jerusalem ah kum sawmthum le kum thum sung siangpahrang a ṭuan ih,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />fa dang tampi tla a nei. A nupi Bathsheba, Ammiel ih fanu in fapa pali a hrin ih Shimea, Shobab, Nathan le Solomon an si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cule a dang a fapa pakua pawl cu Ibhar, Elishua, Elpelet,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Nogah, Nefeg, Jafia,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Elishama, Eliada le Elifelet an si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hi hlei ah David cu a nusun pawl in fapa tampi an hrin. Fanu pakhat a nei ih a hminah Tamar an ti.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Solomon ih tesinfa pawl cu hihi an si: Solomon ih fapa Rehoboam, Rehoboam ih fapa Abijah, Abijah ih fapa Asa, Asa ih fapa Jehoshafat,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Jehoshafat ih fapa Jehoram, Jehoram ih fapa Ahaziah, Ahaziah ih fapa Joash,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Joash ih fapa Amaziah, Amaziah ih fapa Uzziah, Uzziah ih fapa Jotham,
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Jotham ih fapa Ahaz, Ahaz ih fapa Hezekiah, Hezekiah ih fapa Manasseh,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Manasseh ih fapa Amon, Amon ih fapa Josiah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Cule Josiah in fapa pali a nei ih Johanan, Jehoiakim, Zedekiah le Joahaz an si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Jehoiakim in fapa pahnih a nei ih Jehoiakhin le Zedekiah an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Siangpahrang Jehoiakhin , Babilon mi pawl ih thawng an thlakmi ih tesinfa pawl cu hihi an si: Jehoiakhin in fapa pasarih a nei ih Shealtiel,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Malkhiram, Pedaiah, Shenazzar, Jekamiah, Hoshama le Nedabiah an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Pedaiah in fapa pahnih Zerubbabel le Shimei a nei. Zerubbabel in fapa pahnih Meshullam le Hananiah a nei. Fanu pakhat tla a nei ih Shelomith an ti.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />A dang fapa panga a nei ih Hashubah, Ohel, Berekhiah, Hasadiah le Jushab Hesed an si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hananiah in fapa pahnih a nei ih Pelatiah le Jeshaiah an si. Jeshaiah cu Refaiah ih pa a si; Refaiah cu Arnan ih pa a si; Arnan cu Obadiah ih pa a si; Obadiah cu Shekaniah ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Shekaniah in fapa pakhat Shemaiah a nei ih fasuan panga a nei: Hattush, Igal, Bariah, Neariah le Shafat an si.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Neariah in fapa pathum a nei ih Elioenai, Hizkiah le Azrikam an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Elioenai in fapa pasarih a nei ih Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah le Anani an si.
+  </para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Judah faate hrekkhat pawl cu Perez, Hezron, Karmi, Hur le Shobal an si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Shobal cu Reaiah pa a si; Reaiah cu Jahath pa a si; Jahath cu Ahumai le Lahad pa a si; hipawl cu Zorah ih a um mi pawl ih cithlahtu an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Hur cu a pa Kaleb ih nupi Efrath ih fapa upabik a si ih a tesinfa pawl cu Bethlehem khawsattu an si. Hur in fapa pathum a nei ih Etam, Penuel le Ezer an si. Etam in fapa pathum a nei ih Jezreel, Ishma le Idbash an si; fanu pakhat tla a nei ih Hazzelelponi a si. Penuel cu Gedor khawsattu a si ih Ezer cu Hushah khawsattu a si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Tekoa khawsattu Ashhur in nupi pahnih a nei ih Helah le Naarah an si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Naarah thawn fapa pali an nei ih Ahuzzam, Hefer, Temeni le Haahashtari an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cule Helah thawn fapa pathum an nei ih Zereth, Izhar le Ethnan an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Koz cu Anub le Zobebah ih pa a si ih Harum fapa Aharhel hrin pawl ih cithlahtu a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Jabez an timi pa a um ih an sungkhat lakah an upat bikmi a si. A nausuah a natzet ruangah a nu in Jabez tiah a sak.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jabez cun Israel ih Pathian hnenah thla a cam ih, “ Bawipa , i thlawsuah hram awla, ram kaupi i pek aw. Ka hnenah um awla tuahmawh le harsat ka ton lonak dingah i humhim aw,” a ti. Curuangah Pathian cun a ngenmi vekin a pek.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Shuhah unau Kaleb in fapa pakhat Mehir a nei. Mehir cu Eshton ih pa a si ih,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Eshton in fapa pathum Bethrafa, Paseah le Tehinnah an si. Tehinnah cu Nahash khawpi sattu a si. Himi pawl ih tefa pawl cu Rekah ah an um.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Cun Kenaz in fapa pahnih a nei ih Othniel le Seraiah an si. Othniel khal in fapa pahnih a nei ih Hathath le Meonothai an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Meonothai cu Ofrah ih pa a si. Seraiah cu Joab ih pa a si ih zungthiam pawl hlir umnak Zungthiam Phairawn khawsattu a si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Jefunneh ih fapa Kaleb in fapa pathum a nei ih Iru, Elah le Naam an si. Cule Elah cu Kenaz ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Jehallelel in fapa pali a nei ih Zif, Zifah, Tiria le Asarel an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ezrah in fapa pali a nei ih Jether, Mered, Efer le Jalon an si. Mered in Izipt siangpahrang fanu Bithiah a ṭhit ih fanu pakhat Miriam le fapa pahnih Shammai le Ishbah an nei. Ishbah cu Eshtemoa khawsattu a si. Mered in nupi dang, Judah hrin nunau nu a ṭhi ih fapa pathum an nei: Jered, Gedor khawsattu; Heber, Soko khawsattu le Jekuthiel, Zanoah khawsattu an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hodiah in Naham farnu a ṭhit. An tefa pawl cu Keilah khua ih a ummi Garm mi pawl le Eshtemoa khua ih a ummi Maakah mi pawl cithlahtu an si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Shimon in fapa pali a nei ih Amnon, Rinnah, Benhanan le Tilon an si. Ishi in fapa pahnih a nei ih Zoheth le Benzoheth tla an si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Shelah cu Judah fapa lakah pakhat a si. A tefa pawl cu Lekah khawsattu Er, Mareshah khawsattu Laadah; Bethashbea khua ih a ummi puantahtu pawl hringtu;
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kozeba khua ih a um mi pawl le Jokim; Joash le Saraf, Moab nunau ṭhi tahrat ih Bethlehem khua ih a um mi pawl an si. (Hi thuanthu pawl cu an hlun ngaingai.)
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Anmah pawl cu beel tuahtu an si ih Netaim le Gederah khua ah an um ih siangpahrang riantu an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Simeon in fapa panga a nei ih Nemuel, Jamin, Jarib, Zerah le Shaul an si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Shaul ih fapa cu Shallum a si; a fasuan cu Mibsam a si; a tusin cu Mishma a si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Cule Mishma ihsin an phun cithlahtu cu Hammuel, Zakhur le Shimei ti in a sangsang in an si.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Shimei cun fapa hleiruk le fanu paruk a nei; asinain a sungkhat pawl cu tefa maldeuh an nei ih Simeon hrin cu Judah hrin tlukin an zai lo.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Siangpahrang David san tiangah Simeon tesinfa cu Beersheba, Moladah, Hazarshual,
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Bilhah, Ezem, Tolad,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Bethuel, Hormah, Ziklag,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Bethmarkaboth, Hazarsusim, Bethbiri le Shaaraim khua pawl ah an um.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />A dang hmun nga Etam, Ain, Rimmon, Tokhen le Ashan ah an um.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />An kiangkap khawte ah le thlanglam Baalath khua tiangin an um. An sungkhat thuhla an khummi le an umnak pawl ih thuhla cu hiti hin an nei a si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Cun an hrin ciarih lu pawl cu a hnuailam pawl hi an si: Meshobab, Jamlek, Amaziah fapa Joshah, Joel. Asiel fapa Seraiah, Seraiah fapa Joshibiah, Joshibiah fapa Jehu. Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesi miel, Benaiah, Ziza, (Ziza cu Sifi fapa a si, Sifi cu Allon fapa a si ih Jedaiah, Shimri le Shemaiah tesinfa pawl an si.) An sungkhat pawl an karhzai vivo ruangah,
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />nisuahnak lam Gerar thlengzik tiangin an um ih an tuu pawl cu khawpi umnak nisuahnak lam phairawn ah an tlanter.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />An ṭilva hrangah ramṭha le ramkau, zianghman ṭihphannak a um lonak ram an nei a si. Cutawkih a rak um hmaisa pawl cu Ham mi an si.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Judah siangpahrang Hezekiah sanah a tlunih hmin nganmi pawl cu Gerar ah an feh ih cutawkih a rak ummi pawl ih puanthlam le deu pawl cu an siatbal ṭheh. An tuu hrangih ram ṭhaṭha a tam ruangah cuih mi pawl cu an dawihlo hai ih an umnak cu an run luahta.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Simeon hrin sungin minung zanga cu nisuah lam Edom ah an feh. Cu pawl cu Ishi fapa Pelatiah, Neariah, Refaiah le Uzziel pawl in an hruai hai a si.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Cutawkih a rak taanghrih mi Amalek mi pawl cu an that ṭheh ih an umnak cu an run luahta.
+  </para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Jakob fapa upabik Reuben ih tesinfa pawl cu a tanglam pawl hi an si. (Reuben in a pa ih nusun pakhat a sualpi ruangah fapa upabik covo co theinak a nei nawn lo ih cuih covo cu Josef an pek.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Judah hrin cu a cak bik hrin an si ih an phun zate ih uktu khal anmah ih hrin sungin an si ringring; asinain upabik covo co theinak cu Josef ta a si.)
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jakob fapa upabik Reuben cun fapa pali a nei ih Hanok, Pallu, Hezron le Karmi an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Joel tesinfa pawl cu sankhat hnu sankhat ah a tanglam pawl hi an si: Shemaiah, Gog, Shimei, Mikah, Reaiah, Baal le Beerah an si. Assiria siangpahrang Tiglath Pileser in a hrin sungih hotu bik Beerah cu a kai ih a hruaihlo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />An sungkhat thu ih canganmi sungah cun Reuben hrin hotu pawl cu a tanglam hi an si: Jeiel, Zekhariah,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />le Bela an si ih Bela cu Azaz fapa, Shema ih fasuan a si ih Shema cu Joel hrin a si. An hrin pawl cu Aroer khua ah le cutawk ihsin saklam ah Nebo le Baal Meon karlak ramah an um.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Gilead ramah ṭilva tampi an neih ruangah Eufrates Tiva thlengih a kaumi nelrawn tiang nisuahnak lamah ram an luah.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Siangpahrang Saul ih sanah Reuben hrin in Hagrit mi pawl an do ih tampi an that hnuah an ram, Gilead in nisuahnak lam ram cu an luah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Gad hrin pawl cu Reuben hrin pawl umnak saklam Bashan ramah an um ih nisuahnak lamah Salekah tiang an um.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />An phun sungih a cak bik hrin hotu cu Joel a si; a pahnihnak hrin hotu cu Shafam a si. Janai le Shafat cu a dang hrin pawl hotu an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Gad phun sungih hrin dangdang pawl cu: Mikhael hrin, Meshullam hrin, Sheba hrin, Jorai hrin, Jakan hrin, Zia hrin le Eber hrin pawl an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Annih pawl hi Huri ih fapa Abihail tesinfa pawl an si ih an pupa pawl cu Abihail, Huri, Jaroah, Gilead, Mikhael, Jeshishai, Jahdo le Buz an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hi hrin pawl lakih lu bik cu Abdiel ih fapa le Guni ih fasuan Ahi a si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Bashan le Gilead ram sungih khawpi ah an um ih Sharon ram ṭilva tlannak ṭha ahcun an um ṭheh a si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />(Hi an thuhla pawl cu Judah siangpahrang Jotham le Israel siangpahrang Jeroboam san ih ngankhummi a si.)
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Reuben, Gad le Nisuahnak lam Manasseh hrin pawl sungin ralphaw, ralnam, li le conkiang hmang thiamzet ralkap thawng sawmli le thawngli le zasarih le sawmruk an um.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hi pawl in Hagrit mi, Jetur, Nafish le Nodab hrin pawl an do.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Pathian an rinsan ih a hnen ihsin bomnak an dil ruangah Pathian in an dilnak cu a theihsak ih Hagrit mi le a ṭantu pawl ih tlunah nehnak a pek.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />An ral pawl ih rannung: kalauk thawng sawmnga, tuu thawng zahnih le thawng sawmnga, le laak thawnghnih an long. Ral pawl thawng zakhat an kai.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Pathian an hnenih a ṭan ruangah an ral pawl tampi an that. Cutawkah cun an sal taan caan tiang an um ringring.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Nisuahnak lam Manasseh mi pawl cu Bashan ram le saklam ah Baal Hermon, Senir le Hermon Tlang tiangin an um ih an minung pawl cu an karhzai ngaingai.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />An hrin pawl ih hotu tla cu Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah le Jahdiel an si. Hi hotu pawl cu ralkap ralṭha zetzet le hminthang zetzet an si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Himi pawl cu Pathian ih rinsantlak in an um lo ih an pupa pawl ih Pathian cu an tlansan ih Pathian ih a dawihlomi miphun pawl ih khawzing pawl an biak.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Curuangah Pathian in Assiria siangpahrang Pul cu (Tiglath Pileser ti tla in an ko), an ram a doter. Siangpahrang Pul cun Reuben, Gad le nisuahnak lam Manasseh hrin pawl cu a hruaihlo ih Halah, Habor, Hara le Gozan Tiva kapah a umter hai.
+  </para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Levi in fapa pathum a nei ih Gershon, Kohath le Merari an si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Kohath in fapa pali a nei ih Amram, Izhar, Hebron, le Uzziel an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Amram in fapa pahnih Aaron le Moses a nei ih fanu pakhat Miriam a nei. Aaron in fapa pali a nei ih Nadab, Abihu, Eleazar le Ithamar an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Eleazar tesinfa pawl cu sankhat hnu sankhat a tanglam pawl hi an si: Finehas, Abishua,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Bukki, Uzzi,
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Zerahiah, Meraioth,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Amariah, Ahitub,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Zadok, Ahimaaz,
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Azariah, Johanan,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Azariah (Jerusalem ih siangpahrang Solomon sakmi Biakinn ih hna a ṭuantu),
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Amariah, Ahitub,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Zadok, Shallum,
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hilkiah, Azariah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Seraiah le Jehozadak an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Bawipa in Judah mi le Jerusalem mi pawl siangpahrang Nebuchadnezzar kutin saltaannak ih a hruaihlo laiah Jehozadak khal a tel ve a si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Levi in fapa pathum a nei ih Gershon, Kohath le Merari an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Annih tla in fapa an nei ciar. Gershon cu Libni le Shimei ih pa a si;
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Kohath cu Amram, Izhar, Hebron le Uzziel ih pa a si;
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Cule Merari cu Mahli le Mushi pa a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Gershon hrin pawl cu sankhat hnu sankhat a sangsang in: Libni, Jahath, Zimmah,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Joah, Iddo, Zerah le Jeatherai an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kohath hrin pawl cu sankhat hnu sankhat a sangsang: Amminadab, Korah, Assir,
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Elkanah, Ebiasaf, Assir,
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Tahath, Uriel, Uzziah le Shaul an si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Elkanah in fapa pahnih Amasai le Ahimoth a nei.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Ahimoth ih tesinfa pawl cu sankhat hnu sankhat ah hipawl hi an si: Elkanah, Zofai, Nahath,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Eliab, Jeroham le Elkanah.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Samuel in fapa pahnih a nei: Upa cu Joel a si ih nauta cu Abijah a si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Merari tesinfa pawl cu sankhat hnu sankhat ah a sangsang in: Mahli, Libni, Shimei, Uzzah,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Shimea, Haggiah le Asaiah an si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Thukam Kuang Jerusalem ih an ṭhawn hnuah siangpahrang David in Pathian biaknak hmunih hla hotu ih a retmi pawl cu a tanglam hi an si:
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Siangpahrang Solomon in Biakinn a sak hlan sung hmuahhmuah Bawipa ih umnak Puanthlam sungah a haha tein hla lamah ṭuanvo an lak.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Hla hruaitu le an tesinfa pawl cu: Kohath hrin sungin Heman cu hmaisa bik hlarem hotu a si; amah cu Joel ih fapa a si. A pupa pawl cu Jakob ih cithlahmi an si ih a sangsang in: Heman, Joel, Samuel,
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Elkanah, Jeroham, Eliel, Toah,
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Zuf, Elkanah, Mahath, Amasai,
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Elkanah, Joel, Azariah, Zefaniah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Tahath, Assir, Ebiasaf, Korah,
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Izhar, Kohath, Levi le Jakob tla an si.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Cun Asaf cu hlarem pahnihnak hruaitu a si. A pupa pawl cu Levi cithlahmi an si ih a sangsang in: Asaf, Berekhiah, Shimea,
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Mikhael, Baaseiah, Malkhijah,
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Ethni, Zerah, Adaiah,
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Ethan, Zimmah, Shimei,
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Jahath, Gersho le anmah cithlahtu Levi an si.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Merari hrin ihsin Ethan cu hlarem pathumnak hotu a si. A pupa pawl cu Levi cithlah an si ih a sangsang in: Ethan, Kishi, Abdi, Malluk,
+  </para>
+  <para style="p">
+    <verse number="45" style="v" />Hashabiah, Amaziah, Hilkiah,
+  </para>
+  <para style="p">
+    <verse number="46" style="v" />Amzi, Bani, Shemer,
+  </para>
+  <para style="p">
+    <verse number="47" style="v" />Mahli, Mushi, Merari le anmah cithlahtu Levi an si.
+  </para>
+  <para style="p">
+    <verse number="48" style="v" />An Levi hrinpi pawl cu Pathian biaknak ih hnaṭuan a phunphun kaitu an si.
+  </para>
+  <para style="p">
+    <verse number="49" style="v" />Aaron le a tesinfa pawl in rimhmui an ur ih biakṭheng par in thawinak an pe. Hmun Thianghlim Bik hmunih Pathian biaknak thawn a peh-awmi hnaṭuannak le Pathian in Israel mi sualthlah thawinak pawl cu anmah ih ṭuanvo a si. Hi hnaṭuan pawl cu Pathian siahhlawh Moses hnenih thupekmi a um vek cekci in an ṭuan a si.
+  </para>
+  <para style="p">
+    <verse number="50" style="v" />Aaron tesinfa pawl cu: Eleazar, Finehas, Abishua,
+  </para>
+  <para style="p">
+    <verse number="51" style="v" />Bukki, Uzzi, Zerahiah,
+  </para>
+  <para style="p">
+    <verse number="52" style="v" />Meraioth, Amariah, Ahitub,
+  </para>
+  <para style="p">
+    <verse number="53" style="v" />Zadok le Ahimaaz pawl an si.
+  </para>
+  <para style="p">
+    <verse number="54" style="v" />Kohath hrin, Aaron tesinfa pawl ih umnak an comi ram pawl cu hivek an si. Ram ṭhen pakhatnak a co hmaisa biktu cu anmah an si.
+  </para>
+  <para style="p">
+    <verse number="55" style="v" />An comi ram cu Judah ram sungah Hebron le a kiangkap ṭilva tlannak ram pawl an tel.
+  </para>
+  <para style="p">
+    <verse number="56" style="v" />Asinain khawpi kiangih lo le khawte pawl cu Jefunneh fapa Kaleb an pek.
+  </para>
+  <para style="p">
+    <verse number="57" style="v" />A tanglam ih khua pawl cu Aaron tesinfa hnenah an pek: rolnak khawpi Hebron le Jattir, Libnah, Eshtemoa, Hilen, Debir, Ashan le Beth Shemesh an si ih an kiangkap ih ṭilva tlannak ram pawl tla an tel.
+  </para>
+  <para style="p">
+    <verse number="60" style="v" />Benjamin ram sungah Geba, Alemeth, le Anathoth khua pawl an si ih an kiangkap ih ṭilva tlannak ram tla a tel. An sungkhat zate umnak dingah khua hleithum an pek.
+  </para>
+  <para style="p">
+    <verse number="61" style="v" />Kohath hrin ih sungkhat dangdang hnenah nitlaknak lam Manasseh ram cu a innsang a innsang in camcawhfung zuk in an pek.
+  </para>
+  <para style="p">
+    <verse number="62" style="v" />Gershon hrin hnenah a innsang a innsang in Issakhar ram, Asher ram, Naftali ram le nisuahnak lam Manasseh, Bashan ram sungih khua hleithum an pek.
+  </para>
+  <para style="p">
+    <verse number="63" style="v" />Cubangtuk ṭhiamṭhiam in Merari hrin hnenah a innsang a innsang in Reuben ram, Gad ram le Zebulun ram sungah khawpi hleihnih an pek.
+  </para>
+  <para style="p">
+    <verse number="64" style="v" />Cuticun Israel mi in Levi mi pawl hnenah an umnak dingah khawpi pawl le a kiangkap ih ṭilva tlannak ram pawl thawn an pe a si.
+  </para>
+  <para style="p">
+    <verse number="65" style="v" />(A tlunih simcia mi Judah ram, Simeon ram le Benjamin ram sungih khawpi pawl tla camcawhfung zukin an pek hai a si.)
+  </para>
+  <para style="p">
+    <verse number="66" style="v" />Kohath hrin innsang hrekkhat pawl hnenah Efraim ramih khawpi pawl le ṭilva tlannak ram pawl an pek.
+  </para>
+  <para style="p">
+    <verse number="67" style="v" />Cuih khawpi pawl cu Efraim tlangpar ramih ummi rolnak khawpi Shekhem le a dang khawpi pawl Gezer,
+  </para>
+  <para style="p">
+    <verse number="68" style="v" />Jokmeam, Beth Horon,
+  </para>
+  <para style="p">
+    <verse number="69" style="v" />Aijalon le Gath Rimmon an si.
+  </para>
+  <para style="p">
+    <verse number="70" style="v" />Nitlaknak lam Manasseh ram sungah Aner le Bileam khawpi pawl cu an kiangkap ih ṭilva tlannak ram thawn an pek.
+  </para>
+  <para style="p">
+    <verse number="71" style="v" />Gershon hrin innsang pawl hnenah a tanglam ih khawpi pawl le a kiangkap ih ṭilva tlannak ram pawl an pek: Nisuahnak lam Manasseh ramah Bashan ih ummi Golan khua le Ashtaroth khua,
+  </para>
+  <para style="p">
+    <verse number="72" style="v" />Issakhar ramah Kedesh, Daberath,
+  </para>
+  <para style="p">
+    <verse number="73" style="v" />Ramoth le Anem khua pawl,
+  </para>
+  <para style="p">
+    <verse number="74" style="v" />Asher ramah Mashal, Abdon,
+  </para>
+  <para style="p">
+    <verse number="75" style="v" />Hukok le Rehob khua pawl,
+  </para>
+  <para style="p">
+    <verse number="76" style="v" />Naftali ram sungih ummi Galilee pengih Kedesh khua, Hammon le Kiriathaim khua pawl an si.
+  </para>
+  <para style="p">
+    <verse number="77" style="v" />Merari hrin innsang dang pawl hnenah a tanglam ih khawpi pawl cu an kiangkap ih ṭilva tlannak ram thawn an pek: Zebulun ramah Rimmono le Tabor khua,
+  </para>
+  <para style="p">
+    <verse number="78" style="v" />Reuben ram, Jerikho khua ihsin nisuahnak lam Jordan Tiva lanah mualrawn ih um Bezer le Jahzah,
+  </para>
+  <para style="p">
+    <verse number="79" style="v" />Kedemoth le Mefaath khua,
+  </para>
+  <para style="p">
+    <verse number="80" style="v" />Gad ramah Gilead ih Ramoth, Mahanaim,
+  </para>
+  <para style="p">
+    <verse number="81" style="v" />Heshbon le Jazer khua pawl an si.
+  </para>
+  <chapter number="7" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Issakhar in fapa pali a nei ih Tola, Puah, Jashub le Shimron an si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Tola in fapa paruk a nei: Uzzi, Refaiah, Jeriel, Jahmai, Ibsam le Shemuel an si. Annih tla cu Tola hrinih lubik ciar an si ih ralkap hminthang an si. Siangpahrang David sanah an minung zate in thawng kul hluanhnih le zaruk an ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Uzzi in fapa pakhat Izrahiah a nei. Izrahiah cun fapa pali a nei ih Mikhael, Obadiah, Joel le Isshiah an si. Anmah cu an hrin ciarih lubik an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Nupi tampi le faate tampi an nei ih an tefa pawl cu ralkap ṭuan thei thawng sawmthum le thawngruk an kim.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cazin an nganmi vek a si ahcun Issakhar hrin hmuahhmuah ah ralkap ṭuan thei minung thawng sawmriat le thawng sarih an ti.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Benjamin in fapa pathum Bela, Becher le Jediael a nei.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Bela in fapa panga a nei ih Ezbon, Uzzi, Uzziel, Jerimoth le Iri an si. An hrin sungih lubik ciar an si ih ralkap hminthang zetzet an si. An tefa pawl cu ralkap ṭuan thei lawnglawngah minung thawng kul hluanhnih le sawmthum le pali an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Becher in fapa pakua a nei: Zemirah, Joash, Eliezer, Eleoenai, Omri, Jeremoth, Abijah, Anathoth le Alemeth an si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cazin sung vek a si ahcun an hrin ciar in siar tikah an tefa pawl cu ralkap ṭuan thei thawng kul le zahnih an ti.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jediael in fapa pakhat Bilhan a nei. Bilhan cun fapa pasarih a nei ih Jeush, Benjamin, Ehud, Khenaanah, Zethan, Tarshish le Ahishahar an si.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />An hrinih lu ciar an si ih ralkap hminthang lawnglawng an si. An tefa pawl cu ralkap ṭuan thei thawng hleisarih le zahnih an ti.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Shuppim le Huppim tla cu Ir ih hrin an si. Dan ih tesinfa pawl cu Hushim le Aher ih fapa pawl an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Naftali in fapa pali a nei ih Jahziel, Guni, Jezer le Shallum an si. (Hi pawl cu Bilhah ih tefa sin pawl an si.)
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Manasseh in nusun, Aramean nunau nu, a nei ih fapa pahnih Asriel le Makhir an nei. Makhir cu Gilead ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Makhir in Huppim le Shuppim ih farnu nupi ah a ṭhit. Cunu hmin cu Maakah a si. Makhir ih fapa pahnihnak cu Zelofehad a si; Zelofehad in fanu lawnglawng a nei.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Cun Makhir ih nupi Maakah in fapa pahnih a hring ih an hminah Peresh le Sheresh an sak. Peresh in fapa pahnih Ulam le Rakem a nei.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Ulam in fapa pakhat Bedan a nei. Hi pawl cu Gilead tesinfa pawl an si ih, Gilead cu Makhir fapa le Manasseh ih fasuan a si.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cun Gilead farnu Hammolekheth in fapa pathum a nei ih Ishod, Abiezer le Mahlah an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Shemida in fapa pali a nei ih Ahian, Shekhem, Likhi le Aniam an si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Efraim ih tesinfa pawl cu sankhat hnu sankhat a sangsang in a tanglam pawl hi an si: Shuthelah, Bered, Tahath, Eleadah, Tahath,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Zabad, le Shuthelah an si. Efraim in a dang fapa pahnih Ezer le Elead a nei; asinain Gath ih a ummi pawl ih caw a ruk an tum laiah an rak that a si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />An pa Efraim cu mithi ngai in a um ih a unau pawl in an ra topi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cuih hnuah a nupi thawn an pawl-aw ih a nupi cu fa a keng ih fapa pakhat a nei. An fapa cu, an innsang ih riahsiatnak an ton hrangah, a hminah Beriah an sak.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Efraim in fanu pakhat Sheerah a nei. Sheerah cun Tlunta le Thuaita Beth Horon khua le Uzzen Sheerah khua thar a toh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Efraim in fapa dang pakhat Refah a nei ih Refah ih tesinfa pawl cu Reshef, Telah, Tahan,
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Ladan, Ammihud, Elishama,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Nun le Joshua an si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Himi pawl in an luah mi le an umnak khua pawl cu Bethel le a kiangkap khua pawl, nisuahnak lamah Naaran tiang, cule nitlaknak lamah Gezer le a kiangkap khua pawl tiang, a si. Shekhem le Ayyah khua le a kiangkap khawpi pawl tla an tel.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Manasseh tesinfa pawl in Beth Sean, Taanak, Megiddo le Dor khawpi pawl le an kiangkap ih khua pawl an uk. Hi ramah hin Jakob fapa Josef ih tesinfa pawl an um.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Asher ih tefa sin pawl cu a tanglam hi an si. Asher in fapa pali a nei ih Imnah, Ishvah, Ishvi le Beriah an si. Fanu pakhat a nei ih a hmin cu Serah a si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Beriah in fapa pahnih Heber le Malkhiel a nei. (Malkhiel cu Birzaith khawpi tohtu a si.)
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Heber in fapa pathum a nei ih Jaflet, Shomer le Hotham an si. Fanu pakhat a nei ih Shua a si.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Jaflet in fapa pathum a nei ih Pasak, Bimhal le Ashvath an si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />A nau Shomer in fapa pathum a nei ih Rohgah, Jehubbah le Aram an si.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />A nau Hotham in fapa pali a nei ih Zofah, Imna, Shelesh le Amal an si.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Zofah ih tesinfa pawl cu Suah, Harnefer, Shual, Beri, Imrah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Bezer, Hod, Shamma, Shilshah, Ithran le Beera an si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Jether tesinfa pawl cu Jefunneh, Pispa le Ara an si;
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ulla tesinfa pawl cu Arah, Hanniel le Rizia an si.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />An zatein Asher ih tesinfa pawl an si. An zatein an hrinih lubik ciar an si ih ralkap hminthang le hotu ṭhazet pawl an si. Anmah lakah ralkap ṭuan thei minung thawng kul hluanruk an um.
+  </para>
+  <chapter number="8" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Benjamin in fapa panga a nei. Upa bik in nauta bik tiang a sangsang in Bela, Ashbel, Aharah,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Nohah le Rafa an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Bela ih tesinfa pawl cu Addar, Gera, Abihud,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Abishua, Naaman, Ahoah,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Gera, Shefufan le Huram an si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ehud tesinfa pawl cu Naaman, Ahijah le Gera an si. Geba ah an um ih an hrin ciar ih lubik an si; asinain an dawi hai ih Manahath ih um ding in an ceer. Uzza le Ahihud ih pa Gera ih honak in an ṭhawn.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Shaharaim in a nupi pahnih Hushim le Baara cu a maak. Neh hnu Moab ramih a um tikah Hodesh a ṭhi ih fapa pasarih an nei: Jobab, Zibia, Mesha, Malkam,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jeuz, Sakhia le Mirmah an si. A fapa pawl cu an sungkhat ih lubik ciar an si.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Shaharaim cun a nupi Hushim thawn fapa pahnih an nei ih Abitub le Elpaal an si.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Elpaal in fapa pathum a nei: Eber, Misham le Shemed an si. Shemed cu Ono le Lod khawpi le an kiangkap ih khawte pawl dintu a si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Beriah le Shema cu Aijalon khua ih a ummi anmah ih sungkhat pawl lubik veve an si ih Gath khua ih a rak ummi pawl tla an dawisuak a si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Beriah tesinfa pawl cu Ahio, Shashak, Jeremoth,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Zebadiah, Arad, Eder,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Mikhael, Ishfah le Joha an si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Elpaal ih tesinfa pawl cu Zebadiah, Meshullam, Hizki, Heber,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Ishmerai, Izliah le Jobab tla an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Shimei tesinfa pawl cu Jakim, Zikri, Zabdi,
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Elienai, Zillethai, Eliel,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Adaiah, Beraiah le Shimrath tla an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Shashak tesinfa pawl cu Ishfan, Eber, Eliel,
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Abdon, Zikri, Hanan,
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hananiah, Elam, Anthothija,
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Ifdeiah le Penuel tla an si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Jeroham tesinfa pawl cu Shamsherai, Shehariah, Athaliah,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Jaareshiah, Elijah le Zikri tla an si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Himi pawl cu an pupa san ihsin Jerusalem ih ummi an tesinfa san tiangin lubik pawl an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Jeiel in Gibeon khua a toh ih a um. A nupi cu Maakah a si ih,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />an fapa upabik cu Abdon a si. A fapa dang pawl cu Zur, Kish, Baal, Ner, Nadab,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Gedor, Ahio, Zekher,
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />le Shimeah ih pa Mikloth an si. An tesinfa pawl cu Jerusalem khua ah an hrin sungkhat dang pawl kiangah an um.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Ner cu Kish ih pa a si ih, Kish cu Saul ih pa a si. Saul in fapa pali a nei ih Jonathan, Malkhishua, Abinadab le Eshbaal an si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Jonathan cu Meribaal ih pa a si ih Meribaal cu Mikah ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Cun Mikah in fapa pali a nei ih Pithon, Melek, Tarea le Ahaz an si.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Ahaz cu Jehoaddah ih pa a si ih Jehoaddah in fapa pathum a nei: Alemeth, Azmaveth le Zimri an si. Zimri cu Moza ih pa a si ih,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Moza cu Binea ih pa a si, Binea cu Rafah ih pa a si. Rafah cu Eleasah ih pa a si ih Eleasah cu Azel ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Azel in fapa paruk a nei: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah le Hanan an si.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Azel ih unau Eshek in fapa pathum a nei ih Ulam, Jeush le Elifelet an si.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Ulam ih fapa pawl cu ralkap hminthang le conkiang sai thiamzet an si. An zatein fapa le fasuan za le sawmnga a nei. A tlun ih hmin nganmi pawl cu an zatein Benjamin hrin lawnglawng an si.
+  </para>
+  <chapter number="9" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel mi pawl cu an hrin ciarin cazin sungih nganmi an si ih cumi cu Israel Siangpahrang Pawlih Cabu timi a si. Judah mi pawl cu an sual ruangah Babilon ah sal ah an taang.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />An khua le an inn ih a kir hmaisa bik pawl cu Israel mipi hrekkhat, puithiam pawl, Levi mi pawl le Biakinn ih hnaṭuantu pawl an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Judah hrin, Benjamin hrin, Efraim hrin le Manasseh hrin pawl cu Jerusalem ah an feh ih an um.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Jerusalem ah Judah hrin innsang zaruk le sawmkua an um. Judah fapa Perez ih tesinfa pawl hotu cu Uthai a si; Uthai cu Ammihud fapa a si ih Omri ih fasuan a si. A pupa dang cu Imri le Bani an si. Judah fapa Shelah ih tesinfa pawl hotu cu Asaiah a si ih an sungih lubik a si. Judah fapa Zerah ih tesinfa pawl hotu cu Jeuel a si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Benjamin hrin sungin a tanglam mi pawl cu Jerusalem ah an um: Meshullam ih fapa Sallu; Meshullam cu Hodaviah ih fapa a si ih, Hodaviah cu Hassenuah ih fapa a si. Jeroham ih fapa Ibneiah; Uzzi ih fapa le Mikri ih fasuan Elah; Shefatiah ih fapa Meshullam; Shefatiah cu Reuel ih fapa a si ih Reuel cu Ibnijah ih fapa a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Jerusalem ah an hrin sungin innsang zatein zakua le sawmnga paruk an um. A tlunih hmin nganmi pawl cu sungkhat ih lubik ciar an si.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />A tanglam hi Jerusalem ih ummi puithiam pawl an si: Jedaiah, Jehoiarib le Jakhin. Hilkiah ih fapa Azariah cu Biakinn ih hotu bik a si. A pupa pawl cu Meshullam, Zadok, Meraioth le Ahitub an si. Jeroham ih fapa Adaiah; a pupa pawl cu Pashhur le Malkhijah an si. Adiel ih fapa Maasai; a pupa pawl cu Jedaiah, Meshullam, Meshillemith le Immer an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Innsang ciarih lu a si mi puithiam zatein thawngkhat zasarih le sawmruk an um. Anmah tla cu Biakinn ih hnaṭuannak ah a thiamzetmi an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />A tanglam pawl cu Jerusalem ih um Levi mi an si: Hasshub ih fapa Shemaiah; a pupa pawl cu Azrikam le Hashabiah, an si ih Merari hrin an si. Bakbakkar, Heresh le Galal; Mika ih fapa Mattaniah; a pupa pawl cu Zikri le Asaf an si. Shemaiah ih fapa Obadiah; a pupa pawl cu Galal le Jeduthun an si. Asa ih fapa le Elkanah ih fasuan Berekhiah; amah cu Netofah mi pawl ih ram sungah a ummi a si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />A tanglam pawl cu Jerusalem Biakinn kiltu an si: Shallum, Akkub, Talmon le Ahiman. An hotu cu Shallum a si.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Tuihsan tiangin an hrin pawl cu nisuahnak lam sangka, Siangpahrang Kotka ah an ret. Ahlan ahcun Levi mi pawl riahhmun kotka kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Kore ih fapa le Ebiasaf ih fasuan Shallum cu Korah hrinpi dangdang pawl thawn, Bawipa ih umnak Puanthlam luhnak sangka kiltu an si; an pupa pawl tla Bawipa ih riahhmun an kil laiah cuvek cun an rak kil zo.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Eleazar ih fapa Finehas in a rak ho hai; Bawipa cu a hnenah um hram seh!
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Meshelemiah ih fapa Zekhariah khal Bawipa ih umnak Puanthlam sangka kiltu a si ve.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />An zate-ah minung zahnih le hleihnih cu sangka le kotka pawl kiltu dingah an hril. Anmah tla cu an umnak khua ciarih cazin lak mi an si. An pupa pawl cu zumtlak an si ruangah siangpahrang David le profet Samuel in cubangtuk hnaṭuan thupi cu an rak ṭuanter.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Anmah le an tesinfa pawl tiangin Biakinn cu an kil ringring.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />A kiil pali: saklam, thlanglam, nisuah le nitlak lamah kotka pakhat fingfing a um ih a kiltu upabik an um fingfing.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Hi kotka kiltu pawl cu khawte ih a ummi an sungkhat pawl in an bawm hai ih a haha in ni sarih sung an kil ṭheu.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Kotka kiltu upabik pali pawl cu Levi mi an si ih ṭuanvo tumbik an nei. Biakinn sungih khaan pawl le a sungih an retmi thilri pawl tla an kilkhawi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Biakinn kilkhawi le zingtin kotka on cu an ṭuanvo a si ruangah Biakinn kiangah an umnak cu a si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />A dang Levi mi pawl cu Biakinn sung Pathian biaknak ih hmanmi bungbeel pawl kilkhawitu an si. An hman hlanah an siar ih an hman hnu khalah an siarsal.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />A dang pawl cu hmanmi thilri thianghlim dang pawl, sangphut, sabitti, olif hriak, rimhmui le thakthiing vut pawl zohtu an si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Asinain thakthiing vut tuah ih cokrawi hnaṭuan cu puithiam pawl ih ṭuanvo a si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Korah hrin, Shallum ih fapa upabik, Levi mi pa Mattithiah ih ṭuanvo cu sangrawh thawinak hrang timtuah a si.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Kohath mi pawl cu Sabbath ni Biakinn ih hman dingah sangreu thianghlim tuahtu an si.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Levi mi hrekkhat pawl cu Biakinn ih hla satu pawl an si. Innsang ih lubik pawl an si ih Biakinn kap a khaan sungah an um. A sun a zan ih hnaṭuan an neih ṭheu ruangah hnaṭuan dang zianghman an nei lo.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />A tlunih an hmin nganmi pawl cu Levi mi innsang ih lubik ciar le anmah hrin ciarah hotu an si. Jerusalem ih a ummi pawl lakah hotu an si.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Jeiel cu Gibeon khawsattu a si ih cutawkah a um. A nupi cu Maakah a si ih,
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />a fapa upabik cu Abdon a si. A fapa dang pawl cu Zur, Kish, Baal, Ner, Nadab,
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Gedor, Ahio, Zechariah le Mikloth an si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Mikloth cu Shimeah ih pa a si. An tesinfa pawl cu an hrin sungkhat pawl kiangkap Jerusalem ah an um.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ner cu Kish ih pa a si ih Kish cu Saul ih pa a si. Cule Saul in fapa pali a nei ih Jonathan, Malkhishua, Abinadab le Eshbaal an si.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Jonathan cu Meribbaal ih pa a si ih Meribbaal cu Mikah ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Mikah in fapa pali a nei: Pithon, Melek, Tarea le Ahaz an si.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Ahaz cu Jarah ih pa a si ih, Jarah cun fapa pathum a nei: Alemeth, Azmaveth le Zimri an si. Zimri cu Moza ih pa a si ih,
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Moza cu Binea ih pa a si; Binea cu Refaiah ih pa a si; Refaiah cu Eleasah ih pa a si ih, Eleasah cu Azel ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="44" style="v" />Cule Azel in fapa paruk a nei: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah le Hanan an si.
+  </para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Filistin mi le Israel mi cu Gilboa Tlang ah an do aw. Israel mi tampi an thi ih a taangmi pawl cu, siangpahrang Saul le a fapa pawl thawn, an tlan thluh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Asinain Filistin ralkap in Saul le a fapa pawl cu an man ih a fapa Jonathan, Abinadab le Malkhishua cu an that.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Saul umnak kimvelah cun nasa cuangin an do-aw ih cu ruangah Saul cu ral pawl ih conkiang in a ngah ih besia zetin hma a pu.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cutikah a hriamnam kengtu tlangvalpa hnenah, “Na ralnam zuuk-awla i that aw; culole hi serhtan lomi Filistin pawl hi ra in in puahcok pang ding,” a ti. Asinain cuih tlangvalpa cun a tuk a sum ih a ti ngam lo. Curuangah Saul cun amah ih ralnam cu a zuuk ih a zum lamin a nen that-aw.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Saul a thih kha tlangvalpa in a hmuh tikah a ralnam a suah ve ih a zum lamin a nen ih a thi ve.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cuticun Saul le a fapa pathum cu hmunkhatah an thi ih a ram uknak tla a cem veta a si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cule Jezreel phairawn ih a ummi Israel pawl in an ralkap pawl an tlan ṭheh ih, Saul le a fapa pawl an thi, ti an theih tikah an khua ciarin an suak ih suk le so ah an tlanhlo ṭheh. Filistin mi pawl cu an ra ih cuih khua pawl cu an luahta.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />An do awk ih thaisun ah a thimi pawl ih thilri la dingah Filistin mi pawl an feh ih Saul le a fapa pawl ih ruak cu Gilboa Tlang parih an lum teptep kha an hmu.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Saul ih lu cu an tan ih a ralthuam pawl an hlit ih a lu le a hriamnam pawl phur tahrat in an khawzing le an minung pawl hnenih thuthang ṭha phuang dingin mi an thlah.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Saul ih hriamnam cu an khawzing biakinn ah an ret ih, a lu cu an khawzing Dagon ih biakinn ah an thlai.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Filistin mi pawl in Saul parih cuti an tuahmi cu Gilead ram Jabesh mi in an theih tikah,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />mi ralṭha bik pawl an pok ih Saul le a fapa pawl ruak cu Jabesh khua ah an phur. Cutawkih sasuapi thuai ah an ruh cu an phum ih ni sarih sung rawl an ul.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Saul cu Bawipa parih a sual ruangah thihnak a tong a si; Bawipa ih thupekmi a thlun lo; Bawipa thuron tahrat in a duhnak thlun sawn loin,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />pol leeng tahrat in mithi thla a ko sawn a si. Curuangah Bawipa in a that ih a uknak cu Jesse ih fapa David hnenah a pek.
+  </para>
+  <chapter number="11" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel mi pawl cu an zatein David umnak Hebron ah an ra ih, “Kannih cu na thii le na sa kan si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />A fehzo mi tikcu caan, Saul kan siangpahrang a si lai hmanah Israel mi pawl cu raldonak ah na hruai ih cutiih hruai dingah le anmah uktu si dingah Bawipa na Pathian in thu a lo tiam zo a si,” tiah an ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cuticun David hnenah Israel mi hotu pawl cu Hebron ahcun an ra ṭheh. Cule Bawipa ih mithmuh ah David thawn thukamnak an tuah ih Samuel hnenin Bawipa ih thutiam vekin David cu Israel siangpahrang ah hriak an culh a si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cun siangpahrang David le Israel mi pawl cu an zatein an feh ih Jerusalem khawpi an do. Jerusalem khawpi cu culai ahcun Jebus an ti; a rak um hmaisa bik Jebus mi pawl cu cutawkah an um lai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Jebus mi pawl in David cu, “Kan khawpi sungah cun na lut thei dah lo ding,” an ti. Asinain Zion ih an ralhruang cu David in a lak ih an khawpi cu “David Khawpi,” ah a cang.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David in, “Jebus mi a that hmaisa biktu cu ka ralkap hotu bawi a si ding,” a ti. Zeruiah fapa Joab ho in an do ih amah cu ralkap hotu bawi ah a cang ngaingai.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Ralhruang sungah David cu a feh ih a umta ruangah, “David Khawpi,” tiah an ko tata.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cuih ralhruang ih nisuahnak lam Millo an tinak hmunih thokin khawpi kimvel ralhruang cu David in a rem ih khawpi sung cu Joab in a rem.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />A hnenih Ziangkimtithei Bawipa a um ruangah David cu ni khat hnu ni khat a cak deuhdeuh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />David ih ralkap hminthang pawl cu a tanglam pawl hi an si. Anmah in Israel midang pawl thawn siangpahrang cang dingah David cu an bawm ih, Bawipa ih thutiam vekin, a uknak cu cak sinsin in an tuah.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Hmaisa bik cu Hakmon hrin Jashobeam a si ih amah cu, “Ralṭha Pathum,” lakah hotu a si. Jashobeam in an ral minung zathum kha a feipi thawn a do ih ṭum khatah an zatein a that ṭheh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Hi “Ralṭha Pathum Pawl,” lakih a pahnihnak cu Ahoh hrin Dodo ih fapa Eleazar a si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Pas Dammim an timi hmunah Filistin ral pawl cu David thawn an do. Barli sangvut lo sungah ṭanhmun khuar ih Israel ralkap pawl an tlan rero laiah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Eleazar le a ralkap pawl cu lo sungah cun an ṭang ih Filistin pawl cu an do ciamco. Bawipa ih thawngin an ral cu nasa zetin an neh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Voikhat ah Filistin ral pawl cu Refaim phairawn ih an um laiah, an hmin a thang zetmi Israel ralbawi sawmthum sungin pathum cu Adullam lungpuk kiang lungto lakih David a um laiah a hnenah an feh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David cu ralhruang kulhmi tlang parah a um ih culaiah Bethlehem cu Filistin mi pawl in an lak zo.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cutikah David cu inn a ngai ngaingai ih, “Aw, Bethlehem kotka kiang tikhur ih tidai kha in dingah pakhatkhatión i pe hai sehla ka va duh so e!” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Curuangah ralkap hminthang pathum cu an feh ih Filistin ralkap pawl umnak lakin an nor suak ih cuih tikhur ihsin tidai an khai ih David cu an ra pek. Sikhalsehla David cun a in lo; Bawipa hnenih hlanmi tidai ah tiah a thlet ih,
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />“Ziangtin so hi tidai cu ka in thei ding! An nunnak hman ruat loih an khaimi tidai a si hrangah hi tidai in cu an thisen in vek a si ding,” a ti. Curuangah cuih tidai cu a in lo. Ralkap hminthang Pathum Pawl ih hnaṭuan ṭha pawl lakah himi cu pakhat a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cun Joab unau Abishai cu “Hminthang Sawmthum Pawl,” lakah mi hminthang a si. A feipi thawn minung zathum a do ih a that ṭheh. Cutiin hminthang sawmthum lakah hminthang a si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sawmthum Pawl lakih hminthang bik a si ruangah an hotu ah a cang; asinain “Ralṭha Pathum,” tluk cun a hmin a thang lo.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kabzeel khua mi Jehoiada fapa Benaiah cu ralkap hminthang zet a si. Ralṭha zet ih a hnaṭuan mi tampi a um; Moab ralbawi cak zetzet pahnih tla a that. Voikhat cu vur tampi a tlak ni ah kuahrum sungah a vung ṭum ih kiosa a that.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cule mitum zet le misaang zet: pi sarih le a hrek a saangih feipi thiamtleeng tia a kengtu Izipt mipa khal a that. Behaiah cun talhtum thawn a zon ih Izipt pa kutih feipi rori long tahrat in cupa thahnak ah a hmang.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Cumi pawl cu Benaiah ralṭha zet ih hnaṭuannak pawl an si; amah cu, “Sawmthum Pawl,” lakah pakhat a si ve.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />“Sawmthum Pawl,” lakah cun hminthang pakhat a si; asinain “Pathum Pawl,” cu a tluk lo. David in amah kilvengtu pawl hotu ah a ret.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />A tanglam pawl hi ralkap hminthang an si: Joab unau Asahel Bethlehem ihsin Dodo ih fapa Elhanan Harod ihsin Shammoth Pelet ihsin Helez Tekoa ihsin Ikkesh ih fapa Ira Anathoth ihsin Abiezer Hushah ihsin Sibbekai Ahoh ihsin Ilai Netofah ihsin Maharai Netofah ihsin Baanah ih fapa Heled Benjamin ram Gibeah ihsin Ribai ih fapa Ithai Pirathon ihsin Benaiah Gaash kiang hmunrawn ihsin Hurai Arbah ihsin Abiel Bahurum ihsin Azmaveth Shaalbon ihsin Eliahba Gizon ihsin Hashem Harar ihsin Shagee ih fapa Jonathan Harar ihsin Sakhar ih fapa Ahiam Ur ih fapa Elifal Mekherah ihsin Hefer Pelon ihsin Ahijah Karmel ihsin Hezro Ezbai ih fapa Naarai Nathan unau Joel Hagrit ih fapa Mibhar Ammon ihsin Zelek Beeroth ihsin Naharai. Naharai cu Joab hriamnam phurtu a si. Jattir ihsin Ira le Gareb Hit mi Uriah Ahlai ih fapa Zabad Shiza ih fapa Adina. Adina cu Reuben hrin sungah hminthang a si ih ralkap sawmthum a neitu a si. Maakah ih fapa Hanan Mithan ihsin Joshafat Ashterah ihsin Uzzia Aroer ihsin Hotham ih fapa Shamma le Jeiel Tiz ihsin Shimri ih fapa Jediael le Joha Mahavah ihsin Eliel Elnaam ih fapa Jeribai le Joshaviah Moab ihsin Ithmah Zobah ihsin Eliel, Obed le Jaasiel.
+  </para>
+  <chapter number="12" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel siangpahrang Saul, Kish ih fapa in a mithmuh ah David um lo dingin a dawihlo hnuah David cu Ziklag ah a um. Cutawkah mi tampi a hnenah an ra ih an um ve. Annih pawl cu raldo ṭhangmi le rinsantlak zetzet ralkap lawnglawng an si ih,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Siangpahrang Saul vekin Benjamin miphun an si. Li le conkiang siseh, lungherhden siseh, an duhduh in keh le vorh ih sai le denthiam thiam an si.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />An hotu pawl cu Gibeah ihsin Shemaah ih fapa Ahiezer le Joash an si. An ralkap pawl cu a tanglam vekin an si: Azmaveth ih fapa Jeziel le Pelet, Anathoth ihsin Berakah le Jehu,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Ralkap hminthangzet le “Sawmthum Pawl,” sungih hotu pakhat a si mi, Gibeon ihsin Ishmaiah, Gederah ihsin Jeremiah, Jahaziel, Johanan le Jozabad;
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Harif ihsin Eluzai, Jerimoth, Bealiah, Shemariah le Shefatiah;
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Korah hrin in Elkanah, Isshiah, Azarel, Joezer le Jashobeam;
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Gedor ihsin Jeroham ih fapa Joelah le Zebadiah.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Nelrawn ah ralhruang kulhmi hmunih David a um laiah Gad mi ralkap hminthang pawl ra in a hnenah an um. Anmah cu raldo ṭhangtu an si ih phaw le fei hmannak lamah cun an thiam ngaingai; an mithmai cu zoh tikah kiosa bangin ṭihnungza an si ih an zam a ṭhatzia cu tlangpar zukneng vek an si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Anmah lakih hotu bik ihsin nautabik tiang a sangsang in hipawl hi an si: Ezer, Obadiah, Eliab, Mishmannah, Jeremiah, Attai, Eliel, Johanan, Elzabad, Jeremiah, le Makbannai an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Hi Gad mi pawl hi a hrek cu ralbawi upa an si ih ralkap thawngkhat hotu an si; a hrek cu ralbawi nauta deuh an si ih zakhat hotu an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Kum khat sungih thla hmaisa bik thla, Jordan Tiva ti a lian ih phai a hrut laifangah tiva cu an tan ih tiva ihsin nisuahnak lam siseh, nitlaknak lam siseh, a rak ummi minung pawl cu suk le so ah an dawihlo thluh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Nikhat ah Benjamin le Judah hrin in milai hrekkhat cu David umnak ruh-kulh sungah cun an va thleng.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David cun a rak hmuak hai ih an hnenah, “Keimah bawm dingah rualpi ṭha in nan rat a si ahcun kan hnenah ra uh. Asinain ka ral pawl hnenih zuar tum in nan rat a si ahcun, nanmah tuahmawh ding cu ka tum dah lo naón, nan tummi cu kan pupa ih Pathian in a hmu ding ih a lo cawh ding a si,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cutikah, “Sawmthum Pawl,” sungah hotu a rung cang lehmi Amasai parah thlarau a rung thleng ih anih in: “Maw David, na minung kan si; Maw Jesse fapa, nangmah ih lam ṭang kan si. Na parah daihnak umseh, A lo bawmtu hnenah hnangamnak umseh, Pathian na hnenah a um,” a ti. Cule David in annih cu amah ih minung ah a tuah ih a ralkap sungah hotu ah a ret hai.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />David le Filistin mi pawl cu siangpahrang Saul do dingih an feh laiah Manasseh hrin sungin ralkap hrekkhat pawl cu David hnenah an ra. David in Filistin mi a bawm a si lo; an feh tlang hnuah Filistin lal pawl in a bawipa a rak si dahmi Saul hnenah in zuar pang ding ti an phan ruangah David cu Ziklag ah an kirter a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ziklag ih a kir zawng ah Manasseh hrin a hnenih a rami ralkap pawl cu: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu le Zillethai an si. Manasseh ramih an um laiah cun ralkap thawngkhat hotu ciar an si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Ralkap hminthang zetzet an si ruangah David ralkap pawl hotu bawi ah an cang. Neta lamah cun Israel ralkap sungah ralbawi an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Nitinte in David hnenah midang an ra vivo ih a rei hlanah David ralkap cu an tam ih an cak ngaingai.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Bawipa thutiamnak vekin David cu Saul ai-ih siangpahrang cangter dingin raldo ṭhang ralkap tampi cu Hebron ah David hnenah cun an ra ciamco. A ra mi pawl cu a tanglam vekin an si:
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Judah hrin in ralthuam a keng fetfet mi thawngruk le zariat; phaw le feipi an keng ciar;
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Simeon hrin in raldo zir cia ralkap thawngsarih le zakhat;
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Levi hrin in ralkap thawngli le zaruk;
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Aaron tesinfa pawl hotu Jehoiada a thluntu ralkap thawngthum le zasarih;
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Raldo thiam mino Zadok ih sungkhat minung kul hluanhnih; anmah cu hotu hlir an si;
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Benjamin hrin in ralkap thawng thum; Saul cu Benjamin hrin a si hrangah Benjamin mi tam sawn in cuih sun tiang Saul an ṭan.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Efraim hrin in, an hrin sungih ralkap hminthang, thawng kul le zariat;
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Nitlaknak lam Manasseh in, David siangpahrang cangtertu ding ih hrilmi pawl, minung thawng hleiriat;
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Issakhar hrin in hotu zahnih le an kuthnuai ih ralkap ciar thawn; himi pawl cu Israel hrangah ziang kan tuah ah a ṭha bik tile ziangtikah tuah ding a si, ti a theitu pawl an si.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Zebulun hrin in raldo hiarzet le rinsan tlakzet, ziangvek hriamnam khal a hmangthiamtu ralkap thawng sawmnga;
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Naftali hrin in phaw le feipi thawn a thuam awmi ralkap bawi thawngkhat le ralkap thawng sawmthum le thawng sarih;
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />Dan hrin in raldo zir cia ralkap thawng kul hluanriat le zaruk;
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Asher hrin in raldo zir cia ralkap thawng sawmli;
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />Jordan Tiva in nisuahnak lamih ummi Reuben, Gad le Nisuahnak lam Manasseh hrin pawl in hriamnam a phunphun hmangthiam ko ih zirh ciami ralkap thawng za le thawng kul.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Ralkap hizat cu raldo dingin an timtuah cia ṭheh in Hebron ah an feh; an tumtahmi cu David kha Israel siangpahrang canter ding lawnglawng a si. Israel mi dangdang khal cubangtuk tumtahnak nei in an um ṭheh.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Ramsung minung pawl ih rak tawlrel sak ciami ti le rawl, in le ei in cutawkah David thawn ni thum sung an umtlang.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Saklampi ih a ummi Issakhar, Zebulun le Naftali hrin pawl tiangin laak, kalauk, rang le caw pawl in sangphut, theipi sangrawh, sabit caar, sabitti le olif hriak, pawl an run phur ciamco. An ei dingah caw le tuu tla an keng. Hitiih an ken ciamco cu an ram pumpi in lungawinak an neihzia a langnak a si.
+  </para>
+  <chapter number="13" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David cu a ralkap thawngkhat hotu le zakhat hotu ralbawi pawl thawn an tongkhawm aw.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cule cutawkih a ratu Israel mi pawl hnenah cun, “Nannih nan lung a kim ih Bawipa kan Pathian tla a lung a kim a si ahcun kan ramsung minung pawl, puithiam le Levi mi pawl hnenah mi kan thlah pei ih kanmah hnenih ra pumkhawm ve dingah kan sim pei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cun kan feh pei ih Saul siangpahrang a si lai ih thlauthlakmi Pathian ih Thukam Kuang cu kan lak pei,” tiah a than.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A thupol mi cu an lung a kim ih an lung tla a awi ngaingai.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cuticun David hnenah Israel mi pawl cu thlanglam ah Izipt ramri in le saklam ah Hamath Tlangkawn ih a ummi tiangin an ra. Kiriath Jearim khawpi ihsin Thukam Kuang la dingin an rakhawm ṭheh.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cule David le Israel mi pawl cu Judah ram Kiriath Jearim khawpi, (a si lole Baalah khawpi timi) ahcun Cherubim tlun, sunlawinak hmunih a totu Bawipa in hmin a kengtu Thukam Kuang cu lak dingah an feh.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Abinadab inn an thlen tikah Thukam Kuang cu an lak ih cawleng thar parah an ret. Uzzah le Ahio in cawleng cu an khor ih,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />David le Israel misenpi pawl cu Pathian thangṭhat in an tha neih patawp in an laam ciamco. Hla an sak ih ṭingṭang, khuang, dar sumsel le tawtawrawt an tum.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Khidon an timi hmunih fang ciilnak puum an thlen tikah cawcang pawl cu an bah ih curuangah Uzzah in a hei dawh ih Thukam Kuang cu a hei dom.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Hmakhatte-ah Bawipa cu Uzzah parah a thin a heng ih Thukam Kuang a tham ruangah a that. Cutawk Bawipa ih hmai ahcun a thi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cutiih Uzzah parah Bawipa a thin a heng ruangah David cu a thin a heng ngaingai. Curuangah cuih hmun cu Perez Uzzah tiah an tita.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cule David in Pathian cu a ṭih ngaingai ih, “Hi Thukam Kuang cu ziangtinso atu ahcun ka fehpi ngam ding?” a ti.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Curuangah David in Thukam Kuang cu Jerusalem ah a fehpi lo. Gath khuami pa Obed Edom an timi pa inn ah a taanta.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Cutawkah cun thla thum a um ih Bawipa in a innsang le a neihmi hmuahhmuah cu thluasuah a pek.
+  </para>
+  <chapter number="14" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Ṭaiar siangpahrang Hiram in David hnenah palai a thlah ih siangpahrang inn saknak hrangah sidar thing pawl, lung sertu pawl le zungthiam pawl tla a kuat.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Bawipa in Israel siangpahrang ah i tuah zo ih Amah ih minung pawl ruangah ka uknak cu a ṭhangso a si, ti cu David in a thei.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jerusalem khua ahcun David in nupi tampi a ṭhi ih fapa le fanu tampi a nei.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Jerusalem ih a hrinmi a fapa pawl ih hmin cu: Shammua, Shobab, Nathan, Solomon,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ibhar, Elishua, Elpelet,
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Nogah, Nefeg, Jafia,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Elishamma, Beeliada le Elifelet an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Filistin mi pawl in Israel ram pumpi tlunah David cu siangpahrang a si zo, ti an theih tikah kai dingin an ralkap pawl an feh. Cumi cu David in a theih tikah Filistin ralkap do dingin a pok.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Filistin pawl cu Refaim phairawn an thleng ih cuih hrawng mi pawl an ram ciamco.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />David in Bawipa hnenah, “Filistin mi pawl hi ka do ding maw? Ka neh hai ding maw?” tiah a sut. Bawipa in, “Do aw, na neh ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Curuangah David in Filistin mi pawl cu Baal Perazim ah a do ih a neh. Cutikah David in, “Ral pawl nehsuak dingah Bawipa in tilian bangin i hmang a si,” a ti. Curuangah cuih hmun cu Baal Perazim tiah an ko.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cutawkah Filistin mi pawl in an milem pawl tla an tlansan thluh ih cupawl cu ur dingah David in thu a pek ih an ur ṭheh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />A rei hlanah phairawn ih ummi pawl kha Filistin mi pawl in an ra ram sal lala.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />David in Bawipa a sut lala ih Bawipa in, “Hitawk lam cun do hlah aw; heel awla khatlam in balsam theikung pawl umnak kiangin do aw.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Cuih theikung tlunih mi feh thawm vek na theih tikah do aw; ziangahtile Filistin ralkap nehtu dingah na hmaiah Keimah ka feh ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David cun Pathian ih thupekmi vekin a tuah ih Filistin ral pawl cu Gibeon in Gezer thleng tiang a dawihlo.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David ih hmin cu khuazakip ah a thang ih Bawipa ih ruangah miphun hmuahhmuah in amah cu an ṭih.
+  </para>
+  <chapter number="15" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David in amah ih hrangah Jerusalem ah inn tampi a sak. Pathian Thukam Kuang hrangah hmun pakhat a zuah ih cutawkah puanthlam a sak.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cule David in, “Levi mi pawl cu Thukham Kuang phurtu dingah le amah ih hnaṭuantu dingah Pathian ih hrilmi an si ruangah anmah lawng in Pathian ih Thukam Kuang cu an phur ding,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Puanthlam a sakmi sungih Thukam Kuang ret dingah Israel mi pawl cu David in Jerusalem ah a kokhawm ṭheh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cuih hnuah Levi mi pawl le Aaron tesinfa pawl a ko.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Kohath hrin Levi mi sung in Uriel a ra ih a hrinpi minung za le kul hotu a si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Merari hrin in Asaiah a ra ih a hrinpi zahnih le kul hotu a si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Gershom hrin in Joel a ra ih a hrinpi za le sawmthum hotu a si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Elizafan hrin in Shemaiah a ra ih a hrinpi zahnih hotu a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hebron hrin in Eliel a ra ih a hrinpi minung sawmriat hotu a si.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Uzziel hrin in Amminadab a ra ih a hrinpi minung za le hleihnih hotu a si.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cun David in puithiam Zadok, Abiathar le Levi mi paruk Uriel, Asaiah, Joel, Shemaiah, Eliel, le Amminadab pawl a ko ih,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />an hnenah, “Nanmah hi Levi hrin pawl ih hotu cu nan si. Ka sak ciami inn sungih Bawipa , Israel Pathian ih Thukam Kuang nan run ret theinak dingah nanmah le nan Levi hrinpi pawl cu tithiangfai aw uh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hitiih Thukam Kuang phurhnak ih nan tel hi a hmaisa bik a si lo; Bawipa lungkim zawng in kan biak lo ruangah Bawipa kan Pathian in in hrem a si kha,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Cule Bawipa , Israel ih Pathian ih Thukam Kuang la dingin puithiam pawl le Levi mi pawl cu an tithiangfai awter.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Levi mi pawl in Thukam Kuang cu an liangah laang in an zawn ih Bawipa in Moses hnenih thu a pek vekin an tuah.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David in Levi mi hotu pawl hnenah an unau Levi mi pawl cu hla satu, ṭingṭang tumtu le darsumsel pawl tumtu tiah ṭhen dingin thu a pek.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hla saktu pawl sungin Joel fapa Heman, a sungkhat Berekhiah ih fapa Asaf le Merari hrin in Kushaiah ih fapa Ethan cu darsumsel tumtu dingah an hril. Anmah bawmtu dingah a hnuailam Levi mi pawl cu ṭingṭang aw-feem tumtu dingah an hril: Zekhariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah le Benaiah. Cun ṭingṭang aw-pawr tumtu dingah a hnuailam Levi mi pawl cu an hril: Mattithiah, Elifelehu, Mikneiah, Azaziah le Biakinn kilvengtu Obed Edom le Jeiel tla an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Levi mi awn-mawi tumtu pawl hotu dingah hla thiamzetmi Khenaniah an hril;
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Thukam Kuang kiltu dingah Berekhiah le Elkanah an hril.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Thukam Kuang hmai ih tawtawrawt tumtu dingah puithiam Shebaniah, Joshafat, Nethanel, Amasai, Zekhariah, Benaiah le Eliezer pawl an hril. Obed Edom le Jehiah khal Thukam Kuang retnak sangka kiltu an si ve.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />David, Israel hruaitu pawl le ralkap hotu ralbawi pawl cu Thukam Kuang la dingin Obed Edom inn ahcun an feh ih lungawinak puai tumpi an tuah.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Pathian ih bomnak Thukam Kuang phurtu Levi mi pawl ih an co tengtengnak dingah cawcang pasarih le tuu pasarih that in thawinak an tuah.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />David le awn-mawi tumtu pawl, an hla hotu Khenaniah le Thukam Kuang phurtu Levi mi pawl cu puan mawi le puan mankhung an sin ciar. Cuih tlunah David cun puithiam angki ṭaangthlaih a hruk.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Cuticun Israel mi hmuahhmuah in Thukam Kuang cu an thlun ih lungawi in an au phah ih tawtawrawt, tuuki, darsumsel le ṭingṭang tum phah in Jerusalem ah an fehpi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Thukam Kuang cu khawpi sungih an luhpi tikah Saul ih fanu Mikhal in tukvirh in a hei zoh ih siangpahrang David khir phah rero ih a laam kha a hmuh tikah a mitkem in a nautat ngaingai.
+  </para>
+  <chapter number="16" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David ih sakmi puanthlam ahcun Thukam Kuang cu an fehpi ih a sungah an ret. Cule mei-ur thawinak le rem-awk thawinak pawl Bawipa ih hnenah an pek.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />David in cuih thawinak a ṭheh tikah misenpi pawl cu Bawipa ih hminin thlawsuah a pek ih,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />rawl a zem hai. Israel mi an zatein nunau siseh, mipa siseh, mi pakhat ah sang zawl khat, sa em semkhat ciar le sabit caar malte ciar a pek.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />David in Levi mi hrekkhat pawl cu Thukam Kuang hmai ih Pathian thangṭhat ding le hla thawn cawimawi ding le Bawipa Israel ih Pathian a betu pawl hotu dingah a ret.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cupawl lakih hotu bik cu Asaf a si ih a bawmtu cu Zekhariah a si. Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed Edom le Jeiel pawl tla in an bawm. Annih cu ṭingṭang tumtu an si ih Asaf cu darsumsel tumtu a si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Puithiam pahnih Benaiah le Jahaziel cu Thukam Kuang hmaiah a tikcu caan te ih tawtawrawt tum ringringtu an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cutiin Asaf le a unau Levi mi pawl cu David in Pathian thangṭhat dingih ṭuanvo hmaisa bik a rak peknak a si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Bawipa cu thangṭhat uh; A hmin cu phuang uh. A thil tuahmi cu mi hmuahhmuah hnenah than uh.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Bawipa ih hnenah thangṭhatnak hla sak uh, Thil mangbangza a tuahmi sim uh.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Amah ih ta kan si ruangah nan lungawi uh; Amah betu hmuahhmuah in nan lungawi uh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Bawipa le a cahnak hawl uh; Catbaang loin a mithmai zoh uh.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Khawruahhar a tuahmi ruat uh, Mangbangza a tuahmi cing ṭha uh, A thuṭhennak pawl tla;
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Pathian salpa Jakob tefa pawl, Pathian hrilmi Israel ih tefa pawl tla,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Bawipa cu kan Pathian a si, Thil maksak a tuahmi hngilh hlah uh, A thuṭhennak leilung a khat.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Pathian ih thukam cu hngilh hrimhrim hlah uh; Kumkhaw daih ih a tuahmi a si;
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Abraham hnenih a thukam le Isaak hnenih a thutiam cu.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Bawipa in Jakob hnenah a thukam a nemhnget, Israel hnenah kum khua daih dingin a hngetter.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />“Kanaan ram ka lo pe ding, Na covo a si ringring ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Pathian ih minung pawl cu an malte, Kanaan ramah mikhual ah an cang.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ram khat in ram khatah an vak, Uknak pakhat in a dang pakhat ah an ceer.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Sikhalsehla zohman ih neh-nen mi an si lo; Pathian in a hum hai ih anmah ṭanah siangpahrang pawl a kawk.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />“Ka hrilmi ka milai pawl cu dai hlah uh, Ka profet pawl tham hlah uh,” a ti.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Leilungpi in Bawipa cu thangṭhat uh; A runnak thuthangṭha cu ni khat hnu ni khat phuang uh.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Miphun hmuahhmuah hnenah a sunlawinak cu aupi uh; Mikip hnenah a thil tithei zia sim sin uh.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Bawipa cu a nasa ngaingai ih hlorh tlak a si; Khawzing dangdang hnakin ṭihzah ding a si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Miphun dangdangih khawzing cu a lem lawng an si; Asinain vanih um thil hmuahhmuah hi Bawipa ih siammi an si.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Amah cu huham le sunlawinak in a kulh ṭheh; A Biakinn cu huham le lungawinak in a khat.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Leitlun mi hmuahhmuah in Bawipa cu thangṭhat uh; A huham le a sunlawinak hlorh uh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />A hmin sunglawi cawimawi cio uh; Thawinak pe in a Biakinn ah ra uh. Thianghlim Mi a lang tikah a hmaiah kun uh;
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Leilung miphunkip a hmaiah khur in um seh. Leilungpi a dinhmun a hnget zo, ṭhawn theih ding a si lo!
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Maw lei le van, nan lungawi uh; Bawipa cu siangpahrang a si, tiah mikip hnenah than uh.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Au uh, tifinriat le a sung ummi pawl tla; Lungawi uh, leiram le a parih ummi tla.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Tupi sung thingkung pawl cu lungawi in an au ding, Lungawi in Bawipa ih hmaiah Hla an sak ding. Leilung uk dingih Bawipa a rat tikah cun.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Bawipa ih hnenah nan lung awi uh; Ziangahtile Amah cu a ṭha; Amah ih duhdawtnak cu kumkhua in a hmun a si.
+  </para>
+  <para style="p">
+    <verse number="35" style="v" />A hnenah, “Maw Pathian, kannih in Runtu, in run hram aw, Hmun khatah in khawm awla, Miphun tampi kut in in hum aw; Cuticun na parah lungawi thu kan rel ding ih, Na hmin thianghlim cu kan thang ṭhat ding,” ti uh.
+  </para>
+  <para style="p">
+    <verse number="36" style="v" />Bawipa , Israel ih Pathian cu thangṭhat uh; Amah cu kumkhua in kumkhua tiang thangṭhat uh. Cutikah misenpi in “Amen,” an ti ih Bawipa cu an thangṭhat.
+  </para>
+  <para style="p">
+    <verse number="37" style="v" />David in Asaf le a unau Levi mi pawl cu Thukam Kuang retnak hmunih hnaṭuan ringringtu dingah a ret. Nitinte in an ṭuanvo cu an tuahsuak ding a si.
+  </para>
+  <para style="p">
+    <verse number="38" style="v" />Anmah bawmtu ah Jeduthun ih fapa Obed Edom le a hrinpi minung sawmruk le pariat an um. Obed Edom le Hosah cu kotka kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="39" style="v" />Puithiam Zadok le a unau puithiam pawl cu Gibeon ih ummi Bawipa ih biaknak hmunah hnaṭuantu an si.
+  </para>
+  <para style="p">
+    <verse number="40" style="v" />Bawipa in Israel mi hnenih a pekmi Daan sungih a um vekin puithiam pawl cun zingtin le zantin mei-ur thawinak an pe ringring.
+  </para>
+  <para style="p">
+    <verse number="41" style="v" />Anmah thawn hmun khatah Heman le Jeduthun le a hleice ih hrilmi pawl cu, “Kumkhua ih a hmunmi Bawipa ih duhdawtnak” tiin thangṭhat dingah an um.
+  </para>
+  <para style="p">
+    <verse number="42" style="v" />Thangṭhatnak hla an sak tikah an tummi tawtawrawt, darsumsel le tummi thilri pawl tla Heman le Jeduthun cun an zoh phah fawn. Cule Jeduthun fapa pawl in kotka an kil.
+  </para>
+  <para style="p">
+    <verse number="43" style="v" />Cun misenpi cu inn ah an tlung ih David khal a innsang thlawsuah dingin a tlung ve.
+  </para>
+  <chapter number="17" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Siangpahrang David cu a siangpahrang inn ahcun a um. Nikhat ah David in profet Nathan a ko ih, “Kei cu sidar zanthing ih sakmi inn ah ka um, asinain Bawipa ih Thukam Kuang cu puanthlam sungah kan ret,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cutikah Nathan in, “Pathian cu na hnenih a um ruangah na thinlung ih a ummi cu tuah ko aw,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Asinain cuih zanah cun Pathian in Nathan hnenah,
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />“Feh awla ka siahhlawh David hnenah, ‘Ka umnak dingih biakinn a satu ding cu nang na si lo ding.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Israel mi pawl Izipt ram in ka hruaisuak ihsin tuih sun tiangah biakinn sungah ka um dah lo; ka umnak cu puanthlam a si ih hmun khatión hmun khatah ka ceer.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Israel mi pawl thawn ka khualtlawnnak hmuahhmuah ah ka hrilmi an hotu zohman, ziangah so sidar thing in ka hrangah biakinn na sak lo, tiah ka ti dah lo,’ a ti,” va ti aw.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />“Ka siahhlawh David hnenah cun va sim awla Keimah Ziangkimtithei Bawipa in amah ka sim duh mi cu, ‘Hramlakih tuu na khalhnak in ka lo lak ih ka minung Israel uktu ah ka lo tuah.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Na fehnak hmun kipah ka lo umpi ih na lamzin ih na ral hmuahhmuah ka lo nehsak ṭheh. Leilung tlunih mi nasa bik tlukin na hmin ka thanter ding.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Zohman ih an hrem thei lonak dingah an hrangah hmun ka hril ih ka miphun Israel pawl cu cuih hmunah ka umter. Hitawk ram an thlen vete in mi siatsuah lawng a duhtu pawl in an do ringring; asinain tuih hnu ahcun cubangtuk cu a um nawn lo ding. Na ral pawl hmuahhmuah neh dingah le tesinfa tampi nei dingah thu ka lo kam a si.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Na thih ni a kim ih na pupa hnenih phum na si tikah na fapa pawl sungin pakhat cu siangpahrang ah ka tuah ding ih a uknak cu ka cakter ding.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ka hrangah amah in biakinn a sak ding ih a uknak cu kumkhua in ka hngetter ding.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Keimah cu a pa ka si dingih amah cu ka fapa a si ding. Nangmah siangpahrang canter duh ah ka dawihlo mi Saul ka tlansan vek cun anih cu ka tlansan lo ding.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Ka miphun le ka uknak zohtu le kiltu ah kumkhua in ka tuah ding. A uknak cu a cem dah lo ding,’ va ti aw,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Pathian ih a phuanmi hmuahhmuah cu Nathan in David a sim ṭheh.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Siangpahrang David cu Bawipa ih umnak Puanthlam ahcun a feh ih a to hnuah thla a cam: “Maw Bawipa Pathian, keimah le ka innsang hrangih na thil tuahmi pawl hi ka ruah tikah ka hlawh hrimhrim lo.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cuih tlunah hi hnakih thil thupi deuh sawn ka hrangah na tumtah ih ka tesinfa pawl an hmailam kum tampi hrang tiang thukam na tuah zo; Bawipa Pathian, kei hi mi nasazet vekin i zoh a si.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hi tlunah ziangso kei cun ka sim thei nawn ding? Na siahhlawh kei hi i thei ṭheh ko naón hi tlukih i cawisan lawmmam hi!
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hi bangtuk thil ka hrangih tuah le hmailam ka sunlawinak pawl tuah hi na duh mi le na tumtah mi hrimhrim a rak si!
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Maw Bawipa , nangmah bangtu zohman an um lo; nangmah lawng Pathian na si. Kanmah hrimhrim in kan thei zo.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Saltaannak in na runsuak ih na miphun ih na tuahmi Israel mi bangtuk leilung tlunah an um lo. An hrang ih khawruahhar le mangbangza na tuah ruangah leilung pumpi ah na hmin cu a thang ṭheh. Izipt ram ihsin na minung cu na suahter ih hmaiih an nor tikah miphun dangdang cu na dawihlo ṭheh.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Kumkhua hrangin Israel cu na minung ah na tuah zo ih, maw Bawipa , nang cu an Pathian na si zo.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />“Curuangah maw Bawipa , ka hrang le ka tesinfa pawl hrangih na thukam tuahmi cu kimter awla, ka tuah ding na timi cu tuahsuak hram aw.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Na hmin cu a thang ding ih mi hmuahhmuah in, ‘Ziangkimtithei Bawipa cu Israel tlun ah Pathian a si,’ tiah kumkhua in an ti ding. Cule ka uknak cu sanikhuk na hmunter ding.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Na salpa ka hnenah hin na tumtahmi na phuang ih, ‘Na tesinfa pawl cu siangpahrang an si ding,’ ti tiang i sim zo ruangah hi thlacamnak hi na hnenih ka hun thlenter ngamnak cu a si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Maw Bawipa, nang cu Pathian na si ih hi bangtuk mangbangza thukamnak hi ka hnenah na tuah zo.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Na mithmaiṭha hmutu an si ringringnak dingah ka tesinfa pawl cu thlawsuah pe hram aw, tiah zaangfah ka lo dil a si. Bawipa nangmah in thlawsuah na pe zo; na thlawsuah cu an parah kumkhua in um hram seh,” tiah a ti.
+  </para>
+  <chapter number="18" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Tawkfang a rei hnuah David in Filistin mi pawl a do ih a neh. Gath khawpi le a kiangkap ih khawte pawl tla a lak ṭheh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cule Moab mi pawl a do ih a neh. A kuthnuai minung ah an cang ih siah an pek.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cuih hnuah Siria ram sung Zobah peng siangpahrang Hadadezer in Eufrates Tiva hna lamih ram pawl neh dingih a feh laiah Hamath ram kiangah David in a do ih a neh.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />David in a rangleng thawng khat, rang ralkap thawng sarih le ke ralkap thawng kul a kai. Rangleeng zakhat hrangah rang cu a zuah ih a dang pawl cu an kaizatha a satcat ṭheh.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cule Damaskas ih ummi Siria mi pawl in siangpahrang Hadadezer bawm dingah ralkap an kuat. Cupawl tla cu David in a neh ih ralkap thawng kul hluanhnih a that.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />An ram sungah a ralkap a ret ih a ukmi ah an cang ih siah an pek. Bawipa in David cu khuazakipah nehtu a siter.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hadadezer kutthuai bawi pawl ih kenmi sui phaw pawl cu David in a long ih Jerusalem ah a tlunpi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hadadezer ih ukmi Tibbath le Kun khawpi pawl ihsin dar tamzet a lak. Cumi pawl cu Solomon in Biakinn sungih khokheng pawl, ṭhuam pawl le maihum tumpipi tuahnak ah a hmang.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />David in Hadadezer ralkap a neh thluh thu Hamath siangpahrang Toi in a thei.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Curuangah siangpahrang David lawm dingah le lungawipi dingah Toi cun a fapa Joram a thlah; ziangahtile Toi in Hadadezer cu voi tampi a rak do zomi a si. Joram in David cu sui, ngun le dar ih tuahmi thilri tampi laksawng a pek.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cuih thilri cu David in Edom mi, Moab mi, Ammon mi, Filistin mi le Amalek mi pawl hnenin a lonmi sui le ngun pawl thawn Bawipa biaknak ih hman dingah a pek.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cun Zeruiah ih fapa Abishai in Edom mi cu Cite Phairawn ah thawng hleiriat a that.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Edom ram sungah ralkap a ret ih cuticun Edom mi pawl cu David ih uk mi ah an cang. Bawipa in David cu khuazakip ah nehtu a siter.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />David in Israel ram le a minung pawl cu dingthluk lairelnak in a uk.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Abishai ih u Joab cu ralbawi upa bik a si. Ahilud fapa Jehoshafat cu rampi cazin kaitu a si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Ahitub fapa Zadok le Abiathar fapa Ahimelek cu puithiam an si. Seraiah cu siangpahrang zungih sungṭuan a si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Jehoiada ih fapa Benaiah cu siangpahrang kiltu Kereth mi le Peleth mi pawl hotu a si. David ih fapa pawl cu a pa ih uknak sungah hnaṭuan tumpipi ṭuantu an si.
+  </para>
+  <chapter number="19" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Tikcu a hung rei deuh tikah Ammon siangpahrang Nahash a thi ih a fapa Hanun siangpahrang a cang.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />David in, “A pa Nahash cu ka parih a ṭhat vekin Hanun parah rualpi ṭha ka sinak ka langter ve ding,” a ti. Curuangah Hanun va topi dingah David in a ai-awh ah palai a thlah. Ammon ram an thleng ih siangpahrang Hanun hnen an feh tikah,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Ammon ram hotu upa pawl in an siangpahrang hnenah cun, “Na pa upatnak ah David in hi palai pawl hi nangmah topi dingah a thlah a si, tiah na ruat maw? Cutiih na ruah asile na palh tengteng ding! Kan ram neh duh ah hipawl hi thlingthlatu-ah a rak thlah a si sawn,” an ti.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cutikah Hanun in David mithlah mi palai pawl cu a kai ih an khahmul a meet ṭheh ih an korfualpi cu an taai ri-in a tansak ṭheh hnu ah a thlah.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />An ningzak in inn hmanah an tlung ngam lo. Cuih thu cu David in a theih tikah an khahmul a sau hlan lo Jerikho ih um ding in thu a cah.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Siangpahrang Hanun le Ammon mi pawl in David an ral ih an canter kha an theihsaal tikah ngun tangka cuai thawng hleiriat le zariat tluk pe in tlunlam Mesopotamia le Siria khawpi Maakah le Zobah in ralkap an saang.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />An saanmi rangleng thawng sawmthum le thawnghnih le Maakah siangpahrang ralkap pawl cu an ra ih Medeba kiangah ṭanhmun an khuar. Ammon mi pawl khal an khua ciar in an pok ih raldo dingin an tiar aw.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cuih thu cu David in a theih tikah ralbawi Joab le Israel ralkap zatein cu pawl va do dingah a fehter.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ammon mi pawl cu an suak ih Rabbah khawpi hnarpawn in ṭanhmun an khuar. Anmah bawm dingih a rami siangpahrang pawl cu hramlak in ṭanhmun an khuar ve.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Ral pawl in hmailam le dunglam in in do ding ti kha Joab in a theih tikah Israel ralkap sungih ralkap ṭhabik pawl a hril ih Siria ralkap do dingah a bawhter.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />A dang Israel ralkap hmuahhmuah cu a unau Abishai a hoter ih Ammon ralkap pawl do dingin an bawh ve.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cule Joab in Abishai hnenah, “Siria ralkap pawl in kei in neh a si ahcun in ra bawm pei. Ammon ralkap pawl in nang an lo neh a si le ka ra lo bawm ding.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Cakzet le ralṭha zetin um aw! Kan miphun le kan Pathian ih khawpi pawl hrangah nasa tak in kan do pei. Bawipa ih duhnak vekin si ko seh,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Cuṭheh vete in Joab le a ralkap pawl cun an nor ciammam ih Siria ralkap pawl cu an tlan ṭheh.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Siria ralkap pawl an tlan ti kha Ammon ralkap pawl in an theih tikah Abishai do ngam loin an zaam ih khawpi sungah an siip ṭheh. Cuih hnuah Joab cu Jerusalem khua ah a tlung.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Israel pawl in in neh seksek a si tikha Siria mi pawl in an theih tikah Eufrates tiva in nisuahnak lamih a ummi Siria ramsung minung pawl ralkap ah an lak ih Zobah peng siangpahrang Hadadezer ih ralkap hotu upa bik Shobak an hoter.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cuih thu cu David in a theih tikah Israel ralkap pawl cu a kokhawm lala ih Jordan tiva a tan hnuah Siria ralkap do ding in ṭanhmun a khuar. An do aw ciammam ih,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Israel pawl in an neh lala. David le a ralkap pawl in Siria rang ralkap thawng sarih le ke ralkap thawng sawmli an that. Siria ralbawi upa bik Shobak tla an that.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Siangpahrang Hadadezer kuthnuai siangpahrang pawl in Israel ralkap in in neh thluh a si, ti an theih tikah David thawn remnak an tuah ih a ukmi ah an cang.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cuih hnu cun Siria mi in Ammon mi cu an bawm duh nawn lo.
+  </para>
+  <chapter number="20" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Khua a hung ṭhal ih siangpahrang pawl an raldo caan a hung cuut tikah, Joab le a ralkap cu an feh ih Ammon ram an do. An khawpi Rabbah an kulh ṭheh. Culai ah David cu Jerusalem ah a um. Joab in Rabbah cu a do ih a siatsuah ṭheh.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cule Ammon mi in Molek an timi khawzing lem an nei ih a sui lukhuh cu cuai kul a rit. A sungah lungmankhung a um ih cumi cu David in a lak ih a siangpahrang lukhuh ah a bun. Khawpi sungih hransaw tampi tla a lak.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Khawsung mi pawl cu a hruai hai ih hluah le tupheng le hreitlung thawn hna a ṭuanter. Ammon ram khua dangdang mi pawl tla cuvek thotho in a tuah. Cuih hnuah a ralkap pawl thawn Jerusalem ah an kir.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Cuih hnuah, Filistin mi pawl thawn Gezer ah an do aw. Israel mi in an neh. Cuih ṭum ah Hushah mi Sibbekai in mikei tia a si mi Sippai an timi a that.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Cule Filistin thawn an do-aw lala ih Jair fapa Elhanan in Gath mi Goliath ih unau Lahmi a that; a feihlung cu thiamtleeng tia a si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Gath ah an do-aw sal ih cuih khua ahcun a kut khatlam ah kutzung paruk veve, a ke khatlam ah kezung paruk veve a neimi a um. Amah cu khuahlan mitum zetzet pawl ih tesinfa a si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Israel mi pawl cu a dodal ih David ih unau Shammah ih fapa Jonathan in cupa cu a that.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hi minung pathum, David le a ralkap pawl ih an thahmi hi Gath khua ih mitum zetzet tefa pawl an si.
+  </para>
+  <chapter number="21" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Satan in Israel parah harsatnak thlenter a duh ruangah David cu thusia a forh ih Israel mipum siar duhnak thinlung a neihter.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Curuangah David in Joab le a ralbawi dangdang hnenah, “Israel ram khatlam deng Beersheba ihsin khatlam deng Dan tiang feh uhla mipum siar hnik uh. Minung ziangzat an um ti theih ka duh,” tiah thu a pek.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Cutikah Joab in, “ Bawipa in Israel mi pawl cu atu hnakih a let zakhat in karhzaiter hram seh! Ziangzat an va si khalle Bawipa nangmah cu an siangpahrang na si ih an zatein na sal an si ko. Ziangah so an mipum siar cu na duh? An mipum na siarsuak ngaingai asile Israel miphun cu mawhphurtu na canter ding a si!” a ti.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sikhalsehla David in a thu cu a ṭhin duh cuang lo. Curuangah Joab cu Israel ram pumpi hmuahhmuah ah a feh ih cuih hnuah Jerusalem ah a kir.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Siangpahrang David hnenah cun thu a than ih, “Ralkap ṭuan thei ding lawnglawng Israel ah million khat le thawng zakhat an um ih, Judah ah thawng zali le thawng sawmsarih an um,” a ti.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Joab in David ih thupekmi a lung a kim lo ruangah Levi mi le Benjamin mi pawl cu mipum a siar lo.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Cuih thil an tuahmi parah Bawipa cu a lung a awi lo ih Israel pawl cu a hrem.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Cutikah David in, “Maw Bawipa , thil ṭha lozet ka tuah ih ka sual zo a si. I ngaithiam hram aw. Aat hna ka ṭuan a si,” a ti.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Cule Bawipa in David ih profet Gad hnenah,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />“Va feh awla David va sim aw; thil hril ding pathum ka pek. Pakhatkhat a hril pei ih cumi cu ka tuahsuak ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Gad cu David hnenah a feh ih Bawipa ih ṭongmi cu a sim, “Khuimi so na hril ding?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Kum thum sung paam maw? Asilole na ral pawl in thla thum sung dawi le hual rero maw? Asilole ni thum sung Bawipa ralnam cu a vancungmi in hmang in Israel ram sungah natsia le thihnak thlenter maw? Pakhatkhat hril awla cumicu Bawipa ka sim ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Cutikah David in Gad hnenah, “Ka awlok a song tuk lawmmam! Asinain milai kut sungih tlak hnak cun Pathian kut sungih tlak ka duh sawn; ziangahtile Bawipa cu zaangfahnak neitu a si,” a ti.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Curuangah Bawipa in Israel mi tlunah pulhnat a tlunter ih thawng sawm sarih an thi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Pathian in Jerusalem siatsuah thluh dingah vancungmi a thlah; asinain a thinlung a thleng sal ih vancungmi hnenah cun, “Cawl aw; tawk thlang seh,” a ti. Cule vancungmi cu Jebus mi Araunah ih fang ciilnak puum kiangah a ding.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />David in a hun zoh tikah van le leilung karlakah Jerusalem siatsuah dingih namsaupi thlir in vancungmi a din kha a hmu. Cutikah David le Israel mi hotu pawl cu buri puan hruk in an hmai leilung dai tiangin an kuun.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />David in, “Maw Pathian, a sualtu cu keimah ka si. Mipum siar dingih thu petu cu keimah ka si. Himi pawl in ziangso tuah sual mi an neih? Maw Bawipa, ka Pathian, keimah le ka innsang hi in hrem awla hi na minung, na tuurual hi cu luatter hram aw,” tiah thla a cam.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Cule Bawipa ih vancungmi in Gad hnenah, “David cu feh sehla Bawipa ih hrangah Jebus mi Araunah fang ciilnak hmunah biakṭheng donseh,” tiah thu a pek.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Bawipa ih thupekmi cu Gad ih sim vekin David cun a thlun.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Araunah le a fapa pali cu sangvut an ciil rero. Vancungmi an hmuh tikah a fapa pawl cu an zaam ih an relh.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Araunah in amah ih lamih siangpahrang David a rat rero kha a hmuh tikah zamrangte in a tlan ih a hmai lei dai in David hmaiah cun a kun.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />David in, “Na sangvut ciilnak hmun hi i zorh aw; Bawipa hrangah biakṭheng ka dawl duh a si. Culo cun pulhnat hi a reh lo ding. A man cu na ngenzat ka lo pe ko ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Araunah cun, “Bawipa, la ko aw; na duh vekin hmang aw. Biakṭheng parih mei-ur thawinakah hinah cawcang an um; thing hrangah puum ih donmi zial an um ih thlairawl thawinak hrangah sangvut a um ko. Ka lo pe thluh ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Asinain siangpahrang bawipa cun, “Asilo, a man kimtein ka lo pe ding. Na ta cu a lakin ka la lo ding, keimah ih a man ka pek lomi cu Bawipa ih hnenah pek ka duh lo,” a ti.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Cule Araunah cu sui tangka fai zaruk a pek.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Cutawkah Bawipa ih hrangah biakṭheng a dawl ih mei-ur thawinak le remawk thawinak a pek. Thla a cam ih Bawipa in a theihsak ruangah van ihsin meisa a run thlak ih biakṭheng parih a pekmi thawinak pawl cu a kang ṭheh.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Bawipa in vancungmi cu a namsau re sal dingin thu a pek ih a ret sal.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Cumi cu David in a hmuh tikah Bawipa in ka thlacamnak i theih sak a si, ti a thei ih Araunah fang ciilnak hmunih a dawlmi biakṭheng parah cun thawinak a tuah.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Bawipa ih umnak Puanthlam, Moses in ramṭhing ih a sak mi le thawinak pawl an urnak biakṭheng cu cuih caanah Pathian an biaknak hmun Gibeon ah a um laifang a si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Asinain David cu Bawipa bia dingah cutawkah cun a feh ngam lo; ziangahtile Bawipa ih vancungmi ih namsaupi cu a ṭih tata.
+  </para>
+  <chapter number="22" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Cule David in, “hittawk ah hin Bawipa ih Biakinn cu a um ding. hittawk ah hin Israel mi pawl in mei-ur thawinak an pe ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Siangpahrang David in Israel ram sungih a ummi ramdangmi hmuahhmuah a kokhawm ih hna a ṭuanter hai. Cule serthiam pawl in Biakinn saknak ah lungto an ser.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tlawngkhen le sangka kaihnak kopza tampi a pek ih dar tla cu zohman ih a cuai khai thei cawk lo tiangin a pek hai.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Ṭai-ar le Sidon mi pawl in sidar thing an run pek.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />David cun, “Ka fapa Solomon ih a sak dingmi Bawipa ih Biakinn cu a ṭha taktak mi le leilung tlunih hminthang a si a ṭul. Solomon cu a no hrih ih zianghman a tithiam hrih lo ruangah keimah in ziang hmuahhmuah ka timtuahta thluh a ṭul a si,” a ti. Curuangah David in a nunsungah thilri tampi a khawl a si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David in a fapa Solomon cu a ko ih Bawipa , Israel ih Pathian Biakinn sak dingah thu a pek.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A hnenah, “Ka fapa, Bawipa ka Pathian hminthannak ah biakinn sak ka duh.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Sikhalsehla Bawipa in, ‘Ral tamtuk na do ih mi tamtuk na that zo a si,’ i ti. Thisen tamtuk ka luanter zo ruangah a hrangih biakinn sak ding cu i sen lo a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Asinain thu i tiam ih, ‘Fapa na nei ding ih a ral pawl kut in ka humhim ding ruangah daihnak thawn ram a uk ding. Amah ih hmin cu Solomon a si ding; ziangahtile amah ih uk sungah Israel ramah daihnak le humhimnak ka leenter ding.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Amah in ka hrangah Biakinn a sak ding. Amah cu ka fapa a si ding ih kei cu a pa ka si ding. Amah ih uknak cu Israel tlunah kumkhua in ka hmunter ding,’ a ti.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />“Curuangah ka fapa, Bawipa na Pathian cu na hnenah um hram seh; amah ih thutiam bangin na Bawipa hrangih Biakinn cu tlamtling zetin sak suak hram aw.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Israel ram cu Amah ih Daan vekin na uk theinak dingah Bawipa na Pathian in fimnak le theihthiamnak lo pe hram seh.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Bawipa in Israel hrangih Moses hnenih a pekmi Daan pawl na thlun a si ahcun na lamzin a tluang ding ih na hlawhtling ding. Cakzet le ralṭhazet in um awla, zianghman ṭih le phannak khal nei hlah.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Biakinn saknak ah sui phurh thawng zakhat le ngun phurh million khat biakinn saknak ah harsa zetin ka khawl zo. Cuih hlei ah dar le thir cu phurh siar cawk lo a um a si. Thing le lungto pawl tla ka khawl zo ih nangmah khal in na run beet hrih pei.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hnaṭuantu tampi na nei. Lungto laitu, lungto sertu, zungthiam le kutzungthiam dang a phunphun,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />sui le ngun serthiamtu le dar le thir serthiamtu tampi an um. Atu in hnaṭuan thok awla Bawipa in lo umpi hram seh,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cule David in Israel mi hruaitu pawl cu Solomon bawm dingah thu a pek.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />“ Bawipa nan Pathian in nan ram pumpuluk ah daihnak a lo pek. Hi ramih a rak um miphun pawl cu i nehter thluh ih atu ahcun nan kuthnuai le Bawipa ih kuthnuai ah an um ṭheh zo.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Atu ihsin nan thinlung zate le nan thazaang zate thawn Bawipa ih hna cu ṭuan uh. Bawipa Thukam Kuang le amah biaknak ih hmanmi thilri thianghlim pawl retnak ah le a hminthannak ah Bawipa ih Biakinn cu sak uh,” tiah a ti.
+  </para>
+  <chapter number="23" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David cu a kum a upa zetzo ih patar a si thlang ruangah Israel siangpahrang dingah a fapa Solomon cu a ret.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Siangpahrang David cun Israel hotu pawl, puithiam pawl le Levi mi pawl cu a kokhawm.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Levi mi mipa, kum sawmthum le a tlunlam hmuahhmuah an mipum a siar ih, thawng sawmthum le thawngriat an ti.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Siangpahrang in thawng kul hluanli cu Biakinn hnaṭuan hotu ah a ret; thawngruk cu cazin kaitu le thuṭhentu ah a ret;
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />thawngli cu inn le kotka kiltu ah a ret ih a dang thawngli cu siangpahrang ih a retmi awn-mawi phunkim tum tahrat in Pathian thangṭhattu ah a ret.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />David in Levi miphun pawl cu anmah ih hrin ciar in, Gershom hrin, Kohath hrin le Merari hrin tiah ṭhen thumah a ṭhen.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Gershom in fapa pahnih a nei ih Ladan le Shimei an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ladan in fapa pathum a nei ih Jehiel, Zetham le Joel an si ih,
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ladan tesinfa ahcun an hrin ciarah lu an si. (Shimei in fapa pathum a nei ih Shelomoth, Haziel le Haran an si.)
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Shimei in fapa pali a nei sal ih Jahath, Zina, Jeush le Beriah an si. Jeush le Beriah cu tesinfa an neih lo ruangah hrin khatah siar an si.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Cun Kohath in fapa pali a nei ih Amram, Izhar, Hebron le Uzziel an si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Upabik Amram cu Aaron le Moses ih pa a si. Aaron le a tesinfa pawl cu thilri thianghlim a kumkhua in a kilkhawitu, Bawipa biak tikih rimhmui urtu, Bawipa hnaṭuantu le a hmin in misenpi thlawsuah petu dingah retmi an si.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Asinain Pathian minung Moses ih tesinfa pawl cu Levi mi lakah siarcih an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Moses in fapa pahnih Gershom le Eliezer a nei.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Gershom fapa lakah Shebuel cu upa bik a si.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Eliezer cun fapa pakhat Rehabiah lawng a nei. Rehabiah in tesinfa tampi a nei.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Kohath fapa pahnihnak Izhar in fapa pakhat Shelomith a nei ih amah cu an hrinih lubik a si.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Kohath fapa pathumnak Hebron in fapa pali a nei ih Jeriah, Amariah, Jehaziel le Jekameam an si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Kohath fapa palinak Uzziel in fapa pahnih Mikah le Isshiah a nei.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Merari in fapa pahnih Mahli le Mushi a nei. Mahli khal in fapa pahnih a nei ve ih Eleazar le Kish an si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Asinain Eleazar cu fapa nei loin a thi; fanu lawng a nei. A fanu pawl cun an unau, Kish ih fapa pawl an pasal.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Merari fapa pahnihnak Mushi in fapa pathum a nei ih Mahli, Eder le Jeremoth an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hi pawl cu Levi tesinfa, an hrin le an sungkhat ciarih siarmi le pakhat pakhat ciarih hmin khummi an si. A tesinfa sungah kum kul le a tlunlam hmuahhmuah cu Bawipa ih Biakinn ah hnaṭuan nei ciar an si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Cun David in, “Israel ih Pathian in a minung hnenah daihnak a pek zo ih amah khal kumkhua in Jerusalem ah a um ding.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Atu cun Levi mi pawl in Bawipa ih umnak Puanthlam le Pathian biaknak thilri pawl an zawn rero a ṭul nawn lo ding,” a ti.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />David ih netabik thupeknak bangtuk in Levi mi hmuahhmuah cu kum kul an kim vete in hnaṭuantu ah lak an si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />An ṭuanvo cu Aaron tesinfa pawl Biakinn ih Pathian biak tikah an hnaṭuanmi, inn hmuahhmuah le a kiangkap le innkhaan pawl kilkhawinakah le thilri thianghlim pawl borhhlawhter loih an zohnak ah bawmtu an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Cuih hlei ah Pathian hnenih sang hunmi, thawinak ih pekmi sangphut pawl, thilnu tello sangpaate pawl, sangrawh pekmi pawl, siti thawn rawimi sangphut pawl le Biakinn ih thawinak pekmi pawl cuai khai ding le tah sak ding pawl kha an ṭuanvo a si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Zingtin le zantin Bawipa thangṭhattu le cawimawitu an si fawn.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Cule Sabbath ni, thlathar puai le puai dangdang caanih mei-ur thawinak Bawipa hnenih peknak a um tikah Bawipa thangṭhattu le cawimawitu an si fawn. Ṭum khatah Levi mi pawl cu a zat khiahmi nei in hna an ṭuan ding, tiah daan a um thluh. Ziangtik caan khalah an ṭuanvo cu Bawipa thangṭhat a si.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Bawipa ih umnak Puanthlam le Biakinn zohtu an si ih an sungkhat Aaron tesinfa pawl Pathian biaknak ih an hnaṭuanmi bawmtu tla an si.
+  </para>
+  <chapter number="24" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Aaron tesinfa pawl cu a tanglam vekin hnaṭuan an zem aw. Aaron in fapa pali a nei ih Nadab, Abihu, Eleazar le Ithamar an si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Nadab le Abihu cu an pa hlanah an thi ih faate tla an neih lo ruangah an unau Eleazar le Ithamar lawng puithiam an ṭuan.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />David in Aaron tesinfa pawl cu an hnaṭuanmi tikcu caan vekin a ṭhen. Hiti a ṭhen tikah David cu Eleazar ih tefa Zadok le Ithamar ih tefa Ahimelek in an bawm.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Eleazar tesinfa pawl cu ṭhen hleiruk ah an ṭhen ih Ithamar tesinfa pawl cu ṭhen riat ah an ṭhen. Eleazar tesinfa lakah mipa, innsang ih lubik a si mi an tam deuh ruangah ṭhen tam deuh ih an ṭhennak cu a si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Eleazar le Ithamar tesinfa lakah Biakinn upa le thlarau lam hotu an um fingfing ruangah hnaṭuantu dingih an ṭhen tikah camcawhfung zuk in an ṭhen.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Eleazar tesinfa le Ithamar tesinfa pawl in a haha in camcawhfung cu an zuk. Cutiih an tuah tikah Levi mi cazi Nethanel fapa Shemaiah in cabu sungah a khum. Cule siangpahrang bawipa, a kuthnuai bawi pawl, puithiam Zadok, Abiathar fapa Ahimelek, puithiam innsang ih lubik ciar le Levi mi innsang ih lubik ciar cu theihpitu an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Pakhatnak Jehoiarib, Pahnihnak Jedaiah,
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Pathumnak Harim, Palinak Seorim,
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Panganak Malkhijah, Paruknak Mijamin,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Pasarihnak Hakkoz, Pariatnak Abiah,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Pakuanak Jeshua, Pahranak Shekaniah,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Hleikhatnak Eliashib, Hleihnihnak Jakim,
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Hleithumnak Huppah, Hleilinak Jeshebeab,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Hleinganak Bilgah, Hleiruknak Immer,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Hleisarihnak Hezir, Hleiriatnak Happizzez,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Hleikuanak Pethahiah, Kulnak Jehezkel,
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Hluankhatnak Jakhin, Hluanhnihnak Gamul,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hluanthumnak Delaiah, Hluanlinak Maaziah.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Himi pawl cu Bawipa , Israel ih Pathian thupek vekin le an pupa Aaron ih daan rettami vekin, Bawipa ih Biakinn hnaṭuantu dingah ṭhenmi an si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Levi tesinfa pawl an hrinih lu ciar cu hihi an si: Shebuel hrin in Amram tesinfa Jehdeiah;
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Rehabiah tesinfa Isshiah;
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Shelomith hrinah Izhar tesinfa Jahath;
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Hebron hrinah a sangsang in Jeriah, Amariah, Jehaziel le Jekameam;
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Mikah sungin Uzziel tesinfa Shamir;
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Mikah unau Isshiah sungin Uzziel tesinfa Zekhariah;
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Merari tesinfa pawl Mahli, Mushi le Jaaziah.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Jaaziah in fapa pathum a nei ih Shoham, Zakkur le Ibri an si.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Mahli in fapa pahnih Eleazar le Kish a nei. Eleazar cu fapa a nei lo;
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Kish in fapa pakhat Jerahmeel a nei.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Mushi cun fapa pathum Mahli, Eder le Jerimoth a nei. Hi pawl cu Levi mi ih sungkhat pawl an si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />An sungkhat, Aaron tesinfa puithiam pawl ih an rak tuah zo vekin an hnaṭuan dingmi hrilnakah an innsang ih lubik le a naule pawl lak ihsin mi pakhat in camcawhfung an zuk fingfing. Siangpahrang David, Zadok, Ahimelek, puithiam sungkhat ih lubik le Levi mi innsang ih lubik pawl cu a hmutu tetti an si.
+  </para>
+  <chapter number="25" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David le Levi mi lakih hotu bawi pawl in a tanglam hrin pawl cu Pathian biaknak ih hotu dingah an hril: Asaf, Heman le Jeduthun. Annih cu ṭingṭang, tingrisit le darsumsel thawn Pathian ih thu, profet ṭong in, a phuangtu an si. Pathian biak tikah anmah ih hnaṭuannak ciarah a tanglam pawl cu hotu ah hrilmi an si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Asaf ih fapa pali cu: Zakkur, Josef, Nethaniah le Asarelah an si. An hotu Asaf a si ih siangpahrang in thu a pek tikah Pathian ih thu cu a phuang ṭheu.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Jeduthun fapa paruk: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah le Mattithiah an si. An pa ih ho in ṭingṭang tum phah in Pathian ih thu cu an phuang ih thangṭhatnak hla an sak.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Heman fapa hleili pawl cu: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti Ezer, Joshbekashah, Mallothi, Hothir le Mahazioth an si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Heman cu siangpahrang ih profet a si ih, a rak tiamcia bangtuk in Heman cu Pathian in fapa hleili le fanu pathum thawn a sunloih.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Biakinn ih Pathian an biak caanah an pa ih ho in darsumsel, ṭingṭang le tingrisit an zatein an tum ṭheu. Asaf, Jeduthun le Heman cu siangpahrang ih thupekmi ngai in an um.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hi mipa kul hluanli cu an tuahmi ciar ah an thiam theizet. An hnaṭuanpi Levi mi pawl tla hlasak thiam le awn-mawi tum thiam hlir an si. An zatein zahnih le sawmriat le pariat an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />An hnaṭuan dingmi hrilnakah mino siseh, upa siseh, hlathiam cia siseh, a zir pekte siseh, an zatein camcawhfung an zuk fingfing.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hi minung zahnih sawmriat pariat tla cu anmah le sungkhat ciar zoh in bur kul hluanli ah ṭhen an si ih, bur khatah minung hleihnih ciar an si. Bur khat in hotu pakhat ciar an nei ih a thuailam vekin a haha tein hna an ṭuan ṭheu: Pakhatnak cu Josef, Asaf hrin hotu, Pahnihnak Gedaliah,
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Pathumnak Zakkur,
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Palinak Izri,
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Panganak Nethaniah,
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Paruknak Bukkiah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Pasarihnak Jesharelah,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Pariatnak Isaiah,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Pakuanak Mattaniah,
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Pahranak Shimei,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Hleikhatnak Uziel,
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Hleihnihnak Hashabiah,
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Hleithumnak Shubael,
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Hleilinak Mattithiah,
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Hleinganak Jeremoth,
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Hleiruknak Hananiah,
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Hleisarihnak Joshbekashah,
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Hleiriatnak Hanani,
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Hleikuanak Mallothi,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Kulnak Eliathah,
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Hluankhatnak Hothir,
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Hluanhnihnak Giddalti,
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Hluanthumnak Mahazioth,
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Hluanlinak Romamti Ezer.
+  </para>
+  <chapter number="26" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Biakinn kiltu pawl ih hnaṭuan cu a tanglam vekin an ṭhen. Korah hrin Asaf tesinfa sungih Kore ih fapa Meshelemiah in,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />fapa pasarih a nei ih a sangsang in a tanglam hi an si: Zekhariah, Jediael, Zebadiah, Jathniel,
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Elam, Jehohanan le Eliehoenai an si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Obed Edom cu Pathian malsawmnak a dong ih fapa pariat a nei: a sangsang in Shemaiah, Jehozabad, Joah, Sakhar, Nethanel,
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ammiel, Issakhar le Peullethai an si.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Obed Edom ih fapa upabik Shemaiah cun fapa paruk a nei ih thil tithei an si ruangah an hrinah hminthang an si.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />An hmin cu Othni, Refael, Obed, Elzabad, Elihu le Semakhiah an si. Nautabik pahnih tla cu a hleice in thil tithei an si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Hi hnaṭuannak ah Obed Edom sungkhat in thil tithei zetzet minung sawmruk le pahnih an um.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Meshelemiah sungkhat in thil tithei zetzet minung hleiriat an um.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Merari sungkhat ah Hosah a um ih fapa pali a nei: Shimri (amah cu upabik a si lo naón a pa in hotu ah a tuah),
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Hilkiah, Tebaliah le Zekhariah an si. Hosah sungkhat in an zate ah biakinn kiltu hleithum an um.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Levi mi vekin biakinn kiltu pawl cu an sungkhat ciar in an ṭhen ih biakinn hnaṭuan cu an pek hai.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />An kil dingmi kotka hrangah sungkhat fingfing in minung an tam an mal ti loin, camcawhfung an zuk ciar.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Shelemiah in nisuahnak lam kotka kil ding a zuk ngah ih a fapa mi dang hnenih ruahnak ṭha a pe thei ringringtu Zekhariah in saklam kotka kil ding a zuk ngah.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Obed Edom in thlanglam kotka kil ding a zuk ih a fapa pawl cu thilri retnak inn kiltu ding an si.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Shuppim le Hosah in nitlaknak lam kotka kil ding an zuk ih saklam hung fehnak Shalleketh kotka tla a kil phahtu ding an si. An kil tikah a haha in an sawng aw.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Nisuahnak lam kotka cu nitinte paruk in an kil; saklam cu pali in an kil ih thlanglam tla pali in an kil. Thilri retnak inn pahnih cu minung pali in, inn khat pahnih veve in an kil.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Nitlaknak lam ih ummi ṭhuam tumpipi umnak lamzin ah pali an um ih a ṭhuam kiltu ah pahnih an um.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Cumi cu Korah le Merari sungkhat pawl ih biakinn an kilnak hnaṭuan daan a si.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />A dang Levi mi pawl cu biakinn tangka le Pathian hnenih pekmi thilri retnak inn kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Gershom hrin sungah Ladan cu sungte tampi ih pu a si ih Jehiel sungkhat ih pu tla a si.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Hi sungkhat sungin Zetham le a unau Joel cu biakinn tangka le thilri retnak inn kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Amram, Izhar, Hebron le Uzziel tesinfa pawl tla hnaṭuan pekmi an si.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Moses fapa Gershom hrin sungin Shebuel cu biakinn tangka kiltu pawl hotu upa bik a si.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Gershom unau cu Eliezer a si ih cu ruangah Shebuel le Shelomith cu sungkhat ah an cang. Eliezer cu Rehabiah ih pa a si; Rehabiah cu Jeshiah ih pa a si; Jeshiah cu Joram ih pa a si; Joram cu Zikhri ih pa a si; Zikhri cu Shelomith ih pa a si.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Shelomith le a sungkhat pawl cu Pathian hnenah siangpahrang David, sungkhat ciarih lubik pawl, hrinkhat sungih hotu pawl le ralbawi pawl ih pekmi laksawng pawl kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />Raldonak ih an lakmi hransaw hrekkhat pawl cu an lak ih Biakinn sungih hmanmi thilri ah an tuah.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Shelomith le a sungkhat pawl cu Biakinn sung hman ding thilri an pekmi hmuahhmuah, profet Samuel, siangpahrang Saul, Ner fapa Abner le Zeruiah fapa Joab pawl ih an pekmi tiangin a kiltu an si.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Izhar tesinfa sungin Khenaniah le a fapa pawl cu zung hnaṭuantu, cazin kaitu le misenpi ih thuṭhentu an si.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Hebron tesinfa sungin Hashabiah le a sungkhat pawl hminthang zetzet, minung thawngkhat le zasarih cu Jordan Tiva in nitlaknak lamah biaknak lam thu siseh, nitin misenpi nun khawsaknak thuhla siseh, tawlreltu le ngaihtuahtu an si.
+  </para>
+  <para style="p">
+    <verse number="31" style="v" />Hebron tesinfa pawl lakah Jeriah cu an hotu bik a si. David ih siangpahrang a ṭuannak kum sawmli kumah Hebron ih tesinfa pawl thuhla an zingzoi tikah ralkap hminthang zetzet Gilead ram Jazer khua ih an um kha an thei.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />Curuangah David in Jeriah ih sungkhat pawl, an hrin sungih hminthang le lubik pawl minung thawng hnih le zasarih a hril ih Reuben ram, Gad ram le nisuahnak lam Manasseh ram sungih an biaknak lam thu le nitinte an nun khawsaknak thuhla tawlreltu le ngaihtuahtu dingah a ret.
+  </para>
+  <chapter number="27" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Israel mi an innsang ih lu ciar le an hrin ih hotu ciar le an ram sungih tawlreltu bawi pawl cu a tanglam pawl hi an si. Kum khat sungah thlatinte bur dangdang thleng-aw in hnaṭuan an nei ih bur khatah minung thawng kul hluanli ciar in hotu pawl ih kut hnuai ah hna an ṭuan.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />A tanglam pawl hi thla khat sungih ralkap hotu ciar an si: Thla khatnak ah: Zabdiel ih fapa Jashobeam. (Amah cu Judah phun, Perez hrin a si.) Thla hnihnak ah: Ahohi ih tesinfa Dodai. (Amah bawmtu cu Mikloth a si.) Thla thumnak ah: Puithiam Jehoiada ih fapa Benaiah. Amah cu “Sawmthum Pawl,” ih hotu a si. (A fapa Amizzabad in a ai-ah hotu a ṭuan.) Thla linak ah: Joab nau Asahel. (A fapa Zebadiah in a ai-ah hotu a ṭuan.) Thla nganak ah: Izhar ih tesinfa Shamhuth. Thla ruknak ah: Tekoa khua mi Ikkesh ih fapa Ira. Thla sarihnak ah: Pelon in Efraim mi Helez. Thla riatnak ah: Hushah khua in Sibbekai. (Amah cu Judah phun, Zerah hrin sungmi a si.) Thla kuanak ah: Benjamin hrin Anathoth khua in Abiezer. Thla hranak ah: Netofah hrin in Maharai (Amah cu Zerah tesinfa a si.) Thla hleikhatnak ah: Efraim hrin, Pirathon tesinfa Benaiah. Thla hleihnihnak ah: Netofah hrin in, Heldai. (Amah cu Othniel tesinfa a si.)
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />A tanglam pawl hi Israel hrin pawl uktu an si: Reuben hrinah Zikhri ih fapa Eliezer; Simeon hrinah Maakah ih fapa Shefatiah; Levi hrinah Kemuel ih fapa Hashabiah; Aaron hrinah Zadok; Judah hrinah Siangpahrang David ih u Elihu; Issakhar hrinah Mikhael ih fapa Omri; Zebulun hrinah Obadiah ih fapa Ishmaiah; Naftali hrinah Azriel ih fapa Jeremoth; Efraim hrinah Azaziah ih fapa Hoshea; Nitlaknak lam Manasseh hrinah Pedaiah ih fapa Joel; Nisuahnak lam Manasseh hrinah Zekhariah ih fapa Iddo; Benjamin hrinah Abner ih fapa Jaasiel; Dan hrinah Jeroham ih fapa Azarel.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Bawipa in Israel mi pawl cu vanih arsi zat in an tam ding tiah thutiam a tuah zo ruangah David in Israel mi kum kul hnuailam cu mipum a siar lo.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Zeruiah ih fapa Joab in mipum siar cu a thok; asinain a ṭheh lo. Hi mipum siarnak ruangah Bawipa in Israel cu hremnak a pek a si. Cu ruangah siangpahrang David ih cazin sungah an mipum zat ngaingai cu an rak ngan dah lo.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />A tanglam pawl cu siangpahrang thilri zohtu pawl an si: Siangpahrang thilri retnak inn zohtu: Adiel ih fapa Azmaveth; Khawte thilri retnak inn pawl zohtu: Uzziah ih fapa Jonathan; Lo hnaṭuantu zohtu: Khelub ih fapa Ezri; Sabit hmuan zohtu: Ramah khua in Shimei; Sabit rialnak zohtu: Shefam khua in Zabdi; Olif le theipi kung pawl (nitlaknak lam tlang hram ummi) zohtu: Geder in Baalhanan; Olif siti retnak inn zohtu: Joash; Sharon Phairawn caw pawl zohtu: Sharon in Shitrai; Horkuam ih caw pawl zohtu: Adlai ih fapa Shafat; Kalauk pawl zohtu: Ishmael mi Obil; Laak pawl zohtu: Meronoth in Jehdeiah; Tuu le me pawl zohtu: Hagrit mi Jaziz.
+  </para>
+  <para style="p">
+    <verse number="32" style="v" />David ih paseu Jonathan cu cathiam le mifim zet a si ih ruahnak ṭha petu ṭhazet tla a si. Jonathan le Hakmoni ih fapa Jehiel cu siangpahrang fapa pawl cazirhtu an si.
+  </para>
+  <para style="p">
+    <verse number="33" style="v" />Ahithofel cu siangpahrang ruahnak petu a si ih Ark khuami Hushai cu siangpahrang rualpiṭha le remruattu a si.
+  </para>
+  <para style="p">
+    <verse number="34" style="v" />Ahithofel a thih hnuah Abiathar le Benaiah ih fapa Jehoiada in a ai an awh. Joab cu siangpahrang ralkap pawl uktu bawi a si.
+  </para>
+  <chapter number="28" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />David in Israel ram sungih upa le bawi hmuahhmuah cu Jerusalem ah suak thluh dingin a kokhawm. Curuangah Israel hrin hmuahhmuah ih bawi upa pawl, Israel ram uktu bawi pawl, an hrinih hotu ciar, siangpahrang le a fapa pawl thilri le ṭilva pawl zohtu upa pawl hmuahhmuah, siangpahrang inn ih bawi pawl le ralbawi pawl le khawsung upa pawl hmuahhmuah cu Jerusalem khua ah an tongkhawm aw.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Cun siangpahrang David cu an zate hmaiah a ding ih an hnenah, “Ka ramsung minung ulenau pawl, i ngaihnik uh! Thukam Kuang ret ringringnak dingah le Bawipa kan Pathian in a ke a retnak dingah inn pakhat sak ka tum. Pathian hminthannak hrangih biakinn saknak ah thilri pawl ka tawlrel thluh zo.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Asinain raldotu ka rak si ih thisen tampi ka luanter zo ruangah cuih inn keimah ih sak ding cu Bawipa in i kham a si.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Bawipa Israel ih Pathian in keimah le ka tesinfa pawl cu kumkhua in Israel uktu si dingah in hril zo. Judah hrin cu mi hotu si dingah a hril ih Judah hrin sungin ka pa ih innsang a hril. Ka pa ih innsang sungin Israel ram hmuahhmuah uktu siangpahrang dingah keimah Bawipa in i hril a si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Amah in fapa tampi i pe ih cuih sungin Bawipa ih uknak Israel ram siangpahrang dingah Solomon a hril.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Cule Bawipa in ka hnenah, ‘Ka Biakinn a satu cu na fapa Solomon a si ding. Amah cu ka fapa si dingah ka hril zo ih keimah cu a pa ka si ding.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Ka daan le ka thupekmi ralringzet in atu vekih a thlun ringring asile a uknak cu kumkhua hrangin ka hngetter ding,’ a ti.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />“Curuangah ka ramsung mipawl, hi nan luahmi ramṭha hi nan co thei ringringnak dingah le nan tesinfa hnenah sankhat hnu sankhat nan co thei ringringnak dingah Bawipa kan Pathian ih thupekmi pawl cu fimkhur zetin nan thlun pei, tiah Bawipa ih mithmuh ah le Bawipa ih minung hih Israel mi a ra khawmmi theihhngan ah thu ka lo cah hai a si.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />“Cule nang, ka fapa Solomon, na pa ih Pathian cu ṭihzah awla lung khat nei in a thu thlun duhnak thinlung thawn a hna cu ṭuan hram aw. Amah in kan ruahnak le kan thinlung cu a zatein a thei ṭheh. A hnenih na rat a si ahcun amah in a lo pom ding; asinain na dungtun a si ahcun kumkhua in a lo thlauthla ding.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Bawipa in a Biakinn thianghlim satu dingah a lo hril zo hi ciing ringring aw. Cuih hnaṭuan cu thok awla taimak suah in ṭuan aw,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Cun David in Solomon hnenah Biakinn sak dingmi hrangih ruangrai zingmi pawl: Biakinn hrangah hulhliap ih ruangrai, thilri retnak khaan ruangrai, inn khaan dangdang ruangrai le sual ngaithiamnak hrangah timi Hmun Thianghlim Bik khaan ruangrai pawl cu a pek.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />A thinlung in a tumtahmi Biakinn sung a khaan pawl le a kimvel ih khaan pawl ruangrai, biakinn thilri retnak khaan le Bawipa hnenih pekmi laksawng retnak khaan ruangrai pawl tla a pek.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Cuih hlei ah David in puithiam le Levi mi pawl an ṭuanvo zem awknak le Biakinn ih an hnaṭuan ding pawl le biakinn thilri an zohnak ding hrangih an ṭuan dingmi pawl a pek ṭheh.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Biakinn khokheng hrangah sui le ngun a cem ding zat,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />mei-vannak pawl hrang le mei vannak ṭhuam hrangah sui le ngun a cem ding zat,
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Pathian hnenih pekmi sang pawl retnak sui cabuai le ngun cabuai pawl hrangah sui le ngun a cem ding zat kha kimtein a cah ṭheh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Cuih tlunah thirthul pawl, maihum pawl le khuat pawl hrangah sui hlir ziangzat a cem ding tile, pakan pawl tuahnak ah sui le ngun ziangzat a cem ding tile,
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />rimhmui urnak biakṭheng le Bawipa ih Thukam Kuang tlunah an thla pharh in a ummi Cherubim timi pawl an cuannak leng hrangah sui hlir in ziangzat a cem ding tikha feltein a cah ṭheh.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Siangpahrang David in, “Hi hmuahhmuah cu Bawipa amah rori in a kut in a ngan ih ka hnenah tuahsuak dingih i cahmi an si,” a ti.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cun siangpahrang David in a fapa Solomon hnenah cun, “Hngetkhoh zet le ralṭha zetin um awla taima zetin ṭuan aw; zianghman in na thin lo nauter hlah seh. Bawipa Pathian, ka biakmi Pathian cu na hnenah a um ding. A lo dungtun lo ding ih a lo thlauthla fawn lo ding; a Biakinn sak na ṭheh hlanlo na hnenah a um ringring ding.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Puithiam le Levi mi pawl cu Biakinn hna an ṭuan dingmi zem ṭheh an si zo. Hnaṭuantu le zungthiam a phunphun nangmah bawmtu dingah an um ih misenpi le an hotu pawl cu na thupekmi vekih ṭuan dingah an tiar-aw thluh zo a si,” tiah a ti.
+  </para>
+  <chapter number="29" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Siangpahrang David in a rakhawmmi hmuahhmuah hnenah, “Ka fapa Solomon cu Pathian ih hrilmi a si; asinain mino a si ih thilti ṭhang a si hrih lo. A hnaṭuan ding mi hi milai umnak siangpahrang inn a si lo ih Bawipa Pathian umnak ding Biakinn a si ruangah a thupi zetmi a si.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Ka ti thei tawkin inn saknak thilri cu ka khawl zo: sui, ngun, dar, thir, thing, lungmankhung le lungvar, mawiternak ah lung phun dangdang le lungto pawl ka khawl thluh zo.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Hi ka khawl ciami thilri pawl hlei ah Pathian Biakinn hrang ka ruah tuk ruangah, keimah hrimhrim in sui le ngun tampi ka pek.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Biakinn phar pawl mawiternak ah le zungthiam pawl ṭuan dingah sui ṭha bik pawl cuai thawng sawmnga le thawnghnih, le ngun ṭha bik pawl cuai thawng zakhat leng lo ka pek zo a si.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Nan lakah zoso Bawipa ih hnenah siang zetin a pe ding?” a ti.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Cutikah an hrin ih lubik pawl, an hrin ih hotu le upa pawl, ralkap hotu ralbawi pawl le siangpahrang thilri a kiltu le a zohtu pawl hmuahhmuah in,
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Biakinn hrangah cun an pek ciamco. An pekmi cu a zatein sui cuai thawng sawmriat le thawngriat, ngun cuai thawng za le sawmsarih le thawngruk, dar phurh thawng hleisarih, thir phurh thawng sawmkua le thawnghnih leng lo a si.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Lungmankhung a neitu pawl in Biakinn tangka kiltu Gershom hrin Levi mi Jehiel hnenah lungmankhung an pek.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Misenpi pawl cun lungtho zetin an pek ih cu zatzat an pek thei cu an lung a awizet. Siangpahrang David khal a lung a awi ngaingai.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />David in misenpi hmaiah cun Bawipa a thangṭhat ih, “Kan pupa Jakob ih Pathian Bawipa , na hmin cu thangṭhat in um ringring seh.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Maw Bawipa , nangmah cu cungnungbik, huham neitu, a maksak mi le sunloih bik le a sang bik siangpahrang na si. Lei le van ih thil ummi hmuahhmuah na ta an si ih ziang hmuahhmuah ih tlunah siangpahrang le uktu bawi bik na si.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Thilri neihnak le lennak hmuahhmuah na hnen ihsin a rami an si; na cahnak le na huham thawn ziangzongza na uk ṭheh; na duh ahcun zohnen khalah thil titheinak le cahnak pe theitu na si.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Atu-ah kan Pathian, kan lungawinak kan lo sim ih na hmin sunglawi kan thangṭhat.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />“Asinain ka minung pawl le kei hi zianghman kan si lo; kan lo pek taktak thei mi zianghman a um lo; ziangahtile kan neihmi hmuahhmuah cu nangmah ih in pekmi laksawng an si ṭheh ih na ta a si ciami kan lo pek salmi lawng an si.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Maw Bawipa , nangmah ih in theih vekin, kan pu le kan pa bangtuk in nunnak lamzin ahhin ralkaihmi le mikhual vekih a vakvaimi kan si. Kan damsung caan hi a hlosalmi phenthla vek a si ih thihnak in luat dingah ruahsannak kan nei lo.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Maw Bawipa kan Pathian, na hmin thianghlim cawimawinak ah hi thilri hmuahhmuah cu kan khawl zo; sikhalsehla na hnenih sin a rami lawnglawng an si ih a zatein na ta an si ṭheh.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Mi thinlung cu na hniksak ih thinlung tluang a neimi parah na lung a awi, ti ka thei. Thinlung tluangzet le thinlung taktein hi thil hmuahhmuah hi ka lo pek ih hitawk ih a rami pawl khal in lungawi aipuangte in na hnenah an lo pek, ti ka hmu zo.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Bawipa , kan pupa Abraham, Isaak le Jakob ih Pathian, cubangtuk pek duhnak thinlung cu na minung pawl ih lung sungah kumkhua in run cakter awla, na hrangah rintlak minung si dingin run kilkhawi hai aw.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Na daan le na thupekmi hmuahhmuah a thlun theinak dingah le a thilri tla ka khawl thluh zo mi Biakinn cu a saksuak theinak dingah ka fapa Solomon hi ruahnak ṭha le thinlung famkim run pe hram aw,” tiah a ti.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Cule David in misenpi cu: “ Bawipa nan Pathian cu thangṭhat uh,” a ti hai ih misenpi pawl cun Bawipa , an pupa ih Pathian cu an thangṭhat. An lu an kun, leilungah an bok ih Bawipa Pathian le an siangpahrang hnenah upatnak an pek.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />A thaisun ah rannung an that ih Bawipa ih hnenah thawinak le mei-ur thawinak pawl an pek. Cawcang thawng khat, tuucang thawng khat le tunote thawng khat an that ih Israel misenpi hrang inmi thawinak sabit an pek ih thawinak dang tla tampi tla an pek.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Bawipa ih hmaiah cun an in an ei ih lungawizet in cuih ni cu an hmang. Cule David fapa Solomon cu siangpahrang ah a voihnihnak an tuah. Bawipa ih hmin in an siangpahrang ah hriak an culh ih Zadok khal puithiam ah an culh ve.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Cuticun Bawipa ih a hngehtermi siangpahrang tokham ahcun a pa David ih aiah Solomon cu an toter a si. Siangpahrang hna cu hlawhtlingzet in a ṭuansuak ih Israel misenpi in a thu an ngai.
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />Bawi le upa hmuahhmuah le ralkap pawl le David fapa dangdang pawl tla in Solomon cu an siangpahrang dingah upatnak thukam an pek.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Solomon cu an ram pumpi in an ṭihzah ih Israel ram a uktu siangpahrang hmuahhmuah lakah sunloih bikmi siangpahrang ah Bawipa in a tuah.
+  </para>
+  <para style="p">
+    <verse number="26" style="v" />Jesse ih fapa David in Israel ram pumpi cu,
+  </para>
+  <para style="p">
+    <verse number="27" style="v" />kum sawmli sung a uk. Hebron khua in kum sarih sung a uk ih Jerusalem khua ihsin kum sawmthum le kum thum sung a uk.
+  </para>
+  <para style="p">
+    <verse number="28" style="v" />Mi lianzet le mi ih upat zetmi si in tarzet in a thi ih a fapa Solomon in a ai a run awh.
+  </para>
+  <para style="p">
+    <verse number="29" style="v" />Siangpahrang David ih thuanthu cu a hramthokin a cem net tiang profet pathum Samuel, Nathan le Gad ih thuanthu khumnak sungah kimten an ngan.
+  </para>
+  <para style="p">
+    <verse number="30" style="v" />Ram a uk daan, huham a neihzia, a parih a ra thlengmi thuhla pawl le Israel le an kiangkap ram pawl hnenih a cangmi thuhla pawl tla kimten an ngan a si.
+  </para>
+</usx>
