@@ -8,8 +8,14 @@ For each entry in IMPORTS this writes bibles/<CODE>/ with metadata.xml
 USX_1/, and adds or updates the entry in bibles.json. Verse text only:
 section titles in the source are dropped so they never land on a slide.
 
+Bibles whose laisiangtho copy is broken come from the eBible.org corpus
+mirrored at https://github.com/BibleNLP/ebible instead (corpus/<id>.txt, one
+verse per line aligned to metadata/vref.txt). Matu: the laisiangtho file has
+its New Testament books shifted under the wrong numbers, so it is taken from
+eBible's Matupi Chin Standard Bible (hltmcsb), the same text, public domain.
+
 Usage:
-  python3 tools/import_laisiangtho.py <path-to-laisiangtho/bible> [CODE ...]
+  python3 tools/import_laisiangtho.py <laisiangtho/bible> [--ebible <BibleNLP/ebible>] [CODE ...]
 """
 import json
 import sys
@@ -41,6 +47,19 @@ IMPORTS = [
     ("MNWT", "jwmynwt", "New World Translation (Burmese 2010)", "Burmese", "Myanmar"),
     ("JCLB", "348", "Jinghpaw Common Language Bible (2009)", "Jinghpaw", "Latin"),
     ("JHVB", "2647", "Jinghpaw Hanson Version Bible (2009)", "Jinghpaw", "Latin"),
+]
+
+# code, eBible corpus id, ProPresenter name, language name, ISO 639-3, license, book names
+EBIBLE_IMPORTS = [
+    ("MATU", "hlt-hltmcsb", "Baibal Olcim (Matu Chin)", "Chin: Matu", "hlt",
+     "Matupi Chin Standard Bible, public domain (CC BY-SA 4.0 in Myanmar), via eBible.org",
+     """Suencuek|Sunglat|Thothueng|Lampah|Olrhaepnah|Joshua|Laitloek|Ruth|1 Samuel|
+     2 Samuel|1 Manghai|2 Manghai|1 Khokhuen|2 Khokhuen|Ezra|Nehemiah|Esther|Joba|
+     Tingtoeng|Olcueih|Thuituen|Solomon|Isaiah|Jeremiah|Rhaengsae|Ezekiel|Daniel|
+     Hosea|Joel|Amos|Obadiah|Jonah|Maikah|Nahum|Habakkuk|Zephaniah|Haggai|Zekhariah|
+     Malakhi|Matthai|Marku|Luka|Johan|Caeltueih|Rom|1 Korin|2 Korin|Galati|Ephesa|
+     Philipi|Kolosa|1 Thessalonika|2 Thessalonika|1 Timothy|2 Timothy|Titus|Philemon|
+     Hebrew|James|1 Peter|2 Peter|1 Johan|2 Johan|3 Johan|Jude|Olphong"""),
 ]
 
 
@@ -172,19 +191,64 @@ def convert(src: Path, code, ident, name, lang, script) -> dict:
     }
 
 
+def convert_ebible(ebible: Path, code, ident, name, lang, iso, license_, book_names) -> dict:
+    names_list = [clean(n) for n in book_names.split("|")]
+    assert len(names_list) == 66, f"{code}: need 66 book names, got {len(names_list)}"
+    refs = (ebible / "metadata" / "vref.txt").read_text(encoding="utf-8").splitlines()
+    lines = (ebible / "corpus" / f"{ident}.txt").read_text(encoding="utf-8").splitlines()
+    books: dict = {c: {} for c in BOOKS}
+    for ref, text in zip(refs, lines):
+        b, cv = ref.split(" ")
+        if b not in books or not clean(text) or clean(text) == "<range>":
+            continue
+        ch, v = cv.split(":")
+        books[b].setdefault(ch, {"verse": {}})["verse"][v] = {"text": text}
+    out = ROOT / "bibles" / code
+    for sub in ("USX", "USX_1"):
+        (out / sub).mkdir(parents=True, exist_ok=True)
+    names = {}
+    for c, long_ in zip(BOOKS, names_list):
+        assert books[c], f"{code}: {c} is empty in {ident}"
+        names[c] = (long_, long_, long_)
+        text = usx(c, long_, long_, books[c])
+        for sub in ("USX", "USX_1"):
+            (out / sub / f"{c}.usx").write_text(text, encoding="utf-8")
+    (out / "metadata.xml").write_text(
+        metadata(code, name, iso, lang, "Latin", license_, names), encoding="utf-8")
+    (out / "rvmetadata.xml").write_text(rvmetadata(code, name, license_), encoding="utf-8")
+    return {
+        "uuid": str(uuid.uuid5(uuid.NAMESPACE_URL, "laisiangtho:" + code)),
+        "abbreviation": code,
+        "name": name,
+        "language": iso,
+        "license": license_,
+        "source": f"BibleNLP/ebible corpus/{ident}.txt",
+    }
+
+
 def main() -> int:
     if len(sys.argv) < 2:
         print(__doc__)
         return 2
+    args = sys.argv[2:]
     src = Path(sys.argv[1])
-    only = set(sys.argv[2:])
+    ebible = None
+    if "--ebible" in args:
+        i = args.index("--ebible")
+        ebible = Path(args[i + 1])
+        del args[i:i + 2]
+    only = set(args)
     manifest_path = ROOT / "bibles.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     by_code = {e["abbreviation"]: e for e in manifest["bibles"]}
-    for code, ident, name, lang, script in IMPORTS:
+    jobs = [(c, lambda c=c, *a: convert(src, c, *a), a) for c, *a in IMPORTS]
+    if ebible:
+        jobs += [(c, lambda c=c, *a: convert_ebible(ebible, c, *a), a) for c, *a in EBIBLE_IMPORTS]
+    for code, run, rest in jobs:
         if only and code not in only:
             continue
-        entry = convert(src, code, ident, name, lang, script)
+        entry = run(code, *rest)
+        name = entry["name"]
         if code in by_code:
             entry["uuid"] = by_code[code]["uuid"]  # keep the installed folder stable
             by_code[code].update(entry)

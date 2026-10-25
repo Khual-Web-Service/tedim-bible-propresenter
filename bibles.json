@@ -148,6 +148,14 @@
       "language": "kac",
       "license": "Jinghpaw Hanson Version Bible (2009) © Bible Society of Myanmar",
       "source": "laisiangtho/bible json/2647.json"
+    },
+    {
+      "uuid": "d1d0c985-e3af-5916-8e16-cd6d6d95f82f",
+      "abbreviation": "MATU",
+      "name": "Baibal Olcim (Matu Chin)",
+      "language": "hlt",
+      "license": "Matupi Chin Standard Bible, public domain (CC BY-SA 4.0 in Myanmar), via eBible.org",
+      "source": "BibleNLP/ebible corpus/hlt-hltmcsb.txt"
     }
   ]
 }
